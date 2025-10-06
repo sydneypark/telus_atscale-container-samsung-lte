@@ -1,0 +1,6 @@
+unique_name: _0X036B_RRM_CALLRSCFAIL
+object_type: metric
+label: _0x036B_Rrm_CallRscFail_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x036B_Rrm_CallRscFail_count

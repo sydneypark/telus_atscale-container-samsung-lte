@@ -1,0 +1,6 @@
+unique_name: NBIOT_USERSTRANSULTIME
+object_type: metric
+label: NBIoT_UsersTransULTime_ms
+calculation_method: sum
+dataset: lte-nb-iot-ul-throughput
+column: NBIoT_UsersTransULTime_ms

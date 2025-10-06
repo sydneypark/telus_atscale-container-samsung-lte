@@ -1,0 +1,6 @@
+unique_name: CELLTCDLBYTE
+object_type: metric
+label: CellTcDLByte_Kbytes
+calculation_method: sum
+dataset: lte-gtp-downlink-traffic-control-per-prc
+column: CellTcDLByte_Kbytes

@@ -1,0 +1,6 @@
+unique_name: LOADINDICATORAVG
+object_type: metric
+label: LoadIndicatorAvg_pct
+calculation_method: sum
+dataset: lte-load
+column: LoadIndicatorAvg_pct

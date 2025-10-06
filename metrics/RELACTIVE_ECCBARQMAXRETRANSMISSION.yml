@@ -1,0 +1,6 @@
+unique_name: RELACTIVE_ECCBARQMAXRETRANSMISSION
+object_type: metric
+label: RelActive_EccbArqMaxReTransmission_count
+calculation_method: sum
+dataset: lte-e-rab-release
+column: RelActive_EccbArqMaxReTransmission_count

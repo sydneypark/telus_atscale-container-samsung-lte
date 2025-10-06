@@ -1,0 +1,6 @@
+unique_name: CELLTCDLDROPPACKET
+object_type: metric
+label: CellTcDLDropPacket_count
+calculation_method: sum
+dataset: lte-gtp-downlink-traffic-control-per-prc
+column: CellTcDLDropPacket_count

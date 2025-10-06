@@ -1,0 +1,6 @@
+unique_name: AVGUENUMWITHNONTM7PERTTI
+object_type: metric
+label: AvgUENumWithNonTM7PerTTI_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-downlink-layer-usage
+column: AvgUENumWithNonTM7PerTTI_count

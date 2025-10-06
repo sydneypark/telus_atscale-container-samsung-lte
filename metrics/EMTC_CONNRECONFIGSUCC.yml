@@ -1,0 +1,6 @@
+unique_name: EMTC_CONNRECONFIGSUCC
+object_type: metric
+label: eMTC_ConnReconfigSucc_count
+calculation_method: sum
+dataset: lte-emtc-rrc-connection-reconfiguration
+column: eMTC_ConnReconfigSucc_count

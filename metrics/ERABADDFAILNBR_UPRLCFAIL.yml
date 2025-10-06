@@ -1,0 +1,6 @@
+unique_name: ERABADDFAILNBR_UPRLCFAIL
+object_type: metric
+label: ErabAddFailNbr_UpRlcFail_count
+calculation_method: sum
+dataset: lte-e-rab-setup-add
+column: ErabAddFailNbr_UpRlcFail_count

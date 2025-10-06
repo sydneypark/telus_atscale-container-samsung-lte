@@ -1,0 +1,6 @@
+unique_name: TOTULMUMIMOLAYERUTILIZEDTTIONPRB96_TTI
+object_type: metric
+label: TotULMuMimoLayerUtilizedTtiOnPRB96_TTI
+calculation_method: sum
+dataset: lte-ul-massive-mimo-statistics-for-per-prb-layer-distribution
+column: TotULMuMimoLayerUtilizedTtiOnPRB96_TTI

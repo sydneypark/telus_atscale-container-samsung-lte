@@ -1,0 +1,6 @@
+unique_name: INTRAENBINPREPSUCC
+object_type: metric
+label: IntraEnbInPrepSucc_count
+calculation_method: sum
+dataset: lte-intra-enb-in-handover
+column: IntraEnbInPrepSucc_count

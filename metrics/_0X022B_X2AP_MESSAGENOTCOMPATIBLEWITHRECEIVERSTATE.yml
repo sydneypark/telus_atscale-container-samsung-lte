@@ -1,0 +1,6 @@
+unique_name: _0X022B_X2AP_MESSAGENOTCOMPATIBLEWITHRECEIVERSTATE
+object_type: metric
+label: _0x022B_X2ap_MessageNotCompatibleWithReceiverState_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x022B_X2ap_MessageNotCompatibleWithReceiverState_count

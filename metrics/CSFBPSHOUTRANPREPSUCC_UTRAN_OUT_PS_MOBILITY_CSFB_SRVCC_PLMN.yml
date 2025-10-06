@@ -1,0 +1,6 @@
+unique_name: CSFBPSHOUTRANPREPSUCC_UTRAN_OUT_PS_MOBILITY_CSFB_SRVCC_PLMN
+object_type: metric
+label: CSFBPsHoUtranPrepSucc_count
+calculation_method: sum
+dataset: lte-utran-out-ps-mobility-csfb-srvcc-per-plmn
+column: CSFBPsHoUtranPrepSucc_count

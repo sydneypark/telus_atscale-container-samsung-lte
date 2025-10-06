@@ -1,0 +1,6 @@
+unique_name: RELABNORMALBYENBACTPLMNQCI_S1LINKFAIL
+object_type: metric
+label: RelAbnormalbyEnbActPlmnQci_S1LinkFail_count
+calculation_method: sum
+dataset: lte-e-rab-release-by-enb-per-plmn-per-cell-per-qci
+column: RelAbnormalbyEnbActPlmnQci_S1LinkFail_count

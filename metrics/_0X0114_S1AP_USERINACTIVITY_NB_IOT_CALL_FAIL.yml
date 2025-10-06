@@ -1,0 +1,6 @@
+unique_name: _0X0114_S1AP_USERINACTIVITY_NB_IOT_CALL_FAIL
+object_type: metric
+label: _0x0114_S1ap_UserInactivity_count
+calculation_method: sum
+dataset: lte-nb-iot-call-fail
+column: _0x0114_S1ap_UserInactivity_count

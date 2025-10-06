@@ -1,0 +1,6 @@
+unique_name: ACBBYCPULOAD
+object_type: metric
+label: AcbByCpuLoad_count
+calculation_method: sum
+dataset: lte-access-class-barring-enhanced
+column: AcbByCpuLoad_count

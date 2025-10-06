@@ -1,0 +1,6 @@
+unique_name: TOOEARLYHOFAILUREUPM
+object_type: metric
+label: TooEarlyHoFailureUpm_count
+calculation_method: sum
+dataset: lte-upm-rlf-classification
+column: TooEarlyHoFailureUpm_count

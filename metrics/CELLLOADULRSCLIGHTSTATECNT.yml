@@ -1,0 +1,6 @@
+unique_name: CELLLOADULRSCLIGHTSTATECNT
+object_type: metric
+label: cellLoadULRscLightStateCnt_count
+calculation_method: sum
+dataset: lte-cell-load-state
+column: cellLoadULRscLightStateCnt_count

@@ -1,0 +1,6 @@
+unique_name: CELLTCDLTHRUMIN
+object_type: metric
+label: CellTcDLThruMin_Kbps
+calculation_method: sum
+dataset: lte-gtp-downlink-traffic-control-per-prc
+column: CellTcDLThruMin_Kbps

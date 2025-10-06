@@ -1,0 +1,6 @@
+unique_name: PDCPSDUDELAYAVG
+object_type: metric
+label: PdcpSduDelayAvg_ms
+calculation_method: sum
+dataset: lte-packet-delay
+column: PdcpSduDelayAvg_ms

@@ -1,0 +1,6 @@
+unique_name: PLMNPDCPTIMEDL_PRC
+object_type: metric
+label: PLMNPdcpTimeDl_ms
+calculation_method: sum
+dataset: lte-pdcp-loss-drop-dl-ip-throughput-pdcp-per-plmn-per-prc
+column: PLMNPdcpTimeDl_ms

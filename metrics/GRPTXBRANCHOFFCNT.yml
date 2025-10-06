@@ -1,0 +1,6 @@
+unique_name: GRPTXBRANCHOFFCNT
+object_type: metric
+label: GrpTxBranchOffCnt_count
+calculation_method: sum
+dataset: lte-energy-saving-feature-orchestration
+column: GrpTxBranchOffCnt_count

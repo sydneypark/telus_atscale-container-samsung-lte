@@ -1,0 +1,6 @@
+unique_name: CQIERASE_256QAM_PC2
+object_type: metric
+label: CQIErase_256QAM_PC2_count
+calculation_method: sum
+dataset: lte-dl-wideband-cqi-for-256qam-supported-power-class-2-ue
+column: CQIErase_256QAM_PC2_count

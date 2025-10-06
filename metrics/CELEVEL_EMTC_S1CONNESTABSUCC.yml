@@ -1,0 +1,6 @@
+unique_name: CELEVEL_EMTC_S1CONNESTABSUCC
+object_type: metric
+label: CELevel_eMTC_S1ConnEstabSucc_count
+calculation_method: sum
+dataset: lte-emtc-ue-associated-logical-s1-connection-establishment-per-
+column: CELevel_eMTC_S1ConnEstabSucc_count

@@ -1,0 +1,6 @@
+unique_name: DLRESIDUALBLERRETRANSMAX
+object_type: metric
+label: DLResidualBlerRetransMax_count
+calculation_method: sum
+dataset: lte-downlink-harq-transmission-bler
+column: DLResidualBlerRetransMax_count

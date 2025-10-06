@@ -1,0 +1,6 @@
+unique_name: ULIPTHRUBIN0
+object_type: metric
+label: ULIpThruBin0_count
+calculation_method: sum
+dataset: lte-ul-ip-throughput-distribution
+column: ULIpThruBin0_count

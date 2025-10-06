@@ -1,0 +1,6 @@
+unique_name: RXGOODOCTET
+object_type: metric
+label: RxGoodOctet_Mbytes
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: RxGoodOctet_Mbytes

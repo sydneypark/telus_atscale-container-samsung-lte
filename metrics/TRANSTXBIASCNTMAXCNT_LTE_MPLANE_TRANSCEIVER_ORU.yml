@@ -1,0 +1,6 @@
+unique_name: TRANSTXBIASCNTMAXCNT_LTE_MPLANE_TRANSCEIVER_ORU
+object_type: metric
+label: TransTxBiasCntMaxCnt_count
+calculation_method: sum
+dataset: lte-mplane-transceiver-of-oru
+column: TransTxBiasCntMaxCnt_count

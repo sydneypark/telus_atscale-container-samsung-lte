@@ -1,0 +1,6 @@
+unique_name: _0X0324_ECCTMOUT_X2RELOCOVERALL
+object_type: metric
+label: _0x0324_EccTmout_X2RelocOverall_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0324_EccTmout_X2RelocOverall_count

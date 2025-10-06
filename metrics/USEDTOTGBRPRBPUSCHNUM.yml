@@ -1,0 +1,6 @@
+unique_name: USEDTOTGBRPRBPUSCHNUM
+object_type: metric
+label: UsedTotGbrPrbPUSCHNum_count
+calculation_method: sum
+dataset: lte-numerator-and-denominator-for-total-prb-usage
+column: UsedTotGbrPrbPUSCHNum_count

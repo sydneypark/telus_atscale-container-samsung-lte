@@ -1,0 +1,6 @@
+unique_name: CEMODEA_DLSCHEDULEDUEPERTTIMINCNT
+object_type: metric
+label: CEModeA_DLScheduledUEperTTIMinCnt_count
+calculation_method: sum
+dataset: lte-emtc-scheduled-ue-number
+column: CEModeA_DLScheduledUEperTTIMinCnt_count

@@ -1,0 +1,6 @@
+unique_name: SGNB_ADDPREPFAIL_DCPREPTO
+object_type: metric
+label: Sgnb_AddPrepFail_DcPrepTO_count
+calculation_method: sum
+dataset: lte-sgnb-addition-due-to-mcg-mobility
+column: Sgnb_AddPrepFail_DcPrepTO_count

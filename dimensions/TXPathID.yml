@@ -1,0 +1,22 @@
+unique_name: TXPathID
+object_type: dimension
+label: TXPathID
+is_degenerate: true
+hierarchies:
+- unique_name: TXPathID Hierarchy
+  label: TXPathID Hierarchy
+  levels:
+  - unique_name: TXPathID
+level_attributes:
+- unique_name: TXPathID
+  label: TXPathID Level
+  shared_degenerate_columns:
+  - name_column: TXPathID
+    key_columns:
+    - TXPathID
+    dataset: nr-tx-rf-measurement
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

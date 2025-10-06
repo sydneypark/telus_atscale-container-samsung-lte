@@ -1,0 +1,6 @@
+unique_name: RXBADCRC
+object_type: metric
+label: RxBadCrc_count
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: RxBadCrc_count

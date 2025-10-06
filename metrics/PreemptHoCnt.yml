@@ -1,0 +1,6 @@
+unique_name: PREEMPTHOCNT
+object_type: metric
+label: PreemptHoCnt_count
+calculation_method: sum
+dataset: lte-preemption-handover
+column: PreemptHoCnt_count

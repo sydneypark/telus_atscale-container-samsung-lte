@@ -1,0 +1,6 @@
+unique_name: EMTC_PLMN2ENBQCIULBYTE_PRC
+object_type: metric
+label: eMTC_PLMN2EnbQciULByte_Kbytes
+calculation_method: sum
+dataset: lte-emtc-pdcp-packet-per-plmn-per-prc
+column: eMTC_PLMN2EnbQciULByte_Kbytes

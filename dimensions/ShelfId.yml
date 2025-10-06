@@ -1,0 +1,46 @@
+unique_name: ShelfID
+object_type: dimension
+label: ShelfID
+is_degenerate: true
+hierarchies:
+- unique_name: ShelfID Hierarchy
+  label: ShelfID Hierarchy
+  levels:
+  - unique_name: ShelfID
+level_attributes:
+- unique_name: ShelfID
+  label: ShelfID Level
+  shared_degenerate_columns:
+  - name_column: ShelfID
+    key_columns:
+    - ShelfID
+    dataset: nr-disk-usage-in-pnf
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ShelfID
+    key_columns:
+    - ShelfID
+    dataset: nr-du-power-consumption
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ShelfID
+    key_columns:
+    - ShelfID
+    dataset: nr-du-temperature
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ShelfID
+    key_columns:
+    - ShelfID
+    dataset: nr-ethernet-packet
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ShelfID
+    key_columns:
+    - ShelfID
+    dataset: nr-resource-per-cpu
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

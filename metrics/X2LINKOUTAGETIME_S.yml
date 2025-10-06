@@ -1,0 +1,6 @@
+unique_name: X2LINKOUTAGETIME_S
+object_type: metric
+label: X2LinkOutageTime_s
+calculation_method: sum
+dataset: lte-x2-link-time
+column: X2LinkOutageTime_s

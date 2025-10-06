@@ -1,0 +1,6 @@
+unique_name: THERMALNOISEPOWERTOT_DBM
+object_type: metric
+label: ThermalNoisePowerTot_dBm
+calculation_method: sum
+dataset: lte-power
+column: ThermalNoisePowerTot_dBm

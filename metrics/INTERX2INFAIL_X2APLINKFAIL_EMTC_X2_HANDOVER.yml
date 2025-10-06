@@ -1,0 +1,6 @@
+unique_name: INTERX2INFAIL_X2APLINKFAIL_EMTC_X2_HANDOVER
+object_type: metric
+label: InterX2InFail_X2apLinkFail_count
+calculation_method: sum
+dataset: lte-emtc-x2-in-handover
+column: InterX2InFail_X2apLinkFail_count

@@ -1,0 +1,6 @@
+unique_name: PCELLUEPERCELLCNT
+object_type: metric
+label: PCellUEPerCellCnt_count
+calculation_method: sum
+dataset: lte-ca-ue-per-cell
+column: PCellUEPerCellCnt_count

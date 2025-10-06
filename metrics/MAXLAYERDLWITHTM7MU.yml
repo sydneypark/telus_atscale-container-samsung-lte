@@ -1,0 +1,6 @@
+unique_name: MAXLAYERDLWITHTM7MU
+object_type: metric
+label: MaxLayerDLWithTM7MU_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-downlink-layer-usage
+column: MaxLayerDLWithTM7MU_count

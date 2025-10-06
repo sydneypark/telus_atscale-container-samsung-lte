@@ -1,0 +1,6 @@
+unique_name: DLTIMEMODULATIONORDER2
+object_type: metric
+label: DLTimeModulationOrder2_count
+calculation_method: sum
+dataset: lte-dl-tbsize-for-modulation
+column: DLTimeModulationOrder2_count

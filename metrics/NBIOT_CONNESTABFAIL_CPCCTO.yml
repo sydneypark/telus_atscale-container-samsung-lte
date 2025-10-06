@@ -1,0 +1,6 @@
+unique_name: NBIOT_CONNESTABFAIL_CPCCTO
+object_type: metric
+label: NBIoT_ConnEstabFail_CpCcTo_count
+calculation_method: sum
+dataset: lte-nb-iot-rrc-connection-establishment
+column: NBIoT_ConnEstabFail_CpCcTo_count

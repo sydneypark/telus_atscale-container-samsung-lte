@@ -1,0 +1,6 @@
+unique_name: EPEVOLTAGEAVGTOT_V_LTE_ENERGY_POWER_ENVIRONMENTAL_STATISTICS
+object_type: metric
+label: EpeVoltageAvgTot_V
+calculation_method: sum
+dataset: lte-energy-power-and-environmental-statistics-of-mplane
+column: EpeVoltageAvgTot_V

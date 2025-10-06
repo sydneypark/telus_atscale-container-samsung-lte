@@ -1,0 +1,6 @@
+unique_name: SUMS1SIGS1CONNESTABSUCC
+object_type: metric
+label: SumS1sigS1ConnEstabSucc_count
+calculation_method: sum
+dataset: lte-accessibility
+column: SumS1sigS1ConnEstabSucc_count

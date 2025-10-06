@@ -1,0 +1,6 @@
+unique_name: MRORLFCID_NEIGHBORCELL_ID
+object_type: metric
+label: MroRlfCid_NeighborCell_ID
+calculation_method: sum
+dataset: lte-mro-rlf-classification
+column: MroRlfCid_NeighborCell_ID

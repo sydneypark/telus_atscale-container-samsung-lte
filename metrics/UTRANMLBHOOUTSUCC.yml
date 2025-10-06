@@ -1,0 +1,6 @@
+unique_name: UTRANMLBHOOUTSUCC
+object_type: metric
+label: UtranMlbHoOutSucc_count
+calculation_method: sum
+dataset: lte-inter-rat-mlb-handover-out
+column: UtranMlbHoOutSucc_count

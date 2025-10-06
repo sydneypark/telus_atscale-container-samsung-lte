@@ -1,0 +1,6 @@
+unique_name: INTERFREQMEASGAPOUTFAIL_CPCCTO
+object_type: metric
+label: InterFreqMeasGapOutFail_CpCcTo_count
+calculation_method: sum
+dataset: lte-outgoing-inter-frequency-handover-with-measurement-gap
+column: InterFreqMeasGapOutFail_CpCcTo_count

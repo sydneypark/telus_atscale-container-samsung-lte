@@ -1,0 +1,6 @@
+unique_name: EMTC_ATTPAGING
+object_type: metric
+label: eMTC_AttPaging_count
+calculation_method: sum
+dataset: lte-emtc-paging-attempts
+column: eMTC_AttPaging_count

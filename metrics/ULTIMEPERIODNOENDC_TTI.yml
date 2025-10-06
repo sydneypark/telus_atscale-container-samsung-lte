@@ -1,0 +1,6 @@
+unique_name: ULTIMEPERIODNOENDC_TTI
+object_type: metric
+label: ULTimePeriodNoEndc_TTI
+calculation_method: sum
+dataset: lte-ul-ip-throughput-per-en-dc-nr-cell-type
+column: ULTimePeriodNoEndc_TTI

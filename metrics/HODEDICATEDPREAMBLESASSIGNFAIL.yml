@@ -1,0 +1,6 @@
+unique_name: HODEDICATEDPREAMBLESASSIGNFAIL
+object_type: metric
+label: HoDedicatedPreamblesAssignFail_count
+calculation_method: sum
+dataset: lte-handover-random-access-preambles
+column: HoDedicatedPreamblesAssignFail_count

@@ -1,0 +1,6 @@
+unique_name: CELEVEL_EMTC_CONNESTABFAIL_UPPDCPFAIL
+object_type: metric
+label: CELevel_eMTC_ConnEstabFail_UpPdcpFail_count
+calculation_method: sum
+dataset: lte-emtc-rrc-connection-establishment-and-call-drop-per-ce-leve
+column: CELevel_eMTC_ConnEstabFail_UpPdcpFail_count

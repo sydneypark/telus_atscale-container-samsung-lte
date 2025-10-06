@@ -1,0 +1,6 @@
+unique_name: CALLDROP_ECCBRCVRESETREQUESTFROMECMB
+object_type: metric
+label: CallDrop_EccbRcvResetRequestFromEcmb_count
+calculation_method: sum
+dataset: lte-call-drop
+column: CallDrop_EccbRcvResetRequestFromEcmb_count

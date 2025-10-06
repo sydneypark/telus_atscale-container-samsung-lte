@@ -1,0 +1,6 @@
+unique_name: SCELLACTFAILBHLATENCY
+object_type: metric
+label: SCellActFailBhLatency_count
+calculation_method: sum
+dataset: lte-activation-deactivation-for-inter-site-ca-using-non-ideal-b
+column: SCellActFailBhLatency_count

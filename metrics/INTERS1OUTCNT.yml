@@ -1,0 +1,6 @@
+unique_name: INTERS1OUTCNT
+object_type: metric
+label: InterS1OutCnt_count
+calculation_method: sum
+dataset: lte-s1-out-handover
+column: InterS1OutCnt_count

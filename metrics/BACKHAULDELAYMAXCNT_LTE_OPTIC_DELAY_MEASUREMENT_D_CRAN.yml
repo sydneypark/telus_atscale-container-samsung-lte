@@ -1,0 +1,6 @@
+unique_name: BACKHAULDELAYMAXCNT_LTE_OPTIC_DELAY_MEASUREMENT_D_CRAN
+object_type: metric
+label: BackhaulDelayMaxCnt_count
+calculation_method: sum
+dataset: lte-optic-delay-measurement-for-d-cran
+column: BackhaulDelayMaxCnt_count

@@ -1,0 +1,46 @@
+unique_name: HOCause
+object_type: dimension
+label: HOCause
+is_degenerate: true
+hierarchies:
+- unique_name: HOCause Hierarchy
+  label: HOCause Hierarchy
+  levels:
+  - unique_name: HOCause
+level_attributes:
+- unique_name: HOCause
+  label: HOCause Level
+  shared_degenerate_columns:
+  - name_column: HOCause
+    key_columns:
+    - HOCause
+    dataset: lte-geran-srvcc-handover
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: HOCause
+    key_columns:
+    - HOCause
+    dataset: lte-ps-ho-from-geran
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: HOCause
+    key_columns:
+    - HOCause
+    dataset: lte-ps-ho-to-geran
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: HOCause
+    key_columns:
+    - HOCause
+    dataset: lte-ps-redirection-utran-out
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: HOCause
+    key_columns:
+    - HOCause
+    dataset: lte-utran-srvcc
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

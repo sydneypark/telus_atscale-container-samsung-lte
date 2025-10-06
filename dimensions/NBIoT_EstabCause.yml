@@ -1,0 +1,64 @@
+unique_name: NBIoT_EstabCause
+object_type: dimension
+label: NBIoT_EstabCause
+is_degenerate: true
+hierarchies:
+- unique_name: NBIoT_EstabCause Hierarchy
+  label: NBIoT_EstabCause Hierarchy
+  levels:
+  - unique_name: NBIoT_EstabCause
+level_attributes:
+- unique_name: NBIoT_EstabCause
+  label: NBIoT_EstabCause Level
+  shared_degenerate_columns:
+  - name_column: NBIoT_EstabCause
+    key_columns:
+    - NBIoT_EstabCause
+    dataset: lte-nb-iot-e-rab-setup
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_EstabCause
+    key_columns:
+    - NBIoT_EstabCause
+    dataset: lte-nb-iot-rrc-connection-establishment
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_EstabCause
+    key_columns:
+    - NBIoT_EstabCause
+    dataset: lte-nb-iot-rrc-connection-establishment-per-ce-level
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_EstabCause
+    key_columns:
+    - NBIoT_EstabCause
+    dataset: lte-nb-iot-rrc-connection-establishment-with-multi-tone
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_EstabCause
+    key_columns:
+    - NBIoT_EstabCause
+    dataset: lte-nb-iot-rrc-connection-setup-nb-time
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_EstabCause
+    key_columns:
+    - NBIoT_EstabCause
+    dataset: lte-nb-iot-s1-connection-time
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_EstabCause
+    key_columns:
+    - NBIoT_EstabCause
+    dataset: lte-nb-iot-ue-associated-logical-s1-connection-establishme-1
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_EstabCause
+    key_columns:
+    - NBIoT_EstabCause
+    dataset: lte-nb-iot-ue-associated-logical-s1-connection-establishme-2
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

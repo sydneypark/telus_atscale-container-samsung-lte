@@ -1,0 +1,6 @@
+unique_name: UTRANMLBREDIROUTATT
+object_type: metric
+label: UtranMlbRedirOutAtt_count
+calculation_method: sum
+dataset: lte-inter-rat-mlb-handover-out
+column: UtranMlbRedirOutAtt_count

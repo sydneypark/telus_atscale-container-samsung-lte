@@ -1,0 +1,6 @@
+unique_name: TXOCTETCNT
+object_type: metric
+label: TxOctetCnt_count
+calculation_method: sum
+dataset: lte-ethernet-packet-per-vlan
+column: TxOctetCnt_count

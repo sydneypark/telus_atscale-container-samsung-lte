@@ -1,0 +1,22 @@
+unique_name: Peer_gNB_ID
+object_type: dimension
+label: Peer_gNB_ID
+is_degenerate: true
+hierarchies:
+- unique_name: Peer_gNB_ID Hierarchy
+  label: Peer_gNB_ID Hierarchy
+  levels:
+  - unique_name: Peer_gNB_ID
+level_attributes:
+- unique_name: Peer_gNB_ID
+  label: Peer_gNB_ID Level
+  shared_degenerate_columns:
+  - name_column: Peer_gNB_ID
+    key_columns:
+    - Peer_gNB_ID
+    dataset: nr-ue-associated-xnap-message-between-gnbs
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

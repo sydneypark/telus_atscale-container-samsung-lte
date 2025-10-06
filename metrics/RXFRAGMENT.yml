@@ -1,0 +1,6 @@
+unique_name: RXFRAGMENT
+object_type: metric
+label: RxFragment_count
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: RxFragment_count

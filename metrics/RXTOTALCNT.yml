@@ -1,0 +1,6 @@
+unique_name: RXTOTALCNT
+object_type: metric
+label: RxTotalCnt_count
+calculation_method: sum
+dataset: lte-packet-for-reception-window-in-oru
+column: RxTotalCnt_count

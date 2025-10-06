@@ -1,0 +1,6 @@
+unique_name: UTRANSRVCCOUTFAIL_UPRLCFAIL
+object_type: metric
+label: UtranSrvccOutFail_UpRlcFail_count
+calculation_method: sum
+dataset: lte-utran-srvcc
+column: UtranSrvccOutFail_UpRlcFail_count

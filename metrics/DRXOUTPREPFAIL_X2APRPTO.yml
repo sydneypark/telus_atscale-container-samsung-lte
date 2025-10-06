@@ -1,0 +1,6 @@
+unique_name: DRXOUTPREPFAIL_X2APRPTO
+object_type: metric
+label: DrxOutPrepFail_X2apRpTo_count
+calculation_method: sum
+dataset: lte-outgoing-handover-with-drx
+column: DrxOutPrepFail_X2apRpTo_count

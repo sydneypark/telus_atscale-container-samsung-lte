@@ -1,0 +1,6 @@
+unique_name: TTIBACTTIMETOT
+object_type: metric
+label: TtibActTimeTot_ms
+calculation_method: sum
+dataset: lte-tti-bundling-time
+column: TtibActTimeTot_ms

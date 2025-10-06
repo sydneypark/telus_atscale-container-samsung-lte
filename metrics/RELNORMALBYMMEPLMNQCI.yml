@@ -1,0 +1,6 @@
+unique_name: RELNORMALBYMMEPLMNQCI
+object_type: metric
+label: RelNormalbyMmePlmnQci_count
+calculation_method: sum
+dataset: lte-e-rab-release-by-mme-per-plmn-per-cell-per-qci
+column: RelNormalbyMmePlmnQci_count

@@ -1,0 +1,28 @@
+unique_name: POD_PortType
+object_type: dimension
+label: POD_PortType
+is_degenerate: true
+hierarchies:
+- unique_name: POD_PortType Hierarchy
+  label: POD_PortType Hierarchy
+  levels:
+  - unique_name: POD_PortType
+level_attributes:
+- unique_name: POD_PortType
+  label: POD_PortType Level
+  shared_degenerate_columns:
+  - name_column: POD_PortType
+    key_columns:
+    - POD_PortType
+    dataset: lte-ethernet-packet-for-cnf
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: POD_PortType
+    key_columns:
+    - POD_PortType
+    dataset: nr-ethernet-packet-for-cnf
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

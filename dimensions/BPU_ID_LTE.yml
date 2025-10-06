@@ -1,0 +1,22 @@
+unique_name: BPU_ID_LTE
+object_type: dimension
+label: BPU_ID_LTE
+is_degenerate: true
+hierarchies:
+- unique_name: BPU_ID_LTE Hierarchy
+  label: BPU_ID_LTE Hierarchy
+  levels:
+  - unique_name: BPU_ID_LTE
+level_attributes:
+- unique_name: BPU_ID_LTE
+  label: BPU_ID_LTE Level
+  shared_degenerate_columns:
+  - name_column: BPU_ID_LTE
+    key_columns:
+    - BPU_ID_LTE
+    dataset: lte-nb-iot-call-context-per-bpu
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

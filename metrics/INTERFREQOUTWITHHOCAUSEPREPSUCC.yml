@@ -1,0 +1,6 @@
+unique_name: INTERFREQOUTWITHHOCAUSEPREPSUCC
+object_type: metric
+label: InterFreqOutWithHoCausePrepSucc_count
+calculation_method: sum
+dataset: lte-en-dc-outgoing-inter-frequency-handover-with-handover-cause
+column: InterFreqOutWithHoCausePrepSucc_count

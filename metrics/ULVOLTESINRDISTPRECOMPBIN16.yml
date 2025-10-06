@@ -1,0 +1,6 @@
+unique_name: ULVOLTESINRDISTPRECOMPBIN16
+object_type: metric
+label: ULVoLTESinrDistPreCompBin16_count
+calculation_method: sum
+dataset: lte-bin-distribution-of-sinr-for-ul-volte-bearer
+column: ULVoLTESinrDistPreCompBin16_count

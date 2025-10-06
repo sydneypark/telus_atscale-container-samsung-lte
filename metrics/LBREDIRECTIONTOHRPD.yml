@@ -1,0 +1,6 @@
+unique_name: LBREDIRECTIONTOHRPD
+object_type: metric
+label: LBRedirectiontoHRPD_count
+calculation_method: sum
+dataset: lte-redirection-by-load-balancing
+column: LBRedirectiontoHRPD_count

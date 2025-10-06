@@ -1,0 +1,6 @@
+unique_name: _0X037C_RRM_BLACKLISTIMEISVPREPFAIL_EMTC_CALL_FAIL
+object_type: metric
+label: _0x037C_Rrm_BlacklistImeisvPrepFail_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x037C_Rrm_BlacklistImeisvPrepFail_count

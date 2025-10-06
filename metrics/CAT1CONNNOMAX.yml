@@ -1,0 +1,6 @@
+unique_name: CAT1CONNNOMAX
+object_type: metric
+label: Cat1ConnNoMax_count
+calculation_method: sum
+dataset: lte-cat-1-ue-connection-number
+column: Cat1ConnNoMax_count

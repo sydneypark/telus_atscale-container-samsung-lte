@@ -1,0 +1,6 @@
+unique_name: X2HOTIMEAVG
+object_type: metric
+label: X2HoTimeAvg_ms
+calculation_method: sum
+dataset: lte-handover-time
+column: X2HoTimeAvg_ms

@@ -1,0 +1,6 @@
+unique_name: DLCACAPABILITYUE_3CC
+object_type: metric
+label: DLCaCapabilityUE_3CC_count
+calculation_method: sum
+dataset: lte-scell-added-information-pcell
+column: DLCaCapabilityUE_3CC_count

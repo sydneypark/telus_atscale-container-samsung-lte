@@ -1,0 +1,6 @@
+unique_name: RECOMMENDEDBITRATEIDX3
+object_type: metric
+label: RecommendedBitRateIdx3_count
+calculation_method: sum
+dataset: lte-volte-recommended-bit-rate
+column: RecommendedBitRateIdx3_count

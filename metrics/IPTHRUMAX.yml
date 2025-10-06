@@ -1,0 +1,6 @@
+unique_name: IPTHRUMAX
+object_type: metric
+label: IpThruMax_Kbps
+calculation_method: sum
+dataset: lte-air-rlc-packet
+column: IpThruMax_Kbps

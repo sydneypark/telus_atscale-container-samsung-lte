@@ -1,0 +1,6 @@
+unique_name: _0X0880_RLC_ERROREMPTYMSG
+object_type: metric
+label: _0x0880_Rlc_ErrorEmptyMsg_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0880_Rlc_ErrorEmptyMsg_count

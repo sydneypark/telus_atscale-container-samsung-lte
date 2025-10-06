@@ -1,0 +1,6 @@
+unique_name: PLMN1AIRRLCULTHRU
+object_type: metric
+label: PLMN1AirRlcULThru_Kbps
+calculation_method: sum
+dataset: lte-air-rlc-packet-per-plmn
+column: PLMN1AirRlcULThru_Kbps

@@ -1,0 +1,6 @@
+unique_name: PUCCHINTERFERENCEPOWERAVG_DBM
+object_type: metric
+label: PucchInterferencePowerAvg_dBm
+calculation_method: sum
+dataset: lte-average-interference-power-per-prb-in-the-pucch-region
+column: PucchInterferencePowerAvg_dBm

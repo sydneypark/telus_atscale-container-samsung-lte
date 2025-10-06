@@ -1,0 +1,6 @@
+unique_name: SCELLACTIVATION_5CC
+object_type: metric
+label: SCellActivation_5CC_count
+calculation_method: sum
+dataset: lte-ca-activation-information-per-cc-type
+column: SCellActivation_5CC_count

@@ -1,0 +1,6 @@
+unique_name: HOTRIGGERINGTCELLRSRPEVENTA4MAX_DBM_EMTC_MEASUREMENT_RESULTS
+object_type: metric
+label: HoTriggeringTcellRsrpEventA4Max_dBm
+calculation_method: sum
+dataset: lte-emtc-measurement-results-of-target-cell
+column: HoTriggeringTcellRsrpEventA4Max_dBm

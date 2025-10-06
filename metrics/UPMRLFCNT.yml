@@ -1,0 +1,6 @@
+unique_name: UPMRLFCNT
+object_type: metric
+label: UpmRlfCnt_count
+calculation_method: sum
+dataset: lte-upm-rlf-classification
+column: UpmRlfCnt_count

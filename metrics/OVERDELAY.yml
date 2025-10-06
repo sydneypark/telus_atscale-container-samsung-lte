@@ -1,0 +1,6 @@
+unique_name: OVERDELAY
+object_type: metric
+label: OverDelay_count
+calculation_method: sum
+dataset: lte-inter-site-ca-backhaul-delay
+column: OverDelay_count

@@ -1,0 +1,6 @@
+unique_name: SCELLADDSUCC_HOIN
+object_type: metric
+label: SCellAddSucc_HoIn_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-message-count-for-addition-release
+column: SCellAddSucc_HoIn_count

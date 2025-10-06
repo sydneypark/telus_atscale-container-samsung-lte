@@ -1,0 +1,6 @@
+unique_name: HOTRIGGERINGTCELLCID_TCID_EMTC_MEASUREMENT_RESULTS_TARGET_CELL
+object_type: metric
+label: HoTriggeringTcellCid_tcID
+calculation_method: sum
+dataset: lte-emtc-measurement-results-of-target-cell
+column: HoTriggeringTcellCid_tcID

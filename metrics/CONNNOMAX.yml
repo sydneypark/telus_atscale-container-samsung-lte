@@ -1,0 +1,6 @@
+unique_name: CONNNOMAX
+object_type: metric
+label: ConnNoMax_count
+calculation_method: sum
+dataset: lte-rrc-connection-number
+column: ConnNoMax_count

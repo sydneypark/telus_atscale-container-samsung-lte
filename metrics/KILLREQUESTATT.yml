@@ -1,0 +1,6 @@
+unique_name: KILLREQUESTATT
+object_type: metric
+label: KillRequestAtt_count
+calculation_method: sum
+dataset: lte-commercial-mobile-alert-system
+column: KillRequestAtt_count

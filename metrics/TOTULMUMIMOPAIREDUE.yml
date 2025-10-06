@@ -1,0 +1,6 @@
+unique_name: TOTULMUMIMOPAIREDUE
+object_type: metric
+label: TotULMuMimoPairedUE_count
+calculation_method: sum
+dataset: lte-uplink-multi-user-mimo
+column: TotULMuMimoPairedUE_count

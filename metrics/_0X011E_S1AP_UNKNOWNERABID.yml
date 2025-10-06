@@ -1,0 +1,6 @@
+unique_name: _0X011E_S1AP_UNKNOWNERABID
+object_type: metric
+label: _0x011E_S1ap_UnknownErabId_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x011E_S1ap_UnknownErabId_count

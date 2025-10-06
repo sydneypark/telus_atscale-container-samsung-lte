@@ -1,0 +1,6 @@
+unique_name: NBIOT_CONNESTABSUCC_MULTITONE
+object_type: metric
+label: NBIoT_ConnEstabSucc_MultiTone_count
+calculation_method: sum
+dataset: lte-nb-iot-rrc-connection-establishment-with-multi-tone
+column: NBIoT_ConnEstabSucc_MultiTone_count

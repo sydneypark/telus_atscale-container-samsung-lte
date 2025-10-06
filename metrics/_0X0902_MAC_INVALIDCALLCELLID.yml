@@ -1,0 +1,6 @@
+unique_name: _0X0902_MAC_INVALIDCALLCELLID
+object_type: metric
+label: _0x0902_Mac_InvalidCallCellId_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0902_Mac_InvalidCallCellId_count

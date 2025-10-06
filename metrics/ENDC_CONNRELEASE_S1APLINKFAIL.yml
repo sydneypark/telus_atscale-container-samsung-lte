@@ -1,0 +1,6 @@
+unique_name: ENDC_CONNRELEASE_S1APLINKFAIL
+object_type: metric
+label: EnDc_ConnRelease_S1apLinkFail_count
+calculation_method: sum
+dataset: lte-rrc-connection-release-of-en-dc-capable-ue
+column: EnDc_ConnRelease_S1apLinkFail_count

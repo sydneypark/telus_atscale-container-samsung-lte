@@ -1,0 +1,6 @@
+unique_name: PACKETULCNT_PRC
+object_type: metric
+label: PacketULCnt_count
+calculation_method: sum
+dataset: lte-pdcp-packet-per-prc
+column: PacketULCnt_count

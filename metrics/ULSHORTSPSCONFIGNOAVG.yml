@@ -1,0 +1,6 @@
+unique_name: ULSHORTSPSCONFIGNOAVG
+object_type: metric
+label: ULShortSpsConfigNoAvg_count
+calculation_method: sum
+dataset: lte-ul-short-semi-persistent-scheduling
+column: ULShortSpsConfigNoAvg_count

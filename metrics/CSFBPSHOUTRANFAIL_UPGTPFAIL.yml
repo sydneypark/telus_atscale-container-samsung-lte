@@ -1,0 +1,6 @@
+unique_name: CSFBPSHOUTRANFAIL_UPGTPFAIL
+object_type: metric
+label: CSFBPsHoUtranFail_UpGtpFail_count
+calculation_method: sum
+dataset: lte-csfb-ps-out-handover
+column: CSFBPsHoUtranFail_UpGtpFail_count

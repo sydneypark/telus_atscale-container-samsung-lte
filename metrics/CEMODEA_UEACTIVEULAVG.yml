@@ -1,0 +1,6 @@
+unique_name: CEMODEA_UEACTIVEULAVG
+object_type: metric
+label: CEModeA_UEActiveULAvg_count
+calculation_method: sum
+dataset: lte-emtc-active-ue-number
+column: CEModeA_UEActiveULAvg_count

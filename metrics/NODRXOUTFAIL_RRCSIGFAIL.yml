@@ -1,0 +1,6 @@
+unique_name: NODRXOUTFAIL_RRCSIGFAIL
+object_type: metric
+label: NoDrxOutFail_RrcSigFail_count
+calculation_method: sum
+dataset: lte-outgoing-handover-without-drx
+column: NoDrxOutFail_RrcSigFail_count

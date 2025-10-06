@@ -1,0 +1,6 @@
+unique_name: HOPREPFAIL
+object_type: metric
+label: HoPrepFail_count
+calculation_method: sum
+dataset: lte-preemption-handover
+column: HoPrepFail_count

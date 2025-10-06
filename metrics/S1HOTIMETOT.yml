@@ -1,0 +1,6 @@
+unique_name: S1HOTIMETOT
+object_type: metric
+label: S1HoTimeTot_ms
+calculation_method: sum
+dataset: lte-handover-time
+column: S1HoTimeTot_ms

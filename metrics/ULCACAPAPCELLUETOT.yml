@@ -1,0 +1,6 @@
+unique_name: ULCACAPAPCELLUETOT
+object_type: metric
+label: ULCaCapaPCellUETot_count
+calculation_method: sum
+dataset: lte-ul-ca-addition-information
+column: ULCaCapaPCellUETot_count

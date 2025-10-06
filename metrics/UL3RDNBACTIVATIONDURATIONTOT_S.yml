@@ -1,0 +1,6 @@
+unique_name: UL3RDNBACTIVATIONDURATIONTOT_S
+object_type: metric
+label: UL3rdNBActivationDurationTot_s
+calculation_method: sum
+dataset: lte-emtc-nb-state
+column: UL3rdNBActivationDurationTot_s

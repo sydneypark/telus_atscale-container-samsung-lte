@@ -1,0 +1,6 @@
+unique_name: CELEVEL_EMTC_CONNESTABREJECT_S1APMMEOVLD
+object_type: metric
+label: CELevel_eMTC_ConnEstabReject_S1apMmeOvld_count
+calculation_method: sum
+dataset: lte-emtc-rrc-connection-establishment-and-call-drop-per-ce-leve
+column: CELevel_eMTC_ConnEstabReject_S1apMmeOvld_count

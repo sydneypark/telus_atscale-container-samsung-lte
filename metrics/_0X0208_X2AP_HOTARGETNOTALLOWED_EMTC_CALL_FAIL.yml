@@ -1,0 +1,6 @@
+unique_name: _0X0208_X2AP_HOTARGETNOTALLOWED_EMTC_CALL_FAIL
+object_type: metric
+label: _0x0208_X2ap_HoTargetNotAllowed_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x0208_X2ap_HoTargetNotAllowed_count

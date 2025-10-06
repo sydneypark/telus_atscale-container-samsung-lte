@@ -1,0 +1,6 @@
+unique_name: ENBQCIULTHRUMIN
+object_type: metric
+label: EnbQciULThruMin_Kbps
+calculation_method: sum
+dataset: lte-pdcp-packet
+column: EnbQciULThruMin_Kbps

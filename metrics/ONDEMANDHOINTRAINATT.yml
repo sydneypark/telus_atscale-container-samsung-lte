@@ -1,0 +1,6 @@
+unique_name: ONDEMANDHOINTRAINATT
+object_type: metric
+label: OnDemandHoIntraInAtt_count
+calculation_method: sum
+dataset: lte-ondemand-handover-intraenb-in
+column: OnDemandHoIntraInAtt_count

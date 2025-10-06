@@ -1,0 +1,6 @@
+unique_name: EUTRANIPLATENCY
+object_type: metric
+label: EutranIpLatency_ms
+calculation_method: sum
+dataset: lte-integrity
+column: EutranIpLatency_ms

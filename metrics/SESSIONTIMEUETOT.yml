@@ -1,0 +1,6 @@
+unique_name: SESSIONTIMEUETOT
+object_type: metric
+label: SessionTimeUETot_ms
+calculation_method: sum
+dataset: lte-e-rab-session-time-per-cell
+column: SessionTimeUETot_ms

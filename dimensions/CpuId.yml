@@ -1,0 +1,34 @@
+unique_name: CpuID
+object_type: dimension
+label: CpuID
+is_degenerate: true
+hierarchies:
+- unique_name: CpuID Hierarchy
+  label: CpuID Hierarchy
+  levels:
+  - unique_name: CpuID
+level_attributes:
+- unique_name: CpuID
+  label: CpuID Level
+  shared_degenerate_columns:
+  - name_column: CpuID
+    key_columns:
+    - CpuID
+    dataset: nr-disk-usage-in-pnf
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CpuID
+    key_columns:
+    - CpuID
+    dataset: nr-ethernet-packet-per-vlan
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CpuID
+    key_columns:
+    - CpuID
+    dataset: nr-resource-per-cpu
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

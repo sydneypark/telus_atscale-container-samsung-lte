@@ -1,0 +1,6 @@
+unique_name: TOTDLWITHTM8MUTTI_LAYER_USAGE
+object_type: metric
+label: TotDLWithTM8MUTti_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-tm8-downlink-layer-usage
+column: TotDLWithTM8MUTti_count

@@ -1,0 +1,6 @@
+unique_name: PDCPTIMEDLLASTTTI_PRC
+object_type: metric
+label: PdcpTimeDlLastTTI_prc_ms
+calculation_method: sum
+dataset: lte-pdcp-ip-tp-prc-statistics-for-last-tti
+column: PdcpTimeDlLastTTI_prc_ms

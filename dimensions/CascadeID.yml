@@ -1,0 +1,34 @@
+unique_name: CascadeID
+object_type: dimension
+label: CascadeID
+is_degenerate: true
+hierarchies:
+- unique_name: CascadeID Hierarchy
+  label: CascadeID Hierarchy
+  levels:
+  - unique_name: CascadeID
+level_attributes:
+- unique_name: CascadeID
+  label: CascadeID Level
+  shared_degenerate_columns:
+  - name_column: CascadeID
+    key_columns:
+    - CascadeID
+    dataset: nr-radio-unit-measurement
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CascadeID
+    key_columns:
+    - CascadeID
+    dataset: nr-radio-unit-type-measurement
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CascadeID
+    key_columns:
+    - CascadeID
+    dataset: nr-tx-rf-measurement
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

@@ -1,0 +1,6 @@
+unique_name: PSHOFROMUTRANCANCEL
+object_type: metric
+label: PsHoFromUtranCancel_count
+calculation_method: sum
+dataset: lte-inter-rat-handover-cancellation
+column: PsHoFromUtranCancel_count

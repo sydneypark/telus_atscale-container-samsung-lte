@@ -1,0 +1,6 @@
+unique_name: DL3RDNBDEACTIVATIONDURATIONTOT_S
+object_type: metric
+label: DL3rdNBDeactivationDurationTot_s
+calculation_method: sum
+dataset: lte-emtc-nb-state
+column: DL3rdNBDeactivationDurationTot_s

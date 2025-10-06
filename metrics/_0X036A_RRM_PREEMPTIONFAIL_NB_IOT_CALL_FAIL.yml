@@ -1,0 +1,6 @@
+unique_name: _0X036A_RRM_PREEMPTIONFAIL_NB_IOT_CALL_FAIL
+object_type: metric
+label: _0x036A_Rrm_PreemptionFail_count
+calculation_method: sum
+dataset: lte-nb-iot-call-fail
+column: _0x036A_Rrm_PreemptionFail_count

@@ -1,0 +1,6 @@
+unique_name: INTERENBCONNREESTABFAIL_UPMACFAIL
+object_type: metric
+label: InterEnbConnReEstabFail_UpMacFail_count
+calculation_method: sum
+dataset: lte-rrc-connection-re-establishment
+column: InterEnbConnReEstabFail_UpMacFail_count

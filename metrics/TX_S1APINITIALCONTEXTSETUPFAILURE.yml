@@ -1,0 +1,6 @@
+unique_name: TX_S1APINITIALCONTEXTSETUPFAILURE
+object_type: metric
+label: Tx_S1apInitialContextSetupFailure_count
+calculation_method: sum
+dataset: lte-s1-context-setup
+column: Tx_S1apInitialContextSetupFailure_count

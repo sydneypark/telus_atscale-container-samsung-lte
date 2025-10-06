@@ -1,0 +1,6 @@
+unique_name: SCELLACTFAILSCELLSETUPTIMEOUT
+object_type: metric
+label: SCellActFailSCellSetupTimeOut_count
+calculation_method: sum
+dataset: lte-activation-deactivation-for-inter-site-ca-using-non-ideal-b
+column: SCellActFailSCellSetupTimeOut_count

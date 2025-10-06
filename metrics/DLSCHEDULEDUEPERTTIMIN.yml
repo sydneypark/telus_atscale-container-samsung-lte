@@ -1,0 +1,6 @@
+unique_name: DLSCHEDULEDUEPERTTIMIN
+object_type: metric
+label: DLScheduledUEperTTIMin_count
+calculation_method: sum
+dataset: lte-scheduled-ue-number
+column: DLScheduledUEperTTIMin_count

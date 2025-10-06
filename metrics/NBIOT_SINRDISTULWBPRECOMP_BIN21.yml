@@ -1,0 +1,6 @@
+unique_name: NBIOT_SINRDISTULWBPRECOMP_BIN21
+object_type: metric
+label: NBIoT_SinrDistULWbPreComp_Bin21_count
+calculation_method: sum
+dataset: lte-nb-iot-sinr-distribution
+column: NBIoT_SinrDistULWbPreComp_Bin21_count

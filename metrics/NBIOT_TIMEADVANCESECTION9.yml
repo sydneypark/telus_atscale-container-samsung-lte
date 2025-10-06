@@ -1,0 +1,6 @@
+unique_name: NBIOT_TIMEADVANCESECTION9
+object_type: metric
+label: NBIoT_TimeAdvanceSection9_count
+calculation_method: sum
+dataset: lte-timing-alignment-for-nb-iot
+column: NBIoT_TimeAdvanceSection9_count

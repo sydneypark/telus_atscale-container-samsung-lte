@@ -1,0 +1,6 @@
+unique_name: ACBCSFB
+object_type: metric
+label: AcbCsfb_count
+calculation_method: sum
+dataset: lte-access-class-barring-enhanced
+column: AcbCsfb_count

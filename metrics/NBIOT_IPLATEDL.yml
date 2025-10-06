@@ -1,0 +1,6 @@
+unique_name: NBIOT_IPLATEDL
+object_type: metric
+label: NBIoT_IpLateDL_ms
+calculation_method: sum
+dataset: lte-nb-iot-ip-latency
+column: NBIoT_IpLateDL_ms

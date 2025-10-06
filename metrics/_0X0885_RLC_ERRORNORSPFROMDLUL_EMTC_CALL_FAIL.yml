@@ -1,0 +1,6 @@
+unique_name: _0X0885_RLC_ERRORNORSPFROMDLUL_EMTC_CALL_FAIL
+object_type: metric
+label: _0x0885_Rlc_ErrorNoRspFromDLUL_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x0885_Rlc_ErrorNoRspFromDLUL_count

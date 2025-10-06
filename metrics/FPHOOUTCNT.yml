@@ -1,0 +1,6 @@
+unique_name: FPHOOUTCNT
+object_type: metric
+label: FPHOOutCnt_count
+calculation_method: sum
+dataset: lte-outgoing-frequency-priority-based-handover
+column: FPHOOutCnt_count

@@ -1,0 +1,6 @@
+unique_name: HOTRIGGERINGTCELLRSRQEVENTA5CNT
+object_type: metric
+label: HoTriggeringTcellRsrqEventA5Cnt_count
+calculation_method: sum
+dataset: lte-measurement-results-of-target-cell
+column: HoTriggeringTcellRsrqEventA5Cnt_count

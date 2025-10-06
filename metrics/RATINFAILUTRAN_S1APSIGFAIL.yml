@@ -1,0 +1,6 @@
+unique_name: RATINFAILUTRAN_S1APSIGFAIL
+object_type: metric
+label: RatInFailUtran_S1apSigFail_count
+calculation_method: sum
+dataset: lte-inter-rat-utran-ps-in-handover
+column: RatInFailUtran_S1apSigFail_count

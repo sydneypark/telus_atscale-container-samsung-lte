@@ -1,0 +1,6 @@
+unique_name: ENDC_ADDEXECUTIONSUCC
+object_type: metric
+label: EnDc_AddExecutionSucc_count
+calculation_method: sum
+dataset: lte-en-dc-addition-information-for-initial-and-mobility
+column: EnDc_AddExecutionSucc_count

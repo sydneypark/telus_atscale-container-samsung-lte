@@ -1,0 +1,6 @@
+unique_name: CRNTICOLLISION_CARRIER_AGGREGATION_MESSAGE_COUNT_ACTIVATION_
+object_type: metric
+label: CRNTIcollision_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-message-count-for-activation-deactivati
+column: CRNTIcollision_count

@@ -1,0 +1,6 @@
+unique_name: EMFEXPOSURECNT
+object_type: metric
+label: EMFexposureCnt_count
+calculation_method: sum
+dataset: lte-lte-emf-exposure
+column: EMFexposureCnt_count

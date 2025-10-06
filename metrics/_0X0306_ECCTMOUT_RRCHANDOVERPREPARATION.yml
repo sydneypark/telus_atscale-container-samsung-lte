@@ -1,0 +1,6 @@
+unique_name: _0X0306_ECCTMOUT_RRCHANDOVERPREPARATION
+object_type: metric
+label: _0x0306_EccTmout_RrcHandoverPreparation_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0306_EccTmout_RrcHandoverPreparation_count

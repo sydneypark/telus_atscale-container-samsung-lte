@@ -1,0 +1,6 @@
+unique_name: RXLINKUTILIZATIONMIN
+object_type: metric
+label: RxLinkUtilizationMin_pct
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: RxLinkUtilizationMin_pct

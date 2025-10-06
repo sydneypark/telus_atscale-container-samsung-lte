@@ -1,0 +1,6 @@
+unique_name: NBRRANKLEQTHRANKNRDEL
+object_type: metric
+label: NbrRankLeqThRankNrDel_count
+calculation_method: sum
+dataset: lte-the-number-of-neighbor-relations
+column: NbrRankLeqThRankNrDel_count

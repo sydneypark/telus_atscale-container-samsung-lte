@@ -1,0 +1,6 @@
+unique_name: NBIOT_S1APERABRELEASEINDICATION
+object_type: metric
+label: NBIoT_S1apERABReleaseIndication_count
+calculation_method: sum
+dataset: lte-nb-iot-s1ap-message
+column: NBIoT_S1apERABReleaseIndication_count

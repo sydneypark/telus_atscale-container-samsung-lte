@@ -1,0 +1,6 @@
+unique_name: NRTOENDCSAMESGNB_ADDFAIL
+object_type: metric
+label: NrToEnDcSameSgNB_AddFail_count
+calculation_method: sum
+dataset: lte-sgnb-addition-due-to-mcg-mobility
+column: NrToEnDcSameSgNB_AddFail_count

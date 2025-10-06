@@ -1,0 +1,6 @@
+unique_name: INTERS1INPREP_FAILUPPDCPFAIL_EN_DC_S1_HANDOVER
+object_type: metric
+label: InterS1InPrep_FailUpPdcpFail_count
+calculation_method: sum
+dataset: lte-en-dc-s1-in-handover
+column: InterS1InPrep_FailUpPdcpFail_count

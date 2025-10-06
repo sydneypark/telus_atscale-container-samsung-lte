@@ -1,0 +1,6 @@
+unique_name: EMTC_DLVOLTEHARQSUCC
+object_type: metric
+label: eMTC_DLVoLTEHARQSucc_count
+calculation_method: sum
+dataset: lte-harq-performance-for-emtc-or-catm-volte-ue
+column: eMTC_DLVoLTEHARQSucc_count

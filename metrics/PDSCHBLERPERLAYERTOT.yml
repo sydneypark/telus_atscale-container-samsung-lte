@@ -1,0 +1,6 @@
+unique_name: PDSCHBLERPERLAYERTOT
+object_type: metric
+label: PdschBlerPerLayerTot_count
+calculation_method: sum
+dataset: lte-mimo
+column: PdschBlerPerLayerTot_count

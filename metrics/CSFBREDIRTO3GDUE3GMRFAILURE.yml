@@ -1,0 +1,6 @@
+unique_name: CSFBREDIRTO3GDUE3GMRFAILURE
+object_type: metric
+label: CSFBRedirTo3GDue3GMrFailure_count
+calculation_method: sum
+dataset: lte-csfb-redirection-out
+column: CSFBRedirTo3GDue3GMrFailure_count

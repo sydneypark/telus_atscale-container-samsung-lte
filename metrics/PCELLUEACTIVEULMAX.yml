@@ -1,0 +1,6 @@
+unique_name: PCELLUEACTIVEULMAX
+object_type: metric
+label: PcellUEActiveULMax_count
+calculation_method: sum
+dataset: lte-active-ue-number-pcell
+column: PcellUEActiveULMax_count

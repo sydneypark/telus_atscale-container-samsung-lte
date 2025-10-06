@@ -1,0 +1,6 @@
+unique_name: PLMNPDCPSDULOSSULNUM_PRC
+object_type: metric
+label: PLMNPdcpSduLossULNum_count
+calculation_method: sum
+dataset: lte-pdcp-loss-drop-dl-ip-throughput-pdcp-per-plmn-per-prc
+column: PLMNPdcpSduLossULNum_count

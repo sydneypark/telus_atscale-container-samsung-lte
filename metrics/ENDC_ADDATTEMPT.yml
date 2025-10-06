@@ -1,0 +1,6 @@
+unique_name: ENDC_ADDATTEMPT
+object_type: metric
+label: EnDc_AddAttempt_count
+calculation_method: sum
+dataset: lte-en-dc-addition-information-for-initial-and-mobility
+column: EnDc_AddAttempt_count

@@ -1,0 +1,6 @@
+unique_name: CEMODEB_PUSCHREPETITION128
+object_type: metric
+label: CEModeB_PUSCHRepetition128_count
+calculation_method: sum
+dataset: lte-emtc-pusch-repetition
+column: CEModeB_PUSCHRepetition128_count

@@ -1,0 +1,6 @@
+unique_name: VOLTESCELLADDATTEMPT
+object_type: metric
+label: VoLTEScellAddAttempt_count
+calculation_method: sum
+dataset: lte-volte-scell-addition-and-release
+column: VoLTEScellAddAttempt_count

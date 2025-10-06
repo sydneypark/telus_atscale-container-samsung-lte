@@ -1,0 +1,22 @@
+unique_name: SPID_RFSP_Category
+object_type: dimension
+label: SPID_RFSP_Category
+is_degenerate: true
+hierarchies:
+- unique_name: SPID_RFSP_Category Hierarchy
+  label: SPID_RFSP_Category Hierarchy
+  levels:
+  - unique_name: SPID_RFSP_Category
+level_attributes:
+- unique_name: SPID_RFSP_Category
+  label: SPID_RFSP_Category Level
+  shared_degenerate_columns:
+  - name_column: SPID_RFSP_Category
+    key_columns:
+    - SPID_RFSP_Category
+    dataset: nr-prb-usage-per-spid-rfsp-category
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

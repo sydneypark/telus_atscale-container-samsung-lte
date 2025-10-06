@@ -1,0 +1,6 @@
+unique_name: DLSCHEDULERMCS17
+object_type: metric
+label: DLSchedulerMcs17_count
+calculation_method: sum
+dataset: lte-mcs
+column: DLSchedulerMcs17_count

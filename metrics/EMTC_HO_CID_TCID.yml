@@ -1,0 +1,6 @@
+unique_name: EMTC_HO_CID_TCID
+object_type: metric
+label: eMTC_HO_Cid_tcID
+calculation_method: sum
+dataset: lte-emtc-inter-frequency-handover-out
+column: eMTC_HO_Cid_tcID

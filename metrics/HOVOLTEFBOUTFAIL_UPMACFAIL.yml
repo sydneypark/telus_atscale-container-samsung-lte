@@ -1,0 +1,6 @@
+unique_name: HOVOLTEFBOUTFAIL_UPMACFAIL
+object_type: metric
+label: HOVoLTEFBOutFail_UpMacFail_count
+calculation_method: sum
+dataset: lte-volte-fallback-handover-statistics
+column: HOVoLTEFBOutFail_UpMacFail_count

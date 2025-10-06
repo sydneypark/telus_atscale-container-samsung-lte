@@ -1,0 +1,6 @@
+unique_name: INTRAFREQOUTFAIL_RRCSIGFAIL
+object_type: metric
+label: IntraFreqOutFail_RrcSigFail_count
+calculation_method: sum
+dataset: lte-outgoing-intra-frequency-handover
+column: IntraFreqOutFail_RrcSigFail_count

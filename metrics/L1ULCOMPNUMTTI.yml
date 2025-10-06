@@ -1,0 +1,6 @@
+unique_name: L1ULCOMPNUMTTI
+object_type: metric
+label: L1ULCompNumTti_count
+calculation_method: sum
+dataset: lte-lte-l1-ul-comp-usage
+column: L1ULCompNumTti_count

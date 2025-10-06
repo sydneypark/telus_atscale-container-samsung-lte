@@ -1,0 +1,6 @@
+unique_name: TOTDLMUMIMOPAIREDUE_LTE_DOWNLINK_MULTI_USER_MIMO_STATISTICS_
+object_type: metric
+label: TotDLMuMimoPairedUE_count
+calculation_method: sum
+dataset: lte-downlink-multi-user-mimo-statistics-for-massive-mimo
+column: TotDLMuMimoPairedUE_count

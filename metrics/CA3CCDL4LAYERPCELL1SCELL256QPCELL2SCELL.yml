@@ -1,0 +1,6 @@
+unique_name: CA3CCDL4LAYERPCELL1SCELL256QPCELL2SCELL
+object_type: metric
+label: Ca3CcDl4LayerPCell1SCell256QPCell2SCell_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-with-mimo-and-256qam
+column: Ca3CcDl4LayerPCell1SCell256QPCell2SCell_count

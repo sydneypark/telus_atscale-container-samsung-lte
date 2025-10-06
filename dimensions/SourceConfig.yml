@@ -1,0 +1,22 @@
+unique_name: SourceConfig
+object_type: dimension
+label: SourceConfig
+is_degenerate: true
+hierarchies:
+- unique_name: SourceConfig Hierarchy
+  label: SourceConfig Hierarchy
+  levels:
+  - unique_name: SourceConfig
+level_attributes:
+- unique_name: SourceConfig
+  label: SourceConfig Level
+  shared_degenerate_columns:
+  - name_column: SourceConfig
+    key_columns:
+    - SourceConfig
+    dataset: nr-f1-ue-context-setup-in-gnb-du
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

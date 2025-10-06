@@ -1,0 +1,6 @@
+unique_name: FEICICCIOAVG_DB
+object_type: metric
+label: FeICICCIOAvg_dB
+calculation_method: sum
+dataset: lte-eicic-partnership
+column: FeICICCIOAvg_dB

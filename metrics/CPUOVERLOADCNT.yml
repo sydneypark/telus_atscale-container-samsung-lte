@@ -1,0 +1,6 @@
+unique_name: CPUOVERLOADCNT
+object_type: metric
+label: CpuOverloadCnt_count
+calculation_method: sum
+dataset: lte-load
+column: CpuOverloadCnt_count

@@ -1,0 +1,6 @@
+unique_name: SRSUECNT
+object_type: metric
+label: SrsUECnt_count
+calculation_method: sum
+dataset: lte-srs-allocation-ue-number
+column: SrsUECnt_count

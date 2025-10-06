@@ -1,0 +1,6 @@
+unique_name: SENDUECONTEXTREL
+object_type: metric
+label: SendUeContextRel_count
+calculation_method: sum
+dataset: lte-ue-context-retrieval-in
+column: SendUeContextRel_count

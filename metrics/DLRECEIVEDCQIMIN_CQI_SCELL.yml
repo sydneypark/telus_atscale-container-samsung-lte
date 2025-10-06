@@ -1,0 +1,6 @@
+unique_name: DLRECEIVEDCQIMIN_CQI_SCELL
+object_type: metric
+label: DLReceivedCQIMin_CQI
+calculation_method: sum
+dataset: lte-dl-wideband-cqi-scell
+column: DLReceivedCQIMin_CQI

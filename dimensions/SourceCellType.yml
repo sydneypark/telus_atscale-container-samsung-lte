@@ -1,0 +1,22 @@
+unique_name: SourceCellType
+object_type: dimension
+label: SourceCellType
+is_degenerate: true
+hierarchies:
+- unique_name: SourceCellType Hierarchy
+  label: SourceCellType Hierarchy
+  levels:
+  - unique_name: SourceCellType
+level_attributes:
+- unique_name: SourceCellType
+  label: SourceCellType Level
+  shared_degenerate_columns:
+  - name_column: SourceCellType
+    key_columns:
+    - SourceCellType
+    dataset: nr-ncgi-report
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

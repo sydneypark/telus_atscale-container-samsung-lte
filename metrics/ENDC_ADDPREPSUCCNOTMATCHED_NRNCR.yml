@@ -1,0 +1,6 @@
+unique_name: ENDC_ADDPREPSUCCNOTMATCHED_NRNCR
+object_type: metric
+label: EnDc_AddPrepSuccNotMatched_NrNcr_count
+calculation_method: sum
+dataset: lte-en-dc-addition-information-per-nr-ncr
+column: EnDc_AddPrepSuccNotMatched_NrNcr_count

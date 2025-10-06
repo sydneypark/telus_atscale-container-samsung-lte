@@ -1,0 +1,34 @@
+unique_name: RuPort
+object_type: dimension
+label: RuPort
+is_degenerate: true
+hierarchies:
+- unique_name: RuPort Hierarchy
+  label: RuPort Hierarchy
+  levels:
+  - unique_name: RuPort
+level_attributes:
+- unique_name: RuPort
+  label: RuPort Level
+  shared_degenerate_columns:
+  - name_column: RuPort
+    key_columns:
+    - RuPort
+    dataset: lte-laa-channel-status
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: RuPort
+    key_columns:
+    - RuPort
+    dataset: lte-ru-power-consumption
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: RuPort
+    key_columns:
+    - RuPort
+    dataset: lte-ru-temperature
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

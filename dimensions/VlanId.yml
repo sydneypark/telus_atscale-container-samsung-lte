@@ -1,0 +1,22 @@
+unique_name: VlanID
+object_type: dimension
+label: VlanID
+is_degenerate: true
+hierarchies:
+- unique_name: VlanID Hierarchy
+  label: VlanID Hierarchy
+  levels:
+  - unique_name: VlanID
+level_attributes:
+- unique_name: VlanID
+  label: VlanID Level
+  shared_degenerate_columns:
+  - name_column: VlanID
+    key_columns:
+    - VlanID
+    dataset: nr-ethernet-packet-per-vlan
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

@@ -1,0 +1,6 @@
+unique_name: RXDROPPACKETCNT
+object_type: metric
+label: RxDropPacketCnt_count
+calculation_method: sum
+dataset: lte-ethernet-packet-per-vlan
+column: RxDropPacketCnt_count

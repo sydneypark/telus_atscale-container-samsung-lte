@@ -1,0 +1,6 @@
+unique_name: INTRAHOOUTFORCASUCC
+object_type: metric
+label: IntraHoOutforCaSucc_count
+calculation_method: sum
+dataset: lte-inter-frequency-handover-for-ca
+column: IntraHoOutforCaSucc_count

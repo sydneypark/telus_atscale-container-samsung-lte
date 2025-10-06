@@ -1,0 +1,6 @@
+unique_name: _0X031A_ECCTMOUT_S1MMESTATUSTRANSFER_EMTC_CALL_FAIL
+object_type: metric
+label: _0x031A_EccTmout_S1MmeStatusTransfer_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x031A_EccTmout_S1MmeStatusTransfer_count

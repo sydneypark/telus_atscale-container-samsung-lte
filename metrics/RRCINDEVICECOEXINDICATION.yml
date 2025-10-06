@@ -1,0 +1,6 @@
+unique_name: RRCINDEVICECOEXINDICATION
+object_type: metric
+label: RrcInDeviceCoexIndication_count
+calculation_method: sum
+dataset: lte-rrc-message-per-cell
+column: RrcInDeviceCoexIndication_count

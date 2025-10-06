@@ -1,0 +1,6 @@
+unique_name: IRATNRMRCLASSIFICATIONCID_TARGETNRARFCNDL
+object_type: metric
+label: IratNrMrClassificationCid_TargetNRArfcnDl
+calculation_method: sum
+dataset: lte-inter-rat-nr-mr-classification
+column: IratNrMrClassificationCid_TargetNRArfcnDl

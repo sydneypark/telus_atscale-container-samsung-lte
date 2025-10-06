@@ -1,0 +1,6 @@
+unique_name: PLMNCSFBPREPATTEMPT
+object_type: metric
+label: PLMNCSFBPrepAttempt_count
+calculation_method: sum
+dataset: lte-csfb-preparation-per-plmn
+column: PLMNCSFBPrepAttempt_count

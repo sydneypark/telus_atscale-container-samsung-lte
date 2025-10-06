@@ -1,0 +1,6 @@
+unique_name: TOTGBRPRBULMIN
+object_type: metric
+label: TotGbrPrbULMin_pct
+calculation_method: sum
+dataset: lte-total-prb-usage
+column: TotGbrPrbULMin_pct

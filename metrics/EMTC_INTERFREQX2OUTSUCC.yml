@@ -1,0 +1,6 @@
+unique_name: EMTC_INTERFREQX2OUTSUCC
+object_type: metric
+label: eMTC_InterFreqX2OutSucc_count
+calculation_method: sum
+dataset: lte-emtc-volte-handover-out
+column: eMTC_InterFreqX2OutSucc_count

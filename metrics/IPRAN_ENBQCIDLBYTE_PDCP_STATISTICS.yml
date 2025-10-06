@@ -1,0 +1,6 @@
+unique_name: IPRAN_ENBQCIDLBYTE_PDCP_STATISTICS
+object_type: metric
+label: IPRAN_EnbQciDLByte_Kbytes
+calculation_method: sum
+dataset: lte-ipran-pdcp-packet-statistics
+column: IPRAN_EnbQciDLByte_Kbytes

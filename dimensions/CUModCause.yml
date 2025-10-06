@@ -1,0 +1,28 @@
+unique_name: CUModCause
+object_type: dimension
+label: CUModCause
+is_degenerate: true
+hierarchies:
+- unique_name: CUModCause Hierarchy
+  label: CUModCause Hierarchy
+  levels:
+  - unique_name: CUModCause
+level_attributes:
+- unique_name: CUModCause
+  label: CUModCause Level
+  shared_degenerate_columns:
+  - name_column: CUModCause
+    key_columns:
+    - CUModCause
+    dataset: nr-cu-initiated-f1-ue-context-modification-in-gnb-cu
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CUModCause
+    key_columns:
+    - CUModCause
+    dataset: nr-cu-initiated-f1-ue-context-modification-in-gnb-cu-with-du-id
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

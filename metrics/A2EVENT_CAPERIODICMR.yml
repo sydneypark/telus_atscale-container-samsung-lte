@@ -1,0 +1,6 @@
+unique_name: A2EVENT_CAPERIODICMR
+object_type: metric
+label: A2event_CaPeriodicMr_count
+calculation_method: sum
+dataset: lte-mrs-triggered-by-serving-cell
+column: A2event_CaPeriodicMr_count

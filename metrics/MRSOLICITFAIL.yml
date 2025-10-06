@@ -1,0 +1,6 @@
+unique_name: MRSOLICITFAIL
+object_type: metric
+label: MrSolicitFail_count
+calculation_method: sum
+dataset: lte-preemption-handover
+column: MrSolicitFail_count

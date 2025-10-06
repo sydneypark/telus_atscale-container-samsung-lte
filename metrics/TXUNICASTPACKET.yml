@@ -1,0 +1,6 @@
+unique_name: TXUNICASTPACKET
+object_type: metric
+label: TxUnicastPacket_count
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: TxUnicastPacket_count

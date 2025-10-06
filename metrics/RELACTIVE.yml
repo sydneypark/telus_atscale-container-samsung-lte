@@ -1,0 +1,6 @@
+unique_name: RELACTIVE
+object_type: metric
+label: RelActive_count
+calculation_method: sum
+dataset: lte-e-rab-release
+column: RelActive_count

@@ -1,0 +1,6 @@
+unique_name: NRACTIVATIONCNT
+object_type: metric
+label: NrActivationCnt_count
+calculation_method: sum
+dataset: lte-energy-saving-feature-orchestration
+column: NrActivationCnt_count

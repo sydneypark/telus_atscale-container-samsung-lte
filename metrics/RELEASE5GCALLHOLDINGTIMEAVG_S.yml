@@ -1,0 +1,6 @@
+unique_name: RELEASE5GCALLHOLDINGTIMEAVG_S
+object_type: metric
+label: Release5GCallHoldingTimeAvg_s
+calculation_method: sum
+dataset: lte-5g-capable-rrc-connection-number
+column: Release5GCallHoldingTimeAvg_s

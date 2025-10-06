@@ -1,0 +1,6 @@
+unique_name: CONNRELEASE_UPRLCFAIL
+object_type: metric
+label: ConnRelease_UpRlcFail_count
+calculation_method: sum
+dataset: lte-rrc-connection-release
+column: ConnRelease_UpRlcFail_count

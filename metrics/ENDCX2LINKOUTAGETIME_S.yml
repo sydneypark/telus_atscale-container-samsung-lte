@@ -1,0 +1,6 @@
+unique_name: ENDCX2LINKOUTAGETIME_S
+object_type: metric
+label: EndcX2LinkOutageTime_s
+calculation_method: sum
+dataset: lte-en-dc-x2-link-time
+column: EndcX2LinkOutageTime_s

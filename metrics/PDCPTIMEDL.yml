@@ -1,0 +1,6 @@
+unique_name: PDCPTIMEDL
+object_type: metric
+label: PdcpTimeDl_ms
+calculation_method: sum
+dataset: lte-pdcp-packet
+column: PdcpTimeDl_ms

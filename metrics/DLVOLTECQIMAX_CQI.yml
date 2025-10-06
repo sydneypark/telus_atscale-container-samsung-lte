@@ -1,0 +1,6 @@
+unique_name: DLVOLTECQIMAX_CQI
+object_type: metric
+label: DLVoLTECQIMax_CQI
+calculation_method: sum
+dataset: lte-cqi-for-dl-volte-bearer
+column: DLVoLTECQIMax_CQI

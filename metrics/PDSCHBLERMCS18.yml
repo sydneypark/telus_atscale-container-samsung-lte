@@ -1,0 +1,6 @@
+unique_name: PDSCHBLERMCS18
+object_type: metric
+label: PdschBlerMcs18_pct
+calculation_method: sum
+dataset: lte-mcs
+column: PdschBlerMcs18_pct

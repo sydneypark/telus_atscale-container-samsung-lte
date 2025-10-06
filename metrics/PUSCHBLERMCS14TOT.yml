@@ -1,0 +1,6 @@
+unique_name: PUSCHBLERMCS14TOT
+object_type: metric
+label: PuschBlerMcs14Tot_count
+calculation_method: sum
+dataset: lte-mcs
+column: PuschBlerMcs14Tot_count

@@ -1,0 +1,6 @@
+unique_name: TOTPRBDLAVG_PCELL
+object_type: metric
+label: TotPrbDLAvg_Pcell_pct
+calculation_method: sum
+dataset: lte-mac-counter-for-intersite-ca-using-nonideal-backhaul
+column: TotPrbDLAvg_Pcell_pct

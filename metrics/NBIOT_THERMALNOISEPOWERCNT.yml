@@ -1,0 +1,6 @@
+unique_name: NBIOT_THERMALNOISEPOWERCNT
+object_type: metric
+label: NBIoT_ThermalNoisePowerCnt_count
+calculation_method: sum
+dataset: lte-nb-iot-average-thermal-noise
+column: NBIoT_ThermalNoisePowerCnt_count

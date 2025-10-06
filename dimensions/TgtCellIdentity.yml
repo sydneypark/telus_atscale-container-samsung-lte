@@ -1,0 +1,40 @@
+unique_name: TgtCellIdentity
+object_type: dimension
+label: TgtCellIdentity
+is_degenerate: true
+hierarchies:
+- unique_name: TgtCellIdentity Hierarchy
+  label: TgtCellIdentity Hierarchy
+  levels:
+  - unique_name: TgtCellIdentity
+level_attributes:
+- unique_name: TgtCellIdentity
+  label: TgtCellIdentity Level
+  shared_degenerate_columns:
+  - name_column: TgtCellIdentity
+    key_columns:
+    - TgtCellIdentity
+    dataset: nr-inter-du-pscell-change-getting-back
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TgtCellIdentity
+    key_columns:
+    - TgtCellIdentity
+    dataset: nr-intra-sn-pscell-change-per-gnb-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TgtCellIdentity
+    key_columns:
+    - TgtCellIdentity
+    dataset: nr-spcell-change-time-in-case-of-using-rrc-reconfiguratio-1
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TgtCellIdentity
+    key_columns:
+    - TgtCellIdentity
+    dataset: nr-spcell-change-time-in-case-of-using-rrc-reconfiguratio-2
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

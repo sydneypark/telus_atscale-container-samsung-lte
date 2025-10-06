@@ -1,0 +1,6 @@
+unique_name: PDCPULTHRUBIN2_PRC
+object_type: metric
+label: PdcpULThruBin2_Prc_count
+calculation_method: sum
+dataset: lte-pdcp-ul-throughput-distribution-per-prc
+column: PdcpULThruBin2_Prc_count

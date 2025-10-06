@@ -1,0 +1,6 @@
+unique_name: RATUTRANOUTFAIL_UPRLCFAIL
+object_type: metric
+label: RatUtranOutFail_UpRlcFail_count
+calculation_method: sum
+dataset: lte-inter-rat-utran-ps-out-handover
+column: RatUtranOutFail_UpRlcFail_count

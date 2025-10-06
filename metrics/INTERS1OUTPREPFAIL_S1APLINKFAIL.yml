@@ -1,0 +1,6 @@
+unique_name: INTERS1OUTPREPFAIL_S1APLINKFAIL
+object_type: metric
+label: InterS1OutPrepFail_S1apLinkFail_count
+calculation_method: sum
+dataset: lte-s1-out-handover
+column: InterS1OutPrepFail_S1apLinkFail_count

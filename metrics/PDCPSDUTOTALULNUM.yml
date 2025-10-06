@@ -1,0 +1,6 @@
+unique_name: PDCPSDUTOTALULNUM
+object_type: metric
+label: PdcpSduTotalULNum_count
+calculation_method: sum
+dataset: lte-packet-loss-rate
+column: PdcpSduTotalULNum_count

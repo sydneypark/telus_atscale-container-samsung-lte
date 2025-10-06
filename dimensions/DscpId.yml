@@ -1,0 +1,22 @@
+unique_name: DscpId
+object_type: dimension
+label: DscpId
+is_degenerate: true
+hierarchies:
+- unique_name: DscpId Hierarchy
+  label: DscpId Hierarchy
+  levels:
+  - unique_name: DscpId
+level_attributes:
+- unique_name: DscpId
+  label: DscpId Level
+  shared_degenerate_columns:
+  - name_column: DscpId
+    key_columns:
+    - DscpId
+    dataset: lte-gtp-downlink-traffic-control-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

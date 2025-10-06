@@ -1,0 +1,6 @@
+unique_name: ENBQCIULTHRU_PRC
+object_type: metric
+label: EnbQciULThru_Kbps
+calculation_method: sum
+dataset: lte-pdcp-packet-per-prc
+column: EnbQciULThru_Kbps

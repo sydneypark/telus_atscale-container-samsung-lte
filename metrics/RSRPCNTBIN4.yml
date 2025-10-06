@@ -1,0 +1,6 @@
+unique_name: RSRPCNTBIN4
+object_type: metric
+label: RsrpCntBin4_count
+calculation_method: sum
+dataset: lte-histogram-of-rsrp-and-rsrq-for-rqa
+column: RsrpCntBin4_count

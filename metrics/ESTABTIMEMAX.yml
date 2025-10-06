@@ -1,0 +1,6 @@
+unique_name: ESTABTIMEMAX
+object_type: metric
+label: EstabTimeMax_ms
+calculation_method: sum
+dataset: lte-e-rab-setup-time
+column: EstabTimeMax_ms

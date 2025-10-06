@@ -1,0 +1,6 @@
+unique_name: INTRAFREQOUTFAIL_UPPDCPFAIL
+object_type: metric
+label: IntraFreqOutFail_UpPdcpFail_count
+calculation_method: sum
+dataset: lte-outgoing-intra-frequency-handover
+column: IntraFreqOutFail_UpPdcpFail_count

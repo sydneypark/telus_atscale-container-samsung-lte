@@ -1,0 +1,6 @@
+unique_name: TOTULMUMIMOUTILIZEDTTI_TTI_MASSIVE_MIMO_CONFIGURATION
+object_type: metric
+label: TotULMuMimoUtilizedTti_TTI
+calculation_method: sum
+dataset: lte-uplink-multi-user-mimo-in-massive-mimo-configuration
+column: TotULMuMimoUtilizedTti_TTI

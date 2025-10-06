@@ -1,0 +1,6 @@
+unique_name: COMPOSITEAVAILCAPA
+object_type: metric
+label: CompositeAvailCapa_pct
+calculation_method: sum
+dataset: lte-eicic-partnership
+column: CompositeAvailCapa_pct

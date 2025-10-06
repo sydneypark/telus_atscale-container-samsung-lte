@@ -1,0 +1,6 @@
+unique_name: SINRDISTULWBPRECOMP_BIN18
+object_type: metric
+label: SinrDistULWbPreComp_Bin18_count
+calculation_method: sum
+dataset: lte-sinr-distribution
+column: SinrDistULWbPreComp_Bin18_count

@@ -1,0 +1,46 @@
+unique_name: TargetNRArfcnDl
+object_type: dimension
+label: TargetNRArfcnDl
+is_degenerate: true
+hierarchies:
+- unique_name: TargetNRArfcnDl Hierarchy
+  label: TargetNRArfcnDl Hierarchy
+  levels:
+  - unique_name: TargetNRArfcnDl
+level_attributes:
+- unique_name: TargetNRArfcnDl
+  label: TargetNRArfcnDl Level
+  shared_degenerate_columns:
+  - name_column: TargetNRArfcnDl
+    key_columns:
+    - TargetNRArfcnDl
+    dataset: lte-air-rlc-packet-per-plmn-per-en-dc-status-per-nrarfcn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetNRArfcnDl
+    key_columns:
+    - TargetNRArfcnDl
+    dataset: lte-histogram-rqa-nr
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetNRArfcnDl
+    key_columns:
+    - TargetNRArfcnDl
+    dataset: lte-inter-rat-mro-for-nr
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetNRArfcnDl
+    key_columns:
+    - TargetNRArfcnDl
+    dataset: lte-inter-rat-nr-mr-classification
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetNRArfcnDl
+    key_columns:
+    - TargetNRArfcnDl
+    dataset: lte-redirection-nr-out
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

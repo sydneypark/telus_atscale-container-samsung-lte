@@ -1,0 +1,6 @@
+unique_name: FRCHGREFUSE_RLO
+object_type: metric
+label: FRChgRefuse_RLO_count
+calculation_method: sum
+dataset: lte-not-allowed-pscell-change
+column: FRChgRefuse_RLO_count

@@ -1,0 +1,6 @@
+unique_name: SCELLACTIVATION_3CC
+object_type: metric
+label: SCellActivation_3CC_count
+calculation_method: sum
+dataset: lte-ca-activation-information-per-cc-type
+column: SCellActivation_3CC_count

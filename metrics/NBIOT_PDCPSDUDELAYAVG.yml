@@ -1,0 +1,6 @@
+unique_name: NBIOT_PDCPSDUDELAYAVG
+object_type: metric
+label: NBIoT_PdcpSduDelayAvg_ms
+calculation_method: sum
+dataset: lte-nb-iot-packet-delay
+column: NBIoT_PdcpSduDelayAvg_ms

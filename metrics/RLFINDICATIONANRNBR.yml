@@ -1,0 +1,6 @@
+unique_name: RLFINDICATIONANRNBR
+object_type: metric
+label: RlfIndicationAnrNbr_count
+calculation_method: sum
+dataset: lte-the-number-of-neighbor-relations
+column: RlfIndicationAnrNbr_count

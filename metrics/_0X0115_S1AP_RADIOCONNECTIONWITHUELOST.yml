@@ -1,0 +1,6 @@
+unique_name: _0X0115_S1AP_RADIOCONNECTIONWITHUELOST
+object_type: metric
+label: _0x0115_S1ap_RadioConnectionWithUELost_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0115_S1ap_RadioConnectionWithUELost_count

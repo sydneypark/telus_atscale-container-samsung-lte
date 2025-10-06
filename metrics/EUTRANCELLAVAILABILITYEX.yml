@@ -1,0 +1,6 @@
+unique_name: EUTRANCELLAVAILABILITYEX
+object_type: metric
+label: EutranCellAvailabilityEx_pct
+calculation_method: sum
+dataset: lte-availability
+column: EutranCellAvailabilityEx_pct

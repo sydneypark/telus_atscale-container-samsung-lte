@@ -1,0 +1,6 @@
+unique_name: MRRQACID_NEIGHBORCELL_ID
+object_type: metric
+label: MrRqaCid_NeighborCell_ID
+calculation_method: sum
+dataset: lte-measurement-report-for-rqa
+column: MrRqaCid_NeighborCell_ID

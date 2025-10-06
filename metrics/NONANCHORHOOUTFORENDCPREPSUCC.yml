@@ -1,0 +1,6 @@
+unique_name: NONANCHORHOOUTFORENDCPREPSUCC
+object_type: metric
+label: NonAnchorHoOutforEnDcPrepSucc_count
+calculation_method: sum
+dataset: lte-anchor-selection-for-en-dc
+column: NonAnchorHoOutforEnDcPrepSucc_count

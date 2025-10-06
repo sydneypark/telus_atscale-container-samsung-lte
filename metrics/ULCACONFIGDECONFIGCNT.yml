@@ -1,0 +1,6 @@
+unique_name: ULCACONFIGDECONFIGCNT
+object_type: metric
+label: ULCaConfigDeconfigCnt_count
+calculation_method: sum
+dataset: lte-uplink-carrier-aggregation-count-for-configuration-deconfig
+column: ULCaConfigDeconfigCnt_count

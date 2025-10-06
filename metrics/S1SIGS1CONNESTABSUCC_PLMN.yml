@@ -1,0 +1,6 @@
+unique_name: S1SIGS1CONNESTABSUCC_PLMN
+object_type: metric
+label: S1sigS1ConnEstabSucc_PLMN_count
+calculation_method: sum
+dataset: lte-accessibility-data-per-plmn-per-cell
+column: S1sigS1ConnEstabSucc_PLMN_count

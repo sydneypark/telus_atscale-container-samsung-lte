@@ -1,0 +1,6 @@
+unique_name: DLTRANSMITTEDMCS14_TM7SU_256QAM
+object_type: metric
+label: DLTransmittedMcs14_TM7SU_256QAM_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-downlink-mcs-256qam
+column: DLTransmittedMcs14_TM7SU_256QAM_count

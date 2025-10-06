@@ -1,0 +1,6 @@
+unique_name: NODRXOUTPREPFAIL_CPCCFAIL_EMTC_OUTGOING_HANDOVER_WITHOUT_DRX
+object_type: metric
+label: NoDrxOutPrepFail_CpCcFail_count
+calculation_method: sum
+dataset: lte-emtc-outgoing-handover-without-drx
+column: NoDrxOutPrepFail_CpCcFail_count

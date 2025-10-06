@@ -1,0 +1,6 @@
+unique_name: ECGIFAILAUTOGAP_ETC
+object_type: metric
+label: EcgiFailAutoGap_Etc_count
+calculation_method: sum
+dataset: lte-ecgi-report
+column: EcgiFailAutoGap_Etc_count

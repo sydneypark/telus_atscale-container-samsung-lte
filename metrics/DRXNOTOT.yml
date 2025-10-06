@@ -1,0 +1,6 @@
+unique_name: DRXNOTOT
+object_type: metric
+label: DrxNoTot_count
+calculation_method: sum
+dataset: lte-active-drx
+column: DrxNoTot_count

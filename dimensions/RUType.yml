@@ -1,0 +1,22 @@
+unique_name: RUType
+object_type: dimension
+label: RUType
+is_degenerate: true
+hierarchies:
+- unique_name: RUType Hierarchy
+  label: RUType Hierarchy
+  levels:
+  - unique_name: RUType
+level_attributes:
+- unique_name: RUType
+  label: RUType Level
+  shared_degenerate_columns:
+  - name_column: RUType
+    key_columns:
+    - RUType
+    dataset: nr-radio-unit-type-measurement
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

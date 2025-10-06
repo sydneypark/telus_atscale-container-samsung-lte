@@ -1,0 +1,46 @@
+unique_name: TgtNrArfcn
+object_type: dimension
+label: TgtNrArfcn
+is_degenerate: true
+hierarchies:
+- unique_name: TgtNrArfcn Hierarchy
+  label: TgtNrArfcn Hierarchy
+  levels:
+  - unique_name: TgtNrArfcn
+level_attributes:
+- unique_name: TgtNrArfcn
+  label: TgtNrArfcn Level
+  shared_degenerate_columns:
+  - name_column: TgtNrArfcn
+    key_columns:
+    - TgtNrArfcn
+    dataset: nr-idle-load-balancing
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TgtNrArfcn
+    key_columns:
+    - TgtNrArfcn
+    dataset: nr-intra-nr-inter-frequency-outgoing-handover
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TgtNrArfcn
+    key_columns:
+    - TgtNrArfcn
+    dataset: nr-intra-nr-inter-frequency-outgoing-handover-with-du-identifie
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TgtNrArfcn
+    key_columns:
+    - TgtNrArfcn
+    dataset: nr-measurement-report-nr-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TgtNrArfcn
+    key_columns:
+    - TgtNrArfcn
+    dataset: nr-nr-measurement-pcis-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

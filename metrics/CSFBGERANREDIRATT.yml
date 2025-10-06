@@ -1,0 +1,6 @@
+unique_name: CSFBGERANREDIRATT
+object_type: metric
+label: CSFBGeranRedirAtt_count
+calculation_method: sum
+dataset: lte-csfb-geran-redirection
+column: CSFBGeranRedirAtt_count

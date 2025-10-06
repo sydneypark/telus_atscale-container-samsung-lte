@@ -1,0 +1,6 @@
+unique_name: ENDCADDLTEHONOSGNBCHGATT
+object_type: metric
+label: EndcAddLteHoNoSgnbChgAtt_count
+calculation_method: sum
+dataset: lte-telus-pm-samsung-nr-sgnb-addition-due-to-intra-lte-handover
+column: EndcAddLteHoNoSgnbChgAtt_count

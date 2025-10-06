@@ -1,0 +1,6 @@
+unique_name: DUBEARERSTATUSCNTMAX
+object_type: metric
+label: DuBearerStatusCntMax_count
+calculation_method: sum
+dataset: lte-lte-served-bearer-status-per-du
+column: DuBearerStatusCntMax_count

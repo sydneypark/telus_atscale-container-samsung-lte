@@ -1,0 +1,6 @@
+unique_name: HOTRIGGERINGSCELLRSRPEVENTA3TOT_DBM_EMTC_MEASUREMENT_RESULTS
+object_type: metric
+label: HoTriggeringScellRsrpEventA3Tot_dBm
+calculation_method: sum
+dataset: lte-emtc-measurement-results-of-source-cell
+column: HoTriggeringScellRsrpEventA3Tot_dBm

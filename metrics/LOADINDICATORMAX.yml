@@ -1,0 +1,6 @@
+unique_name: LOADINDICATORMAX
+object_type: metric
+label: LoadIndicatorMax_pct
+calculation_method: sum
+dataset: lte-load
+column: LoadIndicatorMax_pct

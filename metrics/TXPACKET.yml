@@ -1,0 +1,6 @@
+unique_name: TXPACKET
+object_type: metric
+label: TxPacket_count
+calculation_method: sum
+dataset: lte-ethernet-packet-per-vlan
+column: TxPacket_count

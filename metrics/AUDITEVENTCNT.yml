@@ -1,0 +1,6 @@
+unique_name: AUDITEVENTCNT
+object_type: metric
+label: AuditEventCnt_count
+calculation_method: sum
+dataset: lte-energy-saving-feature-orchestration
+column: AuditEventCnt_count

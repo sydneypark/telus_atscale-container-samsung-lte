@@ -1,0 +1,6 @@
+unique_name: HOTIMECID_SCID
+object_type: metric
+label: HoTimeCid_scID
+calculation_method: sum
+dataset: lte-handover-time
+column: HoTimeCid_scID

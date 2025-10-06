@@ -1,0 +1,6 @@
+unique_name: ULTRANSMISSIONRETRANS14
+object_type: metric
+label: ULTransmissionRetrans14_count
+calculation_method: sum
+dataset: lte-uplink-harq-transmission-bler
+column: ULTransmissionRetrans14_count

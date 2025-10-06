@@ -1,0 +1,6 @@
+unique_name: RATNRINSUCC
+object_type: metric
+label: RatNrInSucc_count
+calculation_method: sum
+dataset: lte-inter-rat-nr-incoming-handover
+column: RatNrInSucc_count

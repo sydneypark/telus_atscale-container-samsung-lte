@@ -1,0 +1,6 @@
+unique_name: NBIOT_TOTALS1APRX
+object_type: metric
+label: NBIoT_TotalS1apRx_count
+calculation_method: sum
+dataset: lte-nb-iot-s1ap-message
+column: NBIoT_TotalS1apRx_count

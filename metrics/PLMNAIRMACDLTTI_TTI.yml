@@ -1,0 +1,6 @@
+unique_name: PLMNAIRMACDLTTI_TTI
+object_type: metric
+label: PLMNAirMacDLTti_TTI
+calculation_method: sum
+dataset: lte-air-mac-packet-per-plmn
+column: PLMNAirMacDLTti_TTI

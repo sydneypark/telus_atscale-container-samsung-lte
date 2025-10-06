@@ -1,0 +1,6 @@
+unique_name: EMTC_CONNESTABTIMEMAX
+object_type: metric
+label: eMTC_ConnEstabTimeMax_ms
+calculation_method: sum
+dataset: lte-emtc-rrc-connection-setup-time
+column: eMTC_ConnEstabTimeMax_ms

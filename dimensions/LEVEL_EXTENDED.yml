@@ -1,0 +1,22 @@
+unique_name: LEVEL_EXTENDED
+object_type: dimension
+label: LEVEL_EXTENDED
+is_degenerate: true
+hierarchies:
+- unique_name: LEVEL_EXTENDED Hierarchy
+  label: LEVEL_EXTENDED Hierarchy
+  levels:
+  - unique_name: LEVEL_EXTENDED
+level_attributes:
+- unique_name: LEVEL_EXTENDED
+  label: LEVEL_EXTENDED Level
+  shared_degenerate_columns:
+  - name_column: LEVEL_EXTENDED
+    key_columns:
+    - LEVEL_EXTENDED
+    dataset: lte-uplink-extended-iot-level
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

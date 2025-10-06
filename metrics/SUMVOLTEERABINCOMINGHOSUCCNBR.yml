@@ -1,0 +1,6 @@
+unique_name: SUMVOLTEERABINCOMINGHOSUCCNBR
+object_type: metric
+label: SumVoLTEErabIncomingHoSuccNbr_count
+calculation_method: sum
+dataset: lte-volte-quality
+column: SumVoLTEErabIncomingHoSuccNbr_count

@@ -1,0 +1,6 @@
+unique_name: CREUECOUNTCNT
+object_type: metric
+label: CREUECountCnt_count
+calculation_method: sum
+dataset: lte-eicic-partnership
+column: CREUECountCnt_count

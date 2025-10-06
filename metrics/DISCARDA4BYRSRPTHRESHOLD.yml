@@ -1,0 +1,6 @@
+unique_name: DISCARDA4BYRSRPTHRESHOLD
+object_type: metric
+label: DiscardA4byRsrpThreshold_count
+calculation_method: sum
+dataset: lte-discard-mrs-by-handover-threshold
+column: DiscardA4byRsrpThreshold_count

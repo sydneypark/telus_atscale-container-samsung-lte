@@ -1,0 +1,22 @@
+unique_name: VrID
+object_type: dimension
+label: VrID
+is_degenerate: true
+hierarchies:
+- unique_name: VrID Hierarchy
+  label: VrID Hierarchy
+  levels:
+  - unique_name: VrID
+level_attributes:
+- unique_name: VrID
+  label: VrID Level
+  shared_degenerate_columns:
+  - name_column: VrID
+    key_columns:
+    - VrID
+    dataset: nr-ethernet-packet-per-vlan
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

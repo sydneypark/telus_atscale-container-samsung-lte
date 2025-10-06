@@ -1,0 +1,6 @@
+unique_name: HOTOWRONGCELLRLFAFTERHOINTERFREQATSETUP
+object_type: metric
+label: HoToWrongCellRlfAfterHOInterFreqAtSetup_count
+calculation_method: sum
+dataset: lte-mro-rlf-at-rrc-connection
+column: HoToWrongCellRlfAfterHOInterFreqAtSetup_count

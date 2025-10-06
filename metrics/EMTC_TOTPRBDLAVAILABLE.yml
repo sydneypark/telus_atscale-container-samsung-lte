@@ -1,0 +1,6 @@
+unique_name: EMTC_TOTPRBDLAVAILABLE
+object_type: metric
+label: eMTC_TotPrbDLAvailable_count
+calculation_method: sum
+dataset: lte-emtc-total-prb-usage
+column: eMTC_TotPrbDLAvailable_count

@@ -1,0 +1,6 @@
+unique_name: NUMMSG3DEDICATED
+object_type: metric
+label: NumMsg3Dedicated_count
+calculation_method: sum
+dataset: lte-random-access-preambles
+column: NumMsg3Dedicated_count

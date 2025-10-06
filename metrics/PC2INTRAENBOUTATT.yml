@@ -1,0 +1,6 @@
+unique_name: PC2INTRAENBOUTATT
+object_type: metric
+label: Pc2IntraEnbOutAtt_count
+calculation_method: sum
+dataset: lte-intra-enb-out-handover-of-power-class-2-ue
+column: Pc2IntraEnbOutAtt_count

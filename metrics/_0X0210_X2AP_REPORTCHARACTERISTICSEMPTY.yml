@@ -1,0 +1,6 @@
+unique_name: _0X0210_X2AP_REPORTCHARACTERISTICSEMPTY
+object_type: metric
+label: _0x0210_X2ap_ReportCharacteristicsEmpty_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0210_X2ap_ReportCharacteristicsEmpty_count

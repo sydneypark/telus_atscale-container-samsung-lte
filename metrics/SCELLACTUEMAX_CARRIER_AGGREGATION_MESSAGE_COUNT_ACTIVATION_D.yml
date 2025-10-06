@@ -1,0 +1,6 @@
+unique_name: SCELLACTUEMAX_CARRIER_AGGREGATION_MESSAGE_COUNT_ACTIVATION_D
+object_type: metric
+label: SCellActUEMax_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-message-count-for-activation-deactivati
+column: SCellActUEMax_count

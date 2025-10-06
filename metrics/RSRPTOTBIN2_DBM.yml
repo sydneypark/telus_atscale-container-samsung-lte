@@ -1,0 +1,6 @@
+unique_name: RSRPTOTBIN2_DBM
+object_type: metric
+label: RsrpTotBin2_dBm
+calculation_method: sum
+dataset: lte-histogram-of-rsrp-and-rsrq-for-rqa
+column: RsrpTotBin2_dBm

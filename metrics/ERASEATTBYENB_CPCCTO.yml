@@ -1,0 +1,6 @@
+unique_name: ERASEATTBYENB_CPCCTO
+object_type: metric
+label: EraseAttbyEnb_CpCcTo_count
+calculation_method: sum
+dataset: lte-e-rab-erase-request
+column: EraseAttbyEnb_CpCcTo_count

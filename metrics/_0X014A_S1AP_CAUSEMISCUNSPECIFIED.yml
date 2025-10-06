@@ -1,0 +1,6 @@
+unique_name: _0X014A_S1AP_CAUSEMISCUNSPECIFIED
+object_type: metric
+label: _0x014A_S1ap_CauseMiscUnspecified_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x014A_S1ap_CauseMiscUnspecified_count

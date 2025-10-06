@@ -1,0 +1,6 @@
+unique_name: RATNROUTATT_ENDCTOSAMETARGET
+object_type: metric
+label: RatNrOutAtt_EnDcToSameTarget_count
+calculation_method: sum
+dataset: lte-inter-rat-nr-outgoing-handover
+column: RatNrOutAtt_EnDcToSameTarget_count

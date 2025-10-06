@@ -1,0 +1,6 @@
+unique_name: TOTPRBDLWITHTM7MUAVG
+object_type: metric
+label: TotPrbDLWithTM7MUAvg_pct
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-downlink-prb-usage-per-tti
+column: TotPrbDLWithTM7MUAvg_pct

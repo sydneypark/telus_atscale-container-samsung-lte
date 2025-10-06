@@ -1,0 +1,28 @@
+unique_name: PortNum
+object_type: dimension
+label: PortNum
+is_degenerate: true
+hierarchies:
+- unique_name: PortNum Hierarchy
+  label: PortNum Hierarchy
+  levels:
+  - unique_name: PortNum
+level_attributes:
+- unique_name: PortNum
+  label: PortNum Level
+  shared_degenerate_columns:
+  - name_column: PortNum
+    key_columns:
+    - PortNum
+    dataset: lte-ethernet-packet
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PortNum
+    key_columns:
+    - PortNum
+    dataset: lte-histogram
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

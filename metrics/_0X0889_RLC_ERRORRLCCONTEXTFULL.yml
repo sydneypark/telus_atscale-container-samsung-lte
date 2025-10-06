@@ -1,0 +1,6 @@
+unique_name: _0X0889_RLC_ERRORRLCCONTEXTFULL
+object_type: metric
+label: _0x0889_Rlc_ErrorRlcContextFull_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0889_Rlc_ErrorRlcContextFull_count

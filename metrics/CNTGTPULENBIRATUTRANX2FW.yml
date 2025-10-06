@@ -1,0 +1,6 @@
+unique_name: CNTGTPULENBIRATUTRANX2FW
+object_type: metric
+label: CntGtpULEnbIRatUtranX2Fw_count
+calculation_method: sum
+dataset: lte-gtp-forward-traffic
+column: CntGtpULEnbIRatUtranX2Fw_count

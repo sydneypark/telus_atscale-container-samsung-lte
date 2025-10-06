@@ -1,0 +1,6 @@
+unique_name: CEMODEB_UEACTIVEULTOT
+object_type: metric
+label: CEModeB_UEActiveULTot_count
+calculation_method: sum
+dataset: lte-emtc-active-ue-number
+column: CEModeB_UEActiveULTot_count

@@ -1,0 +1,6 @@
+unique_name: TRANSVOLTAGEMIN_MV_LTE_MPLANE_TRANSCEIVER_ORU
+object_type: metric
+label: TransVoltageMin_mV
+calculation_method: sum
+dataset: lte-mplane-transceiver-of-oru
+column: TransVoltageMin_mV

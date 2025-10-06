@@ -1,0 +1,6 @@
+unique_name: RX_S1APINITIALCONTEXTSETUPREQUEST
+object_type: metric
+label: Rx_S1apInitialContextSetupRequest_count
+calculation_method: sum
+dataset: lte-s1-context-setup
+column: Rx_S1apInitialContextSetupRequest_count

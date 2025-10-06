@@ -1,0 +1,6 @@
+unique_name: RANNROUTSUCC
+object_type: metric
+label: RanNrOutSucc_count
+calculation_method: sum
+dataset: lte-inter-rat-mro-for-nr
+column: RanNrOutSucc_count

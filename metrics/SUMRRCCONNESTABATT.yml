@@ -1,0 +1,6 @@
+unique_name: SUMRRCCONNESTABATT
+object_type: metric
+label: SumRrcConnEstabAtt_count
+calculation_method: sum
+dataset: lte-accessibility
+column: SumRrcConnEstabAtt_count

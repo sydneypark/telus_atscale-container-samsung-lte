@@ -1,0 +1,6 @@
+unique_name: CAUECAPAENQUIRYADDITIONALSBCREDUCED
+object_type: metric
+label: CaUECapaEnquiryAdditionalSbcReduced_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-capable-ues-pcell
+column: CaUECapaEnquiryAdditionalSbcReduced_count

@@ -1,0 +1,6 @@
+unique_name: ENBQCIDLTHRUTOT
+object_type: metric
+label: EnbQciDLThruTot_Kbps
+calculation_method: sum
+dataset: lte-pdcp-packet
+column: EnbQciDLThruTot_Kbps

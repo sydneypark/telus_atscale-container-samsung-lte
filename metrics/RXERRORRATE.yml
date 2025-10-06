@@ -1,0 +1,6 @@
+unique_name: RXERRORRATE
+object_type: metric
+label: RxErrorRate_pct
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: RxErrorRate_pct

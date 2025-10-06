@@ -1,0 +1,6 @@
+unique_name: CELLCALLCONTEXTCNTMAX
+object_type: metric
+label: CellCallContextCntMax_count
+calculation_method: sum
+dataset: lte-lte-call-context-per-cell
+column: CellCallContextCntMax_count

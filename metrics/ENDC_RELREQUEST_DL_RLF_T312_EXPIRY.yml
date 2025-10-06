@@ -1,0 +1,6 @@
+unique_name: ENDC_RELREQUEST_DL_RLF_T312_EXPIRY
+object_type: metric
+label: EnDc_RelRequest_DL_RLF_t312_Expiry_count
+calculation_method: sum
+dataset: lte-en-dc-release-information
+column: EnDc_RelRequest_DL_RLF_t312_Expiry_count

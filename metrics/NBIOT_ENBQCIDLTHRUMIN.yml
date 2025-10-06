@@ -1,0 +1,6 @@
+unique_name: NBIOT_ENBQCIDLTHRUMIN
+object_type: metric
+label: NBIoT_EnbQciDLThruMin_Kbps
+calculation_method: sum
+dataset: lte-nb-iot-pdcp-packet
+column: NBIoT_EnbQciDLThruMin_Kbps

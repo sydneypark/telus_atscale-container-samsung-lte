@@ -1,0 +1,6 @@
+unique_name: ERABINFO_CALLDROP_ARQMAXRETRANSMISSION
+object_type: metric
+label: ErabInfo_CallDrop_ArqMaxReTransmission_count
+calculation_method: sum
+dataset: lte-e-rab-setup-modification-release-information-per-plmn-and-q
+column: ErabInfo_CallDrop_ArqMaxReTransmission_count

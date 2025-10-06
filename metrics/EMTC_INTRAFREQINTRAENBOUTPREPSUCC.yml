@@ -1,0 +1,6 @@
+unique_name: EMTC_INTRAFREQINTRAENBOUTPREPSUCC
+object_type: metric
+label: eMTC_IntraFreqIntraEnbOutPrepSucc_count
+calculation_method: sum
+dataset: lte-emtc-volte-handover-out
+column: eMTC_IntraFreqIntraEnbOutPrepSucc_count

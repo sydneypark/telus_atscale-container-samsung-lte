@@ -1,0 +1,6 @@
+unique_name: ULSCELLCONFIGATT
+object_type: metric
+label: ULScellConfigAtt_count
+calculation_method: sum
+dataset: lte-ul-carrier-aggregation-information
+column: ULScellConfigAtt_count

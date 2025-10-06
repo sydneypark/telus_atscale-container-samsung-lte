@@ -1,0 +1,6 @@
+unique_name: ERABINCOMINGHOATTEMPTNBR
+object_type: metric
+label: ErabIncomingHoAttemptNbr_count
+calculation_method: sum
+dataset: lte-call-drop-per-qci
+column: ErabIncomingHoAttemptNbr_count

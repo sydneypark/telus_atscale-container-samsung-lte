@@ -1,0 +1,6 @@
+unique_name: RRCUEINFORMATIONRESPONSE
+object_type: metric
+label: RrcUEInformationResponse_count
+calculation_method: sum
+dataset: lte-rrc-message-per-cell
+column: RrcUEInformationResponse_count

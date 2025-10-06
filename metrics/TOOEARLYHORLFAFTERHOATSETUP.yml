@@ -1,0 +1,6 @@
+unique_name: TOOEARLYHORLFAFTERHOATSETUP
+object_type: metric
+label: TooEarlyHoRlfAfterHOAtSetup_count
+calculation_method: sum
+dataset: lte-mro-rlf-at-rrc-connection
+column: TooEarlyHoRlfAfterHOAtSetup_count

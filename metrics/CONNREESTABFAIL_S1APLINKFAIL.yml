@@ -1,0 +1,6 @@
+unique_name: CONNREESTABFAIL_S1APLINKFAIL
+object_type: metric
+label: ConnReEstabFail_S1apLinkFail_count
+calculation_method: sum
+dataset: lte-rrc-connection-re-establishment
+column: ConnReEstabFail_S1apLinkFail_count

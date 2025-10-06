@@ -1,0 +1,6 @@
+unique_name: COMMONCCEAGG4
+object_type: metric
+label: CommonCceAgg4_count
+calculation_method: sum
+dataset: lte-pdcch-usage-information
+column: CommonCceAgg4_count

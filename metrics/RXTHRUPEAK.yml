@@ -1,0 +1,6 @@
+unique_name: RXTHRUPEAK
+object_type: metric
+label: RxThruPeak_Mbps
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: RxThruPeak_Mbps

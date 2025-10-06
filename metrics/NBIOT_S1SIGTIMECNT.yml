@@ -1,0 +1,6 @@
+unique_name: NBIOT_S1SIGTIMECNT
+object_type: metric
+label: NBIoT_S1SigTimeCnt_count
+calculation_method: sum
+dataset: lte-nb-iot-s1-connection-time
+column: NBIoT_S1SigTimeCnt_count

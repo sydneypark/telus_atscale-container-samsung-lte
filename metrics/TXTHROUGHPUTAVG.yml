@@ -1,0 +1,6 @@
+unique_name: TXTHROUGHPUTAVG
+object_type: metric
+label: TxThroughputAvg_Mbps
+calculation_method: sum
+dataset: lte-ethernet-packet-per-vlan
+column: TxThroughputAvg_Mbps

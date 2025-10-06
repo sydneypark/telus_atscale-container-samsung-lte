@@ -1,0 +1,6 @@
+unique_name: NODRXOUTSUCC_EMTC_OUTGOING_HANDOVER_WITHOUT_DRX
+object_type: metric
+label: NoDrxOutSucc_count
+calculation_method: sum
+dataset: lte-emtc-outgoing-handover-without-drx
+column: NoDrxOutSucc_count

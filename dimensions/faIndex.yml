@@ -1,0 +1,40 @@
+unique_name: faIndex
+object_type: dimension
+label: faIndex
+is_degenerate: true
+hierarchies:
+- unique_name: faIndex Hierarchy
+  label: faIndex Hierarchy
+  levels:
+  - unique_name: faIndex
+level_attributes:
+- unique_name: faIndex
+  label: faIndex Level
+  shared_degenerate_columns:
+  - name_column: faIndex
+    key_columns:
+    - faIndex
+    dataset: lte-ondemand-handover-intraenb-out
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: faIndex
+    key_columns:
+    - faIndex
+    dataset: lte-ondemand-handover-s1-out
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: faIndex
+    key_columns:
+    - faIndex
+    dataset: lte-ondemand-handover-x2-out
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: faIndex
+    key_columns:
+    - faIndex
+    dataset: lte-ondemand-redirection
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

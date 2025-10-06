@@ -1,0 +1,6 @@
+unique_name: _0X011D_S1AP_INTERACTIONWITHOTHERPROCEDURE
+object_type: metric
+label: _0x011D_S1ap_InteractionWithOtherProcedure_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x011D_S1ap_InteractionWithOtherProcedure_count

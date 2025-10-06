@@ -1,0 +1,6 @@
+unique_name: DISKUSAGECNT
+object_type: metric
+label: DiskUsageCnt_count
+calculation_method: sum
+dataset: lte-resource
+column: DiskUsageCnt_count

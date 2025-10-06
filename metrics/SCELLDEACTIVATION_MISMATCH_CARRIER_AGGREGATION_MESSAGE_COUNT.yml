@@ -1,0 +1,6 @@
+unique_name: SCELLDEACTIVATION_MISMATCH_CARRIER_AGGREGATION_MESSAGE_COUNT
+object_type: metric
+label: SCellDeactivation_Mismatch_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-message-count-for-activation-deactivati
+column: SCellDeactivation_Mismatch_count

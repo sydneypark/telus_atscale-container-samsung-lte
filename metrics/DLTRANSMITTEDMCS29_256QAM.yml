@@ -1,0 +1,6 @@
+unique_name: DLTRANSMITTEDMCS29_256QAM
+object_type: metric
+label: DLTransmittedMcs29_256QAM_count
+calculation_method: sum
+dataset: lte-dl-mcs-in-256qam
+column: DLTransmittedMcs29_256QAM_count

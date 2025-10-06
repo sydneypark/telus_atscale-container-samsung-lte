@@ -1,0 +1,6 @@
+unique_name: ULRECEIVEDMCS21_256QAM
+object_type: metric
+label: ULReceivedMcs21_256QAM_count
+calculation_method: sum
+dataset: lte-mcs-in-256qam-supported-ue
+column: ULReceivedMcs21_256QAM_count

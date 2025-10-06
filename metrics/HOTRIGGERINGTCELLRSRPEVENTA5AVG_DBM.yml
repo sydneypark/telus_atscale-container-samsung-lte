@@ -1,0 +1,6 @@
+unique_name: HOTRIGGERINGTCELLRSRPEVENTA5AVG_DBM
+object_type: metric
+label: HoTriggeringTcellRsrpEventA5Avg_dBm
+calculation_method: sum
+dataset: lte-measurement-results-of-target-cell
+column: HoTriggeringTcellRsrpEventA5Avg_dBm

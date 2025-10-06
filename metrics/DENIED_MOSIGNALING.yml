@@ -1,0 +1,6 @@
+unique_name: DENIED_MOSIGNALING
+object_type: metric
+label: Denied_moSignaling_count
+calculation_method: sum
+dataset: lte-denied-call-by-overload-protection
+column: Denied_moSignaling_count

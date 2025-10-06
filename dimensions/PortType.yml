@@ -1,0 +1,22 @@
+unique_name: PortType
+object_type: dimension
+label: PortType
+is_degenerate: true
+hierarchies:
+- unique_name: PortType Hierarchy
+  label: PortType Hierarchy
+  levels:
+  - unique_name: PortType
+level_attributes:
+- unique_name: PortType
+  label: PortType Level
+  shared_degenerate_columns:
+  - name_column: PortType
+    key_columns:
+    - PortType
+    dataset: nr-vm-ethernet-packet
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

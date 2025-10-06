@@ -1,0 +1,6 @@
+unique_name: INTERS1OUTPREPFAIL_S1APRPTO_EN_DC_S1_OUT_HANDOVER
+object_type: metric
+label: InterS1OutPrepFail_S1apRpTo_count
+calculation_method: sum
+dataset: lte-en-dc-s1-out-handover
+column: InterS1OutPrepFail_S1apRpTo_count

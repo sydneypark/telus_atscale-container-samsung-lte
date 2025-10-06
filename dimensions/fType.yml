@@ -1,0 +1,46 @@
+unique_name: fType
+object_type: dimension
+label: fType
+is_degenerate: true
+hierarchies:
+- unique_name: fType Hierarchy
+  label: fType Hierarchy
+  levels:
+  - unique_name: fType
+level_attributes:
+- unique_name: fType
+  label: fType Level
+  shared_degenerate_columns:
+  - name_column: fType
+    key_columns:
+    - fType
+    dataset: lte-ondemand-handover-intraenb-out
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: fType
+    key_columns:
+    - fType
+    dataset: lte-ondemand-handover-s1-out
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: fType
+    key_columns:
+    - fType
+    dataset: lte-ondemand-handover-x2-out
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: fType
+    key_columns:
+    - fType
+    dataset: lte-ondemand-redirection
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: fType
+    key_columns:
+    - fType
+    dataset: lte-released-ue-by-timer
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

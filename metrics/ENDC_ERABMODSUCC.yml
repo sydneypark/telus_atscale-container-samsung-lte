@@ -1,0 +1,6 @@
+unique_name: ENDC_ERABMODSUCC
+object_type: metric
+label: EnDc_ErabModSucc_count
+calculation_method: sum
+dataset: lte-en-dc-e-rab-modification-information
+column: EnDc_ErabModSucc_count

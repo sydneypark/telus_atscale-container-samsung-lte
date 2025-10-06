@@ -1,0 +1,6 @@
+unique_name: HOTRIGGERINGTCELLCNT
+object_type: metric
+label: HoTriggeringTcellCnt_count
+calculation_method: sum
+dataset: lte-measurement-results-of-target-cell
+column: HoTriggeringTcellCnt_count

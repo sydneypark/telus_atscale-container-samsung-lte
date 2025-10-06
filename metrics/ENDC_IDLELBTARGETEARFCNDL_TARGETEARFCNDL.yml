@@ -1,0 +1,6 @@
+unique_name: ENDC_IDLELBTARGETEARFCNDL_TARGETEARFCNDL
+object_type: metric
+label: EnDc_IdleLbTargetEarfcnDL_TargetEarfcnDl
+calculation_method: sum
+dataset: lte-en-dc-idle-load-balancing
+column: EnDc_IdleLbTargetEarfcnDL_TargetEarfcnDl

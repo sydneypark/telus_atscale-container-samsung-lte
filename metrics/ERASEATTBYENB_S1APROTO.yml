@@ -1,0 +1,6 @@
+unique_name: ERASEATTBYENB_S1APROTO
+object_type: metric
+label: EraseAttbyEnb_S1apRoTo_count
+calculation_method: sum
+dataset: lte-e-rab-erase-request
+column: EraseAttbyEnb_S1apRoTo_count

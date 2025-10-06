@@ -1,0 +1,6 @@
+unique_name: TOTPRBDLMAX
+object_type: metric
+label: TotPrbDLMax_pct
+calculation_method: sum
+dataset: lte-total-prb-usage
+column: TotPrbDLMax_pct

@@ -1,0 +1,6 @@
+unique_name: RATGERANOUTFAIL_S1APCUFAIL
+object_type: metric
+label: RatGeranOutFail_S1apCuFail_count
+calculation_method: sum
+dataset: lte-ps-ho-to-geran
+column: RatGeranOutFail_S1apCuFail_count

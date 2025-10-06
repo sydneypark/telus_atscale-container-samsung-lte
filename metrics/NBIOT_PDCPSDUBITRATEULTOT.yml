@@ -1,0 +1,6 @@
+unique_name: NBIOT_PDCPSDUBITRATEULTOT
+object_type: metric
+label: NBIoT_PdcpSduBitrateULTot_bytes
+calculation_method: sum
+dataset: lte-nb-iot-cell-pdcp-sdu-bit-rate
+column: NBIoT_PdcpSduBitrateULTot_bytes

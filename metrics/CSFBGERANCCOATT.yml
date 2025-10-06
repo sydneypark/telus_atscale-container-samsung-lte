@@ -1,0 +1,6 @@
+unique_name: CSFBGERANCCOATT
+object_type: metric
+label: CSFBGeranCcoAtt_count
+calculation_method: sum
+dataset: lte-csfb-geran-cco
+column: CSFBGeranCcoAtt_count

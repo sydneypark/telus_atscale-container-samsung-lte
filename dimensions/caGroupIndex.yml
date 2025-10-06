@@ -1,0 +1,28 @@
+unique_name: caGroupIndex
+object_type: dimension
+label: caGroupIndex
+is_degenerate: true
+hierarchies:
+- unique_name: caGroupIndex Hierarchy
+  label: caGroupIndex Hierarchy
+  levels:
+  - unique_name: caGroupIndex
+level_attributes:
+- unique_name: caGroupIndex
+  label: caGroupIndex Level
+  shared_degenerate_columns:
+  - name_column: caGroupIndex
+    key_columns:
+    - caGroupIndex
+    dataset: lte-inter-site-ca-backhaul-delay
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: caGroupIndex
+    key_columns:
+    - caGroupIndex
+    dataset: lte-inter-site-ca-backhaul-user-data
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

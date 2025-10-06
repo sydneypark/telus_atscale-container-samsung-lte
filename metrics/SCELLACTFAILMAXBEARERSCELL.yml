@@ -1,0 +1,6 @@
+unique_name: SCELLACTFAILMAXBEARERSCELL
+object_type: metric
+label: SCellActFailMaxBearerSCell_count
+calculation_method: sum
+dataset: lte-activation-deactivation-for-inter-site-ca-using-non-ideal-b
+column: SCellActFailMaxBearerSCell_count

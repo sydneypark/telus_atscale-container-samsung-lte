@@ -1,0 +1,28 @@
+unique_name: UtranNbrCell
+object_type: dimension
+label: UtranNbrCell
+is_degenerate: true
+hierarchies:
+- unique_name: UtranNbrCell Hierarchy
+  label: UtranNbrCell Hierarchy
+  levels:
+  - unique_name: UtranNbrCell
+level_attributes:
+- unique_name: UtranNbrCell
+  label: UtranNbrCell Level
+  shared_degenerate_columns:
+  - name_column: UtranNbrCell
+    key_columns:
+    - UtranNbrCell
+    dataset: lte-utran-mro
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UtranNbrCell
+    key_columns:
+    - UtranNbrCell
+    dataset: lte-utran-mro-with-connection-failure
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

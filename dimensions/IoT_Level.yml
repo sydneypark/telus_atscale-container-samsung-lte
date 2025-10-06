@@ -1,0 +1,28 @@
+unique_name: IoT_Level
+object_type: dimension
+label: IoT_Level
+is_degenerate: true
+hierarchies:
+- unique_name: IoT_Level Hierarchy
+  label: IoT_Level Hierarchy
+  levels:
+  - unique_name: IoT_Level
+level_attributes:
+- unique_name: IoT_Level
+  label: IoT_Level Level
+  shared_degenerate_columns:
+  - name_column: IoT_Level
+    key_columns:
+    - IoT_Level
+    dataset: nr-uplink-iot-level-per-prb-1
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: IoT_Level
+    key_columns:
+    - IoT_Level
+    dataset: nr-uplink-iot-level-per-prb-2
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

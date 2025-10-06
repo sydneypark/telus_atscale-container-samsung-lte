@@ -1,0 +1,22 @@
+unique_name: qciGrpIdx
+object_type: dimension
+label: qciGrpIdx
+is_degenerate: true
+hierarchies:
+- unique_name: qciGrpIdx Hierarchy
+  label: qciGrpIdx Hierarchy
+  levels:
+  - unique_name: qciGrpIdx
+level_attributes:
+- unique_name: qciGrpIdx
+  label: qciGrpIdx Level
+  shared_degenerate_columns:
+  - name_column: qciGrpIdx
+    key_columns:
+    - qciGrpIdx
+    dataset: lte-service-based-handover-out
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

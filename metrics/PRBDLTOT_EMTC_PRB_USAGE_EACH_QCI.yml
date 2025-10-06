@@ -1,0 +1,6 @@
+unique_name: PRBDLTOT_EMTC_PRB_USAGE_EACH_QCI
+object_type: metric
+label: PrbDlTot_count
+calculation_method: sum
+dataset: lte-emtc-prb-usage-for-each-qci
+column: PrbDlTot_count

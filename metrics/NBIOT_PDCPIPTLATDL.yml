@@ -1,0 +1,6 @@
+unique_name: NBIOT_PDCPIPTLATDL
+object_type: metric
+label: NBIoT_PdcpIpTLatDL_ms
+calculation_method: sum
+dataset: lte-nb-iot-pdcp-packet
+column: NBIoT_PdcpIpTLatDL_ms

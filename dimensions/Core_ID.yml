@@ -1,0 +1,22 @@
+unique_name: Core_ID
+object_type: dimension
+label: Core_ID
+is_degenerate: true
+hierarchies:
+- unique_name: Core_ID Hierarchy
+  label: Core_ID Hierarchy
+  levels:
+  - unique_name: Core_ID
+level_attributes:
+- unique_name: Core_ID
+  label: Core_ID Level
+  shared_degenerate_columns:
+  - name_column: Core_ID
+    key_columns:
+    - Core_ID
+    dataset: nr-core-resource-in-vnf
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

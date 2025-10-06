@@ -1,0 +1,6 @@
+unique_name: DLRESIDUALBLERRETRANS4_TM7MU
+object_type: metric
+label: DLResidualBlerRetrans4_TM7MU_pct
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-downlink-harq-transmission-bler
+column: DLResidualBlerRetrans4_TM7MU_pct

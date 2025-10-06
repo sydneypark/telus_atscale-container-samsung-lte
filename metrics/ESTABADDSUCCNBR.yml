@@ -1,0 +1,6 @@
+unique_name: ESTABADDSUCCNBR
+object_type: metric
+label: EstabAddSuccNbr_count
+calculation_method: sum
+dataset: lte-e-rab-setup-add
+column: EstabAddSuccNbr_count

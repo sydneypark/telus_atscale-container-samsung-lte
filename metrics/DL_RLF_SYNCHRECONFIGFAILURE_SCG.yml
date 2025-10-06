@@ -1,0 +1,6 @@
+unique_name: DL_RLF_SYNCHRECONFIGFAILURE_SCG
+object_type: metric
+label: DL_RLF_synchReconfigFailure_SCG_count
+calculation_method: sum
+dataset: lte-en-dc-radiolinkfailureinformation
+column: DL_RLF_synchReconfigFailure_SCG_count

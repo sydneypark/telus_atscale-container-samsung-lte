@@ -1,0 +1,6 @@
+unique_name: CALLDROP_ECCBRADIOLINKFAILURE
+object_type: metric
+label: CallDrop_EccbRadioLinkFailure_count
+calculation_method: sum
+dataset: lte-call-drop
+column: CallDrop_EccbRadioLinkFailure_count

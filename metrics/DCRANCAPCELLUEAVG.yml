@@ -1,0 +1,6 @@
+unique_name: DCRANCAPCELLUEAVG
+object_type: metric
+label: DCRanCaPCellUEAvg_count
+calculation_method: sum
+dataset: lte-d-cran-ca-pcell-and-scell-ue-addition-release-information
+column: DCRanCaPCellUEAvg_count

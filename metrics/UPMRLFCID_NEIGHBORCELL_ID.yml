@@ -1,0 +1,6 @@
+unique_name: UPMRLFCID_NEIGHBORCELL_ID
+object_type: metric
+label: UpmRlfCid_NeighborCell_ID
+calculation_method: sum
+dataset: lte-upm-rlf-classification
+column: UpmRlfCid_NeighborCell_ID

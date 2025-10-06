@@ -1,0 +1,6 @@
+unique_name: B2EVENT
+object_type: metric
+label: B2Event_count
+calculation_method: sum
+dataset: lte-measurement-report
+column: B2Event_count

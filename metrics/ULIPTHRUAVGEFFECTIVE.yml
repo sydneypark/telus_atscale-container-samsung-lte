@@ -1,0 +1,6 @@
+unique_name: ULIPTHRUAVGEFFECTIVE
+object_type: metric
+label: ULIpThruAvgEffective_Kbps
+calculation_method: sum
+dataset: lte-effective-air-mac
+column: ULIpThruAvgEffective_Kbps

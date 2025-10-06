@@ -1,0 +1,6 @@
+unique_name: DL4THNBDEACTIVATIONCNT
+object_type: metric
+label: DL4thNBDeactivationCnt_count
+calculation_method: sum
+dataset: lte-emtc-nb-state
+column: DL4thNBDeactivationCnt_count

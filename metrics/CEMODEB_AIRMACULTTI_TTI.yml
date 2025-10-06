@@ -1,0 +1,6 @@
+unique_name: CEMODEB_AIRMACULTTI_TTI
+object_type: metric
+label: CEModeB_AirMacULTti_TTI
+calculation_method: sum
+dataset: lte-emtc-air-mac-packet
+column: CEModeB_AirMacULTti_TTI

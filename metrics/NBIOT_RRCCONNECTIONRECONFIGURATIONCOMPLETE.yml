@@ -1,0 +1,6 @@
+unique_name: NBIOT_RRCCONNECTIONRECONFIGURATIONCOMPLETE
+object_type: metric
+label: NBIoT_RrcConnectionReconfigurationComplete_count
+calculation_method: sum
+dataset: lte-nb-iot-rrc-message
+column: NBIoT_RrcConnectionReconfigurationComplete_count

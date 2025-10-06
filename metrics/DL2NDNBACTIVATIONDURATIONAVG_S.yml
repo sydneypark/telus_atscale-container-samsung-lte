@@ -1,0 +1,6 @@
+unique_name: DL2NDNBACTIVATIONDURATIONAVG_S
+object_type: metric
+label: DL2ndNBActivationDurationAvg_s
+calculation_method: sum
+dataset: lte-emtc-nb-state
+column: DL2ndNBActivationDurationAvg_s

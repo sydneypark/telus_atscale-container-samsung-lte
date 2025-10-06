@@ -1,0 +1,28 @@
+unique_name: status
+object_type: dimension
+label: status
+is_degenerate: true
+hierarchies:
+- unique_name: status Hierarchy
+  label: status Hierarchy
+  levels:
+  - unique_name: status
+level_attributes:
+- unique_name: status
+  label: status Level
+  shared_degenerate_columns:
+  - name_column: status
+    key_columns:
+    - status
+    dataset: lte-disca-ack-nack-dtx-ratio
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: status
+    key_columns:
+    - status
+    dataset: lte-dl-ack-nack-dtx-ratio
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

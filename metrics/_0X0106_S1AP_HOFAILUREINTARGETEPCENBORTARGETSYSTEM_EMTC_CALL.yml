@@ -1,0 +1,6 @@
+unique_name: _0X0106_S1AP_HOFAILUREINTARGETEPCENBORTARGETSYSTEM_EMTC_CALL
+object_type: metric
+label: _0x0106_S1ap_HoFailureInTargetEpcEnbOrTargetSystem_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x0106_S1ap_HoFailureInTargetEpcEnbOrTargetSystem_count

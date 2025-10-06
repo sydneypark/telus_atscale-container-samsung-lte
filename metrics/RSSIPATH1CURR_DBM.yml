@@ -1,0 +1,6 @@
+unique_name: RSSIPATH1CURR_DBM
+object_type: metric
+label: RssiPath1Curr_dBm
+calculation_method: sum
+dataset: lte-power
+column: RssiPath1Curr_dBm

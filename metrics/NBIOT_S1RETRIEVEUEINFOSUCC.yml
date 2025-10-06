@@ -1,0 +1,6 @@
+unique_name: NBIOT_S1RETRIEVEUEINFOSUCC
+object_type: metric
+label: NBIoT_S1RetrieveUeInfoSucc_count
+calculation_method: sum
+dataset: lte-nb-iot-retrieveueinformation-procedure
+column: NBIoT_S1RetrieveUeInfoSucc_count

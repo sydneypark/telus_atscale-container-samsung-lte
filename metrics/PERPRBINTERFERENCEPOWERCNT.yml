@@ -1,0 +1,6 @@
+unique_name: PERPRBINTERFERENCEPOWERCNT
+object_type: metric
+label: PerPrbInterferencePowerCnt_count
+calculation_method: sum
+dataset: lte-per-prb-interference-power
+column: PerPrbInterferencePowerCnt_count

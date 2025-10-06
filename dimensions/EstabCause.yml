@@ -1,0 +1,137 @@
+unique_name: EstabCause
+object_type: dimension
+label: EstabCause
+is_degenerate: true
+hierarchies:
+- unique_name: EstabCause Hierarchy
+  label: EstabCause Hierarchy
+  levels:
+  - unique_name: EstabCause
+level_attributes:
+- unique_name: EstabCause
+  label: EstabCause
+  folder: SamsungLocation
+  shared_degenerate_columns:
+  - name_column: EstabCause
+    key_columns:
+    - EstabCause
+    dataset: lte-e-rab-setup
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: EstabCause
+    key_columns:
+    - EstabCause
+    dataset: lte-emtc-e-rab-setup
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: EstabCause
+    key_columns:
+    - EstabCause
+    dataset: lte-emtc-rrc-connection-establishment
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: EstabCause
+    key_columns:
+    - EstabCause
+    dataset: lte-emtc-rrc-connection-establishment-message
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: EstabCause
+    key_columns:
+    - EstabCause
+    dataset: lte-emtc-rrc-connection-setup-time
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: EstabCause
+    key_columns:
+    - EstabCause
+    dataset: lte-emtc-ue-associated-logical-s1-connection-establishment
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: EstabCause
+    key_columns:
+    - EstabCause
+    dataset: lte-rrc-connection-establishment
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: EstabCause
+    key_columns:
+    - EstabCause
+    dataset: lte-rrc-connection-establishment-message
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: EstabCause
+    key_columns:
+    - EstabCause
+    dataset: lte-rrc-connection-setup-time
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: EstabCause
+    key_columns:
+    - EstabCause
+    dataset: lte-s1-connection-time
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: EstabCause
+    key_columns:
+    - EstabCause
+    dataset: lte-ue-associated-logical-s1-connection-establishment
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: EstabCause
+    key_columns:
+    - EstabCause
+    dataset: nr-ng-connection-setup-time
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: EstabCause
+    key_columns:
+    - EstabCause
+    dataset: nr-ng-connection-setup-time-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: EstabCause
+    key_columns:
+    - EstabCause
+    dataset: nr-rrc-connection-establishment
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: EstabCause
+    key_columns:
+    - EstabCause
+    dataset: nr-rrc-connection-establishment-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: EstabCause
+    key_columns:
+    - EstabCause
+    dataset: nr-rrc-connection-setup-time
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: EstabCause
+    key_columns:
+    - EstabCause
+    dataset: nr-rrc-connection-setup-time-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: EstabCause
+    key_columns:
+    - EstabCause
+    dataset: nr-ue-associated-logical-ng-connection-establishment
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: EstabCause
+    key_columns:
+    - EstabCause
+    dataset: nr-ue-associated-logical-ng-connection-establishment-per-plmn-w
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: EstabCause
+    key_columns:
+    - EstabCause
+    dataset: nr-ue-associated-logical-ng-connection-establishment-with-du-id
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

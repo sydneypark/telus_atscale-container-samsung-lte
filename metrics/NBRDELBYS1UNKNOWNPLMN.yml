@@ -1,0 +1,6 @@
+unique_name: NBRDELBYS1UNKNOWNPLMN
+object_type: metric
+label: NbrDelByS1UnknownPLMN_count
+calculation_method: sum
+dataset: lte-addition-and-deletion-of-neighbor-relations
+column: NbrDelByS1UnknownPLMN_count

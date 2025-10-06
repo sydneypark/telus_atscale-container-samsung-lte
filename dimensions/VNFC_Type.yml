@@ -1,0 +1,46 @@
+unique_name: VNFC_Type
+object_type: dimension
+label: VNFC_Type
+is_degenerate: true
+hierarchies:
+- unique_name: VNFC_Type Hierarchy
+  label: VNFC_Type Hierarchy
+  levels:
+  - unique_name: VNFC_Type
+level_attributes:
+- unique_name: VNFC_Type
+  label: VNFC_Type Level
+  shared_degenerate_columns:
+  - name_column: VNFC_Type
+    key_columns:
+    - VNFC_Type
+    dataset: nr-core-resource-in-vnf
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: VNFC_Type
+    key_columns:
+    - VNFC_Type
+    dataset: nr-dedicated-core-resource-in-vnf
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: VNFC_Type
+    key_columns:
+    - VNFC_Type
+    dataset: nr-disk-usage-in-vnf
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: VNFC_Type
+    key_columns:
+    - VNFC_Type
+    dataset: nr-vm-ethernet-packet
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: VNFC_Type
+    key_columns:
+    - VNFC_Type
+    dataset: nr-vm-resource
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

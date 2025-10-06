@@ -1,0 +1,6 @@
+unique_name: WRWARNINGREQUESTFAIL_LTE_COMMERCIAL_MOBILE_ALERT_SYSTEM
+object_type: metric
+label: WRWarningRequestFail_count
+calculation_method: sum
+dataset: lte-commercial-mobile-alert-system
+column: WRWarningRequestFail_count

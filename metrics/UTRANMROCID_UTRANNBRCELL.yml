@@ -1,0 +1,6 @@
+unique_name: UTRANMROCID_UTRANNBRCELL
+object_type: metric
+label: UtranMroCid_UtranNbrCell
+calculation_method: sum
+dataset: lte-utran-mro
+column: UtranMroCid_UtranNbrCell

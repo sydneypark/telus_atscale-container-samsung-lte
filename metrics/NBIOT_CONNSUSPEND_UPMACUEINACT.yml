@@ -1,0 +1,6 @@
+unique_name: NBIOT_CONNSUSPEND_UPMACUEINACT
+object_type: metric
+label: NBIoT_ConnSuspend_UpMacUEInact_count
+calculation_method: sum
+dataset: lte-nb-iot-rrc-connection-release
+column: NBIoT_ConnSuspend_UpMacUEInact_count

@@ -1,0 +1,28 @@
+unique_name: SUPPORT_QCI_OD
+object_type: dimension
+label: SUPPORT_QCI_OD
+is_degenerate: true
+hierarchies:
+- unique_name: SUPPORT_QCI_OD Hierarchy
+  label: SUPPORT_QCI_OD Hierarchy
+  levels:
+  - unique_name: SUPPORT_QCI_OD
+level_attributes:
+- unique_name: SUPPORT_QCI_OD
+  label: SUPPORT_QCI_OD Level
+  shared_degenerate_columns:
+  - name_column: SUPPORT_QCI_OD
+    key_columns:
+    - SUPPORT_QCI_OD
+    dataset: lte-air-rlc-packet-per-plmn-per-en-dc-status
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SUPPORT_QCI_OD
+    key_columns:
+    - SUPPORT_QCI_OD
+    dataset: lte-air-rlc-packet-per-plmn-per-en-dc-status-per-nrarfcn
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

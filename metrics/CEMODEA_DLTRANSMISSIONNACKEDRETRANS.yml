@@ -1,0 +1,6 @@
+unique_name: CEMODEA_DLTRANSMISSIONNACKEDRETRANS
+object_type: metric
+label: CEModeA_DLTransmissionNackedRetrans_count
+calculation_method: sum
+dataset: lte-emtc-downlink-harq-transmission-bler
+column: CEModeA_DLTransmissionNackedRetrans_count

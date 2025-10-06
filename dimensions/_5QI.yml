@@ -1,0 +1,352 @@
+unique_name: _5QI
+object_type: dimension
+label: _5QI
+is_degenerate: true
+hierarchies:
+- unique_name: _5QI Hierarchy
+  label: _5QI Hierarchy
+  levels:
+  - unique_name: _5QI
+level_attributes:
+- unique_name: _5QI
+  label: _5QI Level
+  shared_degenerate_columns:
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-active-session-time-for-drb-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-active-session-time-for-drb-per-plmn-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-air-interface-delay-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-air-interface-delay-per-plmn-per-snssai-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-connected-drb-number-configured-with-uplink-only-rohc-f-1
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-connected-drb-number-configured-with-uplink-only-rohc-f-2
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-data-forwarding-traffic-in-stand-alone-mode-per-gnb
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-dl-f1-u-xn-u-interface-per-prc-per-5qi-per-s-nssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-dl-path-transition-for-nr-dc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-dl-ue-throughput-distribution-per-plmn-per-s-nssai-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-downlink-active-queue-management-per-5qi
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-downlink-active-ue-number-per-5qi
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-downlink-active-ue-number-per-5qi-for-redcap
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-drb-connection-information
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-drb-connection-information-of-redcap-ue-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-drb-connection-information-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-drb-connection-information-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-drb-connection-information-with-du-identifier-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-drb-release-and-erase
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-drb-release-and-erase-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-drb-setup
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-drb-setup-of-pdu-session-resource-modify-request-with-du-ide
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-drb-setup-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-f1-u-xn-u-ul-interface-collected-in-upc-per-5qi-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-f1u-delay-measurement-data-per-upc-id-per-gnb-du-id-per-5qi-
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-initial-drb-setup-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-pdcp-packet-per-cell-identity-per-plmn-per-5qi-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-pdcp-packet-per-gnb-id-per-5qi
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-pdcp-packet-per-gnb-id-per-5qi-for-cu-up-anchoring
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-pdcp-packet-per-gnb-id-per-5qi-per-plmn-per-s-nssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-pdcp-sdu-delay-dl-distribution-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-pdcp-volume-per-cell-identity-per-plmn-per-5qi-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-pdcp-volume-per-gnb-id-per-5qi
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-pdcp-volume-per-gnb-id-per-5qi-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-pdcp-volume-per-gnb-id-per-5qi-per-plmn-per-s-nssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-prb-usage-per-5qi
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-prb-usage-per-5qi-for-redcap
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-qos-flow-setup-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-radio-link-outage-handling-operation-per-5qi
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-release-of-setup-active-drb-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-release-of-setup-active-drb-per-plmn-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-release-of-setup-active-drb-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-release-of-setup-drb
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-release-of-setup-drb-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-rlc-integrity-per-5qi
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-rlc-integrity-per-plmn-per-s-nssai-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-rlc-packet-per-5qi
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-rlc-packet-per-plmn-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-rlc-ul-packet-delay-per-plmn-per-s-nssai-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-rohc-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-sdap-packet-per-gnb
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-ue-throughput
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-ue-throughput-per-plmn-per-snssai-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-unrestricted-dl-ue-data-per-plmn-per-s-nssai-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-uplink-only-rohc-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: _5QI
+    key_columns:
+    - _5QI
+    dataset: nr-xnu-delay-measurement-data-per-upc-id-per-xnu-ip-index-per-5
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

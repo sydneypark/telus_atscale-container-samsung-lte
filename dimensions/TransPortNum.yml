@@ -1,0 +1,40 @@
+unique_name: TransPortNum
+object_type: dimension
+label: TransPortNum
+is_degenerate: true
+hierarchies:
+- unique_name: TransPortNum Hierarchy
+  label: TransPortNum Hierarchy
+  levels:
+  - unique_name: TransPortNum
+level_attributes:
+- unique_name: TransPortNum
+  label: TransPortNum Level
+  shared_degenerate_columns:
+  - name_column: TransPortNum
+    key_columns:
+    - TransPortNum
+    dataset: lte-mplane-transceiver-of-oru
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TransPortNum
+    key_columns:
+    - TransPortNum
+    dataset: lte-outbound-packet-in-oru
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TransPortNum
+    key_columns:
+    - TransPortNum
+    dataset: lte-packet-for-reception-window-in-oru
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TransPortNum
+    key_columns:
+    - TransPortNum
+    dataset: nr-mplane-transceiver-of-oru
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

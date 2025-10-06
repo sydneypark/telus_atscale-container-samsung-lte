@@ -1,0 +1,6 @@
+unique_name: ERABRELEASE_UESTMSIDUPLICATE_INACTIVEBEARER
+object_type: metric
+label: ErabRelease_UEStmsiDuplicate_InactiveBearer_count
+calculation_method: sum
+dataset: lte-erab-release-by-specific-cause
+column: ErabRelease_UEStmsiDuplicate_InactiveBearer_count

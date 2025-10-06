@@ -1,0 +1,6 @@
+unique_name: SGNB_ADDPREPFAIL_REJECT
+object_type: metric
+label: Sgnb_AddPrepFail_Reject_count
+calculation_method: sum
+dataset: lte-sgnb-addition-due-to-mcg-mobility
+column: Sgnb_AddPrepFail_Reject_count

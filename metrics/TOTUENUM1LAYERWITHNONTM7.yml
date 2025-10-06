@@ -1,0 +1,6 @@
+unique_name: TOTUENUM1LAYERWITHNONTM7
+object_type: metric
+label: TotUENum1LayerWithNonTM7_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-downlink-layer-usage
+column: TotUENum1LayerWithNonTM7_count

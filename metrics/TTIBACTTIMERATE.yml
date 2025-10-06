@@ -1,0 +1,6 @@
+unique_name: TTIBACTTIMERATE
+object_type: metric
+label: TtibActTimeRate_pct
+calculation_method: sum
+dataset: lte-tti-bundling-time
+column: TtibActTimeRate_pct

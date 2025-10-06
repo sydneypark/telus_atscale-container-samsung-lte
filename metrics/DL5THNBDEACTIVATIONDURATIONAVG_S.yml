@@ -1,0 +1,6 @@
+unique_name: DL5THNBDEACTIVATIONDURATIONAVG_S
+object_type: metric
+label: DL5thNBDeactivationDurationAvg_s
+calculation_method: sum
+dataset: lte-emtc-nb-state
+column: DL5thNBDeactivationDurationAvg_s

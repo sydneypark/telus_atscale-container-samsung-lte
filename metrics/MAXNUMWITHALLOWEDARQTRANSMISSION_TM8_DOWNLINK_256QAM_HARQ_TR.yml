@@ -1,0 +1,6 @@
+unique_name: MAXNUMWITHALLOWEDARQTRANSMISSION_TM8_DOWNLINK_256QAM_HARQ_TR
+object_type: metric
+label: MaxNumWithallowedARQTransmission_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-tm8-downlink-256qam-harq-transm
+column: MaxNumWithallowedARQTransmission_count

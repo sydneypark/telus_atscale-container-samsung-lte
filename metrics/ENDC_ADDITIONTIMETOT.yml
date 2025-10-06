@@ -1,0 +1,6 @@
+unique_name: ENDC_ADDITIONTIMETOT
+object_type: metric
+label: EnDc_AdditionTimeTot_count
+calculation_method: sum
+dataset: lte-en-dc-connection-information
+column: EnDc_AdditionTimeTot_count

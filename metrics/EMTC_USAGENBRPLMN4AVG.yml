@@ -1,0 +1,6 @@
+unique_name: EMTC_USAGENBRPLMN4AVG
+object_type: metric
+label: eMTC_UsageNbrPLMN4Avg_count
+calculation_method: sum
+dataset: lte-emtc-active-e-rab-number-per-plmn
+column: eMTC_UsageNbrPLMN4Avg_count

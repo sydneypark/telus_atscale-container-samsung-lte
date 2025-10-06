@@ -1,0 +1,6 @@
+unique_name: ENDC_RELREQUEST_INTERNALRESOUFAIL
+object_type: metric
+label: EnDc_RelRequest_InternalResouFail_count
+calculation_method: sum
+dataset: lte-en-dc-release-information
+column: EnDc_RelRequest_InternalResouFail_count

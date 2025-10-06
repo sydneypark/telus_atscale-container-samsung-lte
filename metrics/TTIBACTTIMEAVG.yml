@@ -1,0 +1,6 @@
+unique_name: TTIBACTTIMEAVG
+object_type: metric
+label: TtibActTimeAvg_ms
+calculation_method: sum
+dataset: lte-tti-bundling-time
+column: TtibActTimeAvg_ms

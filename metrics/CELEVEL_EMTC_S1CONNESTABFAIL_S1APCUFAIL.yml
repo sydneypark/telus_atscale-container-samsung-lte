@@ -1,0 +1,6 @@
+unique_name: CELEVEL_EMTC_S1CONNESTABFAIL_S1APCUFAIL
+object_type: metric
+label: CELevel_eMTC_S1ConnEstabFail_S1apCuFail_count
+calculation_method: sum
+dataset: lte-emtc-ue-associated-logical-s1-connection-establishment-per-
+column: CELevel_eMTC_S1ConnEstabFail_S1apCuFail_count

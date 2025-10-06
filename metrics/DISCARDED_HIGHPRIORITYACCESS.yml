@@ -1,0 +1,6 @@
+unique_name: DISCARDED_HIGHPRIORITYACCESS
+object_type: metric
+label: Discarded_HighPriorityAccess_count
+calculation_method: sum
+dataset: lte-denied-call-by-overload-protection
+column: Discarded_HighPriorityAccess_count

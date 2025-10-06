@@ -1,0 +1,6 @@
+unique_name: EMTC_CALLDROP_ECCBS1SCTPOUTOFSERVICE
+object_type: metric
+label: eMTC_CallDrop_EccbS1SctpOutOfService_count
+calculation_method: sum
+dataset: lte-emtc-call-drop
+column: eMTC_CallDrop_EccbS1SctpOutOfService_count

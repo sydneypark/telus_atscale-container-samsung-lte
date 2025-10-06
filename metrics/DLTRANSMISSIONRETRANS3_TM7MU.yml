@@ -1,0 +1,6 @@
+unique_name: DLTRANSMISSIONRETRANS3_TM7MU
+object_type: metric
+label: DLTransmissionRetrans3_TM7MU_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-downlink-harq-transmission-bler
+column: DLTransmissionRetrans3_TM7MU_count

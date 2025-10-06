@@ -1,0 +1,6 @@
+unique_name: REDIRNROUTCID_TARGETNRARFCNDL
+object_type: metric
+label: RedirNrOutCid_TargetNRArfcnDl
+calculation_method: sum
+dataset: lte-redirection-nr-out
+column: RedirNrOutCid_TargetNRArfcnDl

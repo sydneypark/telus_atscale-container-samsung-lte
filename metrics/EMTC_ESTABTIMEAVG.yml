@@ -1,0 +1,6 @@
+unique_name: EMTC_ESTABTIMEAVG
+object_type: metric
+label: eMTC_EstabTimeAvg_ms
+calculation_method: sum
+dataset: lte-emtc-e-rab-setup-time
+column: eMTC_EstabTimeAvg_ms

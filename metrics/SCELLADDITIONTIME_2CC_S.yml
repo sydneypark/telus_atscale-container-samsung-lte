@@ -1,0 +1,6 @@
+unique_name: SCELLADDITIONTIME_2CC_S
+object_type: metric
+label: SCellAdditionTime_2CC_s
+calculation_method: sum
+dataset: lte-scell-added-information-pcell
+column: SCellAdditionTime_2CC_s

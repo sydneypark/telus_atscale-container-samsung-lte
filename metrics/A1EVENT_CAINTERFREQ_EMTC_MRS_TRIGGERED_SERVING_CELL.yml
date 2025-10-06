@@ -1,0 +1,6 @@
+unique_name: A1EVENT_CAINTERFREQ_EMTC_MRS_TRIGGERED_SERVING_CELL
+object_type: metric
+label: A1event_CaInterFreq_count
+calculation_method: sum
+dataset: lte-emtc-mrs-triggered-by-serving-cell
+column: A1event_CaInterFreq_count

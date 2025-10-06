@@ -1,0 +1,6 @@
+unique_name: CELEVEL_NBIOT_RLFDETECTION_ARQMAXRETRANSMISSION
+object_type: metric
+label: CELevel_NBIoT_RlfDetection_ArqMaxReTransmission_count
+calculation_method: sum
+dataset: lte-nb-iot-rlf-detection-number-per-cell-and-ce-level
+column: CELevel_NBIoT_RlfDetection_ArqMaxReTransmission_count

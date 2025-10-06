@@ -1,0 +1,6 @@
+unique_name: EMTC_ESTABINITATTNBR
+object_type: metric
+label: eMTC_EstabInitAttNbr_count
+calculation_method: sum
+dataset: lte-emtc-e-rab-setup
+column: eMTC_EstabInitAttNbr_count

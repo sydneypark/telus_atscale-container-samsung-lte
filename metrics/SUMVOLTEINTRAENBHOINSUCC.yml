@@ -1,0 +1,6 @@
+unique_name: SUMVOLTEINTRAENBHOINSUCC
+object_type: metric
+label: SumVoLTEIntraEnbHoInSucc_count
+calculation_method: sum
+dataset: lte-volte-quality
+column: SumVoLTEIntraEnbHoInSucc_count

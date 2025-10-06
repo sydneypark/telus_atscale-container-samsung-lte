@@ -1,0 +1,6 @@
+unique_name: INTRAMENBTOENB_RELATT
+object_type: metric
+label: IntraMenbToEnb_RelAtt_count
+calculation_method: sum
+dataset: lte-sgnb-release-due-to-mcg-mobility
+column: IntraMenbToEnb_RelAtt_count

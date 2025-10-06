@@ -1,0 +1,6 @@
+unique_name: CQIERASE
+object_type: metric
+label: CQIErase_count
+calculation_method: sum
+dataset: lte-dl-wideband-cqi
+column: CQIErase_count

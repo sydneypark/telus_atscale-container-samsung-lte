@@ -1,0 +1,6 @@
+unique_name: INTERS1INFAIL_RRCSIGFAIL
+object_type: metric
+label: InterS1InFail_RrcSigFail_count
+calculation_method: sum
+dataset: lte-s1-in-handover
+column: InterS1InFail_RrcSigFail_count

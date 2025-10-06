@@ -1,0 +1,6 @@
+unique_name: ULCASCELLACTIVATIONATT
+object_type: metric
+label: ULCaSCellActivationAtt_count
+calculation_method: sum
+dataset: lte-uplink-carrier-aggregation-message-count-for-scell-activati
+column: ULCaSCellActivationAtt_count

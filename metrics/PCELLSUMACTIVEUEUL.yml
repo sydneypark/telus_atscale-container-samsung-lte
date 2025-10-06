@@ -1,0 +1,6 @@
+unique_name: PCELLSUMACTIVEUEUL
+object_type: metric
+label: PcellSumActiveUEUL_count
+calculation_method: sum
+dataset: lte-active-ue-number-pcell
+column: PcellSumActiveUEUL_count

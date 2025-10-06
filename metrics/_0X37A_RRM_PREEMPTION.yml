@@ -1,0 +1,6 @@
+unique_name: _0X37A_RRM_PREEMPTION
+object_type: metric
+label: _0x37A_Rrm_Preemption_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x37A_Rrm_Preemption_count

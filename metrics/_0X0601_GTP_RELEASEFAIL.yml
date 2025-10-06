@@ -1,0 +1,6 @@
+unique_name: _0X0601_GTP_RELEASEFAIL
+object_type: metric
+label: _0x0601_Gtp_ReleaseFail_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0601_Gtp_ReleaseFail_count

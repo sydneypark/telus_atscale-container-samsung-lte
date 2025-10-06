@@ -1,0 +1,6 @@
+unique_name: EMTC_CONNESTABTIMEAVG
+object_type: metric
+label: eMTC_ConnEstabTimeAvg_ms
+calculation_method: sum
+dataset: lte-emtc-rrc-connection-setup-time
+column: eMTC_ConnEstabTimeAvg_ms

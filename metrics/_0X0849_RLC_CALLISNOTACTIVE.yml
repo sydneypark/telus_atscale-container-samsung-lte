@@ -1,0 +1,6 @@
+unique_name: _0X0849_RLC_CALLISNOTACTIVE
+object_type: metric
+label: _0x0849_Rlc_CallIsNotActive_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0849_Rlc_CallIsNotActive_count

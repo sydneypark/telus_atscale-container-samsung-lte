@@ -1,0 +1,6 @@
+unique_name: INTRAMENBTOMENBNOSGNBCHG_MODSUCC
+object_type: metric
+label: IntraMenbToMenbNoSgnbChg_ModSucc_count
+calculation_method: sum
+dataset: lte-sgnb-modification-due-to-mcg-mobility
+column: IntraMenbToMenbNoSgnbChg_ModSucc_count

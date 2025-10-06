@@ -1,0 +1,6 @@
+unique_name: EMTC_CONNRESUMEREJECT_CPQOSCACFAIL
+object_type: metric
+label: eMTC_ConnResumeReject_CpQoSCacFail_count
+calculation_method: sum
+dataset: lte-rrc-connection-resume-for-emtc-ue
+column: eMTC_ConnResumeReject_CpQoSCacFail_count

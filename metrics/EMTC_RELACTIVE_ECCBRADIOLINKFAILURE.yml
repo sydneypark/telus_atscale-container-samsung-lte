@@ -1,0 +1,6 @@
+unique_name: EMTC_RELACTIVE_ECCBRADIOLINKFAILURE
+object_type: metric
+label: eMTC_RelActive_EccbRadioLinkFailure_count
+calculation_method: sum
+dataset: lte-emtc-e-rab-release
+column: eMTC_RelActive_EccbRadioLinkFailure_count

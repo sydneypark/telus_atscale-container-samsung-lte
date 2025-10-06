@@ -1,0 +1,262 @@
+unique_name: UPC_ID
+object_type: dimension
+label: UPC_ID
+is_degenerate: true
+hierarchies:
+- unique_name: UPC_ID Hierarchy
+  label: UPC_ID Hierarchy
+  levels:
+  - unique_name: UPC_ID
+level_attributes:
+- unique_name: UPC_ID
+  label: UPC_ID Level
+  shared_degenerate_columns:
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-data-forwarding-traffic-in-non-stand-alone-mode-per-gnb
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-data-forwarding-traffic-in-stand-alone-mode-per-gnb
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-dl-path-transition-for-en-dc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-dl-path-transition-for-nr-dc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-downlink-active-queue-management-per-5qi
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-downlink-active-queue-management-per-qci
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-f1-u-ul-interface-per-qci
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-f1-u-ul-interface-per-upc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-f1-u-xn-u-ul-interface-collected-in-upc-per-5qi-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-f1u-delay-measurement-data-per-upc-id-per-gnb-du-id-per-5qi-
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-f1u-delay-measurement-data-per-upc-id-per-gnb-du-id-per-qci
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-gtp-volume
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-internal-drop-count-and-delay-of-gtp-packet
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-pdcp-packet-per-cell-identity-per-plmn-per-5qi-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-pdcp-packet-per-cell-identity-per-plmn-per-qci
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-pdcp-packet-per-gnb-id
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-pdcp-packet-per-gnb-id-per-5qi
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-pdcp-packet-per-gnb-id-per-5qi-for-cu-up-anchoring
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-pdcp-packet-per-gnb-id-per-5qi-per-plmn-per-s-nssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-pdcp-sdu-delay-dl-distribution-for-nsa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-pdcp-sdu-delay-dl-distribution-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-pdcp-volume-per-cell-identity-per-plmn-per-5qi-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-pdcp-volume-per-cell-identity-per-plmn-per-qci
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-pdcp-volume-per-gnb-id
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-pdcp-volume-per-gnb-id-per-5qi
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-pdcp-volume-per-gnb-id-per-5qi-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-pdcp-volume-per-gnb-id-per-5qi-per-plmn-per-s-nssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-pdcp-volume-per-gnb-id-per-qci-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-radio-link-outage-handling-operation
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-radio-link-outage-handling-operation-per-5qi
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-rohc-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-sdap-packet-per-gnb
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-upc-bearer-count-rate
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-upc-bearer-usage-bearer-count-ue-usage-and-ue-count-sta-1
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-upc-bearer-usage-bearer-count-ue-usage-and-ue-count-sta-2
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-upc-load
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-uplink-only-rohc-for-nsa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-uplink-only-rohc-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-vonr-quality-defect
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-x2u-delay-measurement-data-per-upc-id-per-x2u-ip-index-per-q
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UPC_ID
+    key_columns:
+    - UPC_ID
+    dataset: nr-xnu-delay-measurement-data-per-upc-id-per-xnu-ip-index-per-5
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

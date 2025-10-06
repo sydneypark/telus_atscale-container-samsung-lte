@@ -1,0 +1,6 @@
+unique_name: _0X0846_RLC_INVALIDPARAMETER_NB_IOT_CALL_FAIL_CE_LEVEL
+object_type: metric
+label: _0x0846_Rlc_InvalidParameter_count
+calculation_method: sum
+dataset: lte-nb-iot-call-fail-per-ce-level
+column: _0x0846_Rlc_InvalidParameter_count

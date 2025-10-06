@@ -1,0 +1,6 @@
+unique_name: EMTC_INTERENBCONNREESTABFAIL_RRCSIGTO
+object_type: metric
+label: eMTC_InterEnbConnReEstabFail_RrcSigTo_count
+calculation_method: sum
+dataset: lte-emtc-rrc-connection-re-establishment
+column: eMTC_InterEnbConnReEstabFail_RrcSigTo_count

@@ -1,0 +1,6 @@
+unique_name: EMTC_PREAMBLESENT2
+object_type: metric
+label: eMTC_PreambleSent2_count
+calculation_method: sum
+dataset: lte-emtc-rach-usage
+column: eMTC_PreambleSent2_count

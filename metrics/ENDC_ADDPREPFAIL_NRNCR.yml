@@ -1,0 +1,6 @@
+unique_name: ENDC_ADDPREPFAIL_NRNCR
+object_type: metric
+label: EnDc_AddPrepFail_NrNcr_count
+calculation_method: sum
+dataset: lte-en-dc-addition-information-per-nr-ncr
+column: EnDc_AddPrepFail_NrNcr_count

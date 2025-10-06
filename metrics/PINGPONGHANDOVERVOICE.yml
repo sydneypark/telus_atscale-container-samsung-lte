@@ -1,0 +1,6 @@
+unique_name: PINGPONGHANDOVERVOICE
+object_type: metric
+label: PingpongHandoverVoice_count
+calculation_method: sum
+dataset: lte-mro-rlf-voice-classification
+column: PingpongHandoverVoice_count

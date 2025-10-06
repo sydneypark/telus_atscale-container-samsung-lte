@@ -1,0 +1,6 @@
+unique_name: ENDC_RELREQUEST_UE_CUSTOM_SIGNATURE
+object_type: metric
+label: EnDc_RelRequest_UE_Custom_Signature_count
+calculation_method: sum
+dataset: lte-en-dc-release-information
+column: EnDc_RelRequest_UE_Custom_Signature_count

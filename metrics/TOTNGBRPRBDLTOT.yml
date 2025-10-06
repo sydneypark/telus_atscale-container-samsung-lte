@@ -1,0 +1,6 @@
+unique_name: TOTNGBRPRBDLTOT
+object_type: metric
+label: TotNGbrPrbDLTot_pct
+calculation_method: sum
+dataset: lte-total-prb-usage
+column: TotNGbrPrbDLTot_pct

@@ -1,0 +1,6 @@
+unique_name: _0X0381_ECC_UPCOUTOFSERVICE
+object_type: metric
+label: _0x0381_Ecc_UpcOutOfService_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0381_Ecc_UpcOutOfService_count

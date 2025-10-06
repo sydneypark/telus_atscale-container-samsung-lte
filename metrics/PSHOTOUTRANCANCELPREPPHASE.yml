@@ -1,0 +1,6 @@
+unique_name: PSHOTOUTRANCANCELPREPPHASE
+object_type: metric
+label: PsHoToUtranCancelPrepPhase_count
+calculation_method: sum
+dataset: lte-inter-rat-handover-cancellation
+column: PsHoToUtranCancelPrepPhase_count

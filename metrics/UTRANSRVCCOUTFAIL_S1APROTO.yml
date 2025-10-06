@@ -1,0 +1,6 @@
+unique_name: UTRANSRVCCOUTFAIL_S1APROTO
+object_type: metric
+label: UtranSrvccOutFail_S1apRoTo_count
+calculation_method: sum
+dataset: lte-utran-srvcc
+column: UtranSrvccOutFail_S1apRoTo_count

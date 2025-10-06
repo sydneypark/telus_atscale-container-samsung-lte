@@ -1,0 +1,6 @@
+unique_name: LBREDIRECTIONTOGSM
+object_type: metric
+label: LBRedirectiontoGSM_count
+calculation_method: sum
+dataset: lte-redirection-by-load-balancing
+column: LBRedirectiontoGSM_count

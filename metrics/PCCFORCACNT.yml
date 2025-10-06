@@ -1,0 +1,6 @@
+unique_name: PCCFORCACNT
+object_type: metric
+label: PccForCACnt_count
+calculation_method: sum
+dataset: lte-primary-carrier-change-for-ca-information
+column: PccForCACnt_count

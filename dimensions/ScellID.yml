@@ -1,0 +1,34 @@
+unique_name: ScellID
+object_type: dimension
+label: ScellID
+is_degenerate: true
+hierarchies:
+- unique_name: ScellID Hierarchy
+  label: ScellID Hierarchy
+  levels:
+  - unique_name: ScellID
+level_attributes:
+- unique_name: ScellID
+  label: ScellID Level
+  shared_degenerate_columns:
+  - name_column: ScellID
+    key_columns:
+    - ScellID
+    dataset: lte-carrier-aggregation-message-count-for-addition-release
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ScellID
+    key_columns:
+    - ScellID
+    dataset: lte-ul-carrier-aggregation-information
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ScellID
+    key_columns:
+    - ScellID
+    dataset: lte-uplink-carrier-aggregation-count-for-configuration-deconfig
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

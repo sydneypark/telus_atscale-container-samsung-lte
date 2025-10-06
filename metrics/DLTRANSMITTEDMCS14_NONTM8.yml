@@ -1,0 +1,6 @@
+unique_name: DLTRANSMITTEDMCS14_NONTM8
+object_type: metric
+label: DLTransmittedMcs14_NonTM8_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-tm8-downlink-mcs
+column: DLTransmittedMcs14_NonTM8_count

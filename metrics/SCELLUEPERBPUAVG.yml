@@ -1,0 +1,6 @@
+unique_name: SCELLUEPERBPUAVG
+object_type: metric
+label: SCellUEPerBpuAvg_count
+calculation_method: sum
+dataset: lte-ca-ue-per-bpu
+column: SCellUEPerBpuAvg_count

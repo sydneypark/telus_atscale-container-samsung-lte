@@ -1,0 +1,6 @@
+unique_name: RETAINSESSIONTIMEUE
+object_type: metric
+label: RetainSessionTimeUE_ms
+calculation_method: sum
+dataset: lte-retainability
+column: RetainSessionTimeUE_ms

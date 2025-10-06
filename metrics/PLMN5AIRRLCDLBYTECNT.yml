@@ -1,0 +1,6 @@
+unique_name: PLMN5AIRRLCDLBYTECNT
+object_type: metric
+label: PLMN5AirRlcDLByteCnt_count
+calculation_method: sum
+dataset: lte-air-rlc-packet-per-plmn
+column: PLMN5AirRlcDLByteCnt_count

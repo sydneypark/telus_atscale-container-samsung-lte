@@ -1,0 +1,6 @@
+unique_name: DISKUSAGELTEMAX
+object_type: metric
+label: DiskUsageLTEMax_pct
+calculation_method: sum
+dataset: lte-disk-usage-in-lte
+column: DiskUsageLTEMax_pct

@@ -1,0 +1,28 @@
+unique_name: TriggeredCellIdentity
+object_type: dimension
+label: TriggeredCellIdentity
+is_degenerate: true
+hierarchies:
+- unique_name: TriggeredCellIdentity Hierarchy
+  label: TriggeredCellIdentity Hierarchy
+  levels:
+  - unique_name: TriggeredCellIdentity
+level_attributes:
+- unique_name: TriggeredCellIdentity
+  label: TriggeredCellIdentity Level
+  shared_degenerate_columns:
+  - name_column: TriggeredCellIdentity
+    key_columns:
+    - TriggeredCellIdentity
+    dataset: nr-inter-sn-pscell-change-per-gnb
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TriggeredCellIdentity
+    key_columns:
+    - TriggeredCellIdentity
+    dataset: nr-inter-sn-pscell-change-per-gnb-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

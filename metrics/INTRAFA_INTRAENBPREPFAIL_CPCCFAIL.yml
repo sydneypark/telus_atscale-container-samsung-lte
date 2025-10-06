@@ -1,0 +1,6 @@
+unique_name: INTRAFA_INTRAENBPREPFAIL_CPCCFAIL
+object_type: metric
+label: IntraFa_IntraEnbPrepFail_CpCcFail_count
+calculation_method: sum
+dataset: lte-intra-enb-intra-fa-handover
+column: IntraFa_IntraEnbPrepFail_CpCcFail_count

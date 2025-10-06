@@ -1,0 +1,6 @@
+unique_name: CONNRELEASE_CPCCTO
+object_type: metric
+label: ConnRelease_CpCcTo_count
+calculation_method: sum
+dataset: lte-rrc-connection-release
+column: ConnRelease_CpCcTo_count

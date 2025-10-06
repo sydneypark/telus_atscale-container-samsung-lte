@@ -1,0 +1,6 @@
+unique_name: SANRCAPABLECONNNOAVG
+object_type: metric
+label: SaNrCapableConnNoAvg_count
+calculation_method: sum
+dataset: lte-5g-capable-rrc-connection-number
+column: SaNrCapableConnNoAvg_count

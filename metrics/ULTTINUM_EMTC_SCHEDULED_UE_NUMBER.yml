@@ -1,0 +1,6 @@
+unique_name: ULTTINUM_EMTC_SCHEDULED_UE_NUMBER
+object_type: metric
+label: ULTTINum_count
+calculation_method: sum
+dataset: lte-emtc-scheduled-ue-number
+column: ULTTINum_count

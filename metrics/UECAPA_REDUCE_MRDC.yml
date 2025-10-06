@@ -1,0 +1,6 @@
+unique_name: UECAPA_REDUCE_MRDC
+object_type: metric
+label: UeCapa_Reduce_Mrdc_count
+calculation_method: sum
+dataset: lte-count-of-mrdc-capa-size-reduction-performed
+column: UeCapa_Reduce_Mrdc_count

@@ -1,0 +1,6 @@
+unique_name: CONNNOCNT
+object_type: metric
+label: ConnNoCnt_count
+calculation_method: sum
+dataset: lte-rrc-connection-number
+column: ConnNoCnt_count

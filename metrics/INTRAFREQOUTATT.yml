@@ -1,0 +1,6 @@
+unique_name: INTRAFREQOUTATT
+object_type: metric
+label: IntraFreqOutAtt_count
+calculation_method: sum
+dataset: lte-outgoing-intra-frequency-handover
+column: IntraFreqOutAtt_count

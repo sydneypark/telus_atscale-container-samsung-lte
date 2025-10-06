@@ -1,0 +1,6 @@
+unique_name: SCELLADDCOUNT
+object_type: metric
+label: SCellAddCount_count
+calculation_method: sum
+dataset: lte-rrc-connection-reconfiguration
+column: SCellAddCount_count

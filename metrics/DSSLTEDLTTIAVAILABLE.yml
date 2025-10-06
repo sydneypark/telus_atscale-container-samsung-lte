@@ -1,0 +1,6 @@
+unique_name: DSSLTEDLTTIAVAILABLE
+object_type: metric
+label: DssLteDLTtiAvailable_count
+calculation_method: sum
+dataset: lte-dss-related-information
+column: DssLteDLTtiAvailable_count

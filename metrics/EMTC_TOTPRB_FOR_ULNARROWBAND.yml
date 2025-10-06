@@ -1,0 +1,6 @@
+unique_name: EMTC_TOTPRB_FOR_ULNARROWBAND
+object_type: metric
+label: eMTC_TotPrb_for_ULNarrowband_count
+calculation_method: sum
+dataset: lte-emtc-total-prb-usage
+column: eMTC_TotPrb_for_ULNarrowband_count

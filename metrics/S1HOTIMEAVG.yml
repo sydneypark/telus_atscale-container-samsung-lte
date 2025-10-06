@@ -1,0 +1,6 @@
+unique_name: S1HOTIMEAVG
+object_type: metric
+label: S1HoTimeAvg_ms
+calculation_method: sum
+dataset: lte-handover-time
+column: S1HoTimeAvg_ms

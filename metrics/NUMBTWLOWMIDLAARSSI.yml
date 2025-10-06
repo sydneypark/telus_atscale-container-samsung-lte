@@ -1,0 +1,6 @@
+unique_name: NUMBTWLOWMIDLAARSSI
+object_type: metric
+label: NumBtwLowMidLaaRssi_count
+calculation_method: sum
+dataset: lte-laa-channel-status
+column: NumBtwLowMidLaaRssi_count

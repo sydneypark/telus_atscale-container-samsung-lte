@@ -1,0 +1,22 @@
+unique_name: LCGId
+object_type: dimension
+label: LCGId
+is_degenerate: true
+hierarchies:
+- unique_name: LCGId Hierarchy
+  label: LCGId Hierarchy
+  levels:
+  - unique_name: LCGId
+level_attributes:
+- unique_name: LCGId
+  label: LCGId Level
+  shared_degenerate_columns:
+  - name_column: LCGId
+    key_columns:
+    - LCGId
+    dataset: lte-ul-ip-throughput-per-plmn-and-lcg-id
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

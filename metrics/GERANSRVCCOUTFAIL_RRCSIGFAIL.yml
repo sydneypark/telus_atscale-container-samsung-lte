@@ -1,0 +1,6 @@
+unique_name: GERANSRVCCOUTFAIL_RRCSIGFAIL
+object_type: metric
+label: GeranSrvccOutFail_RrcSigFail_count
+calculation_method: sum
+dataset: lte-geran-srvcc-handover
+column: GeranSrvccOutFail_RrcSigFail_count

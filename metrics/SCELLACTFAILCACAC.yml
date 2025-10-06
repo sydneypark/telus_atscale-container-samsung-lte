@@ -1,0 +1,6 @@
+unique_name: SCELLACTFAILCACAC
+object_type: metric
+label: SCellActFailCaCac_count
+calculation_method: sum
+dataset: lte-activation-deactivation-for-inter-site-ca-using-non-ideal-b
+column: SCellActFailCaCac_count

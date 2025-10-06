@@ -1,0 +1,6 @@
+unique_name: DLTRANSMISSIONMAXNUM
+object_type: metric
+label: DLTransmissionMaxNum_count
+calculation_method: sum
+dataset: lte-downlink-harq-transmission-bler
+column: DLTransmissionMaxNum_count

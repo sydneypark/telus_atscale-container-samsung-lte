@@ -1,0 +1,6 @@
+unique_name: ENDC_ERABMODINDATT
+object_type: metric
+label: EnDc_ErabModIndAtt_count
+calculation_method: sum
+dataset: lte-en-dc-e-rab-modification-indication-information
+column: EnDc_ErabModIndAtt_count

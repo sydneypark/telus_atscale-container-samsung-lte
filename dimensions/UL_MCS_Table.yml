@@ -1,0 +1,34 @@
+unique_name: UL_MCS_Table
+object_type: dimension
+label: UL_MCS_Table
+is_degenerate: true
+hierarchies:
+- unique_name: UL_MCS_Table Hierarchy
+  label: UL_MCS_Table Hierarchy
+  levels:
+  - unique_name: UL_MCS_Table
+level_attributes:
+- unique_name: UL_MCS_Table
+  label: UL_MCS_Table Level
+  shared_degenerate_columns:
+  - name_column: UL_MCS_Table
+    key_columns:
+    - UL_MCS_Table
+    dataset: nr-uplink-mcs-bler
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UL_MCS_Table
+    key_columns:
+    - UL_MCS_Table
+    dataset: nr-uplink-mcs-distribution-per-rank
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UL_MCS_Table
+    key_columns:
+    - UL_MCS_Table
+    dataset: nr-uplink-mcs-prb-per-rank
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

@@ -1,0 +1,22 @@
+unique_name: DUModCause
+object_type: dimension
+label: DUModCause
+is_degenerate: true
+hierarchies:
+- unique_name: DUModCause Hierarchy
+  label: DUModCause Hierarchy
+  levels:
+  - unique_name: DUModCause
+level_attributes:
+- unique_name: DUModCause
+  label: DUModCause Level
+  shared_degenerate_columns:
+  - name_column: DUModCause
+    key_columns:
+    - DUModCause
+    dataset: nr-cu-initiated-f1-ue-context-modification-in-gnb-du
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

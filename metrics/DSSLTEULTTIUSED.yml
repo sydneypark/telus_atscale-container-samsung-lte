@@ -1,0 +1,6 @@
+unique_name: DSSLTEULTTIUSED
+object_type: metric
+label: DssLteULTtiUsed_count
+calculation_method: sum
+dataset: lte-dss-related-information
+column: DssLteULTtiUsed_count

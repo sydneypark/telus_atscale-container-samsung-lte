@@ -1,0 +1,6 @@
+unique_name: INTRAFA_INTRAENBCNT
+object_type: metric
+label: IntraFa_IntraEnbCnt_count
+calculation_method: sum
+dataset: lte-intra-enb-intra-fa-handover
+column: IntraFa_IntraEnbCnt_count

@@ -1,0 +1,6 @@
+unique_name: TOTAVAILABLEPRBDLNUM_TM8_DOWNLINK_PRB_USAGE_TTI
+object_type: metric
+label: TotAvailablePrbDLNum_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-tm8-downlink-prb-usage-per-tti
+column: TotAvailablePrbDLNum_count

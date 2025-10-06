@@ -1,0 +1,6 @@
+unique_name: PREEMPTHOTARGETEARFCNDL_TARGETEARFCNDL
+object_type: metric
+label: PreemptHoTargetEarfcnDL_TargetEarfcnDl
+calculation_method: sum
+dataset: lte-preemption-handover
+column: PreemptHoTargetEarfcnDL_TargetEarfcnDl

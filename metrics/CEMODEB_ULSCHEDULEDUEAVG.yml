@@ -1,0 +1,6 @@
+unique_name: CEMODEB_ULSCHEDULEDUEAVG
+object_type: metric
+label: CEModeB_ULScheduledUEAvg_count
+calculation_method: sum
+dataset: lte-emtc-scheduled-ue-number
+column: CEModeB_ULScheduledUEAvg_count

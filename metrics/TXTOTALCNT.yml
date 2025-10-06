@@ -1,0 +1,6 @@
+unique_name: TXTOTALCNT
+object_type: metric
+label: TxTotalCnt_count
+calculation_method: sum
+dataset: lte-outbound-packet-in-oru
+column: TxTotalCnt_count

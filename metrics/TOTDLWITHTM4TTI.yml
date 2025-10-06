@@ -1,0 +1,6 @@
+unique_name: TOTDLWITHTM4TTI
+object_type: metric
+label: TotDLWithTM4Tti_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-downlink-tti-usage
+column: TotDLWithTM4Tti_count

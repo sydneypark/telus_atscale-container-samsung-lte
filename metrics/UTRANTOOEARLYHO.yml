@@ -1,0 +1,6 @@
+unique_name: UTRANTOOEARLYHO
+object_type: metric
+label: UtranTooEarlyHo_count
+calculation_method: sum
+dataset: lte-utran-mro
+column: UtranTooEarlyHo_count

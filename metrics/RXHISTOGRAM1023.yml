@@ -1,0 +1,6 @@
+unique_name: RXHISTOGRAM1023
+object_type: metric
+label: RxHistogram1023_count
+calculation_method: sum
+dataset: lte-histogram
+column: RxHistogram1023_count

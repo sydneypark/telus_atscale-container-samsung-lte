@@ -1,0 +1,6 @@
+unique_name: HOTRIGGERINGTCELLRSRQEVENTA5AVG_DB
+object_type: metric
+label: HoTriggeringTcellRsrqEventA5Avg_dB
+calculation_method: sum
+dataset: lte-measurement-results-of-target-cell
+column: HoTriggeringTcellRsrqEventA5Avg_dB

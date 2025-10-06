@@ -1,0 +1,6 @@
+unique_name: _0X0603_GTP_RESETFAIL_NB_IOT_CALL_FAIL
+object_type: metric
+label: _0x0603_Gtp_ResetFail_count
+calculation_method: sum
+dataset: lte-nb-iot-call-fail
+column: _0x0603_Gtp_ResetFail_count

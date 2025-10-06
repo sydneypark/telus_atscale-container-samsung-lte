@@ -1,0 +1,6 @@
+unique_name: OUTTHRUPEAK_CONTAINER_LTE_ETHERNET_CNF
+object_type: metric
+label: OutThruPeak_Container_Mbps
+calculation_method: sum
+dataset: lte-ethernet-packet-for-cnf
+column: OutThruPeak_Container_Mbps

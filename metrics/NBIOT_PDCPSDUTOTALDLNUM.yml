@@ -1,0 +1,6 @@
+unique_name: NBIOT_PDCPSDUTOTALDLNUM
+object_type: metric
+label: NBIoT_PdcpSduTotalDLNum_count
+calculation_method: sum
+dataset: lte-nb-iot-packet-loss-rate
+column: NBIoT_PdcpSduTotalDLNum_count

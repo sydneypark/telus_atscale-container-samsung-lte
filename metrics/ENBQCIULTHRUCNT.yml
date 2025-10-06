@@ -1,0 +1,6 @@
+unique_name: ENBQCIULTHRUCNT
+object_type: metric
+label: EnbQciULThruCnt_count
+calculation_method: sum
+dataset: lte-pdcp-packet
+column: EnbQciULThruCnt_count

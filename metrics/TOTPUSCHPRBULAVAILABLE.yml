@@ -1,0 +1,6 @@
+unique_name: TOTPUSCHPRBULAVAILABLE
+object_type: metric
+label: TotPuschPrbULAvailable_count
+calculation_method: sum
+dataset: lte-tti-bundling-in-mac
+column: TotPuschPrbULAvailable_count

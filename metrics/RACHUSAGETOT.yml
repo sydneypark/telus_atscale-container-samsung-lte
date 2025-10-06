@@ -1,0 +1,6 @@
+unique_name: RACHUSAGETOT
+object_type: metric
+label: RACHUsageTot_count
+calculation_method: sum
+dataset: lte-random-access-preambles
+column: RACHUsageTot_count

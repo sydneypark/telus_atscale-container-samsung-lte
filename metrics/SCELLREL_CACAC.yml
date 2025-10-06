@@ -1,0 +1,6 @@
+unique_name: SCELLREL_CACAC
+object_type: metric
+label: SCellRel_CaCac_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-message-count-for-addition-release
+column: SCellRel_CaCac_count

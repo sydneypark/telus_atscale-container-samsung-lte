@@ -1,0 +1,6 @@
+unique_name: UTRANMROCNT
+object_type: metric
+label: UtranMroCnt_count
+calculation_method: sum
+dataset: lte-utran-mro
+column: UtranMroCnt_count

@@ -1,0 +1,6 @@
+unique_name: LTEEUTRASIZE20
+object_type: metric
+label: LteEUTRASize20_count
+calculation_method: sum
+dataset: lte-ue-capability-size-distribution
+column: LteEUTRASize20_count

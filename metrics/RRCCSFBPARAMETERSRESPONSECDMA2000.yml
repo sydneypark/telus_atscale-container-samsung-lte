@@ -1,0 +1,6 @@
+unique_name: RRCCSFBPARAMETERSRESPONSECDMA2000
+object_type: metric
+label: RrcCSFBParametersResponseCDMA2000_count
+calculation_method: sum
+dataset: lte-rrc-message-per-cell
+column: RrcCSFBParametersResponseCDMA2000_count

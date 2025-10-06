@@ -1,0 +1,6 @@
+unique_name: PC2INTRAENBOUTSUCC
+object_type: metric
+label: Pc2IntraEnbOutSucc_count
+calculation_method: sum
+dataset: lte-intra-enb-out-handover-of-power-class-2-ue
+column: Pc2IntraEnbOutSucc_count

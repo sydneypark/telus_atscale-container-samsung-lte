@@ -1,0 +1,6 @@
+unique_name: NBIOT_ESTABADDSUCCNBR
+object_type: metric
+label: NBIoT_EstabAddSuccNbr_count
+calculation_method: sum
+dataset: lte-nb-iot-e-rab-setup-add
+column: NBIoT_EstabAddSuccNbr_count

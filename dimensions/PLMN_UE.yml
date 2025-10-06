@@ -1,0 +1,376 @@
+unique_name: PLMN_UE
+object_type: dimension
+label: PLMN_UE
+is_degenerate: true
+hierarchies:
+- unique_name: PLMN_UE Hierarchy
+  label: PLMN_UE Hierarchy
+  levels:
+  - unique_name: PLMN_UE
+level_attributes:
+- unique_name: PLMN_UE
+  label: PLMN_UE Level
+  shared_degenerate_columns:
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-active-session-time-for-drb-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-active-session-time-for-drb-per-plmn-per-snssai-with-du-iden
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-active-session-time-for-drb-per-plmn-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-air-interface-delay-per-plmn-per-snssai-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-air-mac-packet-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-complete-e-rab-release-per-gnb-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-complete-e-rab-release-per-gnb-with-du-identifier-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-complete-en-dc-context-release-per-gnb-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-complete-en-dc-context-release-per-gnb-with-du-identifier-pe
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-dl-ue-throughput-distribution-per-plmn-for-nsa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-dl-ue-throughput-distribution-per-plmn-per-s-nssai-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-downlink-active-ue-number-per-plmn-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-downlink-ue-throughput-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-drb-connection-information-of-redcap-ue-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-drb-connection-information-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-drb-connection-information-with-du-identifier-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-drb-connection-number-per-gnb-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-drb-connection-number-per-gnb-with-du-identifier-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-drb-setup-per-plmn-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-drb-setup-with-du-identifier-per-plmn-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-e-rab-addition-per-gnb-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-e-rab-addition-per-gnb-per-plmn-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-initial-drb-setup-per-plmn-per-snssai-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-intra-frequency-pscell-change-with-cause-scg-mobility-per-gn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-pdcp-packet-per-cell-identity-per-plmn-per-5qi-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-pdcp-packet-per-cell-identity-per-plmn-per-qci
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-pdcp-packet-per-gnb-id-per-5qi-per-plmn-per-s-nssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-pdcp-sdu-delay-dl-distribution-for-nsa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-pdcp-sdu-delay-dl-distribution-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-pdcp-volume-per-cell-identity-per-plmn-per-5qi-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-pdcp-volume-per-cell-identity-per-plmn-per-qci
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-pdcp-volume-per-gnb-id-per-5qi-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-pdcp-volume-per-gnb-id-per-5qi-per-plmn-per-s-nssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-pdcp-volume-per-gnb-id-per-qci-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-pdu-session-resource-setup-per-plmn-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-pdu-session-resource-setup-with-du-identifier-per-plmn-per-s
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-prb-usage-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-prb-usage-per-plmn-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-qos-flow-setup-per-plmn-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-qos-flow-setup-with-du-identifier-per-plmn-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-release-of-setup-active-drb-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-release-of-setup-active-drb-per-plmn-per-snssai-with-du-iden
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-release-of-setup-active-drb-per-plmn-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-release-of-setup-drb-with-per-plmn-per-snssai-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-rlc-integrity-per-plmn-per-s-nssai-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-rlc-packet-per-plmn-for-nsa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-rlc-packet-per-plmn-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-rlc-ul-packet-delay-per-plmn-per-s-nssai-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-rrc-connection-information-of-redcap-ue-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-rrc-connection-information-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-rrc-connection-information-with-du-identifier-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-ue-associated-logical-ng-connection-establishment-per-plmn-w
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-ue-connection-number-per-gnb-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-ue-connection-number-per-gnb-per-plmn-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-ue-throughput-per-plmn-per-snssai-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-unrestricted-dl-ue-data-per-plmn-for-nsa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-unrestricted-dl-ue-data-per-plmn-per-s-nssai-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-uplink-ue-throughput-per-plmn-for-nsa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-uplink-ue-throughput-per-plmn-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN_UE
+    key_columns:
+    - PLMN_UE
+    dataset: nr-uplink-ue-throughput-per-plmn-per-snssai-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

@@ -1,0 +1,6 @@
+unique_name: RUPOWERCNT
+object_type: metric
+label: RuPowerCnt_count
+calculation_method: sum
+dataset: lte-ru-power-consumption
+column: RuPowerCnt_count

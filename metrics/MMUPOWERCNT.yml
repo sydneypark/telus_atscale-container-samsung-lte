@@ -1,0 +1,6 @@
+unique_name: MMUPOWERCNT
+object_type: metric
+label: MmuPowerCnt_count
+calculation_method: sum
+dataset: lte-mmu-power-consumption
+column: MmuPowerCnt_count

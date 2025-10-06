@@ -1,0 +1,6 @@
+unique_name: ULTRANSMISSIONRETRANS4_256QAM
+object_type: metric
+label: ULTransmissionRetrans4_256QAM_count
+calculation_method: sum
+dataset: lte-uplink-harq-transmission-bler-in-256qam-supported-ue
+column: ULTransmissionRetrans4_256QAM_count

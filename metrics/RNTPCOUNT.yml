@@ -1,0 +1,6 @@
+unique_name: RNTPCOUNT
+object_type: metric
+label: RNTPCount_count
+calculation_method: sum
+dataset: lte-dl-icic-rntp-information
+column: RNTPCount_count

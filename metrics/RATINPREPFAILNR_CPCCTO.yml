@@ -1,0 +1,6 @@
+unique_name: RATINPREPFAILNR_CPCCTO
+object_type: metric
+label: RatInPrepFailNr_CpCcTo_count
+calculation_method: sum
+dataset: lte-inter-rat-nr-incoming-handover
+column: RatInPrepFailNr_CpCcTo_count

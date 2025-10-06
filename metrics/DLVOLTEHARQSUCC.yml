@@ -1,0 +1,6 @@
+unique_name: DLVOLTEHARQSUCC
+object_type: metric
+label: DLVoLTEHARQSucc_count
+calculation_method: sum
+dataset: lte-harq-performance-for-volte-bearer
+column: DLVoLTEHARQSucc_count

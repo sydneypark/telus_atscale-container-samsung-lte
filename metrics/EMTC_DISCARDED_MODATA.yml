@@ -1,0 +1,6 @@
+unique_name: EMTC_DISCARDED_MODATA
+object_type: metric
+label: eMTC_Discarded_moData_count
+calculation_method: sum
+dataset: lte-emtc-denied-call-by-overload-protection
+column: eMTC_Discarded_moData_count

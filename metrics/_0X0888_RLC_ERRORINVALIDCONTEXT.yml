@@ -1,0 +1,6 @@
+unique_name: _0X0888_RLC_ERRORINVALIDCONTEXT
+object_type: metric
+label: _0x0888_Rlc_ErrorInvalidContext_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0888_Rlc_ErrorInvalidContext_count

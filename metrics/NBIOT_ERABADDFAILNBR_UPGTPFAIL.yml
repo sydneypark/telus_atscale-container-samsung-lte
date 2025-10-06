@@ -1,0 +1,6 @@
+unique_name: NBIOT_ERABADDFAILNBR_UPGTPFAIL
+object_type: metric
+label: NBIoT_ErabAddFailNbr_UpGtpFail_count
+calculation_method: sum
+dataset: lte-nb-iot-e-rab-setup-add
+column: NBIoT_ErabAddFailNbr_UpGtpFail_count

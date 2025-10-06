@@ -1,0 +1,6 @@
+unique_name: DLCONGESTIONTTIS
+object_type: metric
+label: DLCongestionTTIs_count
+calculation_method: sum
+dataset: lte-maximum-rb-limit-in-lte-downlink
+column: DLCongestionTTIs_count

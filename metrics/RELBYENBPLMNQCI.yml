@@ -1,0 +1,6 @@
+unique_name: RELBYENBPLMNQCI
+object_type: metric
+label: RelbyEnbPlmnQci_count
+calculation_method: sum
+dataset: lte-e-rab-release-by-enb-per-plmn-per-cell-per-qci
+column: RelbyEnbPlmnQci_count

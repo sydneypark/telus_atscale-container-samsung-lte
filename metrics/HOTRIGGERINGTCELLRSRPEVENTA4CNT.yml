@@ -1,0 +1,6 @@
+unique_name: HOTRIGGERINGTCELLRSRPEVENTA4CNT
+object_type: metric
+label: HoTriggeringTcellRsrpEventA4Cnt_count
+calculation_method: sum
+dataset: lte-measurement-results-of-target-cell
+column: HoTriggeringTcellRsrpEventA4Cnt_count

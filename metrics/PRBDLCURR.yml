@@ -1,0 +1,6 @@
+unique_name: PRBDLCURR
+object_type: metric
+label: PrbDLCurr_pct
+calculation_method: sum
+dataset: lte-prb-usage
+column: PrbDLCurr_pct

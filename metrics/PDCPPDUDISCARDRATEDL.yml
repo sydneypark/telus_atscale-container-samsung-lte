@@ -1,0 +1,6 @@
+unique_name: PDCPPDUDISCARDRATEDL
+object_type: metric
+label: PdcpPduDiscardRateDL_ppm
+calculation_method: sum
+dataset: lte-dl-pdcp-pdu-discard-rate
+column: PdcpPduDiscardRateDL_ppm

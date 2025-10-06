@@ -1,0 +1,6 @@
+unique_name: VOLTERTPGAPDURATION
+object_type: metric
+label: VoLTERTPGapDuration_ms
+calculation_method: sum
+dataset: lte-volte-quality-defect
+column: VoLTERTPGapDuration_ms

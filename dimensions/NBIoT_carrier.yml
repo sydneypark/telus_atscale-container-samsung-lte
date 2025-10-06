@@ -1,0 +1,46 @@
+unique_name: NBIoT_carrier
+object_type: dimension
+label: NBIoT_carrier
+is_degenerate: true
+hierarchies:
+- unique_name: NBIoT_carrier Hierarchy
+  label: NBIoT_carrier Hierarchy
+  levels:
+  - unique_name: NBIoT_carrier
+level_attributes:
+- unique_name: NBIoT_carrier
+  label: NBIoT_carrier Level
+  shared_degenerate_columns:
+  - name_column: NBIoT_carrier
+    key_columns:
+    - NBIoT_carrier
+    dataset: lte-nb-iot-average-rssi-per-antenna-for-multi-carrier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_carrier
+    key_columns:
+    - NBIoT_carrier
+    dataset: lte-nb-iot-npdsch-harq-transmission-times-for-multi-carrier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_carrier
+    key_columns:
+    - NBIoT_carrier
+    dataset: lte-nb-iot-npusch-harq-transmission-times-for-multi-carrier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_carrier
+    key_columns:
+    - NBIoT_carrier
+    dataset: lte-nb-iot-rrc-connection-number-per-carrier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_carrier
+    key_columns:
+    - NBIoT_carrier
+    dataset: lte-nb-iot-ul-and-dl-total-subcarriers-usage-for-multi-carrier
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

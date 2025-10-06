@@ -1,0 +1,6 @@
+unique_name: ENDCADDLTEHONOSGNBCHGPREPFAIL_UPTIMEOUT
+object_type: metric
+label: EndcAddLteHoNoSgnbChgPrepFail_UpTimeout_count
+calculation_method: sum
+dataset: lte-telus-pm-samsung-nr-sgnb-addition-due-to-intra-lte-handover
+column: EndcAddLteHoNoSgnbChgPrepFail_UpTimeout_count

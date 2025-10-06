@@ -1,0 +1,6 @@
+unique_name: _0X0116_S1AP_LOADBALANCINGTAUREQUIRED_NB_IOT_CALL_FAIL
+object_type: metric
+label: _0x0116_S1ap_LoadBalancingTauRequired_count
+calculation_method: sum
+dataset: lte-nb-iot-call-fail
+column: _0x0116_S1ap_LoadBalancingTauRequired_count

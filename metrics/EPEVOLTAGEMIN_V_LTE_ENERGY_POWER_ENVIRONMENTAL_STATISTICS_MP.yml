@@ -1,0 +1,6 @@
+unique_name: EPEVOLTAGEMIN_V_LTE_ENERGY_POWER_ENVIRONMENTAL_STATISTICS_MP
+object_type: metric
+label: EpeVoltageMin_V
+calculation_method: sum
+dataset: lte-energy-power-and-environmental-statistics-of-mplane
+column: EpeVoltageMin_V

@@ -1,0 +1,22 @@
+unique_name: endc_bearerChangeType
+object_type: dimension
+label: endc_bearerChangeType
+is_degenerate: true
+hierarchies:
+- unique_name: endc_bearerChangeType Hierarchy
+  label: endc_bearerChangeType Hierarchy
+  levels:
+  - unique_name: endc_bearerChangeType
+level_attributes:
+- unique_name: endc_bearerChangeType
+  label: endc_bearerChangeType Level
+  shared_degenerate_columns:
+  - name_column: endc_bearerChangeType
+    key_columns:
+    - endc_bearerChangeType
+    dataset: lte-en-dc-e-rab-modification-information
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

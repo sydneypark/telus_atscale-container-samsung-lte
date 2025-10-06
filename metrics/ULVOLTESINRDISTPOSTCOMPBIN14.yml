@@ -1,0 +1,6 @@
+unique_name: ULVOLTESINRDISTPOSTCOMPBIN14
+object_type: metric
+label: ULVoLTESinrDistPostCompBin14_count
+calculation_method: sum
+dataset: lte-bin-distribution-of-sinr-for-ul-volte-bearer
+column: ULVoLTESinrDistPostCompBin14_count

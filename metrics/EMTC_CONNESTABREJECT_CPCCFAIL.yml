@@ -1,0 +1,6 @@
+unique_name: EMTC_CONNESTABREJECT_CPCCFAIL
+object_type: metric
+label: eMTC_ConnEstabReject_CpCcFail_count
+calculation_method: sum
+dataset: lte-emtc-rrc-connection-establishment
+column: eMTC_ConnEstabReject_CpCcFail_count

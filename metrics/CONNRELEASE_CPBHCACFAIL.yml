@@ -1,0 +1,6 @@
+unique_name: CONNRELEASE_CPBHCACFAIL
+object_type: metric
+label: ConnRelease_CpBhCacFail_count
+calculation_method: sum
+dataset: lte-rrc-connection-release
+column: ConnRelease_CpBhCacFail_count

@@ -1,0 +1,6 @@
+unique_name: RRUCCEALLOCATIONFAILDLAVG
+object_type: metric
+label: RruCceAllocationFailDLAvg_pct
+calculation_method: sum
+dataset: lte-rru-measurement-info
+column: RruCceAllocationFailDLAvg_pct

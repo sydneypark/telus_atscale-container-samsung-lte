@@ -1,0 +1,22 @@
+unique_name: NbrEnbId
+object_type: dimension
+label: NbrEnbId
+is_degenerate: true
+hierarchies:
+- unique_name: NbrEnbId Hierarchy
+  label: NbrEnbId Hierarchy
+  levels:
+  - unique_name: NbrEnbId
+level_attributes:
+- unique_name: NbrEnbId
+  label: NbrEnbId Level
+  shared_degenerate_columns:
+  - name_column: NbrEnbId
+    key_columns:
+    - NbrEnbId
+    dataset: lte-x2-link-time
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

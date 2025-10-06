@@ -1,0 +1,6 @@
+unique_name: EMTCPDCPSDUTOTALDELAYDL
+object_type: metric
+label: eMTCPdcpSduTotalDelayDl_ms
+calculation_method: sum
+dataset: lte-emtc-packet-delay
+column: eMTCPdcpSduTotalDelayDl_ms

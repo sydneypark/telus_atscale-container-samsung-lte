@@ -1,0 +1,6 @@
+unique_name: VOICECONGESTIONAVOIDHOOUTSUCC
+object_type: metric
+label: VoiceCongestionAvoidHoOutSucc_count
+calculation_method: sum
+dataset: lte-forced-handover-for-voice-congestion-avoid
+column: VoiceCongestionAvoidHoOutSucc_count

@@ -1,0 +1,6 @@
+unique_name: LAANBRPENALTYAVG
+object_type: metric
+label: LaaNbrPenaltyAvg
+calculation_method: sum
+dataset: lte-laa-channel-status
+column: LaaNbrPenaltyAvg

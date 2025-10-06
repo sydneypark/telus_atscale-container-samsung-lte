@@ -1,0 +1,6 @@
+unique_name: TOOEARLYHOFAILUREVOICE
+object_type: metric
+label: TooEarlyHoFailureVoice_count
+calculation_method: sum
+dataset: lte-mro-rlf-voice-classification
+column: TooEarlyHoFailureVoice_count

@@ -1,0 +1,6 @@
+unique_name: PLMNCSFBPREPSUCCESS
+object_type: metric
+label: PLMNCSFBPrepSuccess_count
+calculation_method: sum
+dataset: lte-csfb-preparation-per-plmn
+column: PLMNCSFBPrepSuccess_count

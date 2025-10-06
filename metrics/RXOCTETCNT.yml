@@ -1,0 +1,6 @@
+unique_name: RXOCTETCNT
+object_type: metric
+label: RxOctetCnt_count
+calculation_method: sum
+dataset: lte-ethernet-packet-per-vlan
+column: RxOctetCnt_count

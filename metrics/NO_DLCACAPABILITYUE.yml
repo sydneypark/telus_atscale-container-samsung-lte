@@ -1,0 +1,6 @@
+unique_name: NO_DLCACAPABILITYUE
+object_type: metric
+label: No_DLCaCapabilityUE_count
+calculation_method: sum
+dataset: lte-scell-added-information-pcell
+column: No_DLCaCapabilityUE_count

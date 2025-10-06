@@ -1,0 +1,6 @@
+unique_name: RELATTBYENBNBR_CPPREEMPTION
+object_type: metric
+label: RelAttbyEnbNbr_CpPreemption_count
+calculation_method: sum
+dataset: lte-e-rab-release-request
+column: RelAttbyEnbNbr_CpPreemption_count

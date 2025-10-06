@@ -1,0 +1,6 @@
+unique_name: DRXOUTSUCC_EMTC_OUTGOING_HANDOVER_DRX
+object_type: metric
+label: DrxOutSucc_count
+calculation_method: sum
+dataset: lte-emtc-outgoing-handover-with-drx
+column: DrxOutSucc_count

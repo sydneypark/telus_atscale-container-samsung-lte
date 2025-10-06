@@ -1,0 +1,6 @@
+unique_name: EMTC_DS1_RADIOCONWITHUELOSTQCI
+object_type: metric
+label: eMTC_DS1_RadioConwithUeLostQci_count
+calculation_method: sum
+dataset: lte-emtc-erab-release-by-double-s1
+column: eMTC_DS1_RadioConwithUeLostQci_count

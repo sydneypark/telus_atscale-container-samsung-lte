@@ -1,0 +1,6 @@
+unique_name: CEMODEA_ULRESIDUALBLERRETRANS4
+object_type: metric
+label: CEModeA_ULResidualBlerRetrans4_pct
+calculation_method: sum
+dataset: lte-emtc-uplink-harq-transmission-bler
+column: CEModeA_ULResidualBlerRetrans4_pct

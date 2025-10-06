@@ -1,0 +1,58 @@
+unique_name: BearerType
+object_type: dimension
+label: BearerType
+is_degenerate: true
+hierarchies:
+- unique_name: BearerType Hierarchy
+  label: BearerType Hierarchy
+  levels:
+  - unique_name: BearerType
+level_attributes:
+- unique_name: BearerType
+  label: BearerType Level
+  shared_degenerate_columns:
+  - name_column: BearerType
+    key_columns:
+    - BearerType
+    dataset: nr-e-rab-addition-per-gnb-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: BearerType
+    key_columns:
+    - BearerType
+    dataset: nr-e-rab-addition-per-gnb-per-plmn-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: BearerType
+    key_columns:
+    - BearerType
+    dataset: nr-e-rab-addition-per-gnb-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: BearerType
+    key_columns:
+    - BearerType
+    dataset: nr-e-rab-modification-per-gnb
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: BearerType
+    key_columns:
+    - BearerType
+    dataset: nr-e-rab-modification-per-gnb-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: BearerType
+    key_columns:
+    - BearerType
+    dataset: nr-e-rab-release-per-gnb
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: BearerType
+    key_columns:
+    - BearerType
+    dataset: nr-e-rab-release-per-gnb-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

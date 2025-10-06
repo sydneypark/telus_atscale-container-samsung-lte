@@ -1,0 +1,6 @@
+unique_name: TOTTTIBPRBULAVG
+object_type: metric
+label: TotTtibPrbULAvg_pct
+calculation_method: sum
+dataset: lte-tti-bundling-in-mac
+column: TotTtibPrbULAvg_pct

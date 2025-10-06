@@ -1,0 +1,6 @@
+unique_name: DSSLTEULTTIRATIOUSEDPERAVAILABLE
+object_type: metric
+label: DssLteULTtiRatioUsedPerAvailable_pct
+calculation_method: sum
+dataset: lte-dss-related-information
+column: DssLteULTtiRatioUsedPerAvailable_pct

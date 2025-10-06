@@ -1,0 +1,6 @@
+unique_name: TTIBNOMAX
+object_type: metric
+label: TtibNoMax_count
+calculation_method: sum
+dataset: lte-tti-bundling
+column: TtibNoMax_count

@@ -1,0 +1,6 @@
+unique_name: ISSNRCCEONLYFDMSLOTAVAILABLERB
+object_type: metric
+label: IssNrCceOnlyFdmSlotAvailableRb_count
+calculation_method: sum
+dataset: lte-dss-related-information
+column: IssNrCceOnlyFdmSlotAvailableRb_count

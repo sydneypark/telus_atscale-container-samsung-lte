@@ -1,0 +1,6 @@
+unique_name: CEMODEB_TOTPRBDLAVG
+object_type: metric
+label: CEModeB_TotPrbDLAvg_pct
+calculation_method: sum
+dataset: lte-emtc-total-prb-usage
+column: CEModeB_TotPrbDLAvg_pct

@@ -1,0 +1,6 @@
+unique_name: TTIBACTTIMECNT
+object_type: metric
+label: TtibActTimeCnt_count
+calculation_method: sum
+dataset: lte-tti-bundling-time
+column: TtibActTimeCnt_count

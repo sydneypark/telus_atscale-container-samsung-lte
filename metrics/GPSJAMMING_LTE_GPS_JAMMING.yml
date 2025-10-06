@@ -1,0 +1,6 @@
+unique_name: GPSJAMMING_LTE_GPS_JAMMING
+object_type: metric
+label: GpsJamming_count
+calculation_method: sum
+dataset: lte-gps-jamming
+column: GpsJamming_count

@@ -1,0 +1,6 @@
+unique_name: EMTC_PDCPVOLDLBYTE
+object_type: metric
+label: eMTC_PdcpVolDlByte_Kbytes
+calculation_method: sum
+dataset: lte-emtc-pdcp-packet
+column: eMTC_PdcpVolDlByte_Kbytes

@@ -1,0 +1,6 @@
+unique_name: S1SIGTIMECNT
+object_type: metric
+label: S1SigTimeCnt_count
+calculation_method: sum
+dataset: lte-s1-connection-time
+column: S1SigTimeCnt_count

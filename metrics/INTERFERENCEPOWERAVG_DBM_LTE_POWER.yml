@@ -1,0 +1,6 @@
+unique_name: INTERFERENCEPOWERAVG_DBM_LTE_POWER
+object_type: metric
+label: InterferencePowerAvg_dBm
+calculation_method: sum
+dataset: lte-power
+column: InterferencePowerAvg_dBm

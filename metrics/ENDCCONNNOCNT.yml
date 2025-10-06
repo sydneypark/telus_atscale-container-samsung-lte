@@ -1,0 +1,6 @@
+unique_name: ENDCCONNNOCNT
+object_type: metric
+label: EnDcConnNoCnt_count
+calculation_method: sum
+dataset: lte-5g-capable-rrc-connection-number
+column: EnDcConnNoCnt_count

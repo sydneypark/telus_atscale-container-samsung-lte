@@ -1,0 +1,6 @@
+unique_name: CONTEXT_RELNORMALBYENB
+object_type: metric
+label: Context_RelNormalByEnb_count
+calculation_method: sum
+dataset: lte-context-release-by-mme-and-enb-per-cell
+column: Context_RelNormalByEnb_count

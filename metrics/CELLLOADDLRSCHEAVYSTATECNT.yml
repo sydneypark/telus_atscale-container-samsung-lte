@@ -1,0 +1,6 @@
+unique_name: CELLLOADDLRSCHEAVYSTATECNT
+object_type: metric
+label: cellLoadDLRscHeavyStateCnt_count
+calculation_method: sum
+dataset: lte-cell-load-state
+column: cellLoadDLRscHeavyStateCnt_count

@@ -1,0 +1,6 @@
+unique_name: A2EVENT_CA_EMTC_MRS_TRIGGERED_SERVING_CELL
+object_type: metric
+label: A2event_CA_count
+calculation_method: sum
+dataset: lte-emtc-mrs-triggered-by-serving-cell
+column: A2event_CA_count

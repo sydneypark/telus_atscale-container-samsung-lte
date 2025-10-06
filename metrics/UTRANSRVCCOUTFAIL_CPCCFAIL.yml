@@ -1,0 +1,6 @@
+unique_name: UTRANSRVCCOUTFAIL_CPCCFAIL
+object_type: metric
+label: UtranSrvccOutFail_CpCcFail_count
+calculation_method: sum
+dataset: lte-utran-srvcc
+column: UtranSrvccOutFail_CpCcFail_count

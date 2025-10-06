@@ -1,0 +1,6 @@
+unique_name: RELACTIVE_RESETRELEASE
+object_type: metric
+label: RelActive_ResetRelease_count
+calculation_method: sum
+dataset: lte-e-rab-release
+column: RelActive_ResetRelease_count

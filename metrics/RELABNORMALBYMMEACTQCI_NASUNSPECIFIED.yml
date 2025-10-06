@@ -1,0 +1,6 @@
+unique_name: RELABNORMALBYMMEACTQCI_NASUNSPECIFIED
+object_type: metric
+label: RelAbnormalbyMmeActQci_NasUnspecified_count
+calculation_method: sum
+dataset: lte-e-rab-release-by-mme-per-cell-per-qci
+column: RelAbnormalbyMmeActQci_NasUnspecified_count

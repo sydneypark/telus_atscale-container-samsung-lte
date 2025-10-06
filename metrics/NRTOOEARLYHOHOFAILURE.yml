@@ -1,0 +1,6 @@
+unique_name: NRTOOEARLYHOHOFAILURE
+object_type: metric
+label: NrTooEarlyHoHoFailure_count
+calculation_method: sum
+dataset: lte-inter-rat-mro-for-nr
+column: NrTooEarlyHoHoFailure_count

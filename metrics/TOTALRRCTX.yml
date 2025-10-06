@@ -1,0 +1,6 @@
+unique_name: TOTALRRCTX
+object_type: metric
+label: TotalRrcTx_count
+calculation_method: sum
+dataset: lte-rrc-message-per-cell
+column: TotalRrcTx_count

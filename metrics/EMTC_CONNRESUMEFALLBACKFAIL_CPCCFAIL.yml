@@ -1,0 +1,6 @@
+unique_name: EMTC_CONNRESUMEFALLBACKFAIL_CPCCFAIL
+object_type: metric
+label: eMTC_ConnResumeFallbackFail_CpCcFail_count
+calculation_method: sum
+dataset: lte-rrc-connection-resume-for-emtc-ue
+column: eMTC_ConnResumeFallbackFail_CpCcFail_count

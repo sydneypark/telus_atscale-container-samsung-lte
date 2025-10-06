@@ -1,0 +1,6 @@
+unique_name: GERANMLBREDIROUTATT
+object_type: metric
+label: GeranMlbRedirOutAtt_count
+calculation_method: sum
+dataset: lte-inter-rat-mlb-handover-out
+column: GeranMlbRedirOutAtt_count

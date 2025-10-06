@@ -1,0 +1,34 @@
+unique_name: CQI_Table
+object_type: dimension
+label: CQI_Table
+is_degenerate: true
+hierarchies:
+- unique_name: CQI_Table Hierarchy
+  label: CQI_Table Hierarchy
+  levels:
+  - unique_name: CQI_Table
+level_attributes:
+- unique_name: CQI_Table
+  label: CQI_Table Level
+  shared_degenerate_columns:
+  - name_column: CQI_Table
+    key_columns:
+    - CQI_Table
+    dataset: nr-downlink-wideband-cqi
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CQI_Table
+    key_columns:
+    - CQI_Table
+    dataset: nr-downlink-wideband-cqi-as-scell
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CQI_Table
+    key_columns:
+    - CQI_Table
+    dataset: nr-redcap-downlink-wideband-cqi
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

@@ -1,0 +1,6 @@
+unique_name: _0X0347_ECC_CDMAHANDOVERPREPARATIONFAILURE_EMTC_CALL_FAIL
+object_type: metric
+label: _0x0347_Ecc_CdmaHandoverPreparationFailure_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x0347_Ecc_CdmaHandoverPreparationFailure_count

@@ -1,0 +1,6 @@
+unique_name: EMTC_INTRAFREQINSUCC
+object_type: metric
+label: eMTC_IntraFreqInSucc_count
+calculation_method: sum
+dataset: lte-emtc-intra-frequency-handover-in
+column: eMTC_IntraFreqInSucc_count

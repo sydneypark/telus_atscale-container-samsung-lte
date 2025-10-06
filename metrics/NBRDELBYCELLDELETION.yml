@@ -1,0 +1,6 @@
+unique_name: NBRDELBYCELLDELETION
+object_type: metric
+label: NbrDelByCellDeletion_count
+calculation_method: sum
+dataset: lte-addition-and-deletion-of-neighbor-relations
+column: NbrDelByCellDeletion_count

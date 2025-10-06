@@ -1,0 +1,6 @@
+unique_name: EICICPARTNERSHIPCID_PCID
+object_type: metric
+label: EICICPartnershipCid_pcID
+calculation_method: sum
+dataset: lte-eicic-partnership
+column: EICICPartnershipCid_pcID

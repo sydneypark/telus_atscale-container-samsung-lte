@@ -1,0 +1,6 @@
+unique_name: SA_SELECTED
+object_type: metric
+label: SA_Selected_count
+calculation_method: sum
+dataset: lte-multi-rat-selection-information-per-cell
+column: SA_Selected_count

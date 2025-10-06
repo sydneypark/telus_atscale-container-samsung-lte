@@ -1,0 +1,6 @@
+unique_name: _0X0309_ECCTMOUT_INTERS1HANDOVERCMDCOMPLETE
+object_type: metric
+label: _0x0309_EccTmout_InterS1HandoverCmdComplete_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0309_EccTmout_InterS1HandoverCmdComplete_count

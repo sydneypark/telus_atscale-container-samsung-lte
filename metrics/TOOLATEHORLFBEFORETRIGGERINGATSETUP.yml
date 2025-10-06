@@ -1,0 +1,6 @@
+unique_name: TOOLATEHORLFBEFORETRIGGERINGATSETUP
+object_type: metric
+label: TooLateHoRlfBeforeTriggeringAtSetup_count
+calculation_method: sum
+dataset: lte-mro-rlf-at-rrc-connection
+column: TooLateHoRlfBeforeTriggeringAtSetup_count

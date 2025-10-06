@@ -1,0 +1,6 @@
+unique_name: EMTC_CONNREESTABFAIL_S1APLSIGFAIL
+object_type: metric
+label: eMTC_ConnReEstabFail_S1apLSigFail_count
+calculation_method: sum
+dataset: lte-emtc-rrc-connection-re-establishment
+column: eMTC_ConnReEstabFail_S1apLSigFail_count

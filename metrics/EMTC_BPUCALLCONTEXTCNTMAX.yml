@@ -1,0 +1,6 @@
+unique_name: EMTC_BPUCALLCONTEXTCNTMAX
+object_type: metric
+label: eMTC_BpuCallContextCntMax_count
+calculation_method: sum
+dataset: lte-emtc-call-context-per-bpu
+column: eMTC_BpuCallContextCntMax_count

@@ -1,0 +1,6 @@
+unique_name: RXCOLLISION
+object_type: metric
+label: RxCollision_count
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: RxCollision_count

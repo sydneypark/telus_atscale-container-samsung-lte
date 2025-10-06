@@ -1,0 +1,22 @@
+unique_name: Tgt_gNB_DU_ID
+object_type: dimension
+label: Tgt_gNB_DU_ID
+is_degenerate: true
+hierarchies:
+- unique_name: Tgt_gNB_DU_ID Hierarchy
+  label: Tgt_gNB_DU_ID Hierarchy
+  levels:
+  - unique_name: Tgt_gNB_DU_ID
+level_attributes:
+- unique_name: Tgt_gNB_DU_ID
+  label: Tgt_gNB_DU_ID Level
+  shared_degenerate_columns:
+  - name_column: Tgt_gNB_DU_ID
+    key_columns:
+    - Tgt_gNB_DU_ID
+    dataset: nr-spcell-change-time-in-case-of-using-rrc-reconfiguratio-2
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

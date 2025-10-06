@@ -1,0 +1,6 @@
+unique_name: PDCPULTHRUBIN3
+object_type: metric
+label: PdcpULThruBin3_count
+calculation_method: sum
+dataset: lte-pdcp-ul-throughput-distribution
+column: PdcpULThruBin3_count

@@ -1,0 +1,6 @@
+unique_name: WRONGCELLRLFAFTERTRIGGERING
+object_type: metric
+label: WrongCellRlfAfterTriggering_count
+calculation_method: sum
+dataset: lte-mro-rlf-classification
+column: WrongCellRlfAfterTriggering_count

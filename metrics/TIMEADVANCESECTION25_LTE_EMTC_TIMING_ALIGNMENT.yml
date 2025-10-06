@@ -1,0 +1,6 @@
+unique_name: TIMEADVANCESECTION25_LTE_EMTC_TIMING_ALIGNMENT
+object_type: metric
+label: TimeAdvanceSection25_count
+calculation_method: sum
+dataset: lte-emtc-timing-alignment
+column: TimeAdvanceSection25_count

@@ -1,0 +1,6 @@
+unique_name: KILLREQUESTSUCC
+object_type: metric
+label: KillRequestSucc_count
+calculation_method: sum
+dataset: lte-commercial-mobile-alert-system
+column: KillRequestSucc_count

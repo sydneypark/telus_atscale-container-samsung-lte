@@ -1,0 +1,6 @@
+unique_name: _0X0343_ECC_RADIOLINKFAILURE
+object_type: metric
+label: _0x0343_Ecc_RadioLinkFailure_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0343_Ecc_RadioLinkFailure_count

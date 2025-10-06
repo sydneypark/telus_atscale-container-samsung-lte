@@ -1,0 +1,34 @@
+unique_name: RUPortID
+object_type: dimension
+label: RUPortID
+is_degenerate: true
+hierarchies:
+- unique_name: RUPortID Hierarchy
+  label: RUPortID Hierarchy
+  levels:
+  - unique_name: RUPortID
+level_attributes:
+- unique_name: RUPortID
+  label: RUPortID Level
+  shared_degenerate_columns:
+  - name_column: RUPortID
+    key_columns:
+    - RUPortID
+    dataset: nr-radio-unit-measurement
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: RUPortID
+    key_columns:
+    - RUPortID
+    dataset: nr-radio-unit-type-measurement
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: RUPortID
+    key_columns:
+    - RUPortID
+    dataset: nr-tx-rf-measurement
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

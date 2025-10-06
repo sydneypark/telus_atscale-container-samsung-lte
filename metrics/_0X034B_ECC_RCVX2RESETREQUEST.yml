@@ -1,0 +1,6 @@
+unique_name: _0X034B_ECC_RCVX2RESETREQUEST
+object_type: metric
+label: _0x034B_Ecc_RcvX2ResetRequest_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x034B_Ecc_RcvX2ResetRequest_count

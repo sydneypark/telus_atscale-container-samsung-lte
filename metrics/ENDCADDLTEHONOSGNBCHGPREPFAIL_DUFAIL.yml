@@ -1,0 +1,6 @@
+unique_name: ENDCADDLTEHONOSGNBCHGPREPFAIL_DUFAIL
+object_type: metric
+label: EndcAddLteHoNoSgnbChgPrepFail_DuFail_count
+calculation_method: sum
+dataset: lte-telus-pm-samsung-nr-sgnb-addition-due-to-intra-lte-handover
+column: EndcAddLteHoNoSgnbChgPrepFail_DuFail_count

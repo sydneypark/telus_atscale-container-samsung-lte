@@ -1,0 +1,6 @@
+unique_name: PLMN4AIRRLCULBYTECNT
+object_type: metric
+label: PLMN4AirRlcULByteCnt_count
+calculation_method: sum
+dataset: lte-air-rlc-packet-per-plmn
+column: PLMN4AirRlcULByteCnt_count

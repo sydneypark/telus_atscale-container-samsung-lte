@@ -1,0 +1,6 @@
+unique_name: ULRESIDUALBLERRETRANSMAX_256QAM
+object_type: metric
+label: ULResidualBlerRetransMax_256QAM_count
+calculation_method: sum
+dataset: lte-uplink-harq-transmission-bler-in-256qam-supported-ue
+column: ULResidualBlerRetransMax_256QAM_count

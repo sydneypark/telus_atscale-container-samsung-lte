@@ -1,0 +1,6 @@
+unique_name: DUCALLCONTEXTCNTCNT
+object_type: metric
+label: DuCallContextCntCnt_count
+calculation_method: sum
+dataset: lte-lte-call-context-per-du
+column: DuCallContextCntCnt_count

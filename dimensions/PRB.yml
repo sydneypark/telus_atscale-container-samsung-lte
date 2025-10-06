@@ -1,0 +1,28 @@
+unique_name: PRB
+object_type: dimension
+label: PRB
+is_degenerate: true
+hierarchies:
+- unique_name: PRB Hierarchy
+  label: PRB Hierarchy
+  levels:
+  - unique_name: PRB
+level_attributes:
+- unique_name: PRB
+  label: PRB Level
+  shared_degenerate_columns:
+  - name_column: PRB
+    key_columns:
+    - PRB
+    dataset: lte-interference-power-per-prb-per-path
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PRB
+    key_columns:
+    - PRB
+    dataset: lte-per-prb-interference-power
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

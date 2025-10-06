@@ -1,0 +1,6 @@
+unique_name: NODRXOUTFAIL_S1APLINKFAIL
+object_type: metric
+label: NoDrxOutFail_S1apLinkFail_count
+calculation_method: sum
+dataset: lte-outgoing-handover-without-drx
+column: NoDrxOutFail_S1apLinkFail_count

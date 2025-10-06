@@ -1,0 +1,6 @@
+unique_name: PUSCHBLERMCS0CNT
+object_type: metric
+label: PuschBlerMcs0Cnt_count
+calculation_method: sum
+dataset: lte-mcs
+column: PuschBlerMcs0Cnt_count

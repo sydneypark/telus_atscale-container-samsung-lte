@@ -1,0 +1,6 @@
+unique_name: INTERENBCONNREESTABSUCC
+object_type: metric
+label: InterEnbConnReEstabSucc_count
+calculation_method: sum
+dataset: lte-rrc-connection-re-establishment
+column: InterEnbConnReEstabSucc_count

@@ -1,0 +1,6 @@
+unique_name: SCELLADDFAIL_RRCSIGTO
+object_type: metric
+label: SCellAddFail_RrcSigTO_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-message-count-for-addition-release
+column: SCellAddFail_RrcSigTO_count

@@ -1,0 +1,6 @@
+unique_name: RELACTIVE_ECCBTMOUTRRCCONNECTIONRECONFIG
+object_type: metric
+label: RelActive_EccbTmoutRrcConnectionReconfig_count
+calculation_method: sum
+dataset: lte-e-rab-release
+column: RelActive_EccbTmoutRrcConnectionReconfig_count

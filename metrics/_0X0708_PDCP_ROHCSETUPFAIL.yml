@@ -1,0 +1,6 @@
+unique_name: _0X0708_PDCP_ROHCSETUPFAIL
+object_type: metric
+label: _0x0708_Pdcp_RohcSetupFail_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0708_Pdcp_RohcSetupFail_count

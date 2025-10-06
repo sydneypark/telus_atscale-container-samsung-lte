@@ -1,0 +1,6 @@
+unique_name: TRANSTXPOWERMIN_DBM_LTE_MPLANE_TRANSCEIVER_ORU
+object_type: metric
+label: TransTxPowerMin_dBm
+calculation_method: sum
+dataset: lte-mplane-transceiver-of-oru
+column: TransTxPowerMin_dBm

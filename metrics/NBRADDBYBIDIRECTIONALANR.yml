@@ -1,0 +1,6 @@
+unique_name: NBRADDBYBIDIRECTIONALANR
+object_type: metric
+label: NbrAddByBidirectionalAnr_count
+calculation_method: sum
+dataset: lte-addition-and-deletion-of-neighbor-relations
+column: NbrAddByBidirectionalAnr_count

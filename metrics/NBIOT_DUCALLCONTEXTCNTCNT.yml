@@ -1,0 +1,6 @@
+unique_name: NBIOT_DUCALLCONTEXTCNTCNT
+object_type: metric
+label: NBIoT_DuCallContextCntCnt_count
+calculation_method: sum
+dataset: lte-nb-iot-call-context-per-du
+column: NBIoT_DuCallContextCntCnt_count

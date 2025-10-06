@@ -1,0 +1,6 @@
+unique_name: RATOUTPREPFAILNR_CPCCFAIL_NRNCR
+object_type: metric
+label: RatOutPrepFailNr_CpCcFail_NrNCR_count
+calculation_method: sum
+dataset: lte-ho-per-nr-neighbor-cell-between-the-lte-system-and-the-nr-s
+column: RatOutPrepFailNr_CpCcFail_NrNCR_count

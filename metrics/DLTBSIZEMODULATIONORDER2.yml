@@ -1,0 +1,6 @@
+unique_name: DLTBSIZEMODULATIONORDER2
+object_type: metric
+label: DLTBSizeModulationOrder2_Kbytes
+calculation_method: sum
+dataset: lte-dl-tbsize-for-modulation
+column: DLTBSizeModulationOrder2_Kbytes

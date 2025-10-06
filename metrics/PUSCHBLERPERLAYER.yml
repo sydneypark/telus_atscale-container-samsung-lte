@@ -1,0 +1,6 @@
+unique_name: PUSCHBLERPERLAYER
+object_type: metric
+label: PuschBlerPerLayer_pct
+calculation_method: sum
+dataset: lte-mimo
+column: PuschBlerPerLayer_pct

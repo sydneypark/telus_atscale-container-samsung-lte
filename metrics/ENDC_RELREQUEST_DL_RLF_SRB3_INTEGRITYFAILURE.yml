@@ -1,0 +1,6 @@
+unique_name: ENDC_RELREQUEST_DL_RLF_SRB3_INTEGRITYFAILURE
+object_type: metric
+label: EnDc_RelRequest_DL_RLF_srb3_IntegrityFailure_count
+calculation_method: sum
+dataset: lte-en-dc-release-information
+column: EnDc_RelRequest_DL_RLF_srb3_IntegrityFailure_count

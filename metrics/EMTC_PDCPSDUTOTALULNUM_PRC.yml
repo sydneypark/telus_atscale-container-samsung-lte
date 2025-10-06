@@ -1,0 +1,6 @@
+unique_name: EMTC_PDCPSDUTOTALULNUM_PRC
+object_type: metric
+label: eMTC_PdcpSduTotalULNum_count
+calculation_method: sum
+dataset: lte-emtc-packet-loss-rate-per-prc
+column: eMTC_PdcpSduTotalULNum_count

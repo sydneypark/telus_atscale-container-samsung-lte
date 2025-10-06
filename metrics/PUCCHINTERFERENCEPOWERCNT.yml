@@ -1,0 +1,6 @@
+unique_name: PUCCHINTERFERENCEPOWERCNT
+object_type: metric
+label: PucchInterferencePowerCnt_count
+calculation_method: sum
+dataset: lte-average-interference-power-per-prb-in-the-pucch-region
+column: PucchInterferencePowerCnt_count

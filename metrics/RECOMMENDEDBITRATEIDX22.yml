@@ -1,0 +1,6 @@
+unique_name: RECOMMENDEDBITRATEIDX22
+object_type: metric
+label: RecommendedBitRateIdx22_count
+calculation_method: sum
+dataset: lte-volte-recommended-bit-rate
+column: RecommendedBitRateIdx22_count

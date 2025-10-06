@@ -1,0 +1,6 @@
+unique_name: ULLATENCYGROUPPRESCHEDULEDTOTUECNT_LTE_UPLINK_PRESCHEDULING
+object_type: metric
+label: UlLatencyGroupPrescheduledTotUeCnt_count
+calculation_method: sum
+dataset: lte-uplink-prescheduling
+column: UlLatencyGroupPrescheduledTotUeCnt_count

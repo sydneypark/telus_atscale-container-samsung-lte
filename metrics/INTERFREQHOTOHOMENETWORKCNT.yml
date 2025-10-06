@@ -1,0 +1,6 @@
+unique_name: INTERFREQHOTOHOMENETWORKCNT
+object_type: metric
+label: InterFreqHoToHomeNetworkCnt_count
+calculation_method: sum
+dataset: lte-lte-inter-frequency-ho-to-the-home-network
+column: InterFreqHoToHomeNetworkCnt_count

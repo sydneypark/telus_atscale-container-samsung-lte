@@ -1,0 +1,6 @@
+unique_name: ULSHORTSPSDEACTIVATIONATT
+object_type: metric
+label: ULShortSpsDeactivationAtt_count
+calculation_method: sum
+dataset: lte-ul-short-semi-persistent-scheduling-for-mac
+column: ULShortSpsDeactivationAtt_count

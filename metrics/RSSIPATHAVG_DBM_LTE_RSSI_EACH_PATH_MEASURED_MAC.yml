@@ -1,0 +1,6 @@
+unique_name: RSSIPATHAVG_DBM_LTE_RSSI_EACH_PATH_MEASURED_MAC
+object_type: metric
+label: RssiPathAvg_dBm
+calculation_method: sum
+dataset: lte-rssi-of-each-path-measured-by-mac
+column: RssiPathAvg_dBm

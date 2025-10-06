@@ -1,0 +1,6 @@
+unique_name: PLMNULIPTHRUTIME_TTI
+object_type: metric
+label: PLMNULIpThruTime_TTI
+calculation_method: sum
+dataset: lte-uplink-ip-throughput-per-plmn
+column: PLMNULIpThruTime_TTI

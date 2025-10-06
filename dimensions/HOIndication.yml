@@ -1,0 +1,28 @@
+unique_name: HOIndication
+object_type: dimension
+label: HOIndication
+is_degenerate: true
+hierarchies:
+- unique_name: HOIndication Hierarchy
+  label: HOIndication Hierarchy
+  levels:
+  - unique_name: HOIndication
+level_attributes:
+- unique_name: HOIndication
+  label: HOIndication Level
+  shared_degenerate_columns:
+  - name_column: HOIndication
+    key_columns:
+    - HOIndication
+    dataset: lte-geran-srvcc-handover
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: HOIndication
+    key_columns:
+    - HOIndication
+    dataset: lte-utran-srvcc
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

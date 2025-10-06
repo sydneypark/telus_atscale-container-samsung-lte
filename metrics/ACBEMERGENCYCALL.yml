@@ -1,0 +1,6 @@
+unique_name: ACBEMERGENCYCALL
+object_type: metric
+label: AcbEmergencyCall_count
+calculation_method: sum
+dataset: lte-access-class-barring-enhanced
+column: AcbEmergencyCall_count

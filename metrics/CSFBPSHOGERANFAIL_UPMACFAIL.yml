@@ -1,0 +1,6 @@
+unique_name: CSFBPSHOGERANFAIL_UPMACFAIL
+object_type: metric
+label: CSFBPsHoGeranFail_UpMacFail_count
+calculation_method: sum
+dataset: lte-csfb-psho-to-geran
+column: CSFBPsHoGeranFail_UpMacFail_count

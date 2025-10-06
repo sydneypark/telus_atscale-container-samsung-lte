@@ -1,0 +1,6 @@
+unique_name: RECVRTRVUECONTEXTREL_EMTC
+object_type: metric
+label: RecvRtrvUeContextRel_Emtc_count
+calculation_method: sum
+dataset: lte-ue-context-retrieval-out
+column: RecvRtrvUeContextRel_Emtc_count

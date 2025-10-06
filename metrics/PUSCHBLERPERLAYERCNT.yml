@@ -1,0 +1,6 @@
+unique_name: PUSCHBLERPERLAYERCNT
+object_type: metric
+label: PuschBlerPerLayerCnt_count
+calculation_method: sum
+dataset: lte-mimo
+column: PuschBlerPerLayerCnt_count

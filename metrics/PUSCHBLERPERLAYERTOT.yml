@@ -1,0 +1,6 @@
+unique_name: PUSCHBLERPERLAYERTOT
+object_type: metric
+label: PuschBlerPerLayerTot_count
+calculation_method: sum
+dataset: lte-mimo
+column: PuschBlerPerLayerTot_count

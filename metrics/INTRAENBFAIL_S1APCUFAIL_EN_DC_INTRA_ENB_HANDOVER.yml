@@ -1,0 +1,6 @@
+unique_name: INTRAENBFAIL_S1APCUFAIL_EN_DC_INTRA_ENB_HANDOVER
+object_type: metric
+label: IntraEnbFail_S1apCuFail_count
+calculation_method: sum
+dataset: lte-en-dc-intra-enb-handover
+column: IntraEnbFail_S1apCuFail_count

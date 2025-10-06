@@ -1,0 +1,184 @@
+unique_name: SNSSAI
+object_type: dimension
+label: SNSSAI
+is_degenerate: true
+hierarchies:
+- unique_name: SNSSAI Hierarchy
+  label: SNSSAI Hierarchy
+  levels:
+  - unique_name: SNSSAI
+level_attributes:
+- unique_name: SNSSAI
+  label: SNSSAI Level
+  shared_degenerate_columns:
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-active-session-time-for-drb-per-plmn-per-snssai-with-du-iden
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-air-interface-delay-per-plmn-per-snssai-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-dl-f1-u-xn-u-interface-per-prc-per-5qi-per-s-nssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-dl-ue-throughput-distribution-per-plmn-per-s-nssai-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-downlink-active-ue-number-per-plmn-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-drb-setup-per-plmn-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-drb-setup-with-du-identifier-per-plmn-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-f1-u-xn-u-ul-interface-collected-in-upc-per-5qi-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-f1u-delay-measurement-data-per-upc-id-per-gnb-du-id-per-5qi-
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-initial-drb-setup-per-plmn-per-snssai-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-pdcp-packet-per-cell-identity-per-plmn-per-5qi-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-pdcp-packet-per-gnb-id-per-5qi-per-plmn-per-s-nssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-pdcp-sdu-delay-dl-distribution-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-pdcp-volume-per-cell-identity-per-plmn-per-5qi-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-pdcp-volume-per-gnb-id-per-5qi-per-plmn-per-s-nssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-pdu-session-resource-setup-per-plmn-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-pdu-session-resource-setup-with-du-identifier-per-plmn-per-s
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-prb-usage-per-plmn-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-qos-flow-setup-per-plmn-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-qos-flow-setup-with-du-identifier-per-plmn-per-snssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-release-of-setup-active-drb-per-plmn-per-snssai-with-du-iden
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-release-of-setup-drb-with-per-plmn-per-snssai-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-rlc-integrity-per-plmn-per-s-nssai-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-rlc-ul-packet-delay-per-plmn-per-s-nssai-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-ue-throughput-per-plmn-per-snssai-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-unrestricted-dl-ue-data-per-plmn-per-s-nssai-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-uplink-ue-throughput-per-plmn-per-snssai-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SNSSAI
+    key_columns:
+    - SNSSAI
+    dataset: nr-xnu-delay-measurement-data-per-upc-id-per-xnu-ip-index-per-5
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

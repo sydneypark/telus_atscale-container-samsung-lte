@@ -1,0 +1,6 @@
+unique_name: CPUUSAGEMAX
+object_type: metric
+label: CpuUsageMax_pct
+calculation_method: sum
+dataset: lte-resource
+column: CpuUsageMax_pct

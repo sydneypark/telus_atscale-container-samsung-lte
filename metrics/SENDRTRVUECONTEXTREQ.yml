@@ -1,0 +1,6 @@
+unique_name: SENDRTRVUECONTEXTREQ
+object_type: metric
+label: SendRtrvUeContextReq_count
+calculation_method: sum
+dataset: lte-ue-context-retrieval-in
+column: SendRtrvUeContextReq_count

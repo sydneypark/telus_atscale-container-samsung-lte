@@ -1,0 +1,6 @@
+unique_name: S1REJECT_OMINTERVENTION
+object_type: metric
+label: S1Reject_OmIntervention_count
+calculation_method: sum
+dataset: lte-s1-reject-cause
+column: S1Reject_OmIntervention_count

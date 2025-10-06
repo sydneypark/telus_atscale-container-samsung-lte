@@ -1,0 +1,6 @@
+unique_name: PCELLSWITCHINSUCC
+object_type: metric
+label: PcellSwitchInSucc_count
+calculation_method: sum
+dataset: lte-pcell-frequency-switch-in
+column: PcellSwitchInSucc_count

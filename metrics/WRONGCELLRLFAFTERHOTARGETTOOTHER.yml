@@ -1,0 +1,6 @@
+unique_name: WRONGCELLRLFAFTERHOTARGETTOOTHER
+object_type: metric
+label: WrongCellRlfAfterHoTargetToOther_count
+calculation_method: sum
+dataset: lte-mro-rlf-classification
+column: WrongCellRlfAfterHoTargetToOther_count

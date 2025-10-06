@@ -1,0 +1,6 @@
+unique_name: ULDATAVOLUMEFR1
+object_type: metric
+label: ULDataVolumeFr1_Kbytes
+calculation_method: sum
+dataset: lte-ul-ip-throughput-per-endc-status
+column: ULDataVolumeFr1_Kbytes

@@ -1,0 +1,6 @@
+unique_name: ONDEMANDHOOUTATT
+object_type: metric
+label: OnDemandHoOutAtt_count
+calculation_method: sum
+dataset: lte-ondemand-handover-x2-out
+column: OnDemandHoOutAtt_count

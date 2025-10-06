@@ -1,0 +1,6 @@
+unique_name: S1SIGTIMEMAX
+object_type: metric
+label: S1SigTimeMax_ms
+calculation_method: sum
+dataset: lte-s1-connection-time
+column: S1SigTimeMax_ms

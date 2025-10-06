@@ -1,0 +1,6 @@
+unique_name: PHYDLDEFENSEOPERATION
+object_type: metric
+label: phyDlDefenseOperation_count
+calculation_method: sum
+dataset: lte-l1-l2-internal-statistics
+column: phyDlDefenseOperation_count

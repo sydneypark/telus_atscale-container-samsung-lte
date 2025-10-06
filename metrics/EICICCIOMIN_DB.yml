@@ -1,0 +1,6 @@
+unique_name: EICICCIOMIN_DB
+object_type: metric
+label: EICICCIOMin_dB
+calculation_method: sum
+dataset: lte-eicic-partnership
+column: EICICCIOMin_dB

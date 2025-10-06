@@ -1,0 +1,6 @@
+unique_name: RATGERANOUTSUCC
+object_type: metric
+label: RatGeranOutSucc_count
+calculation_method: sum
+dataset: lte-ps-ho-to-geran
+column: RatGeranOutSucc_count

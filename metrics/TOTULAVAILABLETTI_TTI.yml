@@ -1,0 +1,6 @@
+unique_name: TOTULAVAILABLETTI_TTI
+object_type: metric
+label: TotULAvailableTti_TTI
+calculation_method: sum
+dataset: lte-ul-massive-mimo-statistics-for-tti-usage
+column: TotULAvailableTti_TTI

@@ -1,0 +1,6 @@
+unique_name: PDCPIPTLATDL_PRC
+object_type: metric
+label: PdcpIpTLatDL_ms
+calculation_method: sum
+dataset: lte-pdcp-packet-per-prc
+column: PdcpIpTLatDL_ms

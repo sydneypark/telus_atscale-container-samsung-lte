@@ -1,0 +1,6 @@
+unique_name: INTRAENBINPREPFAIL_UPRLCFAIL
+object_type: metric
+label: IntraEnbInPrepFail_UpRlcFail_count
+calculation_method: sum
+dataset: lte-intra-enb-in-handover
+column: IntraEnbInPrepFail_UpRlcFail_count

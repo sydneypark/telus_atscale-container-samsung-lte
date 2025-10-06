@@ -1,0 +1,6 @@
+unique_name: NBIOT_AIRMACULBYTE_RE
+object_type: metric
+label: NBIoT_AirMacULByte_Re_Kbytes
+calculation_method: sum
+dataset: lte-nb-iot-air-mac-ul-and-dl-failed-packets
+column: NBIoT_AirMacULByte_Re_Kbytes

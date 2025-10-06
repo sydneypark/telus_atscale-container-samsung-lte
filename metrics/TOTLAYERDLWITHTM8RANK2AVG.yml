@@ -1,0 +1,6 @@
+unique_name: TOTLAYERDLWITHTM8RANK2AVG
+object_type: metric
+label: TotLayerDLWithTM8Rank2Avg_pct
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-tm8-downlink-layer-usage
+column: TotLayerDLWithTM8Rank2Avg_pct

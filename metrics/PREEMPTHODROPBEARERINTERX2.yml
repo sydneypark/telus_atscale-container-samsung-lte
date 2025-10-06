@@ -1,0 +1,6 @@
+unique_name: PREEMPTHODROPBEARERINTERX2
+object_type: metric
+label: PreemptHoDropBearerInterX2_count
+calculation_method: sum
+dataset: lte-preemption-handover-per-e-rab
+column: PreemptHoDropBearerInterX2_count

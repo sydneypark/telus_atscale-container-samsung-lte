@@ -1,0 +1,6 @@
+unique_name: CALLRELEASE_ULVOLTEMUTING
+object_type: metric
+label: CallRelease_ULVoLTEMuting_count
+calculation_method: sum
+dataset: lte-ul-volte-muting-detection
+column: CallRelease_ULVoLTEMuting_count

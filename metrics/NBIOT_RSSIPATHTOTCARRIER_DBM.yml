@@ -1,0 +1,6 @@
+unique_name: NBIOT_RSSIPATHTOTCARRIER_DBM
+object_type: metric
+label: NBIoT_RssiPathTotCarrier_dBm
+calculation_method: sum
+dataset: lte-nb-iot-average-rssi-per-antenna-for-multi-carrier
+column: NBIoT_RssiPathTotCarrier_dBm

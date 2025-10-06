@@ -1,0 +1,6 @@
+unique_name: UTRANMROCONNFAILCNT
+object_type: metric
+label: UtranMroConnFailCnt_count
+calculation_method: sum
+dataset: lte-utran-mro-with-connection-failure
+column: UtranMroConnFailCnt_count

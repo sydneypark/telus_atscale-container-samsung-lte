@@ -1,0 +1,6 @@
+unique_name: EMTCPDCPSDUSAMPLECOUNTDL
+object_type: metric
+label: eMTCPdcpSduSampleCountDl_count
+calculation_method: sum
+dataset: lte-emtc-packet-delay
+column: eMTCPdcpSduSampleCountDl_count

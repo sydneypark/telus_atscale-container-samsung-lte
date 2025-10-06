@@ -1,0 +1,6 @@
+unique_name: EPECURRENTMAXCNT_LTE_ENERGY_POWER_ENVIRONMENTAL_STATISTICS_M
+object_type: metric
+label: EpeCurrentMaxCnt_count
+calculation_method: sum
+dataset: lte-energy-power-and-environmental-statistics-of-mplane
+column: EpeCurrentMaxCnt_count

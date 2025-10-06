@@ -1,0 +1,6 @@
+unique_name: _0X010D_S1AP_UNKNOWNMMEUES1APID_NB_IOT_CALL_FAIL
+object_type: metric
+label: _0x010D_S1ap_UnknownMmeUES1apId_count
+calculation_method: sum
+dataset: lte-nb-iot-call-fail
+column: _0x010D_S1ap_UnknownMmeUES1apId_count

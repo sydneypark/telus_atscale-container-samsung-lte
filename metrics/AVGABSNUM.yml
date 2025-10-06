@@ -1,0 +1,6 @@
+unique_name: AVGABSNUM
+object_type: metric
+label: AvgABSNum_count
+calculation_method: sum
+dataset: lte-eicic-abs-pattern-info
+column: AvgABSNum_count

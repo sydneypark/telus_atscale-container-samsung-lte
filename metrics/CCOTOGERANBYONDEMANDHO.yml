@@ -1,0 +1,6 @@
+unique_name: CCOTOGERANBYONDEMANDHO
+object_type: metric
+label: CcoToGERANByOnDemandHo_count
+calculation_method: sum
+dataset: lte-ondemand-redirection
+column: CcoToGERANByOnDemandHo_count

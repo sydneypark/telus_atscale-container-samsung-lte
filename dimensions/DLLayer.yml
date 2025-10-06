@@ -1,0 +1,124 @@
+unique_name: DLLayer
+object_type: dimension
+label: DLLayer
+is_degenerate: true
+hierarchies:
+- unique_name: DLLayer Hierarchy
+  label: DLLayer Hierarchy
+  levels:
+  - unique_name: DLLayer
+level_attributes:
+- unique_name: DLLayer
+  label: DLLayer Level
+  shared_degenerate_columns:
+  - name_column: DLLayer
+    key_columns:
+    - DLLayer
+    dataset: lte-cqi-for-dl-volte-bearer
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DLLayer
+    key_columns:
+    - DLLayer
+    dataset: lte-disca-ack-nack-dtx-ratio
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DLLayer
+    key_columns:
+    - DLLayer
+    dataset: lte-dl-ack-nack-dtx-ratio
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DLLayer
+    key_columns:
+    - DLLayer
+    dataset: lte-dl-layer
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DLLayer
+    key_columns:
+    - DLLayer
+    dataset: lte-dl-mcs
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DLLayer
+    key_columns:
+    - DLLayer
+    dataset: lte-dl-mcs-256qam-for-power-class-2-ue
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DLLayer
+    key_columns:
+    - DLLayer
+    dataset: lte-dl-mcs-for-power-class-2-ue
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DLLayer
+    key_columns:
+    - DLLayer
+    dataset: lte-dl-mcs-in-256qam
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DLLayer
+    key_columns:
+    - DLLayer
+    dataset: lte-dl-wideband-cqi
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DLLayer
+    key_columns:
+    - DLLayer
+    dataset: lte-dl-wideband-cqi-for-256qam-supported-power-class-2-ue
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DLLayer
+    key_columns:
+    - DLLayer
+    dataset: lte-dl-wideband-cqi-for-power-class-2-ue
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DLLayer
+    key_columns:
+    - DLLayer
+    dataset: lte-dl-wideband-cqi-in-256qam
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DLLayer
+    key_columns:
+    - DLLayer
+    dataset: lte-dl-wideband-cqi-pcell
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DLLayer
+    key_columns:
+    - DLLayer
+    dataset: lte-dl-wideband-cqi-scell
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DLLayer
+    key_columns:
+    - DLLayer
+    dataset: lte-massive-mimo-statistics-for-tm8-downlink-mcs
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DLLayer
+    key_columns:
+    - DLLayer
+    dataset: lte-massive-mimo-statistics-for-tm8-downlink-mcs-256qam
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DLLayer
+    key_columns:
+    - DLLayer
+    dataset: lte-mimo
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DLLayer
+    key_columns:
+    - DLLayer
+    dataset: lte-prb-usage-for-each-mcs
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

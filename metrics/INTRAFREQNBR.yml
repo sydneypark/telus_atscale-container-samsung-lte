@@ -1,0 +1,6 @@
+unique_name: INTRAFREQNBR
+object_type: metric
+label: IntraFreqNbr_count
+calculation_method: sum
+dataset: lte-the-number-of-neighbor-relations
+column: IntraFreqNbr_count

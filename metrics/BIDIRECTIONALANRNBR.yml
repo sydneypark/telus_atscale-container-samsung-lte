@@ -1,0 +1,6 @@
+unique_name: BIDIRECTIONALANRNBR
+object_type: metric
+label: BidirectionalAnrNbr_count
+calculation_method: sum
+dataset: lte-the-number-of-neighbor-relations
+column: BidirectionalAnrNbr_count

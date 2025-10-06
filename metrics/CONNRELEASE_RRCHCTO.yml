@@ -1,0 +1,6 @@
+unique_name: CONNRELEASE_RRCHCTO
+object_type: metric
+label: ConnRelease_RrcHcTo_count
+calculation_method: sum
+dataset: lte-rrc-connection-release
+column: ConnRelease_RrcHcTo_count

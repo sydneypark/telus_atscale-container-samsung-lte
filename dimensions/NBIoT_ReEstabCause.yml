@@ -1,0 +1,34 @@
+unique_name: NBIoT_ReEstabCause
+object_type: dimension
+label: NBIoT_ReEstabCause
+is_degenerate: true
+hierarchies:
+- unique_name: NBIoT_ReEstabCause Hierarchy
+  label: NBIoT_ReEstabCause Hierarchy
+  levels:
+  - unique_name: NBIoT_ReEstabCause
+level_attributes:
+- unique_name: NBIoT_ReEstabCause
+  label: NBIoT_ReEstabCause Level
+  shared_degenerate_columns:
+  - name_column: NBIoT_ReEstabCause
+    key_columns:
+    - NBIoT_ReEstabCause
+    dataset: lte-nb-iot-rrc-connection-re-establishment
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_ReEstabCause
+    key_columns:
+    - NBIoT_ReEstabCause
+    dataset: lte-nb-iot-rrc-connection-re-establishment-cp
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_ReEstabCause
+    key_columns:
+    - NBIoT_ReEstabCause
+    dataset: lte-nb-iot-rrc-connection-re-establishment-time
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

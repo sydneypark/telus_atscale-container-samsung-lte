@@ -1,0 +1,6 @@
+unique_name: LTETYPEPUCCHPUSCHPRBULAVG
+object_type: metric
+label: LteTypePucchPuschPrbULAvg_pct
+calculation_method: sum
+dataset: lte-ul-prb-usage-per-lte-type
+column: LteTypePucchPuschPrbULAvg_pct

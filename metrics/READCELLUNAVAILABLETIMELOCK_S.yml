@@ -1,0 +1,6 @@
+unique_name: READCELLUNAVAILABLETIMELOCK_S
+object_type: metric
+label: ReadCellUnavailableTimeLock_s
+calculation_method: sum
+dataset: lte-availability
+column: ReadCellUnavailableTimeLock_s

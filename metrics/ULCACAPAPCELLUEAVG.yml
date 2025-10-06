@@ -1,0 +1,6 @@
+unique_name: ULCACAPAPCELLUEAVG
+object_type: metric
+label: ULCaCapaPCellUEAvg_count
+calculation_method: sum
+dataset: lte-ul-ca-addition-information
+column: ULCaCapaPCellUEAvg_count

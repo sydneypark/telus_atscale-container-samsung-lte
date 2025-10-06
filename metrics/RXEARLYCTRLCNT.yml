@@ -1,0 +1,6 @@
+unique_name: RXEARLYCTRLCNT
+object_type: metric
+label: RxEarlyCtrlCnt_count
+calculation_method: sum
+dataset: lte-packet-for-reception-window-in-oru
+column: RxEarlyCtrlCnt_count

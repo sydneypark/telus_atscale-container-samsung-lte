@@ -1,0 +1,6 @@
+unique_name: NBIOT_IPLATEDLCNT
+object_type: metric
+label: NBIoT_IpLateDLCnt_count
+calculation_method: sum
+dataset: lte-nb-iot-ip-latency
+column: NBIoT_IpLateDLCnt_count

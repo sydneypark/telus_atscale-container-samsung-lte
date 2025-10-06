@@ -1,0 +1,6 @@
+unique_name: LTETYPETOTPRBSCHEDLAVG
+object_type: metric
+label: LteTypeTotPrbScheDLAvg_pct
+calculation_method: sum
+dataset: lte-dl-prb-usage-per-lte-type
+column: LteTypeTotPrbScheDLAvg_pct

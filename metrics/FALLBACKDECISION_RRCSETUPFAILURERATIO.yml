@@ -1,0 +1,6 @@
+unique_name: FALLBACKDECISION_RRCSETUPFAILURERATIO
+object_type: metric
+label: FallbackDecision_RrcSetupFailureRatio_count
+calculation_method: sum
+dataset: lte-lbm-fallback
+column: FallbackDecision_RrcSetupFailureRatio_count

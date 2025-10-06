@@ -1,0 +1,6 @@
+unique_name: _0X0373_RRM_ALLMMENOTSERVICE
+object_type: metric
+label: _0x0373_Rrm_AllMmeNotService_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0373_Rrm_AllMmeNotService_count

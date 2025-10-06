@@ -1,0 +1,6 @@
+unique_name: NODRXOUTATT
+object_type: metric
+label: NoDrxOutAtt_count
+calculation_method: sum
+dataset: lte-outgoing-handover-without-drx
+column: NoDrxOutAtt_count

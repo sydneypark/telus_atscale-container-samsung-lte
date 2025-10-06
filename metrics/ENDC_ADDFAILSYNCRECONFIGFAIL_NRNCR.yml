@@ -1,0 +1,6 @@
+unique_name: ENDC_ADDFAILSYNCRECONFIGFAIL_NRNCR
+object_type: metric
+label: EnDc_AddFailSyncReconfigFail_NrNcr_count
+calculation_method: sum
+dataset: lte-en-dc-addition-information-per-nr-ncr
+column: EnDc_AddFailSyncReconfigFail_NrNcr_count

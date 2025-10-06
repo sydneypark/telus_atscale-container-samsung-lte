@@ -1,0 +1,6 @@
+unique_name: TOTCCEPERSLOTTOT_LTE
+object_type: metric
+label: TotCCEperSlotTot_LTE_count
+calculation_method: sum
+dataset: lte-lte-cce-utilization-per-slot
+column: TotCCEperSlotTot_LTE_count

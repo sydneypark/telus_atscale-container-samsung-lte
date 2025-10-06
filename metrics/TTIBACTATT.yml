@@ -1,0 +1,6 @@
+unique_name: TTIBACTATT
+object_type: metric
+label: TtibActAtt_count
+calculation_method: sum
+dataset: lte-tti-bundling
+column: TtibActAtt_count

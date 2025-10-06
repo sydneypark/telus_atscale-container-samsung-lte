@@ -1,0 +1,6 @@
+unique_name: TOOEARLYHORLFAFTERHOUPM
+object_type: metric
+label: TooEarlyHoRlfAfterHoUpm_count
+calculation_method: sum
+dataset: lte-upm-rlf-classification
+column: TooEarlyHoRlfAfterHoUpm_count

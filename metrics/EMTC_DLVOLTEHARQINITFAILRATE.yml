@@ -1,0 +1,6 @@
+unique_name: EMTC_DLVOLTEHARQINITFAILRATE
+object_type: metric
+label: eMTC_DLVoLTEHARQInitFailRate_pct
+calculation_method: sum
+dataset: lte-harq-performance-for-emtc-or-catm-volte-ue
+column: eMTC_DLVoLTEHARQInitFailRate_pct

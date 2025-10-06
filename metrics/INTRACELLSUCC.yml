@@ -1,0 +1,6 @@
+unique_name: INTRACELLSUCC
+object_type: metric
+label: IntraCellSucc_count
+calculation_method: sum
+dataset: lte-intra-cell-handover
+column: IntraCellSucc_count

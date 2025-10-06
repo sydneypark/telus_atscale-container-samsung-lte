@@ -1,0 +1,6 @@
+unique_name: ULSHORTSPSCONFIGNOCNT
+object_type: metric
+label: ULShortSpsConfigNoCnt_count
+calculation_method: sum
+dataset: lte-ul-short-semi-persistent-scheduling
+column: ULShortSpsConfigNoCnt_count

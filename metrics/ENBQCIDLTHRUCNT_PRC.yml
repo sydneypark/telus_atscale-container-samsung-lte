@@ -1,0 +1,6 @@
+unique_name: ENBQCIDLTHRUCNT_PRC
+object_type: metric
+label: EnbQciDLThruCnt_count
+calculation_method: sum
+dataset: lte-pdcp-packet-per-prc
+column: EnbQciDLThruCnt_count

@@ -1,0 +1,6 @@
+unique_name: PLMNSESSIONTIMEQCITOT
+object_type: metric
+label: PLMNSessionTimeQciTot_ms
+calculation_method: sum
+dataset: lte-e-rab-session-time-per-qci-per-plmn
+column: PLMNSessionTimeQciTot_ms

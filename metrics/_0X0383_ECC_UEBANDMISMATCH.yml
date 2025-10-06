@@ -1,0 +1,6 @@
+unique_name: _0X0383_ECC_UEBANDMISMATCH
+object_type: metric
+label: _0x0383_Ecc_UeBandMismatch_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0383_Ecc_UeBandMismatch_count

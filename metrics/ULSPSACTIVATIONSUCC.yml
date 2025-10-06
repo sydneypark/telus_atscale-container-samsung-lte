@@ -1,0 +1,6 @@
+unique_name: ULSPSACTIVATIONSUCC
+object_type: metric
+label: ULSpsActivationSucc_count
+calculation_method: sum
+dataset: lte-semi-persistent-scheduling-in-mac
+column: ULSpsActivationSucc_count

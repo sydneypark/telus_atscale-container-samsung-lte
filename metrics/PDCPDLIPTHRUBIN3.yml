@@ -1,0 +1,6 @@
+unique_name: PDCPDLIPTHRUBIN3
+object_type: metric
+label: PdcpDLIpThruBin3_count
+calculation_method: sum
+dataset: lte-pdcp-dl-ip-throughput-distribution
+column: PdcpDLIpThruBin3_count

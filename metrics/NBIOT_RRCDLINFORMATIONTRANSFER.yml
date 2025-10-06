@@ -1,0 +1,6 @@
+unique_name: NBIOT_RRCDLINFORMATIONTRANSFER
+object_type: metric
+label: NBIoT_RrcDLInformationTransfer_count
+calculation_method: sum
+dataset: lte-nb-iot-rrc-message
+column: NBIoT_RrcDLInformationTransfer_count

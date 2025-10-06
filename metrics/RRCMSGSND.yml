@@ -1,0 +1,6 @@
+unique_name: RRCMSGSND
+object_type: metric
+label: RrcMsgSnd_count
+calculation_method: sum
+dataset: lte-protocol-message
+column: RrcMsgSnd_count

@@ -1,0 +1,6 @@
+unique_name: VOLTEX2HOSUCCESSRATE
+object_type: metric
+label: VoLTEX2HoSuccessRate_pct
+calculation_method: sum
+dataset: lte-volte-quality
+column: VoLTEX2HoSuccessRate_pct

@@ -1,0 +1,6 @@
+unique_name: _0X0101_S1AP_TX2RELOCOVERALLEXPIRY_EMTC_CALL_FAIL
+object_type: metric
+label: _0x0101_S1ap_Tx2RelocOverallExpiry_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x0101_S1ap_Tx2RelocOverallExpiry_count

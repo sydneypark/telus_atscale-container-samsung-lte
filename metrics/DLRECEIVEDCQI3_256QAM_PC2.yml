@@ -1,0 +1,6 @@
+unique_name: DLRECEIVEDCQI3_256QAM_PC2
+object_type: metric
+label: DLReceivedCQI3_256QAM_PC2_count
+calculation_method: sum
+dataset: lte-dl-wideband-cqi-for-256qam-supported-power-class-2-ue
+column: DLReceivedCQI3_256QAM_PC2_count

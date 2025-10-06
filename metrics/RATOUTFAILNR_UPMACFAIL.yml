@@ -1,0 +1,6 @@
+unique_name: RATOUTFAILNR_UPMACFAIL
+object_type: metric
+label: RatOutFailNr_UpMacFail_count
+calculation_method: sum
+dataset: lte-inter-rat-nr-outgoing-handover
+column: RatOutFailNr_UpMacFail_count

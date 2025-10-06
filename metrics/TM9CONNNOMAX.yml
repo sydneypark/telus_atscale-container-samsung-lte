@@ -1,0 +1,6 @@
+unique_name: TM9CONNNOMAX
+object_type: metric
+label: Tm9ConnNoMax_count
+calculation_method: sum
+dataset: lte-tm9-capable-rrc-connection-number
+column: Tm9ConnNoMax_count

@@ -1,0 +1,6 @@
+unique_name: EMTC_QCIPRBDLAVG
+object_type: metric
+label: eMTC_QciPrbDLAvg_pct
+calculation_method: sum
+dataset: lte-emtc-prb-usage-for-each-qci
+column: eMTC_QciPrbDLAvg_pct

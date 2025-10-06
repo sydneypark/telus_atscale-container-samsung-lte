@@ -1,0 +1,6 @@
+unique_name: USEDTOTGBRPRBDLNUM
+object_type: metric
+label: UsedTotGbrPrbDLNum_count
+calculation_method: sum
+dataset: lte-numerator-and-denominator-for-total-prb-usage
+column: UsedTotGbrPrbDLNum_count

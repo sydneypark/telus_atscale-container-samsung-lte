@@ -1,0 +1,6 @@
+unique_name: EMTC_RELATTNBR
+object_type: metric
+label: eMTC_RelAttNbr_count
+calculation_method: sum
+dataset: lte-emtc-e-rab-release
+column: eMTC_RelAttNbr_count

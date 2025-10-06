@@ -1,0 +1,6 @@
+unique_name: SUMHOX2INSUCC
+object_type: metric
+label: SumHoX2InSucc_count
+calculation_method: sum
+dataset: lte-mobility
+column: SumHoX2InSucc_count

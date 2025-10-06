@@ -1,0 +1,6 @@
+unique_name: CALLDROP_ECCBDSPAUDITRLCMACCALLRELEASE
+object_type: metric
+label: CallDrop_EccbDspAuditRlcMacCallRelease_count
+calculation_method: sum
+dataset: lte-call-drop
+column: CallDrop_EccbDspAuditRlcMacCallRelease_count

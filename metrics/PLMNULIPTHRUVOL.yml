@@ -1,0 +1,6 @@
+unique_name: PLMNULIPTHRUVOL
+object_type: metric
+label: PLMNULIpThruVol_Kbytes
+calculation_method: sum
+dataset: lte-uplink-ip-throughput-per-plmn
+column: PLMNULIpThruVol_Kbytes

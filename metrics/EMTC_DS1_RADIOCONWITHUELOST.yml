@@ -1,0 +1,6 @@
+unique_name: EMTC_DS1_RADIOCONWITHUELOST
+object_type: metric
+label: eMTC_DS1_RadioConwithUeLost_count
+calculation_method: sum
+dataset: lte-emtc-ue-context-release-by-double-s1
+column: eMTC_DS1_RadioConwithUeLost_count

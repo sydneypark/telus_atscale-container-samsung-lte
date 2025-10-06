@@ -1,0 +1,6 @@
+unique_name: THRUGTPDLENBS1NORTOT
+object_type: metric
+label: ThruGtpDLEnbS1NorTot_Kbps
+calculation_method: sum
+dataset: lte-gtp-forward-traffic
+column: ThruGtpDLEnbS1NorTot_Kbps

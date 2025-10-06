@@ -1,0 +1,6 @@
+unique_name: SCELLACTFAILRLCSEGTESTFAIL
+object_type: metric
+label: SCellActFailRlcSegTestFail_count
+calculation_method: sum
+dataset: lte-activation-deactivation-for-inter-site-ca-using-non-ideal-b
+column: SCellActFailRlcSegTestFail_count

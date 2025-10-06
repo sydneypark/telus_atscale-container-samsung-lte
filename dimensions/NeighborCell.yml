@@ -1,0 +1,58 @@
+unique_name: NeighborCell
+object_type: dimension
+label: NeighborCell
+is_degenerate: true
+hierarchies:
+- unique_name: NeighborCell Hierarchy
+  label: NeighborCell Hierarchy
+  levels:
+  - unique_name: NeighborCell
+level_attributes:
+- unique_name: NeighborCell
+  label: NeighborCell Level
+  shared_degenerate_columns:
+  - name_column: NeighborCell
+    key_columns:
+    - NeighborCell
+    dataset: lte-measurement-report-for-rqa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NeighborCell
+    key_columns:
+    - NeighborCell
+    dataset: lte-mro-rlf-at-rrc-connection
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NeighborCell
+    key_columns:
+    - NeighborCell
+    dataset: lte-mro-rlf-classification
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NeighborCell
+    key_columns:
+    - NeighborCell
+    dataset: lte-mro-rlf-voice-classification
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NeighborCell
+    key_columns:
+    - NeighborCell
+    dataset: lte-ping-pong-handover-classification
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NeighborCell
+    key_columns:
+    - NeighborCell
+    dataset: lte-ta-information-of-the-source-cell-when-performing-incoming-
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NeighborCell
+    key_columns:
+    - NeighborCell
+    dataset: lte-upm-rlf-classification
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

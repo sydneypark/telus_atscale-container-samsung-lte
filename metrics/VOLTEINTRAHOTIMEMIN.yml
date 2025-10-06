@@ -1,0 +1,6 @@
+unique_name: VOLTEINTRAHOTIMEMIN
+object_type: metric
+label: VoLTEIntraHoTimeMin_ms
+calculation_method: sum
+dataset: lte-volte-handover-time
+column: VoLTEIntraHoTimeMin_ms

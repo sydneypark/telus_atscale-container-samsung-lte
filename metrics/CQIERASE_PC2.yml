@@ -1,0 +1,6 @@
+unique_name: CQIERASE_PC2
+object_type: metric
+label: CQIErase_PC2_count
+calculation_method: sum
+dataset: lte-dl-wideband-cqi-for-power-class-2-ue
+column: CQIErase_PC2_count

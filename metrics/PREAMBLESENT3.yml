@@ -1,0 +1,6 @@
+unique_name: PREAMBLESENT3
+object_type: metric
+label: PreambleSent3_count
+calculation_method: sum
+dataset: lte-rach-usage
+column: PreambleSent3_count

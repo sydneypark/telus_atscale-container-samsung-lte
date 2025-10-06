@@ -1,0 +1,6 @@
+unique_name: ULIPTHRUTIMEEFFECTIVE_TTI
+object_type: metric
+label: ULIpThruTimeEffective_TTI
+calculation_method: sum
+dataset: lte-effective-air-mac
+column: ULIpThruTimeEffective_TTI

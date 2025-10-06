@@ -1,0 +1,6 @@
+unique_name: DLRECEIVEDCQI11_PC2
+object_type: metric
+label: DLReceivedCQI11_PC2_count
+calculation_method: sum
+dataset: lte-dl-wideband-cqi-for-power-class-2-ue
+column: DLReceivedCQI11_PC2_count

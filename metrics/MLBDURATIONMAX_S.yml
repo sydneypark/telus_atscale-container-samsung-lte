@@ -1,0 +1,6 @@
+unique_name: MLBDURATIONMAX_S
+object_type: metric
+label: MlbDurationMax_s
+calculation_method: sum
+dataset: lte-load
+column: MlbDurationMax_s

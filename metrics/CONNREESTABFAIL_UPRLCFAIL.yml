@@ -1,0 +1,6 @@
+unique_name: CONNREESTABFAIL_UPRLCFAIL
+object_type: metric
+label: ConnReEstabFail_UpRlcFail_count
+calculation_method: sum
+dataset: lte-rrc-connection-re-establishment
+column: ConnReEstabFail_UpRlcFail_count

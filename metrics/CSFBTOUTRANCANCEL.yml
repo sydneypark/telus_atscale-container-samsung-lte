@@ -1,0 +1,6 @@
+unique_name: CSFBTOUTRANCANCEL
+object_type: metric
+label: CsfbToUtranCancel_count
+calculation_method: sum
+dataset: lte-inter-rat-handover-cancellation
+column: CsfbToUtranCancel_count

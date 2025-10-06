@@ -1,0 +1,6 @@
+unique_name: TOTULCOMPACTIVATEDUE
+object_type: metric
+label: TotULCoMPActivatedUE_count
+calculation_method: sum
+dataset: lte-uplink-comp-joint-reception
+column: TotULCoMPActivatedUE_count

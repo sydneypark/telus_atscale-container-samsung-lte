@@ -1,0 +1,6 @@
+unique_name: TOOEARLYHOFAILUREATSETUP
+object_type: metric
+label: TooEarlyHoFailureAtSetup_count
+calculation_method: sum
+dataset: lte-mro-rlf-at-rrc-connection
+column: TooEarlyHoFailureAtSetup_count

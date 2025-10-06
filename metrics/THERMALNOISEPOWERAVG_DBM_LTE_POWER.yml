@@ -1,0 +1,6 @@
+unique_name: THERMALNOISEPOWERAVG_DBM_LTE_POWER
+object_type: metric
+label: ThermalNoisePowerAvg_dBm
+calculation_method: sum
+dataset: lte-power
+column: ThermalNoisePowerAvg_dBm

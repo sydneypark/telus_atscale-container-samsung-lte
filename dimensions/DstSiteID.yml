@@ -1,0 +1,28 @@
+unique_name: DstSiteID
+object_type: dimension
+label: DstSiteID
+is_degenerate: true
+hierarchies:
+- unique_name: DstSiteID Hierarchy
+  label: DstSiteID Hierarchy
+  levels:
+  - unique_name: DstSiteID
+level_attributes:
+- unique_name: DstSiteID
+  label: DstSiteID Level
+  shared_degenerate_columns:
+  - name_column: DstSiteID
+    key_columns:
+    - DstSiteID
+    dataset: lte-optic-delay-measurement-for-d-cran
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DstSiteID
+    key_columns:
+    - DstSiteID
+    dataset: nr-optic-delay-measurement-for-d-cran
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

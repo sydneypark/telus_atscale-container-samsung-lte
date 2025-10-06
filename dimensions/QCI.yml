@@ -1,0 +1,580 @@
+unique_name: QCI
+object_type: dimension
+label: QCI
+is_degenerate: true
+hierarchies:
+- unique_name: QCI Hierarchy
+  label: QCI Hierarchy
+  levels:
+  - unique_name: QCI
+  folder: SamsungLocation
+level_attributes:
+- unique_name: QCI
+  label: QCI
+  shared_degenerate_columns:
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-active-e-rab-number
+    is_unique_key: false
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-active-e-rab-number-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-active-ue-number
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-active-ue-number-including-en-dc-configured-ue-only
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-active-ue-number-pcell
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-air-rlc-packet
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-air-rlc-packet-for-en-dc-capable-ues
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-air-rlc-packet-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-call-drop-per-qci
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-carrier-aggregation-pdcp-packet
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-carrier-aggregation-pdcp-packet-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-carrier-aggregation-pdcp-packet-per-plmn-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-carrier-aggregation-pdcp-packet-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-dl-ip-throughput-distribution
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-dl-pdcp-pdu-discard-rate
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-e-rab-erase
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-e-rab-erase-request
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-e-rab-modify
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-e-rab-qci-per-plmn-rejected
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-e-rab-release
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-e-rab-release-by-enb-per-cell-per-qci
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-e-rab-release-by-enb-per-plmn-per-cell-per-qci
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-e-rab-release-by-mme-per-cell-per-qci
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-e-rab-release-by-mme-per-plmn-per-cell-per-qci
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-e-rab-release-request
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-e-rab-session-time-per-qci
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-e-rab-setup
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-e-rab-setup-add
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-e-rab-setup-time
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-active-e-rab-number
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-active-e-rab-number-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-active-ue-number
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-call-drop-per-qci
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-e-rab-erase
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-e-rab-erase-request
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-e-rab-modify
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-e-rab-release
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-e-rab-release-by-mme-and-enb-per-cell-per-qci
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-e-rab-release-request
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-e-rab-setup
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-e-rab-setup-add
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-e-rab-setup-time
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-erab-release-by-double-s1
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-packet-delay
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-packet-loss-rate
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-packet-loss-rate-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-pdcp-drop-rate
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-pdcp-drop-rate-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-pdcp-packet
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-pdcp-packet-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-pdcp-packet-per-plmn-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-pdcp-packet-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-emtc-prb-usage-for-each-qci
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-en-dc-e-rab-modification-indication-information
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-en-dc-split-bearer-release-information
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-erab-release-by-double-s1
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-erab-release-by-specific-cause
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-integrity
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-ip-latency
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-ipran-gtp-packet-statistics
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-ipran-pdcp-packet-statistics
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-nb-iot-active-e-rab-number
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-nb-iot-active-e-rab-number-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-nb-iot-e-rab-erase
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-nb-iot-e-rab-erase-request
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-nb-iot-e-rab-modify
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-nb-iot-e-rab-release
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-nb-iot-e-rab-release-request
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-nb-iot-e-rab-setup
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-nb-iot-e-rab-setup-add
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-nb-iot-e-rab-setup-time
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-nb-iot-packet-loss-rate
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-nb-iot-pdcp-drop-rate
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-nb-iot-pdcp-packet
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-nb-iot-pdcp-packet-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-nb-iot-rlc-packet-drop-rate
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-numerator-and-denominator-for-prb-usage
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-packet-delay
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-packet-drop-rate
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-packet-drop-rate-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-packet-loss-rate
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-packet-loss-rate-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-pdcp-dl-throughput-distribution
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-pdcp-dl-throughput-distribution-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-pdcp-ip-tp-prc-statistics-for-last-tti
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-pdcp-ip-tp-statistics-for-last-tti
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-pdcp-packet
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-pdcp-packet-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-pdcp-packet-per-plmn-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-pdcp-packet-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-pdcp-ul-throughput-distribution
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-pdcp-ul-throughput-distribution-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-prb-usage
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: QCI
+    key_columns:
+    - QCI
+    dataset: lte-preemption-handover-per-e-rab
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

@@ -1,0 +1,6 @@
+unique_name: _0X0602_GTP_MODIFYFAIL_NB_IOT_CALL_FAIL_CE_LEVEL
+object_type: metric
+label: _0x0602_Gtp_ModifyFail_count
+calculation_method: sum
+dataset: lte-nb-iot-call-fail-per-ce-level
+column: _0x0602_Gtp_ModifyFail_count

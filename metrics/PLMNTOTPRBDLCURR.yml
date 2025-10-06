@@ -1,0 +1,6 @@
+unique_name: PLMNTOTPRBDLCURR
+object_type: metric
+label: PLMNTotPrbDLCurr_pct
+calculation_method: sum
+dataset: lte-total-prb-usage-per-plmn
+column: PLMNTotPrbDLCurr_pct

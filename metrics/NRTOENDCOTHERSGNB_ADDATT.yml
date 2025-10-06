@@ -1,0 +1,6 @@
+unique_name: NRTOENDCOTHERSGNB_ADDATT
+object_type: metric
+label: NrToEnDcOtherSgNB_AddAtt_count
+calculation_method: sum
+dataset: lte-sgnb-addition-due-to-mcg-mobility
+column: NrToEnDcOtherSgNB_AddAtt_count

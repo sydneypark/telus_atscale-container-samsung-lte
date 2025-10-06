@@ -1,0 +1,6 @@
+unique_name: SANRCAPABLECONNNOMAX
+object_type: metric
+label: SaNrCapableConnNoMax_count
+calculation_method: sum
+dataset: lte-5g-capable-rrc-connection-number
+column: SaNrCapableConnNoMax_count

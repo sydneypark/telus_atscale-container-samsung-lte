@@ -1,0 +1,6 @@
+unique_name: DLRESIDUALBLERRETRANSNAK_NONTM7_256QAM
+object_type: metric
+label: DLResidualBlerRetransNak_NonTM7_256QAM_pct
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-downlink-256qam-harq-transmissi
+column: DLResidualBlerRetransNak_NonTM7_256QAM_pct

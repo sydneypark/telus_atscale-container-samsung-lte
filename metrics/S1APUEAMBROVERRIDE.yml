@@ -1,0 +1,6 @@
+unique_name: S1APUEAMBROVERRIDE
+object_type: metric
+label: S1APUEAmbrOverride_count
+calculation_method: sum
+dataset: lte-ue-ambr-override
+column: S1APUEAmbrOverride_count

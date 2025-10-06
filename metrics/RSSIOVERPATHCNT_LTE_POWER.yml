@@ -1,0 +1,6 @@
+unique_name: RSSIOVERPATHCNT_LTE_POWER
+object_type: metric
+label: RssiOverPathCnt_count
+calculation_method: sum
+dataset: lte-power
+column: RssiOverPathCnt_count

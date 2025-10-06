@@ -1,0 +1,6 @@
+unique_name: _0X0350_ECC_DSPAUDITRLCMACCALLRELEASE_EMTC_CALL_FAIL
+object_type: metric
+label: _0x0350_Ecc_DspAuditRlcMacCallRelease_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x0350_Ecc_DspAuditRlcMacCallRelease_count

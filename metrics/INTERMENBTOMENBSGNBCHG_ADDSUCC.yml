@@ -1,0 +1,6 @@
+unique_name: INTERMENBTOMENBSGNBCHG_ADDSUCC
+object_type: metric
+label: InterMenbToMenbSgnbChg_AddSucc_count
+calculation_method: sum
+dataset: lte-sgnb-addition-due-to-mcg-mobility
+column: InterMenbToMenbSgnbChg_AddSucc_count

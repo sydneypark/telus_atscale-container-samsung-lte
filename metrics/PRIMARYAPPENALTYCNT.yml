@@ -1,0 +1,6 @@
+unique_name: PRIMARYAPPENALTYCNT
+object_type: metric
+label: PrimaryApPenaltyCnt
+calculation_method: sum
+dataset: lte-laa-channel-status
+column: PrimaryApPenaltyCnt

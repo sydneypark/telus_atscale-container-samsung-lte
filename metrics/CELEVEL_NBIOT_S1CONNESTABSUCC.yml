@@ -1,0 +1,6 @@
+unique_name: CELEVEL_NBIOT_S1CONNESTABSUCC
+object_type: metric
+label: CELevel_NBIoT_S1ConnEstabSucc_count
+calculation_method: sum
+dataset: lte-nb-iot-ue-associated-logical-s1-connection-establishme-2
+column: CELevel_NBIoT_S1ConnEstabSucc_count

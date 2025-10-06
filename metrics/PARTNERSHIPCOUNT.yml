@@ -1,0 +1,6 @@
+unique_name: PARTNERSHIPCOUNT
+object_type: metric
+label: PartnershipCount_count
+calculation_method: sum
+dataset: lte-eicic
+column: PartnershipCount_count

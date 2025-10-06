@@ -1,0 +1,6 @@
+unique_name: NBIOT_DENIED_DELAYTOLERANTACCESS
+object_type: metric
+label: NBIoT_Denied_DelayTolerantAccess_count
+calculation_method: sum
+dataset: lte-nb-iot-denied-call-by-overload-protection
+column: NBIoT_Denied_DelayTolerantAccess_count

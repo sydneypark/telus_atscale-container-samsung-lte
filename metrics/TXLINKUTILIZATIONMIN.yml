@@ -1,0 +1,6 @@
+unique_name: TXLINKUTILIZATIONMIN
+object_type: metric
+label: TxLinkUtilizationMin_pct
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: TxLinkUtilizationMin_pct

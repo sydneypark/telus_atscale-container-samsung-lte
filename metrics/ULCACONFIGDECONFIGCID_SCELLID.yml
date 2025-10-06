@@ -1,0 +1,6 @@
+unique_name: ULCACONFIGDECONFIGCID_SCELLID
+object_type: metric
+label: ULCaConfigDeconfigCid_ScellID
+calculation_method: sum
+dataset: lte-uplink-carrier-aggregation-count-for-configuration-deconfig
+column: ULCaConfigDeconfigCid_ScellID

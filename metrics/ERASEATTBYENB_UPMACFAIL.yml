@@ -1,0 +1,6 @@
+unique_name: ERASEATTBYENB_UPMACFAIL
+object_type: metric
+label: EraseAttbyEnb_UpMacFail_count
+calculation_method: sum
+dataset: lte-e-rab-erase-request
+column: EraseAttbyEnb_UpMacFail_count

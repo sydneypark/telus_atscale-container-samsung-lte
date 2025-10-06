@@ -1,0 +1,6 @@
+unique_name: CAUECAPAINFORMATIONADDITIONALSBC
+object_type: metric
+label: CaUECapaInformationAdditionalSbc_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-capable-ues-pcell
+column: CaUECapaInformationAdditionalSbc_count

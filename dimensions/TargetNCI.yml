@@ -1,0 +1,52 @@
+unique_name: TargetNCI
+object_type: dimension
+label: TargetNCI
+is_degenerate: true
+hierarchies:
+- unique_name: TargetNCI Hierarchy
+  label: TargetNCI Hierarchy
+  levels:
+  - unique_name: TargetNCI
+level_attributes:
+- unique_name: TargetNCI
+  label: TargetNCI Level
+  shared_degenerate_columns:
+  - name_column: TargetNCI
+    key_columns:
+    - TargetNCI
+    dataset: nr-measurement-for-colocated-cell-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetNCI
+    key_columns:
+    - TargetNCI
+    dataset: nr-mro-per-neighbor-cell
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetNCI
+    key_columns:
+    - TargetNCI
+    dataset: nr-nr-handover-outgoing
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetNCI
+    key_columns:
+    - TargetNCI
+    dataset: nr-nr-handover-outgoing-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetNCI
+    key_columns:
+    - TargetNCI
+    dataset: nr-ping-pong-handover-classification
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetNCI
+    key_columns:
+    - TargetNCI
+    dataset: nr-ping-pong-handover-classification-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

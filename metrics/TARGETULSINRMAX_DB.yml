@@ -1,0 +1,6 @@
+unique_name: TARGETULSINRMAX_DB
+object_type: metric
+label: TargetULSinrMax_dB
+calculation_method: sum
+dataset: lte-incoming-ul-quality-based-handover
+column: TargetULSinrMax_dB

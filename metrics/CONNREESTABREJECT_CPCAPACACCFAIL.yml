@@ -1,0 +1,6 @@
+unique_name: CONNREESTABREJECT_CPCAPACACCFAIL
+object_type: metric
+label: ConnReEstabReject_CpCapaCaccFail_count
+calculation_method: sum
+dataset: lte-rrc-connection-re-establishment
+column: ConnReEstabReject_CpCapaCaccFail_count

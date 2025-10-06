@@ -1,0 +1,6 @@
+unique_name: SCELLADDSUCC_ADDSBCREDUCEDRRCRESETUP
+object_type: metric
+label: SCellAddSucc_AddSbcReducedRrcResetup_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-message-count-for-addition-release
+column: SCellAddSucc_AddSbcReducedRrcResetup_count

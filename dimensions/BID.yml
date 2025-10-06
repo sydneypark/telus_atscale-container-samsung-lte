@@ -1,0 +1,40 @@
+unique_name: BID
+object_type: dimension
+label: BID
+is_degenerate: true
+hierarchies:
+- unique_name: BID Hierarchy
+  label: BID Hierarchy
+  levels:
+  - unique_name: BID
+level_attributes:
+- unique_name: BID
+  label: BID Level
+  shared_degenerate_columns:
+  - name_column: BID
+    key_columns:
+    - BID
+    dataset: lte-laa-channel-status
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: BID
+    key_columns:
+    - BID
+    dataset: lte-mmu-power-consumption
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: BID
+    key_columns:
+    - BID
+    dataset: lte-ru-power-consumption
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: BID
+    key_columns:
+    - BID
+    dataset: lte-ru-temperature
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

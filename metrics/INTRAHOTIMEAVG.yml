@@ -1,0 +1,6 @@
+unique_name: INTRAHOTIMEAVG
+object_type: metric
+label: IntraHoTimeAvg_ms
+calculation_method: sum
+dataset: lte-handover-time
+column: IntraHoTimeAvg_ms

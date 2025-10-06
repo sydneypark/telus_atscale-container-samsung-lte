@@ -1,0 +1,6 @@
+unique_name: _0X0121_S1AP_S1INTRASYSTEMHANDOVERTRIGGERED
+object_type: metric
+label: _0x0121_S1ap_S1IntraSystemHandoverTriggered_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0121_S1ap_S1IntraSystemHandoverTriggered_count

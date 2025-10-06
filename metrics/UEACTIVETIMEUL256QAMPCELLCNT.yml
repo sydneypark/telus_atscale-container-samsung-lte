@@ -1,0 +1,6 @@
+unique_name: UEACTIVETIMEUL256QAMPCELLCNT
+object_type: metric
+label: UEActiveTimeUL256QAMPcellCnt_count
+calculation_method: sum
+dataset: lte-ul-256qam-active
+column: UEActiveTimeUL256QAMPcellCnt_count

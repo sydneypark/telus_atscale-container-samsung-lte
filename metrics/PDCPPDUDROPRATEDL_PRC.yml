@@ -1,0 +1,6 @@
+unique_name: PDCPPDUDROPRATEDL_PRC
+object_type: metric
+label: PdcpPduDropRateDL_ppm
+calculation_method: sum
+dataset: lte-packet-drop-rate-per-prc
+column: PdcpPduDropRateDL_ppm

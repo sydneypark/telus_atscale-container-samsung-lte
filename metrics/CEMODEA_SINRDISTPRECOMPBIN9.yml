@@ -1,0 +1,6 @@
+unique_name: CEMODEA_SINRDISTPRECOMPBIN9
+object_type: metric
+label: CEModeA_SinrDistPreCompBin9_count
+calculation_method: sum
+dataset: lte-emtc-sinr-distribution
+column: CEModeA_SinrDistPreCompBin9_count

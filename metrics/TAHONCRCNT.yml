@@ -1,0 +1,6 @@
+unique_name: TAHONCRCNT
+object_type: metric
+label: TaHoNcrCnt_count
+calculation_method: sum
+dataset: lte-ta-information-of-the-source-cell-when-performing-incoming-
+column: TaHoNcrCnt_count

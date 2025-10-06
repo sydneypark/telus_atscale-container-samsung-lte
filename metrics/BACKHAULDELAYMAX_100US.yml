@@ -1,0 +1,6 @@
+unique_name: BACKHAULDELAYMAX_100US
+object_type: metric
+label: BackhaulDelayMax_100us
+calculation_method: sum
+dataset: lte-inter-site-ca-backhaul-delay
+column: BackhaulDelayMax_100us

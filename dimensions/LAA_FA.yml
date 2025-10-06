@@ -1,0 +1,22 @@
+unique_name: LAA_FA
+object_type: dimension
+label: LAA_FA
+is_degenerate: true
+hierarchies:
+- unique_name: LAA_FA Hierarchy
+  label: LAA_FA Hierarchy
+  levels:
+  - unique_name: LAA_FA
+level_attributes:
+- unique_name: LAA_FA
+  label: LAA_FA Level
+  shared_degenerate_columns:
+  - name_column: LAA_FA
+    key_columns:
+    - LAA_FA
+    dataset: lte-laa-channel-status
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

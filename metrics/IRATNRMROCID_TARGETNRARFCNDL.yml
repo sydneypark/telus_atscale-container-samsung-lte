@@ -1,0 +1,6 @@
+unique_name: IRATNRMROCID_TARGETNRARFCNDL
+object_type: metric
+label: IratNrMroCid_TargetNRArfcnDl
+calculation_method: sum
+dataset: lte-inter-rat-mro-for-nr
+column: IratNrMroCid_TargetNRArfcnDl

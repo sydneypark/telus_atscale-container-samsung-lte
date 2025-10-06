@@ -1,0 +1,6 @@
+unique_name: INTERS1OUTFAIL_CPCCTO_EMTC_S1_OUT_HANDOVER
+object_type: metric
+label: InterS1OutFail_CpCcTo_count
+calculation_method: sum
+dataset: lte-emtc-s1-out-handover
+column: InterS1OutFail_CpCcTo_count

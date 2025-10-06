@@ -1,0 +1,6 @@
+unique_name: RXHISTOGRAMMAX
+object_type: metric
+label: RxHistogramMax_count
+calculation_method: sum
+dataset: lte-histogram
+column: RxHistogramMax_count

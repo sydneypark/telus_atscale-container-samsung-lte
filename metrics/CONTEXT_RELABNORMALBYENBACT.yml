@@ -1,0 +1,6 @@
+unique_name: CONTEXT_RELABNORMALBYENBACT
+object_type: metric
+label: Context_RelAbnormalByEnbAct_count
+calculation_method: sum
+dataset: lte-context-release-by-mme-and-enb-per-cell
+column: Context_RelAbnormalByEnbAct_count

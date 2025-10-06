@@ -1,0 +1,6 @@
+unique_name: ULIPTHRUVOLEFFECTIVE
+object_type: metric
+label: ULIpThruVolEffective_Kbytes
+calculation_method: sum
+dataset: lte-effective-air-mac
+column: ULIpThruVolEffective_Kbytes

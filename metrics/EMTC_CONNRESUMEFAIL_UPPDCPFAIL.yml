@@ -1,0 +1,6 @@
+unique_name: EMTC_CONNRESUMEFAIL_UPPDCPFAIL
+object_type: metric
+label: eMTC_ConnResumeFail_UpPdcpFail_count
+calculation_method: sum
+dataset: lte-rrc-connection-resume-for-emtc-ue
+column: eMTC_ConnResumeFail_UpPdcpFail_count

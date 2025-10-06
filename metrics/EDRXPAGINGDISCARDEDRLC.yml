@@ -1,0 +1,6 @@
+unique_name: EDRXPAGINGDISCARDEDRLC
+object_type: metric
+label: EdrxPagingDiscardedRlc_count
+calculation_method: sum
+dataset: lte-edrx-paging-discarded-by-rlc
+column: EdrxPagingDiscardedRlc_count

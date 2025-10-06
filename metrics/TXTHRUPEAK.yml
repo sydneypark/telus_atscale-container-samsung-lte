@@ -1,0 +1,6 @@
+unique_name: TXTHRUPEAK
+object_type: metric
+label: TxThruPeak_Mbps
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: TxThruPeak_Mbps

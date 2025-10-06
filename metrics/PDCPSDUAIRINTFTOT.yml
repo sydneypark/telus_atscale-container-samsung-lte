@@ -1,0 +1,6 @@
+unique_name: PDCPSDUAIRINTFTOT
+object_type: metric
+label: PdcpSduAirIntfTot_ppm
+calculation_method: sum
+dataset: lte-packet-loss-rate
+column: PdcpSduAirIntfTot_ppm

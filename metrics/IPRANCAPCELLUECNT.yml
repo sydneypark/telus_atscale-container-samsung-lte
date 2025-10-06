@@ -1,0 +1,6 @@
+unique_name: IPRANCAPCELLUECNT
+object_type: metric
+label: IPRanCaPCellUECnt_count
+calculation_method: sum
+dataset: lte-ip-ran-ca-pcell-and-scell-ues
+column: IPRanCaPCellUECnt_count

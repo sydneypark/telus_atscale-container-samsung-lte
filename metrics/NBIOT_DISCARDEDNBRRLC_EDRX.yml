@@ -1,0 +1,6 @@
+unique_name: NBIOT_DISCARDEDNBRRLC_EDRX
+object_type: metric
+label: NBIoT_DiscardedNbrRlc_eDRX_count
+calculation_method: sum
+dataset: lte-nb-iot-paging-by-rlc-with-edrx
+column: NBIoT_DiscardedNbrRlc_eDRX_count

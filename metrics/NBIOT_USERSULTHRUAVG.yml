@@ -1,0 +1,6 @@
+unique_name: NBIOT_USERSULTHRUAVG
+object_type: metric
+label: NBIoT_UsersULThruAvg_Kbps
+calculation_method: sum
+dataset: lte-nb-iot-ul-throughput
+column: NBIoT_UsersULThruAvg_Kbps

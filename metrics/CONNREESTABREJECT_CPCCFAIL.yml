@@ -1,0 +1,6 @@
+unique_name: CONNREESTABREJECT_CPCCFAIL
+object_type: metric
+label: ConnReEstabReject_CpCcFail_count
+calculation_method: sum
+dataset: lte-rrc-connection-re-establishment
+column: ConnReEstabReject_CpCcFail_count

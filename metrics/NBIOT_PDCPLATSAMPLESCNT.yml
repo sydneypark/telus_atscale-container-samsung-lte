@@ -1,0 +1,6 @@
+unique_name: NBIOT_PDCPLATSAMPLESCNT
+object_type: metric
+label: NBIoT_PdcpLatSamplesCnt_count
+calculation_method: sum
+dataset: lte-nb-iot-pdcp-packet
+column: NBIoT_PdcpLatSamplesCnt_count

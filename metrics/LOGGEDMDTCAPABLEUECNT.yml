@@ -1,0 +1,6 @@
+unique_name: LOGGEDMDTCAPABLEUECNT
+object_type: metric
+label: LoggedMDTCapableUECnt_count
+calculation_method: sum
+dataset: lte-mdt-configuration-and-delivery
+column: LoggedMDTCapableUECnt_count

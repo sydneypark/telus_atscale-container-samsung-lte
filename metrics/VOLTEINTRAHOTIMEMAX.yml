@@ -1,0 +1,6 @@
+unique_name: VOLTEINTRAHOTIMEMAX
+object_type: metric
+label: VoLTEIntraHoTimeMax_ms
+calculation_method: sum
+dataset: lte-volte-handover-time
+column: VoLTEIntraHoTimeMax_ms

@@ -1,0 +1,6 @@
+unique_name: EICICCIOMAX_DB
+object_type: metric
+label: EICICCIOMax_dB
+calculation_method: sum
+dataset: lte-eicic-partnership
+column: EICICCIOMax_dB

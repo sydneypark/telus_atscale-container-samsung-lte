@@ -1,0 +1,6 @@
+unique_name: INTRAHOTIMETOT_EMTC_HANDOVER_TIME
+object_type: metric
+label: IntraHoTimeTot_ms
+calculation_method: sum
+dataset: lte-emtc-handover-time
+column: IntraHoTimeTot_ms

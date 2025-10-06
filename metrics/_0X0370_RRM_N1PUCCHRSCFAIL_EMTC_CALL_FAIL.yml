@@ -1,0 +1,6 @@
+unique_name: _0X0370_RRM_N1PUCCHRSCFAIL_EMTC_CALL_FAIL
+object_type: metric
+label: _0x0370_Rrm_N1PucchRscFail_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x0370_Rrm_N1PucchRscFail_count

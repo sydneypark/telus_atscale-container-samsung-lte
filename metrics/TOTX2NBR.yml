@@ -1,0 +1,6 @@
+unique_name: TOTX2NBR
+object_type: metric
+label: TotX2Nbr_count
+calculation_method: sum
+dataset: lte-the-number-of-x2-neighbor-relations
+column: TotX2Nbr_count

@@ -1,0 +1,6 @@
+unique_name: CONNESTABREJECT_S1APMMEOVLD
+object_type: metric
+label: ConnEstabReject_S1apMmeOvld_count
+calculation_method: sum
+dataset: lte-rrc-connection-establishment
+column: ConnEstabReject_S1apMmeOvld_count

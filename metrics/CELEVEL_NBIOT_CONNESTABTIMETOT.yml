@@ -1,0 +1,6 @@
+unique_name: CELEVEL_NBIOT_CONNESTABTIMETOT
+object_type: metric
+label: CELevel_NBIoT_ConnEstabTimeTot_ms
+calculation_method: sum
+dataset: lte-nb-iot-rrc-connection-establishment-per-ce-level
+column: CELevel_NBIoT_ConnEstabTimeTot_ms

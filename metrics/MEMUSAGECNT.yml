@@ -1,0 +1,6 @@
+unique_name: MEMUSAGECNT
+object_type: metric
+label: MemUsageCnt_count
+calculation_method: sum
+dataset: lte-resource
+column: MemUsageCnt_count

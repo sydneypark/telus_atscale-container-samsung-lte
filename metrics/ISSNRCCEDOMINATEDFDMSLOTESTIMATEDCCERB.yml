@@ -1,0 +1,6 @@
+unique_name: ISSNRCCEDOMINATEDFDMSLOTESTIMATEDCCERB
+object_type: metric
+label: IssNrCceDominatedFdmSlotEstimatedCceRb_count
+calculation_method: sum
+dataset: lte-dss-related-information
+column: IssNrCceDominatedFdmSlotEstimatedCceRb_count

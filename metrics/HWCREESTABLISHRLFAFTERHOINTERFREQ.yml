@@ -1,0 +1,6 @@
+unique_name: HWCREESTABLISHRLFAFTERHOINTERFREQ
+object_type: metric
+label: HwcReestablishRlfAfterHoInterFreq_count
+calculation_method: sum
+dataset: lte-mro-rlf-classification
+column: HwcReestablishRlfAfterHoInterFreq_count

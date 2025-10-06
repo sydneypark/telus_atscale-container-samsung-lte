@@ -1,0 +1,6 @@
+unique_name: EMFEXPOSURETOT_W
+object_type: metric
+label: EMFexposureTot_W
+calculation_method: sum
+dataset: lte-lte-emf-exposure
+column: EMFexposureTot_W

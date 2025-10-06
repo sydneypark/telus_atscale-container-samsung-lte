@@ -1,0 +1,6 @@
+unique_name: _0X0303_ECCTMOUT_RRCSECURITYMODECOMPLETE
+object_type: metric
+label: _0x0303_EccTmout_RrcSecurityModeComplete_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0303_EccTmout_RrcSecurityModeComplete_count

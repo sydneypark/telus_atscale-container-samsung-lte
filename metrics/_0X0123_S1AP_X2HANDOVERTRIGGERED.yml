@@ -1,0 +1,6 @@
+unique_name: _0X0123_S1AP_X2HANDOVERTRIGGERED
+object_type: metric
+label: _0x0123_S1ap_X2HandoverTriggered_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0123_S1ap_X2HandoverTriggered_count

@@ -1,0 +1,6 @@
+unique_name: TRANSTEMPERATUREMINCNT_LTE_MPLANE_TRANSCEIVER_ORU
+object_type: metric
+label: TransTemperatureMinCnt_count
+calculation_method: sum
+dataset: lte-mplane-transceiver-of-oru
+column: TransTemperatureMinCnt_count

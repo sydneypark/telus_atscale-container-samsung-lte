@@ -1,0 +1,6 @@
+unique_name: PDCPIPTLATDL
+object_type: metric
+label: PdcpIpTLatDL_ms
+calculation_method: sum
+dataset: lte-pdcp-packet
+column: PdcpIpTLatDL_ms

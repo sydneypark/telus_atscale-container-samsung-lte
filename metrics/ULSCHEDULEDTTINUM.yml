@@ -1,0 +1,6 @@
+unique_name: ULSCHEDULEDTTINUM
+object_type: metric
+label: ULScheduledTTINum_count
+calculation_method: sum
+dataset: lte-scheduled-ue-number
+column: ULScheduledTTINum_count

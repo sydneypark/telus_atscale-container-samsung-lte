@@ -1,0 +1,28 @@
+unique_name: SCellNCI
+object_type: dimension
+label: SCellNCI
+is_degenerate: true
+hierarchies:
+- unique_name: SCellNCI Hierarchy
+  label: SCellNCI Hierarchy
+  levels:
+  - unique_name: SCellNCI
+level_attributes:
+- unique_name: SCellNCI
+  label: SCellNCI Level
+  shared_degenerate_columns:
+  - name_column: SCellNCI
+    key_columns:
+    - SCellNCI
+    dataset: nr-ca-scell-addition-and-release-in-gnb-cu
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SCellNCI
+    key_columns:
+    - SCellNCI
+    dataset: nr-ca-scell-addition-and-release-in-gnb-cu-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

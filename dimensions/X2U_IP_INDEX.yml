@@ -1,0 +1,22 @@
+unique_name: X2U_IP_INDEX
+object_type: dimension
+label: X2U_IP_INDEX
+is_degenerate: true
+hierarchies:
+- unique_name: X2U_IP_INDEX Hierarchy
+  label: X2U_IP_INDEX Hierarchy
+  levels:
+  - unique_name: X2U_IP_INDEX
+level_attributes:
+- unique_name: X2U_IP_INDEX
+  label: X2U_IP_INDEX Level
+  shared_degenerate_columns:
+  - name_column: X2U_IP_INDEX
+    key_columns:
+    - X2U_IP_INDEX
+    dataset: nr-x2u-delay-measurement-data-per-upc-id-per-x2u-ip-index-per-q
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

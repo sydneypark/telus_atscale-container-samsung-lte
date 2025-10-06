@@ -1,0 +1,6 @@
+unique_name: RELABNORMALBYENBACTQCI_TIMEOUT
+object_type: metric
+label: RelAbnormalbyEnbActQci_TimeOut_count
+calculation_method: sum
+dataset: lte-e-rab-release-by-enb-per-cell-per-qci
+column: RelAbnormalbyEnbActQci_TimeOut_count

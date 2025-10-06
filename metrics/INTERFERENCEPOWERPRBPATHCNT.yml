@@ -1,0 +1,6 @@
+unique_name: INTERFERENCEPOWERPRBPATHCNT
+object_type: metric
+label: InterferencePowerPrbPathCnt_count
+calculation_method: sum
+dataset: lte-interference-power-per-prb-per-path
+column: InterferencePowerPrbPathCnt_count

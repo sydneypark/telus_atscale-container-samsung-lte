@@ -1,0 +1,6 @@
+unique_name: TTIBNOAVG
+object_type: metric
+label: TtibNoAvg_count
+calculation_method: sum
+dataset: lte-tti-bundling
+column: TtibNoAvg_count

@@ -1,0 +1,6 @@
+unique_name: PCELLUEPERBPUMAX
+object_type: metric
+label: PCellUEPerBpuMax_count
+calculation_method: sum
+dataset: lte-ca-ue-per-bpu
+column: PCellUEPerBpuMax_count

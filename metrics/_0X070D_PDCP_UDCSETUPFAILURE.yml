@@ -1,0 +1,6 @@
+unique_name: _0X070D_PDCP_UDCSETUPFAILURE
+object_type: metric
+label: _0x070D_Pdcp_UdcSetupFailure_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x070D_Pdcp_UdcSetupFailure_count

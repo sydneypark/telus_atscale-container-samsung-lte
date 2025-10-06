@@ -1,0 +1,6 @@
+unique_name: INTERX2OUTPREPSUCC
+object_type: metric
+label: InterX2OutPrepSucc_count
+calculation_method: sum
+dataset: lte-x2-out-handover
+column: InterX2OutPrepSucc_count

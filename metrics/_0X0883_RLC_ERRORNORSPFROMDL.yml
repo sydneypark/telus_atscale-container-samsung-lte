@@ -1,0 +1,6 @@
+unique_name: _0X0883_RLC_ERRORNORSPFROMDL
+object_type: metric
+label: _0x0883_Rlc_ErrorNoRspFromDL_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0883_Rlc_ErrorNoRspFromDL_count

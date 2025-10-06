@@ -1,0 +1,6 @@
+unique_name: ERABINFO_MODFAILNBR_UPPDCPFAIL
+object_type: metric
+label: ErabInfo_ModFailNbr_UpPdcpFail_count
+calculation_method: sum
+dataset: lte-e-rab-setup-modification-release-information-per-plmn-and-q
+column: ErabInfo_ModFailNbr_UpPdcpFail_count

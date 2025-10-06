@@ -1,0 +1,6 @@
+unique_name: ENDCADDUETOT
+object_type: metric
+label: EnDcAddUeTot_count
+calculation_method: sum
+dataset: lte-5g-endc-capable-ues
+column: EnDcAddUeTot_count

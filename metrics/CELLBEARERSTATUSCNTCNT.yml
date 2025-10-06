@@ -1,0 +1,6 @@
+unique_name: CELLBEARERSTATUSCNTCNT
+object_type: metric
+label: CellBearerStatusCntCnt_count
+calculation_method: sum
+dataset: lte-lte-served-bearer-status-per-cell
+column: CellBearerStatusCntCnt_count

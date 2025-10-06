@@ -1,0 +1,6 @@
+unique_name: UTRANPINGPONGHO
+object_type: metric
+label: UtranPingpongHo_count
+calculation_method: sum
+dataset: lte-utran-mro-with-connection-failure
+column: UtranPingpongHo_count

@@ -1,0 +1,46 @@
+unique_name: HoPurpose
+object_type: dimension
+label: HoPurpose
+is_degenerate: true
+hierarchies:
+- unique_name: HoPurpose Hierarchy
+  label: HoPurpose Hierarchy
+  levels:
+  - unique_name: HoPurpose
+level_attributes:
+- unique_name: HoPurpose
+  label: HoPurpose Level
+  shared_degenerate_columns:
+  - name_column: HoPurpose
+    key_columns:
+    - HoPurpose
+    dataset: nr-nr-handover-incoming
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: HoPurpose
+    key_columns:
+    - HoPurpose
+    dataset: nr-nr-handover-incoming-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: HoPurpose
+    key_columns:
+    - HoPurpose
+    dataset: nr-nr-handover-outgoing
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: HoPurpose
+    key_columns:
+    - HoPurpose
+    dataset: nr-nr-handover-outgoing-to-e-utran-for-fallback
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: HoPurpose
+    key_columns:
+    - HoPurpose
+    dataset: nr-nr-handover-outgoing-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

@@ -1,0 +1,6 @@
+unique_name: PCELLBHTOTALTXBYTES
+object_type: metric
+label: PCellBhTotalTxBytes_Kbytes
+calculation_method: sum
+dataset: lte-inter-site-ca-backhaul-user-data
+column: PCellBhTotalTxBytes_Kbytes

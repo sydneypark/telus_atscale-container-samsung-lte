@@ -1,0 +1,28 @@
+unique_name: Duplex
+object_type: dimension
+label: Duplex
+is_degenerate: true
+hierarchies:
+- unique_name: Duplex Hierarchy
+  label: Duplex Hierarchy
+  levels:
+  - unique_name: Duplex
+level_attributes:
+- unique_name: Duplex
+  label: Duplex Level
+  shared_degenerate_columns:
+  - name_column: Duplex
+    key_columns:
+    - Duplex
+    dataset: lte-lte-physical-downlink-uplink-shared-channel-capacity-usage
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: Duplex
+    key_columns:
+    - Duplex
+    dataset: nr-nr-physical-downlink-uplink-shared-channel-capacity-usage
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

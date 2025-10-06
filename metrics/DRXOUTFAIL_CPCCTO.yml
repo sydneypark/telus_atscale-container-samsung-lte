@@ -1,0 +1,6 @@
+unique_name: DRXOUTFAIL_CPCCTO
+object_type: metric
+label: DrxOutFail_CpCcTo_count
+calculation_method: sum
+dataset: lte-outgoing-handover-with-drx
+column: DrxOutFail_CpCcTo_count

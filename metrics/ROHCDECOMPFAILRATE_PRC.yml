@@ -1,0 +1,6 @@
+unique_name: ROHCDECOMPFAILRATE_PRC
+object_type: metric
+label: RoHCDecompFailRate_ppm
+calculation_method: sum
+dataset: lte-pdcp-packet-per-prc
+column: RoHCDecompFailRate_ppm

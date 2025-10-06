@@ -1,0 +1,6 @@
+unique_name: MODQOSFAILNBR_UPGTPFAIL
+object_type: metric
+label: ModQoSFailNbr_UpGtpFail_count
+calculation_method: sum
+dataset: lte-e-rab-modify
+column: ModQoSFailNbr_UpGtpFail_count

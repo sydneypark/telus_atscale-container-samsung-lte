@@ -1,0 +1,6 @@
+unique_name: TOTPRBDLNUM_PCELL
+object_type: metric
+label: TotPrbDLNum_Pcell_count
+calculation_method: sum
+dataset: lte-mac-counter-for-intersite-ca-using-nonideal-backhaul
+column: TotPrbDLNum_Pcell_count

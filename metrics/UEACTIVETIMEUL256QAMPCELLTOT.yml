@@ -1,0 +1,6 @@
+unique_name: UEACTIVETIMEUL256QAMPCELLTOT
+object_type: metric
+label: UEActiveTimeUL256QAMPcellTot_ms
+calculation_method: sum
+dataset: lte-ul-256qam-active
+column: UEActiveTimeUL256QAMPcellTot_ms

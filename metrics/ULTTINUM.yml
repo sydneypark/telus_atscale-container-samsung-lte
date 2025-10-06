@@ -1,0 +1,6 @@
+unique_name: ULTTINUM
+object_type: metric
+label: ULTTINum_count
+calculation_method: sum
+dataset: lte-scheduled-ue-number
+column: ULTTINum_count

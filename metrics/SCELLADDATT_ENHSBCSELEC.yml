@@ -1,0 +1,6 @@
+unique_name: SCELLADDATT_ENHSBCSELEC
+object_type: metric
+label: SCellAddAtt_EnhSbcSelec_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-message-count-for-addition-release
+column: SCellAddAtt_EnhSbcSelec_count

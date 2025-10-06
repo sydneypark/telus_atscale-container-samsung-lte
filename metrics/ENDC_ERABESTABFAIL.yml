@@ -1,0 +1,6 @@
+unique_name: ENDC_ERABESTABFAIL
+object_type: metric
+label: EnDc_ErabEstabFail_count
+calculation_method: sum
+dataset: lte-en-dc-e-rab-establish-information
+column: EnDc_ErabEstabFail_count

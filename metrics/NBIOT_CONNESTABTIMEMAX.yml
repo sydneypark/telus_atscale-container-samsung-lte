@@ -1,0 +1,6 @@
+unique_name: NBIOT_CONNESTABTIMEMAX
+object_type: metric
+label: NBIoT_ConnEstabTimeMax_ms
+calculation_method: sum
+dataset: lte-nb-iot-rrc-connection-setup-nb-time
+column: NBIoT_ConnEstabTimeMax_ms

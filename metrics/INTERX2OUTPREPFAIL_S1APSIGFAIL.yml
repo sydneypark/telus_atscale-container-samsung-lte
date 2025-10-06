@@ -1,0 +1,6 @@
+unique_name: INTERX2OUTPREPFAIL_S1APSIGFAIL
+object_type: metric
+label: InterX2OutPrepFail_S1apSigFail_count
+calculation_method: sum
+dataset: lte-x2-out-handover
+column: InterX2OutPrepFail_S1apSigFail_count

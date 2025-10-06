@@ -1,0 +1,6 @@
+unique_name: EMTC_PDCPTIMEDL
+object_type: metric
+label: eMTC_PdcpTimeDl_ms
+calculation_method: sum
+dataset: lte-emtc-pdcp-packet
+column: eMTC_PdcpTimeDl_ms

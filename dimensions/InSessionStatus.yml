@@ -1,0 +1,46 @@
+unique_name: InSessionStatus
+object_type: dimension
+label: InSessionStatus
+is_degenerate: true
+hierarchies:
+- unique_name: InSessionStatus Hierarchy
+  label: InSessionStatus Hierarchy
+  levels:
+  - unique_name: InSessionStatus
+level_attributes:
+- unique_name: InSessionStatus
+  label: InSessionStatus Level
+  shared_degenerate_columns:
+  - name_column: InSessionStatus
+    key_columns:
+    - InSessionStatus
+    dataset: nr-release-of-setup-active-drb-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: InSessionStatus
+    key_columns:
+    - InSessionStatus
+    dataset: nr-release-of-setup-active-drb-per-plmn-per-snssai-with-du-iden
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: InSessionStatus
+    key_columns:
+    - InSessionStatus
+    dataset: nr-release-of-setup-active-drb-per-plmn-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: InSessionStatus
+    key_columns:
+    - InSessionStatus
+    dataset: nr-release-of-setup-active-drb-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: InSessionStatus
+    key_columns:
+    - InSessionStatus
+    dataset: nr-release-of-setup-active-ue-context-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

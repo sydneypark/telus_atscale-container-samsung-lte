@@ -1,0 +1,6 @@
+unique_name: CONNRELEASE_CPCCFAIL
+object_type: metric
+label: ConnRelease_CpCcFail_count
+calculation_method: sum
+dataset: lte-rrc-connection-release
+column: ConnRelease_CpCcFail_count

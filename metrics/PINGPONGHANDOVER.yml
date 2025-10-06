@@ -1,0 +1,6 @@
+unique_name: PINGPONGHANDOVER
+object_type: metric
+label: PingpongHandover_count
+calculation_method: sum
+dataset: lte-mro-rlf-classification
+column: PingpongHandover_count

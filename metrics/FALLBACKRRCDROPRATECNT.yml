@@ -1,0 +1,6 @@
+unique_name: FALLBACKRRCDROPRATECNT
+object_type: metric
+label: FallbackRrcDropRateCnt_count
+calculation_method: sum
+dataset: lte-energy-saving-feature-orchestration
+column: FallbackRrcDropRateCnt_count

@@ -1,0 +1,6 @@
+unique_name: CELLTCDLPERIOD_S
+object_type: metric
+label: CellTcDLPeriod_s
+calculation_method: sum
+dataset: lte-gtp-downlink-traffic-control-per-prc
+column: CellTcDLPeriod_s

@@ -1,0 +1,6 @@
+unique_name: TXBROADCASTPACKET
+object_type: metric
+label: TxBroadcastPacket_count
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: TxBroadcastPacket_count

@@ -1,0 +1,6 @@
+unique_name: INTERENBHONOUEKEPTINDI_RELATT
+object_type: metric
+label: InterEnbHoNoUeKeptIndi_RelAtt_count
+calculation_method: sum
+dataset: lte-sgnb-release-due-to-mcg-mobility
+column: InterEnbHoNoUeKeptIndi_RelAtt_count

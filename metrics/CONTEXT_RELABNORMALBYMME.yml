@@ -1,0 +1,6 @@
+unique_name: CONTEXT_RELABNORMALBYMME
+object_type: metric
+label: Context_RelAbnormalByMme_count
+calculation_method: sum
+dataset: lte-context-release-by-mme-and-enb-per-cell
+column: Context_RelAbnormalByMme_count

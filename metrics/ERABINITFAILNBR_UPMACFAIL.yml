@@ -1,0 +1,6 @@
+unique_name: ERABINITFAILNBR_UPMACFAIL
+object_type: metric
+label: ErabInitFailNbr_UpMacFail_count
+calculation_method: sum
+dataset: lte-e-rab-setup
+column: ErabInitFailNbr_UpMacFail_count

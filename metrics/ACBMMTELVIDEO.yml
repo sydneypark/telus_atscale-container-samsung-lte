@@ -1,0 +1,6 @@
+unique_name: ACBMMTELVIDEO
+object_type: metric
+label: AcbMmtelVideo_count
+calculation_method: sum
+dataset: lte-access-class-barring-enhanced
+column: AcbMmtelVideo_count

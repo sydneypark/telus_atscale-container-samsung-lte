@@ -1,0 +1,6 @@
+unique_name: WRONGCELLRLFAFTERHOVOICE
+object_type: metric
+label: WrongCellRlfAfterHoVoice_count
+calculation_method: sum
+dataset: lte-mro-rlf-voice-classification
+column: WrongCellRlfAfterHoVoice_count

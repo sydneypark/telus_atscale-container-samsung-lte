@@ -1,0 +1,6 @@
+unique_name: NBIOT_CALLDROP_NCCBS1SCTPOUTOFSERVICE
+object_type: metric
+label: NBIoT_CallDrop_NccbS1SctpOutOfService_count
+calculation_method: sum
+dataset: lte-nb-iot-call-drop
+column: NBIoT_CallDrop_NccbS1SctpOutOfService_count

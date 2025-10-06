@@ -1,0 +1,6 @@
+unique_name: CEMODEB_ULIPTHRUVOL
+object_type: metric
+label: CEModeB_ULIpThruVol_Kbytes
+calculation_method: sum
+dataset: lte-emtc-ul-ip-throughput
+column: CEModeB_ULIpThruVol_Kbytes

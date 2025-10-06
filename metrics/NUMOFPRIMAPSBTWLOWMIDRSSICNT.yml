@@ -1,0 +1,6 @@
+unique_name: NUMOFPRIMAPSBTWLOWMIDRSSICNT
+object_type: metric
+label: NumOfPrimApsBtwLowMidRssiCnt_count
+calculation_method: sum
+dataset: lte-laa-channel-status
+column: NumOfPrimApsBtwLowMidRssiCnt_count

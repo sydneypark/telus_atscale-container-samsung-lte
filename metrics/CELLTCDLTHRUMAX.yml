@@ -1,0 +1,6 @@
+unique_name: CELLTCDLTHRUMAX
+object_type: metric
+label: CellTcDLThruMax_Kbps
+calculation_method: sum
+dataset: lte-gtp-downlink-traffic-control-per-prc
+column: CellTcDLThruMax_Kbps

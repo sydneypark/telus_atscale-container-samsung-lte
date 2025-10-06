@@ -1,0 +1,6 @@
+unique_name: DRXACTSUCC
+object_type: metric
+label: DrxActSucc_count
+calculation_method: sum
+dataset: lte-active-drx
+column: DrxActSucc_count

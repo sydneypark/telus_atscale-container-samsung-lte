@@ -1,0 +1,6 @@
+unique_name: RRCRRCCONNECTIONRESUMEREQUEST
+object_type: metric
+label: RrcRrcConnectionResumeRequest_count
+calculation_method: sum
+dataset: lte-rrc-message-per-cell
+column: RrcRrcConnectionResumeRequest_count

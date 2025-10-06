@@ -1,0 +1,6 @@
+unique_name: RXGOODOCTETSUMBADOCTETAVG
+object_type: metric
+label: RxGoodOctetSumBadOctetAvg_Mbytes
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: RxGoodOctetSumBadOctetAvg_Mbytes

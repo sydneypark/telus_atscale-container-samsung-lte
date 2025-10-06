@@ -1,0 +1,6 @@
+unique_name: ATTPAGING_LTE_PAGING
+object_type: metric
+label: AttPaging_count
+calculation_method: sum
+dataset: lte-paging
+column: AttPaging_count

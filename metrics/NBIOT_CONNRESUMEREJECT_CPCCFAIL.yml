@@ -1,0 +1,6 @@
+unique_name: NBIOT_CONNRESUMEREJECT_CPCCFAIL
+object_type: metric
+label: NBIoT_ConnResumeReject_CpCcFail_count
+calculation_method: sum
+dataset: lte-nb-iot-rrc-connection-resume
+column: NBIoT_ConnResumeReject_CpCcFail_count

@@ -1,0 +1,6 @@
+unique_name: TOTALPENALTYCNT
+object_type: metric
+label: TotalPenaltyCnt
+calculation_method: sum
+dataset: lte-laa-channel-status
+column: TotalPenaltyCnt

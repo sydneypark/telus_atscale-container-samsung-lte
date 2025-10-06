@@ -1,0 +1,34 @@
+unique_name: BoardID
+object_type: dimension
+label: BoardID
+is_degenerate: true
+hierarchies:
+- unique_name: BoardID Hierarchy
+  label: BoardID Hierarchy
+  levels:
+  - unique_name: BoardID
+level_attributes:
+- unique_name: BoardID
+  label: BoardID Level
+  shared_degenerate_columns:
+  - name_column: BoardID
+    key_columns:
+    - BoardID
+    dataset: nr-radio-unit-measurement
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: BoardID
+    key_columns:
+    - BoardID
+    dataset: nr-radio-unit-type-measurement
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: BoardID
+    key_columns:
+    - BoardID
+    dataset: nr-tx-rf-measurement
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

@@ -1,0 +1,6 @@
+unique_name: CSFBPSHOUTRANFAIL_CPCCTO
+object_type: metric
+label: CSFBPsHoUtranFail_CpCcTo_count
+calculation_method: sum
+dataset: lte-csfb-ps-out-handover
+column: CSFBPsHoUtranFail_CpCcTo_count

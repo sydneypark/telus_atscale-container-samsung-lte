@@ -1,0 +1,6 @@
+unique_name: S1MSGSND
+object_type: metric
+label: S1MsgSnd_count
+calculation_method: sum
+dataset: lte-protocol-message
+column: S1MsgSnd_count

@@ -1,0 +1,6 @@
+unique_name: RATOUTFAILNR_UPGTPFAIL
+object_type: metric
+label: RatOutFailNr_UpGtpFail_count
+calculation_method: sum
+dataset: lte-inter-rat-nr-outgoing-handover
+column: RatOutFailNr_UpGtpFail_count

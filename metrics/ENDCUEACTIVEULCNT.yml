@@ -1,0 +1,6 @@
+unique_name: ENDCUEACTIVEULCNT
+object_type: metric
+label: ENDCUEActiveULCnt_count
+calculation_method: sum
+dataset: lte-active-ue-number-including-en-dc-configured-ue-only
+column: ENDCUEActiveULCnt_count

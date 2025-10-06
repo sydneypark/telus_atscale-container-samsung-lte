@@ -1,0 +1,6 @@
+unique_name: ACBBYMANUAL
+object_type: metric
+label: AcbByManual_count
+calculation_method: sum
+dataset: lte-access-class-barring-enhanced
+column: AcbByManual_count

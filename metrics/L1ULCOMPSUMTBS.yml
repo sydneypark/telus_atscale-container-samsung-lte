@@ -1,0 +1,6 @@
+unique_name: L1ULCOMPSUMTBS
+object_type: metric
+label: L1ULcompSumTBS_Kbytes
+calculation_method: sum
+dataset: lte-lte-l1-ul-comp-usage
+column: L1ULcompSumTBS_Kbytes

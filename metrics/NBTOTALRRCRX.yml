@@ -1,0 +1,6 @@
+unique_name: NBTOTALRRCRX
+object_type: metric
+label: NbTotalRrcRx_count
+calculation_method: sum
+dataset: lte-nb-iot-rrc-message
+column: NbTotalRrcRx_count

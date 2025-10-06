@@ -1,0 +1,6 @@
+unique_name: MRCID_TCID
+object_type: metric
+label: MrCid_tcID
+calculation_method: sum
+dataset: lte-measurement-report
+column: MrCid_tcID

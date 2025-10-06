@@ -1,0 +1,6 @@
+unique_name: LTETYPETOTNGBRPRBDLNUM
+object_type: metric
+label: LteTypeTotNGbrPrbDLNum_count
+calculation_method: sum
+dataset: lte-dl-prb-usage-per-lte-type
+column: LteTypeTotNGbrPrbDLNum_count

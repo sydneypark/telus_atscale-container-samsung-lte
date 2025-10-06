@@ -1,0 +1,6 @@
+unique_name: CEMODEA_DLRESIDUALBLERRETRANSMAX
+object_type: metric
+label: CEModeA_DLResidualBlerRetransMax_count
+calculation_method: sum
+dataset: lte-emtc-downlink-harq-transmission-bler
+column: CEModeA_DLResidualBlerRetransMax_count

@@ -1,0 +1,6 @@
+unique_name: PREEMTINTERS1OUTATT
+object_type: metric
+label: PreemtInterS1OutAtt_count
+calculation_method: sum
+dataset: lte-preemption-handover
+column: PreemtInterS1OutAtt_count

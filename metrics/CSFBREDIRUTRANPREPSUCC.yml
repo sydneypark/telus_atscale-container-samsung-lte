@@ -1,0 +1,6 @@
+unique_name: CSFBREDIRUTRANPREPSUCC
+object_type: metric
+label: CSFBRedirUtranPrepSucc_count
+calculation_method: sum
+dataset: lte-csfb-redirection-out
+column: CSFBRedirUtranPrepSucc_count

@@ -1,0 +1,6 @@
+unique_name: _0X0141_S1AP_ABSTRACTSYNTAXERRORFALSELYCONSTRUCTEDMESSAGE
+object_type: metric
+label: _0x0141_S1ap_AbstractSyntaxErrorFalselyConstructedMessage_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0141_S1ap_AbstractSyntaxErrorFalselyConstructedMessage_count

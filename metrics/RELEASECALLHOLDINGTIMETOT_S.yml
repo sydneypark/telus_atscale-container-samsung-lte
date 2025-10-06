@@ -1,0 +1,6 @@
+unique_name: RELEASECALLHOLDINGTIMETOT_S
+object_type: metric
+label: ReleaseCallHoldingTimeTot_s
+calculation_method: sum
+dataset: lte-rrc-connection-number
+column: ReleaseCallHoldingTimeTot_s

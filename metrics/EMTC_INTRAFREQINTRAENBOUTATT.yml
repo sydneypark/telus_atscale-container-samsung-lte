@@ -1,0 +1,6 @@
+unique_name: EMTC_INTRAFREQINTRAENBOUTATT
+object_type: metric
+label: eMTC_IntraFreqIntraEnbOutAtt_count
+calculation_method: sum
+dataset: lte-emtc-volte-handover-out
+column: eMTC_IntraFreqIntraEnbOutAtt_count

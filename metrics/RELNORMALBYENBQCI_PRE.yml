@@ -1,0 +1,6 @@
+unique_name: RELNORMALBYENBQCI_PRE
+object_type: metric
+label: RelNormalbyEnbQci_Pre_count
+calculation_method: sum
+dataset: lte-e-rab-release-by-enb-per-cell-per-qci
+column: RelNormalbyEnbQci_Pre_count

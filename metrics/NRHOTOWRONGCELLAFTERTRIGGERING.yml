@@ -1,0 +1,6 @@
+unique_name: NRHOTOWRONGCELLAFTERTRIGGERING
+object_type: metric
+label: NrHoToWrongCellAfterTriggering_count
+calculation_method: sum
+dataset: lte-inter-rat-mro-for-nr
+column: NrHoToWrongCellAfterTriggering_count

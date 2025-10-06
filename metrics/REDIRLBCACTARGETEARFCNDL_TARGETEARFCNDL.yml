@@ -1,0 +1,6 @@
+unique_name: REDIRLBCACTARGETEARFCNDL_TARGETEARFCNDL
+object_type: metric
+label: RedirLbCacTargetEarfcnDL_TargetEarfcnDl
+calculation_method: sum
+dataset: lte-redirection-by-cac
+column: RedirLbCacTargetEarfcnDL_TargetEarfcnDl

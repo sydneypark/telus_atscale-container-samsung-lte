@@ -1,0 +1,6 @@
+unique_name: NOOFHIGHSPEED
+object_type: metric
+label: NoOfHighSpeed_count
+calculation_method: sum
+dataset: lte-random-access-preambles
+column: NoOfHighSpeed_count

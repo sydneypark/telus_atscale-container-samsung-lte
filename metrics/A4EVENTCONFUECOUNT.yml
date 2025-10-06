@@ -1,0 +1,6 @@
+unique_name: A4EVENTCONFUECOUNT
+object_type: metric
+label: A4EventConfUeCount_count
+calculation_method: sum
+dataset: lte-enhanced-sbc-selection-information
+column: A4EventConfUeCount_count

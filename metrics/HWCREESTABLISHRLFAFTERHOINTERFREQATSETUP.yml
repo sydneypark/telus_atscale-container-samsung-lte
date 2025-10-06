@@ -1,0 +1,6 @@
+unique_name: HWCREESTABLISHRLFAFTERHOINTERFREQATSETUP
+object_type: metric
+label: HwcReestablishRlfAfterHOInterFreqAtSetup_count
+calculation_method: sum
+dataset: lte-mro-rlf-at-rrc-connection
+column: HwcReestablishRlfAfterHOInterFreqAtSetup_count

@@ -1,0 +1,6 @@
+unique_name: HOTIMECNT
+object_type: metric
+label: HoTimeCnt_count
+calculation_method: sum
+dataset: lte-handover-time
+column: HoTimeCnt_count

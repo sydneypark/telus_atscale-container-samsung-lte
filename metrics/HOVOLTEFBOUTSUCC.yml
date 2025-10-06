@@ -1,0 +1,6 @@
+unique_name: HOVOLTEFBOUTSUCC
+object_type: metric
+label: HOVoLTEFBOutSucc_count
+calculation_method: sum
+dataset: lte-volte-fallback-handover-statistics
+column: HOVoLTEFBOutSucc_count

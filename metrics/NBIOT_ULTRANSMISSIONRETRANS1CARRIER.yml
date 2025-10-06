@@ -1,0 +1,6 @@
+unique_name: NBIOT_ULTRANSMISSIONRETRANS1CARRIER
+object_type: metric
+label: NBIoT_ULTransmissionRetrans1Carrier_count
+calculation_method: sum
+dataset: lte-nb-iot-npusch-harq-transmission-times-for-multi-carrier
+column: NBIoT_ULTransmissionRetrans1Carrier_count

@@ -1,0 +1,6 @@
+unique_name: ERABINITFAILNBR_CPCAPACACFAIL
+object_type: metric
+label: ErabInitFailNbr_CpCapaCacFail_count
+calculation_method: sum
+dataset: lte-e-rab-setup
+column: ErabInitFailNbr_CpCapaCacFail_count

@@ -1,0 +1,6 @@
+unique_name: PLMN3AIRRLCDLTHRUMAX
+object_type: metric
+label: PLMN3AirRlcDLThruMax_Kbps
+calculation_method: sum
+dataset: lte-air-rlc-packet-per-plmn
+column: PLMN3AirRlcDLThruMax_Kbps

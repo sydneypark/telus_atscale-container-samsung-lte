@@ -1,0 +1,34 @@
+unique_name: ENDC_STATUS
+object_type: dimension
+label: ENDC_STATUS
+is_degenerate: true
+hierarchies:
+- unique_name: ENDC_STATUS Hierarchy
+  label: ENDC_STATUS Hierarchy
+  levels:
+  - unique_name: ENDC_STATUS
+level_attributes:
+- unique_name: ENDC_STATUS
+  label: ENDC_STATUS Level
+  shared_degenerate_columns:
+  - name_column: ENDC_STATUS
+    key_columns:
+    - ENDC_STATUS
+    dataset: lte-air-rlc-packet-per-plmn-per-en-dc-status
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ENDC_STATUS
+    key_columns:
+    - ENDC_STATUS
+    dataset: lte-air-rlc-packet-per-plmn-per-en-dc-status-per-nrarfcn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ENDC_STATUS
+    key_columns:
+    - ENDC_STATUS
+    dataset: lte-ul-ip-throughput-per-endc-status
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

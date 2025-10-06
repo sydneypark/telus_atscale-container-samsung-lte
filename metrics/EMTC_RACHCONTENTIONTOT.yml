@@ -1,0 +1,6 @@
+unique_name: EMTC_RACHCONTENTIONTOT
+object_type: metric
+label: eMTC_RACHContentionTot_count
+calculation_method: sum
+dataset: lte-emtc-rach-usage
+column: eMTC_RACHContentionTot_count

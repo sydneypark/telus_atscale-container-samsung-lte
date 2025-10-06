@@ -1,0 +1,28 @@
+unique_name: NBIoT_pathNum
+object_type: dimension
+label: NBIoT_pathNum
+is_degenerate: true
+hierarchies:
+- unique_name: NBIoT_pathNum Hierarchy
+  label: NBIoT_pathNum Hierarchy
+  levels:
+  - unique_name: NBIoT_pathNum
+level_attributes:
+- unique_name: NBIoT_pathNum
+  label: NBIoT_pathNum Level
+  shared_degenerate_columns:
+  - name_column: NBIoT_pathNum
+    key_columns:
+    - NBIoT_pathNum
+    dataset: lte-nb-iot-average-rssi-per-antenna
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_pathNum
+    key_columns:
+    - NBIoT_pathNum
+    dataset: lte-nb-iot-average-rssi-per-antenna-for-multi-carrier
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

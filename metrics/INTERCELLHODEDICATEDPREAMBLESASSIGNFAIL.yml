@@ -1,0 +1,6 @@
+unique_name: INTERCELLHODEDICATEDPREAMBLESASSIGNFAIL
+object_type: metric
+label: InterCellHoDedicatedPreamblesAssignFail_count
+calculation_method: sum
+dataset: lte-random-access-preambles
+column: InterCellHoDedicatedPreamblesAssignFail_count

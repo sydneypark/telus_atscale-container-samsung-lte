@@ -1,0 +1,6 @@
+unique_name: RELATTNBR
+object_type: metric
+label: RelAttNbr_count
+calculation_method: sum
+dataset: lte-e-rab-release
+column: RelAttNbr_count

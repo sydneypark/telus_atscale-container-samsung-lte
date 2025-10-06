@@ -1,0 +1,6 @@
+unique_name: PINGPONG2_LTE_PING_PONG_HANDOVER_CLASSIFICATION
+object_type: metric
+label: Pingpong2_count
+calculation_method: sum
+dataset: lte-ping-pong-handover-classification
+column: Pingpong2_count

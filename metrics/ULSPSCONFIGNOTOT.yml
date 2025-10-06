@@ -1,0 +1,6 @@
+unique_name: ULSPSCONFIGNOTOT
+object_type: metric
+label: ULSpsConfigNoTot_count
+calculation_method: sum
+dataset: lte-semi-persistent-scheduling
+column: ULSpsConfigNoTot_count

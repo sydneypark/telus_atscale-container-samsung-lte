@@ -1,0 +1,6 @@
+unique_name: DL3FDSCELLTOT
+object_type: metric
+label: Dl3FDSCellTot_count
+calculation_method: sum
+dataset: lte-ca-ue-per-number-of-cc
+column: Dl3FDSCellTot_count

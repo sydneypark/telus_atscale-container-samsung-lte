@@ -1,0 +1,6 @@
+unique_name: _0X0313_ECCTMOUT_S1INITIALCONTEXTSETUPREQUEST
+object_type: metric
+label: _0x0313_EccTmout_S1InitialContextSetupRequest_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0313_EccTmout_S1InitialContextSetupRequest_count

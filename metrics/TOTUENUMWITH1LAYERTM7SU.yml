@@ -1,0 +1,6 @@
+unique_name: TOTUENUMWITH1LAYERTM7SU
+object_type: metric
+label: TotUENumWith1LayerTM7SU_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-downlink-layer-usage
+column: TotUENumWith1LayerTM7SU_count

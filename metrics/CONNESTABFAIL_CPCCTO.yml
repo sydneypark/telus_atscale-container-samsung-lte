@@ -1,0 +1,6 @@
+unique_name: CONNESTABFAIL_CPCCTO
+object_type: metric
+label: ConnEstabFail_CpCcTo_count
+calculation_method: sum
+dataset: lte-rrc-connection-establishment
+column: ConnEstabFail_CpCcTo_count

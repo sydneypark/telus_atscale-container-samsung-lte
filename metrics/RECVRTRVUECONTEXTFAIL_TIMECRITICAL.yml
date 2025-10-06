@@ -1,0 +1,6 @@
+unique_name: RECVRTRVUECONTEXTFAIL_TIMECRITICAL
+object_type: metric
+label: RecvRtrvUeContextFail_TimeCritical_count
+calculation_method: sum
+dataset: lte-ue-context-retrieval-in
+column: RecvRtrvUeContextFail_TimeCritical_count

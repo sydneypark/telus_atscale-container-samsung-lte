@@ -1,0 +1,6 @@
+unique_name: EMTC_PDCPSDUDROPRATEDLTOT
+object_type: metric
+label: eMTC_PdcpSduDropRateDLTot_ppm
+calculation_method: sum
+dataset: lte-emtc-pdcp-drop-rate
+column: eMTC_PdcpSduDropRateDLTot_ppm

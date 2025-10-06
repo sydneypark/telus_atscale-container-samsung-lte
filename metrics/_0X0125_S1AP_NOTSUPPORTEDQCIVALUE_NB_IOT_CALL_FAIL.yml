@@ -1,0 +1,6 @@
+unique_name: _0X0125_S1AP_NOTSUPPORTEDQCIVALUE_NB_IOT_CALL_FAIL
+object_type: metric
+label: _0x0125_S1ap_NotSupportedQciValue_count
+calculation_method: sum
+dataset: lte-nb-iot-call-fail
+column: _0x0125_S1ap_NotSupportedQciValue_count

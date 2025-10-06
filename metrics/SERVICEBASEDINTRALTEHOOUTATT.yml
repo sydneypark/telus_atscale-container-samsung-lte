@@ -1,0 +1,6 @@
+unique_name: SERVICEBASEDINTRALTEHOOUTATT
+object_type: metric
+label: ServiceBasedIntraLteHoOutAtt_count
+calculation_method: sum
+dataset: lte-service-based-handover-out
+column: ServiceBasedIntraLteHoOutAtt_count

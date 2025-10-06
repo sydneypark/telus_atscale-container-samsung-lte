@@ -1,0 +1,6 @@
+unique_name: NBIOT_ESTABINITATTNBR
+object_type: metric
+label: NBIoT_EstabInitAttNbr_count
+calculation_method: sum
+dataset: lte-nb-iot-e-rab-setup
+column: NBIoT_EstabInitAttNbr_count

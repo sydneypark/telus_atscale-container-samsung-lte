@@ -1,0 +1,6 @@
+unique_name: TXGOODOCTETSUMBADOCTETTOT
+object_type: metric
+label: TxGoodOctetSumBadOctetTot_Mbytes
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: TxGoodOctetSumBadOctetTot_Mbytes

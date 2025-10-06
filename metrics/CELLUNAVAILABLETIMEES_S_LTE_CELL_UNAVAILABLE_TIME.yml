@@ -1,0 +1,6 @@
+unique_name: CELLUNAVAILABLETIMEES_S_LTE_CELL_UNAVAILABLE_TIME
+object_type: metric
+label: CellUnavailableTimeES_s
+calculation_method: sum
+dataset: lte-cell-unavailable-time
+column: CellUnavailableTimeES_s

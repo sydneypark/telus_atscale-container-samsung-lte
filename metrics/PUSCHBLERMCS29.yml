@@ -1,0 +1,6 @@
+unique_name: PUSCHBLERMCS29
+object_type: metric
+label: PuschBlerMcs29_pct
+calculation_method: sum
+dataset: lte-mcs
+column: PuschBlerMcs29_pct

@@ -1,0 +1,6 @@
+unique_name: NBIOT_ERABINITFAILNBR_UPRLCFAIL
+object_type: metric
+label: NBIoT_ErabInitFailNbr_UpRlcFail_count
+calculation_method: sum
+dataset: lte-nb-iot-e-rab-setup
+column: NBIoT_ErabInitFailNbr_UpRlcFail_count

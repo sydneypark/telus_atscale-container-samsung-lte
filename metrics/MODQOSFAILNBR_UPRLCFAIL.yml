@@ -1,0 +1,6 @@
+unique_name: MODQOSFAILNBR_UPRLCFAIL
+object_type: metric
+label: ModQoSFailNbr_UpRlcFail_count
+calculation_method: sum
+dataset: lte-e-rab-modify
+column: ModQoSFailNbr_UpRlcFail_count

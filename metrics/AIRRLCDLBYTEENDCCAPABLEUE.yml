@@ -1,0 +1,6 @@
+unique_name: AIRRLCDLBYTEENDCCAPABLEUE
+object_type: metric
+label: AirRlcDLByteEndcCapableUe_Kbytes
+calculation_method: sum
+dataset: lte-air-rlc-packet-for-en-dc-capable-ues
+column: AirRlcDLByteEndcCapableUe_Kbytes

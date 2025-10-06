@@ -1,0 +1,6 @@
+unique_name: PDCPDLTHRUBIN13_PRC
+object_type: metric
+label: PdcpDLThruBin13_Prc_count
+calculation_method: sum
+dataset: lte-pdcp-dl-throughput-distribution-per-prc
+column: PdcpDLThruBin13_Prc_count

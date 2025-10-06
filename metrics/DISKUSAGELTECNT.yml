@@ -1,0 +1,6 @@
+unique_name: DISKUSAGELTECNT
+object_type: metric
+label: DiskUsageLTECnt_count
+calculation_method: sum
+dataset: lte-disk-usage-in-lte
+column: DiskUsageLTECnt_count

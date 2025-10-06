@@ -1,0 +1,6 @@
+unique_name: DL4FDSCELL
+object_type: metric
+label: Dl4FDSCell_count
+calculation_method: sum
+dataset: lte-ca-ue-per-number-of-cc
+column: Dl4FDSCell_count

@@ -1,0 +1,6 @@
+unique_name: _0X0362_ECC_UDCPACKETCHECKSUMFAILURE_EMTC_CALL_FAIL
+object_type: metric
+label: _0x0362_Ecc_UdcPacketChecksumFailure_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x0362_Ecc_UdcPacketChecksumFailure_count

@@ -1,0 +1,6 @@
+unique_name: ERABINITFAILNBR_CPQOSCACFAIL
+object_type: metric
+label: ErabInitFailNbr_CpQosCacFail_count
+calculation_method: sum
+dataset: lte-e-rab-setup
+column: ErabInitFailNbr_CpQosCacFail_count

@@ -1,0 +1,6 @@
+unique_name: DRXOUTPREPFAIL_S1APLINKFAIL
+object_type: metric
+label: DrxOutPrepFail_S1apLinkFail_count
+calculation_method: sum
+dataset: lte-outgoing-handover-with-drx
+column: DrxOutPrepFail_S1apLinkFail_count

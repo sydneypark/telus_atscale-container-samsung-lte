@@ -1,0 +1,6 @@
+unique_name: TIMEADVANCESECTION12_LTE_TIMING_ALIGNMENT
+object_type: metric
+label: TimeAdvanceSection12_count
+calculation_method: sum
+dataset: lte-timing-alignment
+column: TimeAdvanceSection12_count

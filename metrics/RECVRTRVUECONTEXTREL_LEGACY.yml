@@ -1,0 +1,6 @@
+unique_name: RECVRTRVUECONTEXTREL_LEGACY
+object_type: metric
+label: RecvRtrvUeContextRel_Legacy_count
+calculation_method: sum
+dataset: lte-ue-context-retrieval-out
+column: RecvRtrvUeContextRel_Legacy_count

@@ -1,0 +1,6 @@
+unique_name: NBIOT_PDCPPDUDROPRATEDL
+object_type: metric
+label: NBIoT_PdcpPduDropRateDL_ppm
+calculation_method: sum
+dataset: lte-nb-iot-rlc-packet-drop-rate
+column: NBIoT_PdcpPduDropRateDL_ppm

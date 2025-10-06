@@ -1,0 +1,6 @@
+unique_name: ECGIATTDRX
+object_type: metric
+label: EcgiAttDrx_count
+calculation_method: sum
+dataset: lte-ecgi-report
+column: EcgiAttDrx_count

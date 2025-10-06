@@ -1,0 +1,6 @@
+unique_name: CONNRECONFIGATT_LTE_RRC_CONNECTION_RECONFIGURATION
+object_type: metric
+label: ConnReconfigAtt_count
+calculation_method: sum
+dataset: lte-rrc-connection-reconfiguration
+column: ConnReconfigAtt_count

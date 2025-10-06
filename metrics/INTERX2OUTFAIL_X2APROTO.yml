@@ -1,0 +1,6 @@
+unique_name: INTERX2OUTFAIL_X2APROTO
+object_type: metric
+label: InterX2OutFail_X2apRoTo_count
+calculation_method: sum
+dataset: lte-x2-out-handover
+column: InterX2OutFail_X2apRoTo_count

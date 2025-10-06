@@ -1,0 +1,6 @@
+unique_name: MODQOSSUCCNBR
+object_type: metric
+label: ModQoSSuccNbr_count
+calculation_method: sum
+dataset: lte-e-rab-modify
+column: ModQoSSuccNbr_count

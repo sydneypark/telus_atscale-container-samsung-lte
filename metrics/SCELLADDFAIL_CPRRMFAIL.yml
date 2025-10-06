@@ -1,0 +1,6 @@
+unique_name: SCELLADDFAIL_CPRRMFAIL
+object_type: metric
+label: SCellAddFail_CpRrmFail_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-message-count-for-addition-release
+column: SCellAddFail_CpRrmFail_count

@@ -1,0 +1,6 @@
+unique_name: ERABINITFAILNBR_CPCCTO
+object_type: metric
+label: ErabInitFailNbr_CpCcTo_count
+calculation_method: sum
+dataset: lte-e-rab-setup
+column: ErabInitFailNbr_CpCcTo_count

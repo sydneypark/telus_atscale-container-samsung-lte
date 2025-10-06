@@ -1,0 +1,6 @@
+unique_name: FPHOOUTPREPSUCC
+object_type: metric
+label: FPHOOutPrepSucc_count
+calculation_method: sum
+dataset: lte-outgoing-frequency-priority-based-handover
+column: FPHOOutPrepSucc_count

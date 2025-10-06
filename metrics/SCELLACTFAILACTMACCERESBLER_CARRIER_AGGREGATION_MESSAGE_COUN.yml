@@ -1,0 +1,6 @@
+unique_name: SCELLACTFAILACTMACCERESBLER_CARRIER_AGGREGATION_MESSAGE_COUN
+object_type: metric
+label: SCellActFailActMacCeResBler_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-message-count-for-activation-deactivati
+column: SCellActFailActMacCeResBler_count

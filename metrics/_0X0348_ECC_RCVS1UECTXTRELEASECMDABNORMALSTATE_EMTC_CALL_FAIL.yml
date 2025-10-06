@@ -1,0 +1,6 @@
+unique_name: _0X0348_ECC_RCVS1UECTXTRELEASECMDABNORMALSTATE_EMTC_CALL_FAIL
+object_type: metric
+label: _0x0348_Ecc_RcvS1UECtxtReleaseCmdAbnormalState_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x0348_Ecc_RcvS1UECtxtReleaseCmdAbnormalState_count

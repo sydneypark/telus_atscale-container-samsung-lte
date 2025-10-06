@@ -1,0 +1,6 @@
+unique_name: INTERPLMNHOOUT_PREPSUCC_LTE_OUTGOING_INTRA_LTE_INTER_PLMN_IN
+object_type: metric
+label: InterPlmnHoOut_PrepSucc_count
+calculation_method: sum
+dataset: lte-outgoing-intra-lte-inter-plmn-and-intra-plmn-outgoing-hando
+column: InterPlmnHoOut_PrepSucc_count

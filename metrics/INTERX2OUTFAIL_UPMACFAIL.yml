@@ -1,0 +1,6 @@
+unique_name: INTERX2OUTFAIL_UPMACFAIL
+object_type: metric
+label: InterX2OutFail_UpMacFail_count
+calculation_method: sum
+dataset: lte-x2-out-handover
+column: InterX2OutFail_UpMacFail_count

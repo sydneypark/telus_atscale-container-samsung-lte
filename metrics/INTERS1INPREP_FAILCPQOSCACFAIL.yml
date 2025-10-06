@@ -1,0 +1,6 @@
+unique_name: INTERS1INPREP_FAILCPQOSCACFAIL
+object_type: metric
+label: InterS1InPrep_FailCpQosCacFail_count
+calculation_method: sum
+dataset: lte-s1-in-handover
+column: InterS1InPrep_FailCpQosCacFail_count

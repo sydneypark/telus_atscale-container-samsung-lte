@@ -1,0 +1,6 @@
+unique_name: CELEVEL_EMTC_ERABADDFAILNBR_UPGTPFAIL
+object_type: metric
+label: CELevel_eMTC_ErabAddFailNbr_UpGtpFail_count
+calculation_method: sum
+dataset: lte-emtc-e-rab-setup-add-and-call-drop-qci-per-ce-level
+column: CELevel_eMTC_ErabAddFailNbr_UpGtpFail_count

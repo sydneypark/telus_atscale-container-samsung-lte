@@ -1,0 +1,6 @@
+unique_name: S1CONNESTABFAIL_S1APLINKFAIL
+object_type: metric
+label: S1ConnEstabFail_S1apLinkFail_count
+calculation_method: sum
+dataset: lte-ue-associated-logical-s1-connection-establishment
+column: S1ConnEstabFail_S1apLinkFail_count

@@ -1,0 +1,310 @@
+unique_name: PLMN
+object_type: dimension
+label: PLMN
+is_degenerate: true
+hierarchies:
+- unique_name: PLMN Hierarchy
+  label: PLMN Hierarchy
+  levels:
+  - unique_name: PLMN
+level_attributes:
+- unique_name: PLMN
+  label: PLMN Level
+  shared_degenerate_columns:
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-accessibility-data-per-plmn-per-cell
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-air-mac-bytes-per-cc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-air-mac-packet-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-air-rlc-packet-per-plmn-per-en-dc-status
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-air-rlc-packet-per-plmn-per-en-dc-status-per-nrarfcn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-carrier-aggregation-pdcp-packet-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-carrier-aggregation-pdcp-packet-per-plmn-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-count-of-mrdc-capa-size-reduction-performed
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-csfb-preparation-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-e-rab-release-by-enb-per-plmn-per-cell-per-qci
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-e-rab-release-by-mme-per-plmn-per-cell-per-qci
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-e-rab-session-time-per-qci-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-e-rab-setup-modification-release-information-per-plmn-and-q
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-emtc-rrc-connection-number-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-en-dc-addition-information-for-initial-and-mobility
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-en-dc-e-rab-modification-indication-information
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-en-dc-split-bearer-release-information
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-idle-mobility-information-for-primary-carrier-change-for-ca
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-lte-inter-frequency-ho-to-the-home-network
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-mobility-data-per-plmn-per-cell
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-nb-iot-rrc-connection-number-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-outgoing-inter-frequency-handover-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-outgoing-intra-frequency-handover-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-pdcp-dl-throughput-distribution
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-pdcp-dl-throughput-distribution-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-pdcp-loss-drop-dl-ip-throughput-pdcp-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-pdcp-loss-drop-dl-ip-throughput-pdcp-per-plmn-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-pdcp-ul-throughput-distribution
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-pdcp-ul-throughput-distribution-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-primary-carrier-change-for-ca-information
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-protocol-message
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-rrc-connection-number-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-total-prb-usage-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-ue-ambr-override
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-ul-ip-throughput-per-plmn-and-lcg-id
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-uplink-ip-throughput-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-utran-out-ps-mobility-csfb-srvcc-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-volte-outgoing-inter-frequency-handover-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: lte-volte-outgoing-intra-frequency-handover-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: nr-drb-connection-information-of-redcap-ue-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: nr-eutra-measurement-pcis
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: nr-intra-frequency-pscell-change-with-cause-scg-mobility-per-gn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: nr-ncgi-report
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: nr-nr-handover-outgoing-to-e-utran-per-earfcn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: nr-nr-intra-inter-plmn-handover-outgoing-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: nr-pscell-change-refused-with-mcg-mobility-cause-or-message-not
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: nr-rrc-connection-information-of-redcap-ue-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: nr-security-algorithm-nia0-nea0-activation-result-with-global-i
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PLMN
+    key_columns:
+    - PLMN
+    dataset: nr-ue-associated-xnap-message-between-gnbs
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

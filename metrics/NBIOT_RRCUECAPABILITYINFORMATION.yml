@@ -1,0 +1,6 @@
+unique_name: NBIOT_RRCUECAPABILITYINFORMATION
+object_type: metric
+label: NBIoT_RrcUECapabilityInformation_count
+calculation_method: sum
+dataset: lte-nb-iot-rrc-message
+column: NBIoT_RrcUECapabilityInformation_count

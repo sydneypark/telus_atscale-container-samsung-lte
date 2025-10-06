@@ -1,0 +1,6 @@
+unique_name: ACBMMTELVOICE
+object_type: metric
+label: AcbMmtelVoice_count
+calculation_method: sum
+dataset: lte-access-class-barring-enhanced
+column: AcbMmtelVoice_count

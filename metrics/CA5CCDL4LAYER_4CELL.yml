@@ -1,0 +1,6 @@
+unique_name: CA5CCDL4LAYER_4CELL
+object_type: metric
+label: Ca5CcDl4Layer_4Cell_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-with-mimo
+column: Ca5CcDl4Layer_4Cell_count

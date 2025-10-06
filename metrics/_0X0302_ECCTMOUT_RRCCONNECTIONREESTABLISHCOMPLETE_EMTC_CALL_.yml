@@ -1,0 +1,6 @@
+unique_name: _0X0302_ECCTMOUT_RRCCONNECTIONREESTABLISHCOMPLETE_EMTC_CALL_
+object_type: metric
+label: _0x0302_EccTmout_RrcConnectionReestablishComplete_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x0302_EccTmout_RrcConnectionReestablishComplete_count

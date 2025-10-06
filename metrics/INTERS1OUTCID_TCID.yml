@@ -1,0 +1,6 @@
+unique_name: INTERS1OUTCID_TCID
+object_type: metric
+label: InterS1OutCid_tcID
+calculation_method: sum
+dataset: lte-s1-out-handover
+column: InterS1OutCid_tcID

@@ -1,0 +1,6 @@
+unique_name: SCELLDEACTIVATION_MISMATCH
+object_type: metric
+label: SCellDeactivation_Mismatch_count
+calculation_method: sum
+dataset: lte-activation-deactivation-for-inter-site-ca-using-non-ideal-b
+column: SCellDeactivation_Mismatch_count

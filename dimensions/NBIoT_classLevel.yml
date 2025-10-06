@@ -1,0 +1,118 @@
+unique_name: NBIoT_classLevel
+object_type: dimension
+label: NBIoT_classLevel
+is_degenerate: true
+hierarchies:
+- unique_name: NBIoT_classLevel Hierarchy
+  label: NBIoT_classLevel Hierarchy
+  levels:
+  - unique_name: NBIoT_classLevel
+level_attributes:
+- unique_name: NBIoT_classLevel
+  label: NBIoT_classLevel Level
+  shared_degenerate_columns:
+  - name_column: NBIoT_classLevel
+    key_columns:
+    - NBIoT_classLevel
+    dataset: lte-nb-iot-air-mac-ul-and-dl-failed-packets
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_classLevel
+    key_columns:
+    - NBIoT_classLevel
+    dataset: lte-nb-iot-air-mac-ul-and-dl-packets
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_classLevel
+    key_columns:
+    - NBIoT_classLevel
+    dataset: lte-nb-iot-backoff-value-report
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_classLevel
+    key_columns:
+    - NBIoT_classLevel
+    dataset: lte-nb-iot-call-drop-per-ce-level
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_classLevel
+    key_columns:
+    - NBIoT_classLevel
+    dataset: lte-nb-iot-call-fail-per-ce-level
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_classLevel
+    key_columns:
+    - NBIoT_classLevel
+    dataset: lte-nb-iot-context-release-by-mme-and-enb-per-cell-per-ce-level
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_classLevel
+    key_columns:
+    - NBIoT_classLevel
+    dataset: lte-nb-iot-npdsch-harq-transmission-times
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_classLevel
+    key_columns:
+    - NBIoT_classLevel
+    dataset: lte-nb-iot-npdsch-harq-transmission-times-for-multi-carrier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_classLevel
+    key_columns:
+    - NBIoT_classLevel
+    dataset: lte-nb-iot-nprach-transmission-time
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_classLevel
+    key_columns:
+    - NBIoT_classLevel
+    dataset: lte-nb-iot-npusch-harq-transmission-times
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_classLevel
+    key_columns:
+    - NBIoT_classLevel
+    dataset: lte-nb-iot-npusch-harq-transmission-times-for-multi-carrier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_classLevel
+    key_columns:
+    - NBIoT_classLevel
+    dataset: lte-nb-iot-rlf-detection-number-per-cell-and-ce-level
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_classLevel
+    key_columns:
+    - NBIoT_classLevel
+    dataset: lte-nb-iot-rrc-connection-establishment-per-ce-level
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_classLevel
+    key_columns:
+    - NBIoT_classLevel
+    dataset: lte-nb-iot-rrc-connection-release-per-ce-level
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_classLevel
+    key_columns:
+    - NBIoT_classLevel
+    dataset: lte-nb-iot-transmission-times-of-npdsch-and-npusch-per-mcs
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_classLevel
+    key_columns:
+    - NBIoT_classLevel
+    dataset: lte-nb-iot-ue-associated-logical-s1-connection-establishme-2
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_classLevel
+    key_columns:
+    - NBIoT_classLevel
+    dataset: lte-nb-iot-ul-throughput
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

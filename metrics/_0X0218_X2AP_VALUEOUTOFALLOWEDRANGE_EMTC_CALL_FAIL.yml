@@ -1,0 +1,6 @@
+unique_name: _0X0218_X2AP_VALUEOUTOFALLOWEDRANGE_EMTC_CALL_FAIL
+object_type: metric
+label: _0x0218_X2ap_ValueOutOfAllowedRange_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x0218_X2ap_ValueOutOfAllowedRange_count

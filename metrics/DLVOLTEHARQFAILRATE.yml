@@ -1,0 +1,6 @@
+unique_name: DLVOLTEHARQFAILRATE
+object_type: metric
+label: DLVoLTEHARQFailRate_pct
+calculation_method: sum
+dataset: lte-harq-performance-for-volte-bearer
+column: DLVoLTEHARQFailRate_pct

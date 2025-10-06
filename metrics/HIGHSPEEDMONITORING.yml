@@ -1,0 +1,6 @@
+unique_name: HIGHSPEEDMONITORING
+object_type: metric
+label: HighSpeedMonitoring_count
+calculation_method: sum
+dataset: lte-random-access-preambles
+column: HighSpeedMonitoring_count

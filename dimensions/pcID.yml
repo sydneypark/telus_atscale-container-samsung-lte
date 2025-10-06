@@ -1,0 +1,22 @@
+unique_name: pcID
+object_type: dimension
+label: pcID
+is_degenerate: true
+hierarchies:
+- unique_name: pcID Hierarchy
+  label: pcID Hierarchy
+  levels:
+  - unique_name: pcID
+level_attributes:
+- unique_name: pcID
+  label: pcID Level
+  shared_degenerate_columns:
+  - name_column: pcID
+    key_columns:
+    - pcID
+    dataset: lte-eicic-partnership
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

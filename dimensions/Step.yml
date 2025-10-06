@@ -1,0 +1,22 @@
+unique_name: Step
+object_type: dimension
+label: Step
+is_degenerate: true
+hierarchies:
+- unique_name: Step Hierarchy
+  label: Step Hierarchy
+  levels:
+  - unique_name: Step
+level_attributes:
+- unique_name: Step
+  label: Step Level
+  shared_degenerate_columns:
+  - name_column: Step
+    key_columns:
+    - Step
+    dataset: lte-load-balancing-handover
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

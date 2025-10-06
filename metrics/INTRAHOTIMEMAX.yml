@@ -1,0 +1,6 @@
+unique_name: INTRAHOTIMEMAX
+object_type: metric
+label: IntraHoTimeMax_ms
+calculation_method: sum
+dataset: lte-handover-time
+column: IntraHoTimeMax_ms

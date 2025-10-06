@@ -1,0 +1,6 @@
+unique_name: _0X0113_S1AP_REDUCELOADINSERVINGCELL_EMTC_CALL_FAIL
+object_type: metric
+label: _0x0113_S1ap_ReduceLoadInServingCell_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x0113_S1ap_ReduceLoadInServingCell_count

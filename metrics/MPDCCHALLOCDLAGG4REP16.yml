@@ -1,0 +1,6 @@
+unique_name: MPDCCHALLOCDLAGG4REP16
+object_type: metric
+label: MpdcchAllocDLAgg4Rep16_count
+calculation_method: sum
+dataset: lte-emtc-mpdcch-allocation
+column: MpdcchAllocDLAgg4Rep16_count

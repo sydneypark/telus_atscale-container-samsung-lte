@@ -1,0 +1,6 @@
+unique_name: _0X0352_ECC_X2SCTPOUTOFSERVICE
+object_type: metric
+label: _0x0352_Ecc_X2SctpOutOfService_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0352_Ecc_X2SctpOutOfService_count

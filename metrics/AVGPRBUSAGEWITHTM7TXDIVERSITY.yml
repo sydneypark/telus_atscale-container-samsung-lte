@@ -1,0 +1,6 @@
+unique_name: AVGPRBUSAGEWITHTM7TXDIVERSITY
+object_type: metric
+label: AvgPRBUsageWithTM7TxDiversity_pct
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-downlink-prb-usage-per-tti
+column: AvgPRBUsageWithTM7TxDiversity_pct

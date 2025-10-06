@@ -1,0 +1,6 @@
+unique_name: CELEVEL_NBIOT_CALLDROP_NCCBS1SCTPOUTOFSERVICE
+object_type: metric
+label: CELevel_NBIoT_CallDrop_NccbS1SctpOutOfService_count
+calculation_method: sum
+dataset: lte-nb-iot-call-drop-per-ce-level
+column: CELevel_NBIoT_CallDrop_NccbS1SctpOutOfService_count

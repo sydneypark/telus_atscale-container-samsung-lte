@@ -1,0 +1,6 @@
+unique_name: TXDEFERRED
+object_type: metric
+label: TxDeferred_count
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: TxDeferred_count

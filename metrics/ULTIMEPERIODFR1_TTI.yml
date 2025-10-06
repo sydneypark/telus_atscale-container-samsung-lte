@@ -1,0 +1,6 @@
+unique_name: ULTIMEPERIODFR1_TTI
+object_type: metric
+label: ULTimePeriodFr1_TTI
+calculation_method: sum
+dataset: lte-ul-ip-throughput-per-endc-status
+column: ULTimePeriodFr1_TTI

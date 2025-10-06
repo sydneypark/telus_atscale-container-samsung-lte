@@ -1,0 +1,6 @@
+unique_name: TOTDLMUMIMOUTILIZEDTTI_TTI
+object_type: metric
+label: TotDLMuMimoUtilizedTti_TTI
+calculation_method: sum
+dataset: lte-downlink-multi-user-mimo-statistics-for-massive-mimo
+column: TotDLMuMimoUtilizedTti_TTI

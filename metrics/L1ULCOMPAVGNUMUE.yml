@@ -1,0 +1,6 @@
+unique_name: L1ULCOMPAVGNUMUE
+object_type: metric
+label: L1ULCompAvgNumUE_count
+calculation_method: sum
+dataset: lte-lte-l1-ul-comp-usage
+column: L1ULCompAvgNumUE_count

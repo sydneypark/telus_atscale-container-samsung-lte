@@ -1,0 +1,6 @@
+unique_name: NBIOT_RRCCONNECTIONREESTABLISHMENTREQUEST
+object_type: metric
+label: NBIoT_RrcConnectionReestablishmentRequest_count
+calculation_method: sum
+dataset: lte-nb-iot-rrc-message
+column: NBIoT_RrcConnectionReestablishmentRequest_count

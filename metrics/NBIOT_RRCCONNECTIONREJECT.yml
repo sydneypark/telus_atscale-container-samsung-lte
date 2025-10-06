@@ -1,0 +1,6 @@
+unique_name: NBIOT_RRCCONNECTIONREJECT
+object_type: metric
+label: NBIoT_RrcConnectionReject_count
+calculation_method: sum
+dataset: lte-nb-iot-rrc-message
+column: NBIoT_RrcConnectionReject_count

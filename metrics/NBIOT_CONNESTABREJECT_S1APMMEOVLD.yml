@@ -1,0 +1,6 @@
+unique_name: NBIOT_CONNESTABREJECT_S1APMMEOVLD
+object_type: metric
+label: NBIoT_ConnEstabReject_S1apMmeOvld_count
+calculation_method: sum
+dataset: lte-nb-iot-rrc-connection-establishment
+column: NBIoT_ConnEstabReject_S1apMmeOvld_count

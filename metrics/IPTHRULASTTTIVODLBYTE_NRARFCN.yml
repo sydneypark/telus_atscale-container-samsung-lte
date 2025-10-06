@@ -1,0 +1,6 @@
+unique_name: IPTHRULASTTTIVODLBYTE_NRARFCN
+object_type: metric
+label: IpThruLastTtiVoDLByte_NrArfcn_Kbytes
+calculation_method: sum
+dataset: lte-air-rlc-packet-per-plmn-per-en-dc-status-per-nrarfcn
+column: IpThruLastTtiVoDLByte_NrArfcn_Kbytes

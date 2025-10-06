@@ -1,0 +1,6 @@
+unique_name: _0X010E_S1AP_UNKNOWNENBUES1APID
+object_type: metric
+label: _0x010E_S1ap_UnknownEnbUES1apId_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x010E_S1ap_UnknownEnbUES1apId_count

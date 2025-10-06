@@ -1,0 +1,6 @@
+unique_name: CSFBPSHOUTRANPREPSUCC
+object_type: metric
+label: CSFBPsHoUtranPrepSucc_count
+calculation_method: sum
+dataset: lte-csfb-ps-out-handover
+column: CSFBPsHoUtranPrepSucc_count

@@ -1,0 +1,6 @@
+unique_name: RATINFAILNR_RRCHCTO
+object_type: metric
+label: RatInFailNr_RrcHcTo_count
+calculation_method: sum
+dataset: lte-inter-rat-nr-incoming-handover
+column: RatInFailNr_RrcHcTo_count

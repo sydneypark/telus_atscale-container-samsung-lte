@@ -1,0 +1,6 @@
+unique_name: HOVOLTEFBOUTATT
+object_type: metric
+label: HOVoLTEFBOutAtt_count
+calculation_method: sum
+dataset: lte-volte-fallback-handover-statistics
+column: HOVoLTEFBOutAtt_count

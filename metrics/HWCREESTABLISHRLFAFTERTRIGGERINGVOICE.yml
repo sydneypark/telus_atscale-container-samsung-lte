@@ -1,0 +1,6 @@
+unique_name: HWCREESTABLISHRLFAFTERTRIGGERINGVOICE
+object_type: metric
+label: HwcReestablishRlfAfterTriggeringVoice_count
+calculation_method: sum
+dataset: lte-mro-rlf-voice-classification
+column: HwcReestablishRlfAfterTriggeringVoice_count

@@ -1,0 +1,6 @@
+unique_name: RRCESTABMSG_RRCCONNECTIONSETUP
+object_type: metric
+label: RrcEstabMsg_RrcConnectionSetup_count
+calculation_method: sum
+dataset: lte-rrc-connection-establishment-message
+column: RrcEstabMsg_RrcConnectionSetup_count

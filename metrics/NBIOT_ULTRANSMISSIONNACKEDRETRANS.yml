@@ -1,0 +1,6 @@
+unique_name: NBIOT_ULTRANSMISSIONNACKEDRETRANS
+object_type: metric
+label: NBIoT_ULTransmissionNackedRetrans_count
+calculation_method: sum
+dataset: lte-nb-iot-npusch-harq-transmission-times
+column: NBIoT_ULTransmissionNackedRetrans_count

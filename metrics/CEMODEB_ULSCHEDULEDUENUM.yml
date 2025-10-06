@@ -1,0 +1,6 @@
+unique_name: CEMODEB_ULSCHEDULEDUENUM
+object_type: metric
+label: CEModeB_ULScheduledUENum_count
+calculation_method: sum
+dataset: lte-emtc-scheduled-ue-number
+column: CEModeB_ULScheduledUENum_count

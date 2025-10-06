@@ -1,0 +1,6 @@
+unique_name: RATGERANINPREPFAIL_CPBHCACFAIL
+object_type: metric
+label: RatGeranInPrepFail_CpBhCacFail_count
+calculation_method: sum
+dataset: lte-ps-ho-from-geran
+column: RatGeranInPrepFail_CpBhCacFail_count

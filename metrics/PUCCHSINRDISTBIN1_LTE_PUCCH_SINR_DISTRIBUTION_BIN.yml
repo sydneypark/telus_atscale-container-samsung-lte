@@ -1,0 +1,6 @@
+unique_name: PUCCHSINRDISTBIN1_LTE_PUCCH_SINR_DISTRIBUTION_BIN
+object_type: metric
+label: PucchSinrDistBin1_count
+calculation_method: sum
+dataset: lte-pucch-sinr-distribution-per-bin
+column: PucchSinrDistBin1_count

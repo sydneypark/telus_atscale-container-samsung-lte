@@ -1,0 +1,6 @@
+unique_name: IPTHRUDLTIME
+object_type: metric
+label: IpThruDLTime_ms
+calculation_method: sum
+dataset: lte-air-rlc-packet-per-plmn-per-en-dc-status
+column: IpThruDLTime_ms

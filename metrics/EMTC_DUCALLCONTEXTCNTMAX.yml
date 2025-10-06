@@ -1,0 +1,6 @@
+unique_name: EMTC_DUCALLCONTEXTCNTMAX
+object_type: metric
+label: eMTC_DuCallContextCntMax_count
+calculation_method: sum
+dataset: lte-emtc-call-context-per-du
+column: eMTC_DuCallContextCntMax_count

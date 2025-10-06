@@ -1,0 +1,28 @@
+unique_name: SetupCause
+object_type: dimension
+label: SetupCause
+is_degenerate: true
+hierarchies:
+- unique_name: SetupCause Hierarchy
+  label: SetupCause Hierarchy
+  levels:
+  - unique_name: SetupCause
+level_attributes:
+- unique_name: SetupCause
+  label: SetupCause Level
+  shared_degenerate_columns:
+  - name_column: SetupCause
+    key_columns:
+    - SetupCause
+    dataset: nr-f1-ue-context-setup-in-gnb-cu
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SetupCause
+    key_columns:
+    - SetupCause
+    dataset: nr-f1-ue-context-setup-in-gnb-cu-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

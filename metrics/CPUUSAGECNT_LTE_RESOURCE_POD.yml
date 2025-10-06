@@ -1,0 +1,6 @@
+unique_name: CPUUSAGECNT_LTE_RESOURCE_POD
+object_type: metric
+label: CpuUsageCnt_count
+calculation_method: sum
+dataset: lte-resource-per-pod
+column: CpuUsageCnt_count

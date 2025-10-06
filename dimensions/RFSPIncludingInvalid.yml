@@ -1,0 +1,22 @@
+unique_name: RFSPIncludingInvalid
+object_type: dimension
+label: RFSPIncludingInvalid
+is_degenerate: true
+hierarchies:
+- unique_name: RFSPIncludingInvalid Hierarchy
+  label: RFSPIncludingInvalid Hierarchy
+  levels:
+  - unique_name: RFSPIncludingInvalid
+level_attributes:
+- unique_name: RFSPIncludingInvalid
+  label: RFSPIncludingInvalid Level
+  shared_degenerate_columns:
+  - name_column: RFSPIncludingInvalid
+    key_columns:
+    - RFSPIncludingInvalid
+    dataset: nr-upc-bearer-usage-bearer-count-ue-usage-and-ue-count-sta-1
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

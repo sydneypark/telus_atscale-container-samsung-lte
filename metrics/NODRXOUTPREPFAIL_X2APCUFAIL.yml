@@ -1,0 +1,6 @@
+unique_name: NODRXOUTPREPFAIL_X2APCUFAIL
+object_type: metric
+label: NoDrxOutPrepFail_X2apCuFail_count
+calculation_method: sum
+dataset: lte-outgoing-handover-without-drx
+column: NoDrxOutPrepFail_X2apCuFail_count

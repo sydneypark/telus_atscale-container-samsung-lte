@@ -1,0 +1,6 @@
+unique_name: VOLTES1HOTIMECNT
+object_type: metric
+label: VoLTES1HoTimeCnt_count
+calculation_method: sum
+dataset: lte-volte-handover-time
+column: VoLTES1HoTimeCnt_count

@@ -1,0 +1,6 @@
+unique_name: SOURCEULSINRAVG_DB
+object_type: metric
+label: SourceULSinrAvg_dB
+calculation_method: sum
+dataset: lte-incoming-ul-quality-based-handover
+column: SourceULSinrAvg_dB

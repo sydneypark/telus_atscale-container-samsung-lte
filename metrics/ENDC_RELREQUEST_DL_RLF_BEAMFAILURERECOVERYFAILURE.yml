@@ -1,0 +1,6 @@
+unique_name: ENDC_RELREQUEST_DL_RLF_BEAMFAILURERECOVERYFAILURE
+object_type: metric
+label: EnDc_RelRequest_DL_RLF_beamFailureRecoveryFailure_count
+calculation_method: sum
+dataset: lte-en-dc-release-information
+column: EnDc_RelRequest_DL_RLF_beamFailureRecoveryFailure_count

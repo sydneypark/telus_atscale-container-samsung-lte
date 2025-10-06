@@ -1,0 +1,6 @@
+unique_name: CALLDROP_ECCBS1SCTPOUTOFSERVICE
+object_type: metric
+label: CallDrop_EccbS1SctpOutOfService_count
+calculation_method: sum
+dataset: lte-call-drop
+column: CallDrop_EccbS1SctpOutOfService_count

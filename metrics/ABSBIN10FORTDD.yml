@@ -1,0 +1,6 @@
+unique_name: ABSBIN10FORTDD
+object_type: metric
+label: ABSBin10ForTdd_pct
+calculation_method: sum
+dataset: lte-eicic-abs-pattern-info
+column: ABSBin10ForTdd_pct

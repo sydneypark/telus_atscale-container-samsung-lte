@@ -1,0 +1,6 @@
+unique_name: LTETYPETOTUSEDPUSCHPRBULNUM
+object_type: metric
+label: LteTypeTotUsedPuschPrbULNum_count
+calculation_method: sum
+dataset: lte-ul-prb-usage-per-lte-type
+column: LteTypeTotUsedPuschPrbULNum_count

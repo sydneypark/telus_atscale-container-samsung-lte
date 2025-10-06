@@ -1,0 +1,6 @@
+unique_name: AIRMACDLBYTE_PCELL_LTE_MAC_COUNTER_INTERSITE_CA_USING_NONIDE
+object_type: metric
+label: AirMacDLByte_Pcell_Kbytes
+calculation_method: sum
+dataset: lte-mac-counter-for-intersite-ca-using-nonideal-backhaul
+column: AirMacDLByte_Pcell_Kbytes

@@ -1,0 +1,6 @@
+unique_name: DLRECEIVEDCQIMAX_CQI
+object_type: metric
+label: DLReceivedCQIMax_CQI
+calculation_method: sum
+dataset: lte-dl-wideband-cqi
+column: DLReceivedCQIMax_CQI

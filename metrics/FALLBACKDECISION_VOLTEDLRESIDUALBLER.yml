@@ -1,0 +1,6 @@
+unique_name: FALLBACKDECISION_VOLTEDLRESIDUALBLER
+object_type: metric
+label: FallbackDecision_VolteDlResidualBler_count
+calculation_method: sum
+dataset: lte-lbm-fallback
+column: FallbackDecision_VolteDlResidualBler_count

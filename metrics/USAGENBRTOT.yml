@@ -1,0 +1,6 @@
+unique_name: USAGENBRTOT
+object_type: metric
+label: UsageNbrTot_count
+calculation_method: sum
+dataset: lte-active-e-rab-number
+column: UsageNbrTot_count

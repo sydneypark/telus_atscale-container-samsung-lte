@@ -1,0 +1,6 @@
+unique_name: NBIOT_RELATTBYENBNBR_CPCCTO
+object_type: metric
+label: NBIoT_RelAttbyEnbNbr_CpCcTo_count
+calculation_method: sum
+dataset: lte-nb-iot-e-rab-release-request
+column: NBIoT_RelAttbyEnbNbr_CpCcTo_count

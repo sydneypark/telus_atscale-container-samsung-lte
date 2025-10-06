@@ -1,0 +1,6 @@
+unique_name: VOLTEDROPRATE
+object_type: metric
+label: VoLTEDropRate_pct
+calculation_method: sum
+dataset: lte-volte-quality
+column: VoLTEDropRate_pct

@@ -1,0 +1,6 @@
+unique_name: PLMN1ENBQCIDLBYTE
+object_type: metric
+label: PLMN1EnbQciDLByte_Kbytes
+calculation_method: sum
+dataset: lte-pdcp-packet-per-plmn
+column: PLMN1EnbQciDLByte_Kbytes

@@ -1,0 +1,6 @@
+unique_name: TOTDLSCHEDULEDTTI
+object_type: metric
+label: TotDLScheduledTti_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-downlink-tti-usage
+column: TotDLScheduledTti_count

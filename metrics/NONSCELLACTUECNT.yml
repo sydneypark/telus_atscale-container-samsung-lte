@@ -1,0 +1,6 @@
+unique_name: NONSCELLACTUECNT
+object_type: metric
+label: NonSCellActUECnt_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-message-count-for-activation-deactivati
+column: NonSCellActUECnt_count

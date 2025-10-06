@@ -1,0 +1,6 @@
+unique_name: INTRAENBINFAIL_UPGTPFAIL_EMTC_INTRA_ENB_HANDOVER
+object_type: metric
+label: IntraEnbInFail_UpGtpFail_count
+calculation_method: sum
+dataset: lte-emtc-intra-enb-in-handover
+column: IntraEnbInFail_UpGtpFail_count

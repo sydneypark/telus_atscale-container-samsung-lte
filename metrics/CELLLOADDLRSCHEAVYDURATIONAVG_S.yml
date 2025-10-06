@@ -1,0 +1,6 @@
+unique_name: CELLLOADDLRSCHEAVYDURATIONAVG_S
+object_type: metric
+label: cellLoadDLRscHeavyDurationAvg_s
+calculation_method: sum
+dataset: lte-cell-load-state
+column: cellLoadDLRscHeavyDurationAvg_s

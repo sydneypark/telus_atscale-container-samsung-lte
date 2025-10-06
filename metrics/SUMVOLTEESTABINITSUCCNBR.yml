@@ -1,0 +1,6 @@
+unique_name: SUMVOLTEESTABINITSUCCNBR
+object_type: metric
+label: SumVoLTEEstabInitSuccNbr_count
+calculation_method: sum
+dataset: lte-volte-quality
+column: SumVoLTEEstabInitSuccNbr_count

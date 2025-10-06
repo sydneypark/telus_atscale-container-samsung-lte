@@ -1,0 +1,6 @@
+unique_name: NBRDELBYCELLNOTAVAILABLE
+object_type: metric
+label: NbrDelByCellNotAvailable_count
+calculation_method: sum
+dataset: lte-addition-and-deletion-of-neighbor-relations
+column: NbrDelByCellNotAvailable_count

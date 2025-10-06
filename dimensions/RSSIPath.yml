@@ -1,0 +1,22 @@
+unique_name: RSSIPath
+object_type: dimension
+label: RSSIPath
+is_degenerate: true
+hierarchies:
+- unique_name: RSSIPath Hierarchy
+  label: RSSIPath Hierarchy
+  levels:
+  - unique_name: RSSIPath
+level_attributes:
+- unique_name: RSSIPath
+  label: RSSIPath Level
+  shared_degenerate_columns:
+  - name_column: RSSIPath
+    key_columns:
+    - RSSIPath
+    dataset: lte-rssi-of-each-path-measured-by-mac
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

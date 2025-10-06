@@ -1,0 +1,6 @@
+unique_name: EMTC_ESTABTIMECNT
+object_type: metric
+label: eMTC_EstabTimeCnt_count
+calculation_method: sum
+dataset: lte-emtc-e-rab-setup-time
+column: eMTC_EstabTimeCnt_count

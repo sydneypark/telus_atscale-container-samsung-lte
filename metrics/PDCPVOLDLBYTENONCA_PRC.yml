@@ -1,0 +1,6 @@
+unique_name: PDCPVOLDLBYTENONCA_PRC
+object_type: metric
+label: PdcpVolDLByteNonCa_Kbytes
+calculation_method: sum
+dataset: lte-carrier-aggregation-pdcp-packet-per-prc
+column: PdcpVolDLByteNonCa_Kbytes

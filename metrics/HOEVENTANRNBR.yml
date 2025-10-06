@@ -1,0 +1,6 @@
+unique_name: HOEVENTANRNBR
+object_type: metric
+label: HoEventAnrNbr_count
+calculation_method: sum
+dataset: lte-the-number-of-neighbor-relations
+column: HoEventAnrNbr_count

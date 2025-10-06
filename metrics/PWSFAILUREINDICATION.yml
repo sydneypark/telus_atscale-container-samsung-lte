@@ -1,0 +1,6 @@
+unique_name: PWSFAILUREINDICATION
+object_type: metric
+label: PwsFailureIndication_count
+calculation_method: sum
+dataset: lte-commercial-mobile-alert-system
+column: PwsFailureIndication_count

@@ -1,0 +1,6 @@
+unique_name: UECATEGORY10
+object_type: metric
+label: UECategory10_count
+calculation_method: sum
+dataset: lte-ue-category-per-cell
+column: UECategory10_count

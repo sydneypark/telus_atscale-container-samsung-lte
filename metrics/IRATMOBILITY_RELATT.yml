@@ -1,0 +1,6 @@
+unique_name: IRATMOBILITY_RELATT
+object_type: metric
+label: IratMobility_RelAtt_count
+calculation_method: sum
+dataset: lte-sgnb-release-due-to-mcg-mobility
+column: IratMobility_RelAtt_count

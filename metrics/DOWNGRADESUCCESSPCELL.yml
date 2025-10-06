@@ -1,0 +1,6 @@
+unique_name: DOWNGRADESUCCESSPCELL
+object_type: metric
+label: DowngradeSuccessPcell_count
+calculation_method: sum
+dataset: lte-ul-256qam-active
+column: DowngradeSuccessPcell_count

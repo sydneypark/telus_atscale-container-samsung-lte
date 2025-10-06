@@ -1,0 +1,6 @@
+unique_name: PLMN3QCIREJECT
+object_type: metric
+label: PLMN3QCIReject_count
+calculation_method: sum
+dataset: lte-e-rab-qci-per-plmn-rejected
+column: PLMN3QCIReject_count

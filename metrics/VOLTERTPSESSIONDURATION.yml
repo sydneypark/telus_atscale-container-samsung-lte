@@ -1,0 +1,6 @@
+unique_name: VOLTERTPSESSIONDURATION
+object_type: metric
+label: VoLTERTPSessionDuration_ms
+calculation_method: sum
+dataset: lte-volte-quality-defect
+column: VoLTERTPSessionDuration_ms

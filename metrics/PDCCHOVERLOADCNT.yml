@@ -1,0 +1,6 @@
+unique_name: PDCCHOVERLOADCNT
+object_type: metric
+label: PdcchOverloadCnt_count
+calculation_method: sum
+dataset: lte-load
+column: PdcchOverloadCnt_count

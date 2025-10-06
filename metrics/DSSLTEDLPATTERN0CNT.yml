@@ -1,0 +1,6 @@
+unique_name: DSSLTEDLPATTERN0CNT
+object_type: metric
+label: DssLteDLPattern0Cnt_count
+calculation_method: sum
+dataset: lte-dss-pattern-usage-related-information
+column: DssLteDLPattern0Cnt_count

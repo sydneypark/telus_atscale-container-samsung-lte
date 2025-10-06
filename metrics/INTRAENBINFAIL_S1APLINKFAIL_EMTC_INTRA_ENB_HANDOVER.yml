@@ -1,0 +1,6 @@
+unique_name: INTRAENBINFAIL_S1APLINKFAIL_EMTC_INTRA_ENB_HANDOVER
+object_type: metric
+label: IntraEnbInFail_S1apLinkFail_count
+calculation_method: sum
+dataset: lte-emtc-intra-enb-in-handover
+column: IntraEnbInFail_S1apLinkFail_count

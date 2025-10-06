@@ -1,0 +1,6 @@
+unique_name: HISTOGRAMRQANR_CID_TARGETNRARFCNDL
+object_type: metric
+label: HistogramRqaNr_Cid_TargetNRArfcnDl
+calculation_method: sum
+dataset: lte-histogram-rqa-nr
+column: HistogramRqaNr_Cid_TargetNRArfcnDl

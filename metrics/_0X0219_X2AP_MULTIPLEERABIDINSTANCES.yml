@@ -1,0 +1,6 @@
+unique_name: _0X0219_X2AP_MULTIPLEERABIDINSTANCES
+object_type: metric
+label: _0x0219_X2ap_MultipleErabIdInstances_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0219_X2ap_MultipleErabIdInstances_count

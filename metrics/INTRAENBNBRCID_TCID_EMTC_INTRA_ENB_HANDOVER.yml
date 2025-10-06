@@ -1,0 +1,6 @@
+unique_name: INTRAENBNBRCID_TCID_EMTC_INTRA_ENB_HANDOVER
+object_type: metric
+label: IntraEnbNbrCid_tcID
+calculation_method: sum
+dataset: lte-emtc-intra-enb-handover
+column: IntraEnbNbrCid_tcID

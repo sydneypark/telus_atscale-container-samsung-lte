@@ -1,0 +1,28 @@
+unique_name: ResumeCause
+object_type: dimension
+label: ResumeCause
+is_degenerate: true
+hierarchies:
+- unique_name: ResumeCause Hierarchy
+  label: ResumeCause Hierarchy
+  levels:
+  - unique_name: ResumeCause
+level_attributes:
+- unique_name: ResumeCause
+  label: ResumeCause Level
+  shared_degenerate_columns:
+  - name_column: ResumeCause
+    key_columns:
+    - ResumeCause
+    dataset: lte-rrc-connection-resume-for-emtc-ue
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ResumeCause
+    key_columns:
+    - ResumeCause
+    dataset: nr-rrc-inactive-state-information-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

@@ -1,0 +1,6 @@
+unique_name: SPSACTUEAVG
+object_type: metric
+label: SpsActUeAvg_count
+calculation_method: sum
+dataset: lte-semi-persistent-scheduling-in-mac
+column: SpsActUeAvg_count

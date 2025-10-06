@@ -1,0 +1,6 @@
+unique_name: _0X010C_S1AP_NORADIORESOURCESAVAILABLEINTARGETCELL_NB_IOT_CA_1
+object_type: metric
+label: _0x010C_S1ap_NoRadioResourcesAvailableInTargetCell_count
+calculation_method: sum
+dataset: lte-nb-iot-call-fail-per-ce-level
+column: _0x010C_S1ap_NoRadioResourcesAvailableInTargetCell_count

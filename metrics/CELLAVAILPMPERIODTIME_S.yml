@@ -1,0 +1,6 @@
+unique_name: CELLAVAILPMPERIODTIME_S
+object_type: metric
+label: CellAvailPmPeriodTime_s
+calculation_method: sum
+dataset: lte-availability
+column: CellAvailPmPeriodTime_s

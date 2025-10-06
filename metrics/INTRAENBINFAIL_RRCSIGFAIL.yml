@@ -1,0 +1,6 @@
+unique_name: INTRAENBINFAIL_RRCSIGFAIL
+object_type: metric
+label: IntraEnbInFail_RrcSigFail_count
+calculation_method: sum
+dataset: lte-intra-enb-in-handover
+column: IntraEnbInFail_RrcSigFail_count

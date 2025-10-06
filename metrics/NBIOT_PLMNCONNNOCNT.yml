@@ -1,0 +1,6 @@
+unique_name: NBIOT_PLMNCONNNOCNT
+object_type: metric
+label: NBIoT_PLMNConnNoCnt_count
+calculation_method: sum
+dataset: lte-nb-iot-rrc-connection-number-per-plmn
+column: NBIoT_PLMNConnNoCnt_count

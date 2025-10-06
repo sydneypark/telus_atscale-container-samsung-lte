@@ -1,0 +1,6 @@
+unique_name: ONDEMANDHOS1INSUCC
+object_type: metric
+label: OnDemandHoS1InSucc_count
+calculation_method: sum
+dataset: lte-ondemand-handover-s1-in
+column: OnDemandHoS1InSucc_count

@@ -1,0 +1,6 @@
+unique_name: UPMHOPREPSUCCESS
+object_type: metric
+label: UpmHoPrepSuccess_count
+calculation_method: sum
+dataset: lte-upm-rlf-classification
+column: UpmHoPrepSuccess_count

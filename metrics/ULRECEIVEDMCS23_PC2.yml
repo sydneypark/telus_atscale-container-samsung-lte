@@ -1,0 +1,6 @@
+unique_name: ULRECEIVEDMCS23_PC2
+object_type: metric
+label: ULReceivedMcs23_PC2_count
+calculation_method: sum
+dataset: lte-ul-mcs-for-power-class-2-ue
+column: ULReceivedMcs23_PC2_count

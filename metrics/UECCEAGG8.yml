@@ -1,0 +1,6 @@
+unique_name: UECCEAGG8
+object_type: metric
+label: UECceAgg8_count
+calculation_method: sum
+dataset: lte-pdcch-usage-information
+column: UECceAgg8_count

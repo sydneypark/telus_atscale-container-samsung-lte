@@ -1,0 +1,6 @@
+unique_name: DRXOUTFAIL_X2APROTO
+object_type: metric
+label: DrxOutFail_X2apRoTo_count
+calculation_method: sum
+dataset: lte-outgoing-handover-with-drx
+column: DrxOutFail_X2apRoTo_count

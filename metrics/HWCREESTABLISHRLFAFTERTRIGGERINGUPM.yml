@@ -1,0 +1,6 @@
+unique_name: HWCREESTABLISHRLFAFTERTRIGGERINGUPM
+object_type: metric
+label: HwcReestablishRlfAfterTriggeringUpm_count
+calculation_method: sum
+dataset: lte-upm-rlf-classification
+column: HwcReestablishRlfAfterTriggeringUpm_count

@@ -1,0 +1,6 @@
+unique_name: AIRMACDLBYTE7CC
+object_type: metric
+label: AirMacDLByte7CC_Kbytes
+calculation_method: sum
+dataset: lte-air-mac-bytes-per-cc
+column: AirMacDLByte7CC_Kbytes

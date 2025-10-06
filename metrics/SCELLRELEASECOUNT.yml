@@ -1,0 +1,6 @@
+unique_name: SCELLRELEASECOUNT
+object_type: metric
+label: SCellReleaseCount_count
+calculation_method: sum
+dataset: lte-rrc-connection-reconfiguration
+column: SCellReleaseCount_count

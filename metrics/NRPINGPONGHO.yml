@@ -1,0 +1,6 @@
+unique_name: NRPINGPONGHO
+object_type: metric
+label: NrPingpongHo_count
+calculation_method: sum
+dataset: lte-inter-rat-mro-for-nr
+column: NrPingpongHo_count

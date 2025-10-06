@@ -1,0 +1,6 @@
+unique_name: TXUNDERRUNBADCRC
+object_type: metric
+label: TxUnderrunBadCrc_count
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: TxUnderrunBadCrc_count

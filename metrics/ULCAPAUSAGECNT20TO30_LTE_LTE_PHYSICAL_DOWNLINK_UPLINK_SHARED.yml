@@ -1,0 +1,6 @@
+unique_name: ULCAPAUSAGECNT20TO30_LTE_LTE_PHYSICAL_DOWNLINK_UPLINK_SHARED
+object_type: metric
+label: ULCapaUsageCnt20to30_count
+calculation_method: sum
+dataset: lte-lte-physical-downlink-uplink-shared-channel-capacity-usage
+column: ULCapaUsageCnt20to30_count

@@ -1,0 +1,6 @@
+unique_name: SCELLADDATT_ADDSBCREDUCEDRRCSIG
+object_type: metric
+label: SCellAddAtt_AddSbcReducedRrcSig_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-message-count-for-addition-release
+column: SCellAddAtt_AddSbcReducedRrcSig_count

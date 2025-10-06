@@ -1,0 +1,6 @@
+unique_name: _0X0203_X2AP_REDUCELOADINSERVINGCELL
+object_type: metric
+label: _0x0203_X2ap_ReduceLoadInServingCell_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0203_X2ap_ReduceLoadInServingCell_count

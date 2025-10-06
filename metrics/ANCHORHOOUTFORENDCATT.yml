@@ -1,0 +1,6 @@
+unique_name: ANCHORHOOUTFORENDCATT
+object_type: metric
+label: AnchorHoOutforEnDcAtt_count
+calculation_method: sum
+dataset: lte-anchor-selection-for-en-dc
+column: AnchorHoOutforEnDcAtt_count

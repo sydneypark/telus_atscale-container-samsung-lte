@@ -1,0 +1,6 @@
+unique_name: PDCPIPTHROUGHPUTDLNONCA
+object_type: metric
+label: PdcpIpThroughputDLNonCa_Kbps
+calculation_method: sum
+dataset: lte-carrier-aggregation-pdcp-packet
+column: PdcpIpThroughputDLNonCa_Kbps

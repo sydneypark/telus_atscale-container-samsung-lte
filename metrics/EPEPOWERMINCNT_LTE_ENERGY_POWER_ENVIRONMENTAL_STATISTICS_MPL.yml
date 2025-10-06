@@ -1,0 +1,6 @@
+unique_name: EPEPOWERMINCNT_LTE_ENERGY_POWER_ENVIRONMENTAL_STATISTICS_MPL
+object_type: metric
+label: EpePowerMinCnt_count
+calculation_method: sum
+dataset: lte-energy-power-and-environmental-statistics-of-mplane
+column: EpePowerMinCnt_count

@@ -1,0 +1,6 @@
+unique_name: RELEASE5GCALLHOLDINGTIMECNT
+object_type: metric
+label: Release5GCallHoldingTimeCnt_count
+calculation_method: sum
+dataset: lte-5g-capable-rrc-connection-number
+column: Release5GCallHoldingTimeCnt_count

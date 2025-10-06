@@ -1,0 +1,6 @@
+unique_name: NBIOT_ERASEATT
+object_type: metric
+label: NBIoT_EraseAtt_count
+calculation_method: sum
+dataset: lte-nb-iot-e-rab-erase
+column: NBIoT_EraseAtt_count

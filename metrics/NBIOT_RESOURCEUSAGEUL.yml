@@ -1,0 +1,6 @@
+unique_name: NBIOT_RESOURCEUSAGEUL
+object_type: metric
+label: NBIoT_ResourceUsageUL_pct
+calculation_method: sum
+dataset: lte-nb-iot-ul-and-dl-total-subcarriers-usage
+column: NBIoT_ResourceUsageUL_pct

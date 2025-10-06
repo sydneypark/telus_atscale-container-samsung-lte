@@ -1,0 +1,6 @@
+unique_name: NBIOT_DLRESIDUALBLERRETRANS3
+object_type: metric
+label: NBIoT_DLResidualBlerRetrans3_pct
+calculation_method: sum
+dataset: lte-nb-iot-npdsch-harq-transmission-times
+column: NBIoT_DLResidualBlerRetrans3_pct

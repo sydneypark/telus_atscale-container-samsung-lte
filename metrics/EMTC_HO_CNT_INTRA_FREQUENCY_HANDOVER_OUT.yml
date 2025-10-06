@@ -1,0 +1,6 @@
+unique_name: EMTC_HO_CNT_INTRA_FREQUENCY_HANDOVER_OUT
+object_type: metric
+label: eMTC_HO_Cnt_count
+calculation_method: sum
+dataset: lte-emtc-intra-frequency-handover-out
+column: eMTC_HO_Cnt_count

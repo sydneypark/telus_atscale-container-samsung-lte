@@ -1,0 +1,6 @@
+unique_name: INTRAFA_INTRAENBSUCC
+object_type: metric
+label: IntraFa_IntraEnbSucc_count
+calculation_method: sum
+dataset: lte-intra-enb-intra-fa-handover
+column: IntraFa_IntraEnbSucc_count

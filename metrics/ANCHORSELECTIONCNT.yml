@@ -1,0 +1,6 @@
+unique_name: ANCHORSELECTIONCNT
+object_type: metric
+label: AnchorSelectionCnt_count
+calculation_method: sum
+dataset: lte-anchor-selection-for-en-dc
+column: AnchorSelectionCnt_count

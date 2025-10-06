@@ -1,0 +1,6 @@
+unique_name: RELABNORMALBYMMEACTQCI_RADIOCONNECTIONWITHUELOST
+object_type: metric
+label: RelAbnormalbyMmeActQci_RadioConnectionWithUELost_count
+calculation_method: sum
+dataset: lte-e-rab-release-by-mme-per-cell-per-qci
+column: RelAbnormalbyMmeActQci_RadioConnectionWithUELost_count

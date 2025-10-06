@@ -1,0 +1,6 @@
+unique_name: TOTULTTI_TTI_COMP_JOINT_RECEPTION
+object_type: metric
+label: TotULTti_TTI
+calculation_method: sum
+dataset: lte-uplink-comp-joint-reception
+column: TotULTti_TTI

@@ -1,0 +1,22 @@
+unique_name: ULLayer
+object_type: dimension
+label: ULLayer
+is_degenerate: true
+hierarchies:
+- unique_name: ULLayer Hierarchy
+  label: ULLayer Hierarchy
+  levels:
+  - unique_name: ULLayer
+level_attributes:
+- unique_name: ULLayer
+  label: ULLayer Level
+  shared_degenerate_columns:
+  - name_column: ULLayer
+    key_columns:
+    - ULLayer
+    dataset: lte-ul-massive-mimo-statistics-for-per-prb-layer-distribution
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

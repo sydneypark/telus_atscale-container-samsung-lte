@@ -1,0 +1,6 @@
+unique_name: ACBBYRRCRATE
+object_type: metric
+label: AcbByRrcRate_count
+calculation_method: sum
+dataset: lte-access-class-barring-enhanced
+column: AcbByRrcRate_count

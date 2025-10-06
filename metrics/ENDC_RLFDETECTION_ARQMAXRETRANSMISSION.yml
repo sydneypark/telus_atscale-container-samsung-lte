@@ -1,0 +1,6 @@
+unique_name: ENDC_RLFDETECTION_ARQMAXRETRANSMISSION
+object_type: metric
+label: EnDc_RlfDetection_ArqMaxReTransmission_count
+calculation_method: sum
+dataset: lte-rlf-detection-number-per-cell
+column: EnDc_RlfDetection_ArqMaxReTransmission_count

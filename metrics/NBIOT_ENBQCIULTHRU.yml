@@ -1,0 +1,6 @@
+unique_name: NBIOT_ENBQCIULTHRU
+object_type: metric
+label: NBIoT_EnbQciULThru_Kbps
+calculation_method: sum
+dataset: lte-nb-iot-pdcp-packet
+column: NBIoT_EnbQciULThru_Kbps

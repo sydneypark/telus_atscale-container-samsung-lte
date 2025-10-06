@@ -1,0 +1,6 @@
+unique_name: CEMODEA_PDSCHREPETITION32
+object_type: metric
+label: CEModeA_PDSCHRepetition32_count
+calculation_method: sum
+dataset: lte-emtc-pdsch-repetition
+column: CEModeA_PDSCHRepetition32_count

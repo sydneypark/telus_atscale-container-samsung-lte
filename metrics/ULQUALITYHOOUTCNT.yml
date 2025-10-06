@@ -1,0 +1,6 @@
+unique_name: ULQUALITYHOOUTCNT
+object_type: metric
+label: ULQualityHoOutCnt_count
+calculation_method: sum
+dataset: lte-outgoing-ul-quality-based-handover
+column: ULQualityHoOutCnt_count

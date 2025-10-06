@@ -1,0 +1,6 @@
+unique_name: SOURCECELLTAOUTGOINGHANDOVERAVG_TA
+object_type: metric
+label: SourceCellTAOutgoingHandoverAvg_TA
+calculation_method: sum
+dataset: lte-ta-information-of-the-source-cell-when-performing-incoming-
+column: SourceCellTAOutgoingHandoverAvg_TA

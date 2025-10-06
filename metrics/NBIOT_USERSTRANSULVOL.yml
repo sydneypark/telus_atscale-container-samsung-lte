@@ -1,0 +1,6 @@
+unique_name: NBIOT_USERSTRANSULVOL
+object_type: metric
+label: NBIoT_UsersTransULVol_Kbytes
+calculation_method: sum
+dataset: lte-nb-iot-ul-throughput
+column: NBIoT_UsersTransULVol_Kbytes

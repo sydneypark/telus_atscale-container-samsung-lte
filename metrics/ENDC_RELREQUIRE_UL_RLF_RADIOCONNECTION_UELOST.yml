@@ -1,0 +1,6 @@
+unique_name: ENDC_RELREQUIRE_UL_RLF_RADIOCONNECTION_UELOST
+object_type: metric
+label: EnDc_RelRequire_UL_RLF_RadioConnection_UeLost_count
+calculation_method: sum
+dataset: lte-en-dc-release-information
+column: EnDc_RelRequire_UL_RLF_RadioConnection_UeLost_count

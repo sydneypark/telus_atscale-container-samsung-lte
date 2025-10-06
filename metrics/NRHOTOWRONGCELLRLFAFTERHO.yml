@@ -1,0 +1,6 @@
+unique_name: NRHOTOWRONGCELLRLFAFTERHO
+object_type: metric
+label: NrHoToWrongCellRlfAfterHo_count
+calculation_method: sum
+dataset: lte-inter-rat-mro-for-nr
+column: NrHoToWrongCellRlfAfterHo_count

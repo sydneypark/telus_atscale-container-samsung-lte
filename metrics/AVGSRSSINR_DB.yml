@@ -1,0 +1,6 @@
+unique_name: AVGSRSSINR_DB
+object_type: metric
+label: AvgSrsSinr_dB
+calculation_method: sum
+dataset: lte-srs-sinr-distribution
+column: AvgSrsSinr_dB

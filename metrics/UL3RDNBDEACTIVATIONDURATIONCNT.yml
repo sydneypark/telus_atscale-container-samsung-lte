@@ -1,0 +1,6 @@
+unique_name: UL3RDNBDEACTIVATIONDURATIONCNT
+object_type: metric
+label: UL3rdNBDeactivationDurationCnt_count
+calculation_method: sum
+dataset: lte-emtc-nb-state
+column: UL3rdNBDeactivationDurationCnt_count

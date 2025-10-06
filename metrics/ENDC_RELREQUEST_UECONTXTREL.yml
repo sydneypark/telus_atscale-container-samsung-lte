@@ -1,0 +1,6 @@
+unique_name: ENDC_RELREQUEST_UECONTXTREL
+object_type: metric
+label: EnDc_RelRequest_UeContxtRel_count
+calculation_method: sum
+dataset: lte-en-dc-release-information
+column: EnDc_RelRequest_UeContxtRel_count

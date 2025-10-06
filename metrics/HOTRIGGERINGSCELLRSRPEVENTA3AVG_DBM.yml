@@ -1,0 +1,6 @@
+unique_name: HOTRIGGERINGSCELLRSRPEVENTA3AVG_DBM
+object_type: metric
+label: HoTriggeringScellRsrpEventA3Avg_dBm
+calculation_method: sum
+dataset: lte-measurement-results-of-source-cell
+column: HoTriggeringScellRsrpEventA3Avg_dBm

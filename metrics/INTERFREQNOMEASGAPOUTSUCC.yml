@@ -1,0 +1,6 @@
+unique_name: INTERFREQNOMEASGAPOUTSUCC
+object_type: metric
+label: InterFreqNoMeasGapOutSucc_count
+calculation_method: sum
+dataset: lte-outgoing-inter-frequency-handover-without-measurement-gap
+column: InterFreqNoMeasGapOutSucc_count

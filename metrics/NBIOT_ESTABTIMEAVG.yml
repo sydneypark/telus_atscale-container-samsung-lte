@@ -1,0 +1,6 @@
+unique_name: NBIOT_ESTABTIMEAVG
+object_type: metric
+label: NBIoT_EstabTimeAvg_ms
+calculation_method: sum
+dataset: lte-nb-iot-e-rab-setup-time
+column: NBIoT_EstabTimeAvg_ms

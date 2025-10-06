@@ -1,0 +1,6 @@
+unique_name: PDSCHBLERMCS0TOT
+object_type: metric
+label: PdschBlerMcs0Tot_count
+calculation_method: sum
+dataset: lte-mcs
+column: PdschBlerMcs0Tot_count

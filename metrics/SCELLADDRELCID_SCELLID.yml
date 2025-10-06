@@ -1,0 +1,6 @@
+unique_name: SCELLADDRELCID_SCELLID
+object_type: metric
+label: SCellAddRelCid_ScellID
+calculation_method: sum
+dataset: lte-carrier-aggregation-message-count-for-addition-release
+column: SCellAddRelCid_ScellID

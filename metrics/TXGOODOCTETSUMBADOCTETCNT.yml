@@ -1,0 +1,6 @@
+unique_name: TXGOODOCTETSUMBADOCTETCNT
+object_type: metric
+label: TxGoodOctetSumBadOctetCnt_count
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: TxGoodOctetSumBadOctetCnt_count

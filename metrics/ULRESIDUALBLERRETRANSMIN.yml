@@ -1,0 +1,6 @@
+unique_name: ULRESIDUALBLERRETRANSMIN
+object_type: metric
+label: ULResidualBlerRetransMin_count
+calculation_method: sum
+dataset: lte-uplink-harq-transmission-bler
+column: ULResidualBlerRetransMin_count

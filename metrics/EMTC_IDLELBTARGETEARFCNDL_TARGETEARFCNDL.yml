@@ -1,0 +1,6 @@
+unique_name: EMTC_IDLELBTARGETEARFCNDL_TARGETEARFCNDL
+object_type: metric
+label: eMTC_IdleLbTargetEarfcnDL_TargetEarfcnDl
+calculation_method: sum
+dataset: lte-emtc-idle-load-balancing
+column: eMTC_IdleLbTargetEarfcnDL_TargetEarfcnDl

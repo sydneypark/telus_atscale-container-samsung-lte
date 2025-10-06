@@ -1,0 +1,6 @@
+unique_name: CSFBGERANCCOSUCC
+object_type: metric
+label: CSFBGeranCcoSucc_count
+calculation_method: sum
+dataset: lte-csfb-geran-cco
+column: CSFBGeranCcoSucc_count

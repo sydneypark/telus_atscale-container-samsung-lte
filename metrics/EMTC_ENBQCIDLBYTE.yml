@@ -1,0 +1,6 @@
+unique_name: EMTC_ENBQCIDLBYTE
+object_type: metric
+label: eMTC_EnbQciDLByte_Kbytes
+calculation_method: sum
+dataset: lte-emtc-pdcp-packet
+column: eMTC_EnbQciDLByte_Kbytes

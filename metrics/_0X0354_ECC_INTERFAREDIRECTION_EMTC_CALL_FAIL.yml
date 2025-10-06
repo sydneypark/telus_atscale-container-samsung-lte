@@ -1,0 +1,6 @@
+unique_name: _0X0354_ECC_INTERFAREDIRECTION_EMTC_CALL_FAIL
+object_type: metric
+label: _0x0354_Ecc_InterFaRedirection_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x0354_Ecc_InterFaRedirection_count

@@ -1,0 +1,6 @@
+unique_name: TOOEARLYHOFAILURE
+object_type: metric
+label: TooEarlyHoFailure_count
+calculation_method: sum
+dataset: lte-mro-rlf-classification
+column: TooEarlyHoFailure_count

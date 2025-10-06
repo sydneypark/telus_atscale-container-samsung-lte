@@ -1,0 +1,52 @@
+unique_name: DC
+object_type: dimension
+label: DC
+is_degenerate: true
+hierarchies:
+- unique_name: DC Hierarchy
+  label: DC Hierarchy
+  levels:
+  - unique_name: DC
+level_attributes:
+- unique_name: DC
+  label: DC Level
+  shared_degenerate_columns:
+  - name_column: DC
+    key_columns:
+    - DC
+    dataset: nr-cu-initiated-f1-ue-context-modification-in-gnb-cu
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DC
+    key_columns:
+    - DC
+    dataset: nr-cu-initiated-f1-ue-context-modification-in-gnb-cu-with-du-id
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DC
+    key_columns:
+    - DC
+    dataset: nr-cu-initiated-f1-ue-context-modification-in-gnb-du
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DC
+    key_columns:
+    - DC
+    dataset: nr-f1-ue-context-setup-in-gnb-cu
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DC
+    key_columns:
+    - DC
+    dataset: nr-f1-ue-context-setup-in-gnb-cu-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DC
+    key_columns:
+    - DC
+    dataset: nr-f1-ue-context-setup-in-gnb-du
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

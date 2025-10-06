@@ -1,0 +1,6 @@
+unique_name: NBIOT_PREAMBLES
+object_type: metric
+label: NBIoT_Preambles_count
+calculation_method: sum
+dataset: lte-nb-iot-nprach-transmission-time
+column: NBIoT_Preambles_count

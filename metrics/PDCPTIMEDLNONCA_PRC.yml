@@ -1,0 +1,6 @@
+unique_name: PDCPTIMEDLNONCA_PRC
+object_type: metric
+label: PdcpTimeDLNonCa_ms
+calculation_method: sum
+dataset: lte-carrier-aggregation-pdcp-packet-per-prc
+column: PdcpTimeDLNonCa_ms

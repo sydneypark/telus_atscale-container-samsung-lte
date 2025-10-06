@@ -1,0 +1,6 @@
+unique_name: INTERFERENCEPOWERPRBPATHTOT_DBM
+object_type: metric
+label: InterferencePowerPrbPathTot_dBm
+calculation_method: sum
+dataset: lte-interference-power-per-prb-per-path
+column: InterferencePowerPrbPathTot_dBm

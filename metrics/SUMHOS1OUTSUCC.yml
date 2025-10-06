@@ -1,0 +1,6 @@
+unique_name: SUMHOS1OUTSUCC
+object_type: metric
+label: SumHoS1OutSucc_count
+calculation_method: sum
+dataset: lte-mobility
+column: SumHoS1OutSucc_count

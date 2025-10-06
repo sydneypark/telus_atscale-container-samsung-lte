@@ -1,0 +1,6 @@
+unique_name: MEMUSAGEMAX
+object_type: metric
+label: MemUsageMax_pct
+calculation_method: sum
+dataset: lte-resource
+column: MemUsageMax_pct

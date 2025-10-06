@@ -1,0 +1,6 @@
+unique_name: RELABNORMALBYMMEQCI_OMINTERVENTION
+object_type: metric
+label: RelAbnormalbyMmeQci_OmIntervention_count
+calculation_method: sum
+dataset: lte-e-rab-release-by-mme-per-cell-per-qci
+column: RelAbnormalbyMmeQci_OmIntervention_count

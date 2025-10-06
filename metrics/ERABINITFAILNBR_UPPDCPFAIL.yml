@@ -1,0 +1,6 @@
+unique_name: ERABINITFAILNBR_UPPDCPFAIL
+object_type: metric
+label: ErabInitFailNbr_UpPdcpFail_count
+calculation_method: sum
+dataset: lte-e-rab-setup
+column: ErabInitFailNbr_UpPdcpFail_count

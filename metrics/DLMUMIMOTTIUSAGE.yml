@@ -1,0 +1,6 @@
+unique_name: DLMUMIMOTTIUSAGE
+object_type: metric
+label: DLMuMimoTtiUsage_pct
+calculation_method: sum
+dataset: lte-downlink-multi-user-mimo-statistics-for-massive-mimo
+column: DLMuMimoTtiUsage_pct

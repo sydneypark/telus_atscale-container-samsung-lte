@@ -1,0 +1,6 @@
+unique_name: CONNESTABATT_LTE_RRC_CONNECTION_ESTABLISHMENT
+object_type: metric
+label: ConnEstabAtt_count
+calculation_method: sum
+dataset: lte-rrc-connection-establishment
+column: ConnEstabAtt_count

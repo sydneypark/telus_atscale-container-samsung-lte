@@ -1,0 +1,6 @@
+unique_name: THRUGTPULENBIRATCDMA2000HRPDS1FWCNT_S_PRC
+object_type: metric
+label: ThruGtpULEnbIRatCdma2000HrpdS1FwCnt_s
+calculation_method: sum
+dataset: lte-gtp-forward-traffic-per-prc
+column: ThruGtpULEnbIRatCdma2000HrpdS1FwCnt_s

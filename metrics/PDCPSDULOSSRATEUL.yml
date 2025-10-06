@@ -1,0 +1,6 @@
+unique_name: PDCPSDULOSSRATEUL
+object_type: metric
+label: PdcpSduLossRateUL_ppm
+calculation_method: sum
+dataset: lte-packet-loss-rate
+column: PdcpSduLossRateUL_ppm

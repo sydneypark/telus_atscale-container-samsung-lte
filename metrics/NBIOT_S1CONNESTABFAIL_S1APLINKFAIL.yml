@@ -1,0 +1,6 @@
+unique_name: NBIOT_S1CONNESTABFAIL_S1APLINKFAIL
+object_type: metric
+label: NBIoT_S1ConnEstabFail_S1apLinkFail_count
+calculation_method: sum
+dataset: lte-nb-iot-ue-associated-logical-s1-connection-establishme-1
+column: NBIoT_S1ConnEstabFail_S1apLinkFail_count

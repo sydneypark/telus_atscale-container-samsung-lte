@@ -1,0 +1,6 @@
+unique_name: DUPOWERAVG_W_LTE_DU_POWER_CONSUMPTION
+object_type: metric
+label: DuPowerAvg_W
+calculation_method: sum
+dataset: lte-du-power-consumption
+column: DuPowerAvg_W

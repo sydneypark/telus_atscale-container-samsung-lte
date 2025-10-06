@@ -1,0 +1,6 @@
+unique_name: DL_RLF_RLC_MAXNUMRETX
+object_type: metric
+label: DL_RLF_rlc_MaxNumRetx_count
+calculation_method: sum
+dataset: lte-en-dc-radiolinkfailureinformation
+column: DL_RLF_rlc_MaxNumRetx_count

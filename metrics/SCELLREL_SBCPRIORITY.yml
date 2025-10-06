@@ -1,0 +1,6 @@
+unique_name: SCELLREL_SBCPRIORITY
+object_type: metric
+label: SCellRel_SbcPriority_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-message-count-for-addition-release
+column: SCellRel_SbcPriority_count

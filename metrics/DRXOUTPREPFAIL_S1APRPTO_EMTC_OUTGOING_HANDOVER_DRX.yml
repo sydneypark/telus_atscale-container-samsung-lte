@@ -1,0 +1,6 @@
+unique_name: DRXOUTPREPFAIL_S1APRPTO_EMTC_OUTGOING_HANDOVER_DRX
+object_type: metric
+label: DrxOutPrepFail_S1apRpTo_count
+calculation_method: sum
+dataset: lte-emtc-outgoing-handover-with-drx
+column: DrxOutPrepFail_S1apRpTo_count

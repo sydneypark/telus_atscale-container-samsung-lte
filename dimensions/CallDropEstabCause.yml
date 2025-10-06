@@ -1,0 +1,28 @@
+unique_name: CallDropEstabCause
+object_type: dimension
+label: CallDropEstabCause
+is_degenerate: true
+hierarchies:
+- unique_name: CallDropEstabCause Hierarchy
+  label: CallDropEstabCause Hierarchy
+  levels:
+  - unique_name: CallDropEstabCause
+level_attributes:
+- unique_name: CallDropEstabCause
+  label: CallDropEstabCause Level
+  shared_degenerate_columns:
+  - name_column: CallDropEstabCause
+    key_columns:
+    - CallDropEstabCause
+    dataset: lte-call-drop
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CallDropEstabCause
+    key_columns:
+    - CallDropEstabCause
+    dataset: lte-emtc-call-drop
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

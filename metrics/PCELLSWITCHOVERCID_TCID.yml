@@ -1,0 +1,6 @@
+unique_name: PCELLSWITCHOVERCID_TCID
+object_type: metric
+label: PcellSwitchOverCid_tcID
+calculation_method: sum
+dataset: lte-pcell-frequency-switch-over
+column: PcellSwitchOverCid_tcID

@@ -1,0 +1,6 @@
+unique_name: EMTC_CONNRESUMEFAIL_RRCSIGTO
+object_type: metric
+label: eMTC_ConnResumeFail_RrcSigTo_count
+calculation_method: sum
+dataset: lte-rrc-connection-resume-for-emtc-ue
+column: eMTC_ConnResumeFail_RrcSigTo_count

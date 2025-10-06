@@ -1,0 +1,6 @@
+unique_name: DLCAPAUSAGECNT90TO100_LTE_LTE_PHYSICAL_DOWNLINK_UPLINK_SHARE
+object_type: metric
+label: DLCapaUsageCnt90to100_count
+calculation_method: sum
+dataset: lte-lte-physical-downlink-uplink-shared-channel-capacity-usage
+column: DLCapaUsageCnt90to100_count

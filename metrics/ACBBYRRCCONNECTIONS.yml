@@ -1,0 +1,6 @@
+unique_name: ACBBYRRCCONNECTIONS
+object_type: metric
+label: AcbByRrcConnections_count
+calculation_method: sum
+dataset: lte-access-class-barring-enhanced
+column: AcbByRrcConnections_count

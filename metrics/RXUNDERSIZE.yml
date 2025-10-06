@@ -1,0 +1,6 @@
+unique_name: RXUNDERSIZE
+object_type: metric
+label: RxUndersize_count
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: RxUndersize_count

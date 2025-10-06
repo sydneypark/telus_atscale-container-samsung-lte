@@ -1,0 +1,6 @@
+unique_name: CSFBPSHOGERANPREPFAIL_S1APSIGFAIL
+object_type: metric
+label: CSFBPsHoGeranPrepFail_S1apSigFail_count
+calculation_method: sum
+dataset: lte-csfb-psho-to-geran
+column: CSFBPsHoGeranPrepFail_S1apSigFail_count

@@ -1,0 +1,22 @@
+unique_name: TargetFrequencyType
+object_type: dimension
+label: TargetFrequencyType
+is_degenerate: true
+hierarchies:
+- unique_name: TargetFrequencyType Hierarchy
+  label: TargetFrequencyType Hierarchy
+  levels:
+  - unique_name: TargetFrequencyType
+level_attributes:
+- unique_name: TargetFrequencyType
+  label: TargetFrequencyType Level
+  shared_degenerate_columns:
+  - name_column: TargetFrequencyType
+    key_columns:
+    - TargetFrequencyType
+    dataset: nr-ncgi-report
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

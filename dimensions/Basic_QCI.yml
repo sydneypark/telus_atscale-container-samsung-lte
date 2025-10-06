@@ -1,0 +1,28 @@
+unique_name: Basic_QCI
+object_type: dimension
+label: Basic_QCI
+is_degenerate: true
+hierarchies:
+- unique_name: Basic_QCI Hierarchy
+  label: Basic_QCI Hierarchy
+  levels:
+  - unique_name: Basic_QCI
+level_attributes:
+- unique_name: Basic_QCI
+  label: Basic_QCI Level
+  shared_degenerate_columns:
+  - name_column: Basic_QCI
+    key_columns:
+    - Basic_QCI
+    dataset: lte-emtc-e-rab-setup-add-and-call-drop-qci-per-ce-level
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: Basic_QCI
+    key_columns:
+    - Basic_QCI
+    dataset: lte-the-number-of-active-e-rab-configured-with-ulonlyrohc
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

@@ -1,0 +1,6 @@
+unique_name: AVAILPRBDLNUM
+object_type: metric
+label: AvailPrbDLNum_count
+calculation_method: sum
+dataset: lte-prb-usage-for-category-1-ues
+column: AvailPrbDLNum_count

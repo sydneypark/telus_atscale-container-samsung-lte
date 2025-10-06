@@ -1,0 +1,6 @@
+unique_name: IPTHRUTOT
+object_type: metric
+label: IpThruTot_Kbps
+calculation_method: sum
+dataset: lte-air-rlc-packet
+column: IpThruTot_Kbps

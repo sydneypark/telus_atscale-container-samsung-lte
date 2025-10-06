@@ -1,0 +1,6 @@
+unique_name: DISKUSAGELTETOT
+object_type: metric
+label: DiskUsageLTETot_pct
+calculation_method: sum
+dataset: lte-disk-usage-in-lte
+column: DiskUsageLTETot_pct

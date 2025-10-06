@@ -1,0 +1,6 @@
+unique_name: _0X0215_X2AP_CAUSERADIONETWORKUNSPECIFIED
+object_type: metric
+label: _0x0215_X2ap_CauseRadioNetworkUnspecified_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0215_X2ap_CauseRadioNetworkUnspecified_count

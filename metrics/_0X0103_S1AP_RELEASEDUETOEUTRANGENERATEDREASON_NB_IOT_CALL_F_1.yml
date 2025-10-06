@@ -1,0 +1,6 @@
+unique_name: _0X0103_S1AP_RELEASEDUETOEUTRANGENERATEDREASON_NB_IOT_CALL_F_1
+object_type: metric
+label: _0x0103_S1ap_ReleaseDueToEutranGeneratedReason_count
+calculation_method: sum
+dataset: lte-nb-iot-call-fail-per-ce-level
+column: _0x0103_S1ap_ReleaseDueToEutranGeneratedReason_count

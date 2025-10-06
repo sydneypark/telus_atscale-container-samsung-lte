@@ -1,0 +1,6 @@
+unique_name: DUCURRENTMAX_A_LTE_DU_POWER_CONSUMPTION
+object_type: metric
+label: DuCurrentMax_A
+calculation_method: sum
+dataset: lte-du-power-consumption
+column: DuCurrentMax_A

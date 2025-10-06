@@ -1,0 +1,6 @@
+unique_name: A3EVENT
+object_type: metric
+label: A3Event_count
+calculation_method: sum
+dataset: lte-measurement-report
+column: A3Event_count

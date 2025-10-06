@@ -1,0 +1,6 @@
+unique_name: PLMNCONNNOTOT
+object_type: metric
+label: PLMNConnNoTot_count
+calculation_method: sum
+dataset: lte-rrc-connection-number-per-plmn
+column: PLMNConnNoTot_count

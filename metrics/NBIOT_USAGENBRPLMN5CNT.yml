@@ -1,0 +1,6 @@
+unique_name: NBIOT_USAGENBRPLMN5CNT
+object_type: metric
+label: NBIoT_UsageNbrPLMN5Cnt_count
+calculation_method: sum
+dataset: lte-nb-iot-active-e-rab-number-per-plmn
+column: NBIoT_UsageNbrPLMN5Cnt_count

@@ -1,0 +1,6 @@
+unique_name: MPDCCHALLOCATIONFAILDLAVG
+object_type: metric
+label: MpdcchAllocationFailDLAvg_pct
+calculation_method: sum
+dataset: lte-emtc-mpdcch-allocation
+column: MpdcchAllocationFailDLAvg_pct

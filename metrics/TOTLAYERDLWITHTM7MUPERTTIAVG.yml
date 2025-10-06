@@ -1,0 +1,6 @@
+unique_name: TOTLAYERDLWITHTM7MUPERTTIAVG
+object_type: metric
+label: TotLayerDLWithTM7MUPerTTIAvg_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-downlink-layer-usage
+column: TotLayerDLWithTM7MUPerTTIAvg_count

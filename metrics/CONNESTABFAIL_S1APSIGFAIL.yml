@@ -1,0 +1,6 @@
+unique_name: CONNESTABFAIL_S1APSIGFAIL
+object_type: metric
+label: ConnEstabFail_S1apSigFail_count
+calculation_method: sum
+dataset: lte-rrc-connection-establishment
+column: ConnEstabFail_S1apSigFail_count

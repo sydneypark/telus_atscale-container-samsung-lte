@@ -1,0 +1,6 @@
+unique_name: RXBROADCASTPACKET
+object_type: metric
+label: RxBroadcastPacket_count
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: RxBroadcastPacket_count

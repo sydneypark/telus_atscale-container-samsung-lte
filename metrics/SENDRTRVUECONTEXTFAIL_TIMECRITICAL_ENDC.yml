@@ -1,0 +1,6 @@
+unique_name: SENDRTRVUECONTEXTFAIL_TIMECRITICAL_ENDC
+object_type: metric
+label: SendRtrvUeContextFail_TimeCritical_Endc_count
+calculation_method: sum
+dataset: lte-ue-context-retrieval-out
+column: SendRtrvUeContextFail_TimeCritical_Endc_count

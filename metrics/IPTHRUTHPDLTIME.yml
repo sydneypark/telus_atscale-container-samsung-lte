@@ -1,0 +1,6 @@
+unique_name: IPTHRUTHPDLTIME
+object_type: metric
+label: IpThruThpDLTime_ms
+calculation_method: sum
+dataset: lte-air-rlc-packet
+column: IpThruThpDLTime_ms

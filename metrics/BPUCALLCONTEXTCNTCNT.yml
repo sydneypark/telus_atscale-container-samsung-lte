@@ -1,0 +1,6 @@
+unique_name: BPUCALLCONTEXTCNTCNT
+object_type: metric
+label: BpuCallContextCntCnt_count
+calculation_method: sum
+dataset: lte-lte-call-context-per-bpu
+column: BpuCallContextCntCnt_count

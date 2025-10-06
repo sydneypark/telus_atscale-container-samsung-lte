@@ -1,0 +1,6 @@
+unique_name: SENDRTRVUECONTEXTFAIL_UNSPECIFIED
+object_type: metric
+label: SendRtrvUeContextFail_Unspecified_count
+calculation_method: sum
+dataset: lte-ue-context-retrieval-out
+column: SendRtrvUeContextFail_Unspecified_count

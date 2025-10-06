@@ -1,0 +1,6 @@
+unique_name: SUMACTIVEUEDL
+object_type: metric
+label: SumActiveUEDL_count
+calculation_method: sum
+dataset: lte-active-ue-number
+column: SumActiveUEDL_count

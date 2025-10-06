@@ -1,0 +1,6 @@
+unique_name: TOTDLSCHEDULEDTTIWITHTM7SU
+object_type: metric
+label: TotDLScheduledTTIWithTM7SU_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-downlink-layer-usage
+column: TotDLScheduledTTIWithTM7SU_count

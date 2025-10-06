@@ -1,0 +1,6 @@
+unique_name: DLMAXRBLIMITTTIS
+object_type: metric
+label: DLMaxRBLimitTTIs_count
+calculation_method: sum
+dataset: lte-maximum-rb-limit-in-lte-downlink
+column: DLMaxRBLimitTTIs_count

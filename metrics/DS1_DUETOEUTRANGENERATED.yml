@@ -1,0 +1,6 @@
+unique_name: DS1_DUETOEUTRANGENERATED
+object_type: metric
+label: DS1_DueToEutranGenerated_count
+calculation_method: sum
+dataset: lte-ue-context-release-by-double-s1
+column: DS1_DueToEutranGenerated_count

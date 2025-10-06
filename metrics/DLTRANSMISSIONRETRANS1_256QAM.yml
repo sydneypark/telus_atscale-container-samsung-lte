@@ -1,0 +1,6 @@
+unique_name: DLTRANSMISSIONRETRANS1_256QAM
+object_type: metric
+label: DLTransmissionRetrans1_256QAM_count
+calculation_method: sum
+dataset: lte-downlink-harq-transmission-bler-in-256qam-supported-ue
+column: DLTransmissionRetrans1_256QAM_count

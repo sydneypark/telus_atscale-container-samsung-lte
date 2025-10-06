@@ -1,0 +1,6 @@
+unique_name: MLBDURATIONAVG_S
+object_type: metric
+label: MlbDurationAvg_s
+calculation_method: sum
+dataset: lte-load
+column: MlbDurationAvg_s

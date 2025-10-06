@@ -1,0 +1,6 @@
+unique_name: PCELLUEPERBPUCNT
+object_type: metric
+label: PCellUEPerBpuCnt_count
+calculation_method: sum
+dataset: lte-ca-ue-per-bpu
+column: PCellUEPerBpuCnt_count

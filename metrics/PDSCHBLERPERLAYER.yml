@@ -1,0 +1,6 @@
+unique_name: PDSCHBLERPERLAYER
+object_type: metric
+label: PdschBlerPerLayer_pct
+calculation_method: sum
+dataset: lte-mimo
+column: PdschBlerPerLayer_pct

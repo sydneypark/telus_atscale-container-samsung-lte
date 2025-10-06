@@ -1,0 +1,6 @@
+unique_name: EMTC_CONNESTABTIMETOT
+object_type: metric
+label: eMTC_ConnEstabTimeTot_ms
+calculation_method: sum
+dataset: lte-emtc-rrc-connection-setup-time
+column: eMTC_ConnEstabTimeTot_ms

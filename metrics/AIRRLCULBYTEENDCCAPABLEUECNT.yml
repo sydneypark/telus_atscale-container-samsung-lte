@@ -1,0 +1,6 @@
+unique_name: AIRRLCULBYTEENDCCAPABLEUECNT
+object_type: metric
+label: AirRlcULByteEndcCapableUeCnt_count
+calculation_method: sum
+dataset: lte-air-rlc-packet-for-en-dc-capable-ues
+column: AirRlcULByteEndcCapableUeCnt_count

@@ -1,0 +1,6 @@
+unique_name: IRATNRMROCNT
+object_type: metric
+label: IratNrMroCnt_count
+calculation_method: sum
+dataset: lte-inter-rat-mro-for-nr
+column: IratNrMroCnt_count

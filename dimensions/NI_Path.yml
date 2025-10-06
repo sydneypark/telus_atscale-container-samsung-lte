@@ -1,0 +1,28 @@
+unique_name: NI_Path
+object_type: dimension
+label: NI_Path
+is_degenerate: true
+hierarchies:
+- unique_name: NI_Path Hierarchy
+  label: NI_Path Hierarchy
+  levels:
+  - unique_name: NI_Path
+level_attributes:
+- unique_name: NI_Path
+  label: NI_Path Level
+  shared_degenerate_columns:
+  - name_column: NI_Path
+    key_columns:
+    - NI_Path
+    dataset: lte-interference-power-per-prb-per-path
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NI_Path
+    key_columns:
+    - NI_Path
+    dataset: nr-interference-power-per-prb-per-path-nr
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

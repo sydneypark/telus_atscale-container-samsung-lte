@@ -1,0 +1,6 @@
+unique_name: X2HOTIMECNT_EMTC_HANDOVER_TIME
+object_type: metric
+label: X2HoTimeCnt_count
+calculation_method: sum
+dataset: lte-emtc-handover-time
+column: X2HoTimeCnt_count

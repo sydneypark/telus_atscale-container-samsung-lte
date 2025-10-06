@@ -1,0 +1,6 @@
+unique_name: ERABADDFAILNBR_CPBHCACFAIL
+object_type: metric
+label: ErabAddFailNbr_CpBhCacFail_count
+calculation_method: sum
+dataset: lte-e-rab-setup-add
+column: ErabAddFailNbr_CpBhCacFail_count

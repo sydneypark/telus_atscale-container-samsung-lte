@@ -1,0 +1,6 @@
+unique_name: EMTC_EDRX_ATTPAGING
+object_type: metric
+label: eMTC_eDRX_AttPaging_count
+calculation_method: sum
+dataset: lte-edrx-paging
+column: eMTC_eDRX_AttPaging_count

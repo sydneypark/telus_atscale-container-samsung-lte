@@ -1,0 +1,6 @@
+unique_name: SCELLACTFAILMAXCELLPAIR_ONSECONDARYDU
+object_type: metric
+label: SCellActFailMaxCellPair_onSecondaryDU_count
+calculation_method: sum
+dataset: lte-supplementary-counters-for-d-cran-inter-site-scell-activati
+column: SCellActFailMaxCellPair_onSecondaryDU_count

@@ -1,0 +1,6 @@
+unique_name: RACHREPORTSRCVNUM
+object_type: metric
+label: RACHReportsRcvNum_count
+calculation_method: sum
+dataset: lte-rach-usage
+column: RACHReportsRcvNum_count

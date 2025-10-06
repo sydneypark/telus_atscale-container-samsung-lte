@@ -1,0 +1,6 @@
+unique_name: RRCDLINFORMATIONTRANSFER
+object_type: metric
+label: RrcDLInformationTransfer_count
+calculation_method: sum
+dataset: lte-rrc-message-per-cell
+column: RrcDLInformationTransfer_count

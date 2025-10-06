@@ -1,0 +1,6 @@
+unique_name: ABSBIN9FORTDDUSEDCNT
+object_type: metric
+label: ABSBin9ForTddUsedCnt_count
+calculation_method: sum
+dataset: lte-eicic-abs-pattern-info
+column: ABSBin9ForTddUsedCnt_count

@@ -1,0 +1,6 @@
+unique_name: ULMUMIMOPAIREDUEPERTTI
+object_type: metric
+label: ULMuMimoPairedUEperTti_count
+calculation_method: sum
+dataset: lte-uplink-multi-user-mimo
+column: ULMuMimoPairedUEperTti_count

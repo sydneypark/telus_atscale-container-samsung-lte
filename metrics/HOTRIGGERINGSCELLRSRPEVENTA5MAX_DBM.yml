@@ -1,0 +1,6 @@
+unique_name: HOTRIGGERINGSCELLRSRPEVENTA5MAX_DBM
+object_type: metric
+label: HoTriggeringScellRsrpEventA5Max_dBm
+calculation_method: sum
+dataset: lte-measurement-results-of-source-cell
+column: HoTriggeringScellRsrpEventA5Max_dBm

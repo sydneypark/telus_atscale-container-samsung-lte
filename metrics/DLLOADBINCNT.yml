@@ -1,0 +1,6 @@
+unique_name: DLLOADBINCNT
+object_type: metric
+label: DLLoadBinCnt_count
+calculation_method: sum
+dataset: lte-load-histogram
+column: DLLoadBinCnt_count

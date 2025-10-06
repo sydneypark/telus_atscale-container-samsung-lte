@@ -1,0 +1,6 @@
+unique_name: CSFBPSHOGERANATT
+object_type: metric
+label: CSFBPsHoGeranAtt_count
+calculation_method: sum
+dataset: lte-csfb-psho-to-geran
+column: CSFBPsHoGeranAtt_count

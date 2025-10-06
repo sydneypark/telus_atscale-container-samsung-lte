@@ -1,0 +1,6 @@
+unique_name: INTRACELLATT
+object_type: metric
+label: IntraCellAtt_count
+calculation_method: sum
+dataset: lte-intra-cell-handover
+column: IntraCellAtt_count

@@ -1,0 +1,6 @@
+version: 1.2
+unique_name: samsung_lte
+object_type: catalog
+label: samsung_lte
+aggressive_agg_promotion: false
+build_speculative_aggs: false

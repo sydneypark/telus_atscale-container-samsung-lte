@@ -1,0 +1,6 @@
+unique_name: ANCHORSELECTIONCID_TCID
+object_type: metric
+label: AnchorSelectionCid_tcID
+calculation_method: sum
+dataset: lte-anchor-selection-for-en-dc
+column: AnchorSelectionCid_tcID

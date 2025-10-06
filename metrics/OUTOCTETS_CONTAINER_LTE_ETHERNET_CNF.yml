@@ -1,0 +1,6 @@
+unique_name: OUTOCTETS_CONTAINER_LTE_ETHERNET_CNF
+object_type: metric
+label: OutOctets_Container_Mbytes
+calculation_method: sum
+dataset: lte-ethernet-packet-for-cnf
+column: OutOctets_Container_Mbytes

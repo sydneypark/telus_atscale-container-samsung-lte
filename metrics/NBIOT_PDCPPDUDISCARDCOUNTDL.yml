@@ -1,0 +1,6 @@
+unique_name: NBIOT_PDCPPDUDISCARDCOUNTDL
+object_type: metric
+label: NBIoT_PdcpPduDiscardCountDL_count
+calculation_method: sum
+dataset: lte-nb-iot-rlc-packet-drop-rate
+column: NBIoT_PdcpPduDiscardCountDL_count

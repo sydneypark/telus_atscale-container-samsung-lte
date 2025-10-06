@@ -1,0 +1,6 @@
+unique_name: AIRRLCULTHRUTOT
+object_type: metric
+label: AirRlcULThruTot_Kbps
+calculation_method: sum
+dataset: lte-air-rlc-packet
+column: AirRlcULThruTot_Kbps

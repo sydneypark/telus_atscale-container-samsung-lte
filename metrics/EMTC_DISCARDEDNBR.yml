@@ -1,0 +1,6 @@
+unique_name: EMTC_DISCARDEDNBR
+object_type: metric
+label: eMTC_DiscardedNbr_count
+calculation_method: sum
+dataset: lte-emtc-paging-discarded
+column: eMTC_DiscardedNbr_count

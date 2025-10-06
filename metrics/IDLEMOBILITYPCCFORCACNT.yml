@@ -1,0 +1,6 @@
+unique_name: IDLEMOBILITYPCCFORCACNT
+object_type: metric
+label: IdleMobilityPccForCACnt_count
+calculation_method: sum
+dataset: lte-idle-mobility-information-for-primary-carrier-change-for-ca
+column: IdleMobilityPccForCACnt_count

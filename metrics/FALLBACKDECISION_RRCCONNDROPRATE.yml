@@ -1,0 +1,6 @@
+unique_name: FALLBACKDECISION_RRCCONNDROPRATE
+object_type: metric
+label: FallbackDecision_RrcConnDropRate_count
+calculation_method: sum
+dataset: lte-lbm-fallback
+column: FallbackDecision_RrcConnDropRate_count

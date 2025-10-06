@@ -1,0 +1,112 @@
+unique_name: TargetEarfcnDl
+object_type: dimension
+label: TargetEarfcnDl
+is_degenerate: true
+hierarchies:
+- unique_name: TargetEarfcnDl Hierarchy
+  label: TargetEarfcnDl Hierarchy
+  levels:
+  - unique_name: TargetEarfcnDl
+level_attributes:
+- unique_name: TargetEarfcnDl
+  label: TargetEarfcnDl Level
+  shared_degenerate_columns:
+  - name_column: TargetEarfcnDl
+    key_columns:
+    - TargetEarfcnDl
+    dataset: lte-discard-mrs-by-handover-threshold
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetEarfcnDl
+    key_columns:
+    - TargetEarfcnDl
+    dataset: lte-emtc-idle-load-balancing
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetEarfcnDl
+    key_columns:
+    - TargetEarfcnDl
+    dataset: lte-en-dc-idle-load-balancing
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetEarfcnDl
+    key_columns:
+    - TargetEarfcnDl
+    dataset: lte-eutran-redirection-out
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetEarfcnDl
+    key_columns:
+    - TargetEarfcnDl
+    dataset: lte-forced-handover-for-voice-congestion-avoid
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetEarfcnDl
+    key_columns:
+    - TargetEarfcnDl
+    dataset: lte-histogram-of-rsrp-and-rsrq-for-rqa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetEarfcnDl
+    key_columns:
+    - TargetEarfcnDl
+    dataset: lte-idle-load-balancing
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetEarfcnDl
+    key_columns:
+    - TargetEarfcnDl
+    dataset: lte-idle-mobility-information-for-primary-carrier-change-for-ca
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetEarfcnDl
+    key_columns:
+    - TargetEarfcnDl
+    dataset: lte-outgoing-inter-frequency-handover-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetEarfcnDl
+    key_columns:
+    - TargetEarfcnDl
+    dataset: lte-outgoing-inter-frequency-handover-with-measurement-gap
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetEarfcnDl
+    key_columns:
+    - TargetEarfcnDl
+    dataset: lte-outgoing-inter-frequency-handover-without-measurement-gap
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetEarfcnDl
+    key_columns:
+    - TargetEarfcnDl
+    dataset: lte-preemption-handover
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetEarfcnDl
+    key_columns:
+    - TargetEarfcnDl
+    dataset: lte-preemption-handover-per-e-rab
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetEarfcnDl
+    key_columns:
+    - TargetEarfcnDl
+    dataset: lte-primary-carrier-change-for-ca-information
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetEarfcnDl
+    key_columns:
+    - TargetEarfcnDl
+    dataset: lte-redirection-by-cac
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TargetEarfcnDl
+    key_columns:
+    - TargetEarfcnDl
+    dataset: lte-volte-outgoing-inter-frequency-handover-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

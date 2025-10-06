@@ -1,0 +1,6 @@
+unique_name: RRCSECURITYMODECOMMAND
+object_type: metric
+label: RrcSecurityModeCommand_count
+calculation_method: sum
+dataset: lte-rrc-message-per-cell
+column: RrcSecurityModeCommand_count

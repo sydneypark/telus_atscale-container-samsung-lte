@@ -1,0 +1,28 @@
+unique_name: TgtEUTRANCellIdentity
+object_type: dimension
+label: TgtEUTRANCellIdentity
+is_degenerate: true
+hierarchies:
+- unique_name: TgtEUTRANCellIdentity Hierarchy
+  label: TgtEUTRANCellIdentity Hierarchy
+  levels:
+  - unique_name: TgtEUTRANCellIdentity
+level_attributes:
+- unique_name: TgtEUTRANCellIdentity
+  label: TgtEUTRANCellIdentity Level
+  shared_degenerate_columns:
+  - name_column: TgtEUTRANCellIdentity
+    key_columns:
+    - TgtEUTRANCellIdentity
+    dataset: nr-nr-handover-outgoing-to-e-utran-for-fallback
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TgtEUTRANCellIdentity
+    key_columns:
+    - TgtEUTRANCellIdentity
+    dataset: nr-nr-handover-outgoing-to-e-utran-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

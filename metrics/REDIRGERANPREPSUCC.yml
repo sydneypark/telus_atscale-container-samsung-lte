@@ -1,0 +1,6 @@
+unique_name: REDIRGERANPREPSUCC
+object_type: metric
+label: RedirGeranPrepSucc_count
+calculation_method: sum
+dataset: lte-geran-redirection
+column: RedirGeranPrepSucc_count

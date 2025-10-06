@@ -1,0 +1,6 @@
+unique_name: PDCPDLTHRUBIN9
+object_type: metric
+label: PdcpDLThruBin9_count
+calculation_method: sum
+dataset: lte-pdcp-dl-throughput-distribution
+column: PdcpDLThruBin9_count

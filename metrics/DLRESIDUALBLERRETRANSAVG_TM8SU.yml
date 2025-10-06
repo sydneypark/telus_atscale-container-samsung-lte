@@ -1,0 +1,6 @@
+unique_name: DLRESIDUALBLERRETRANSAVG_TM8SU
+object_type: metric
+label: DLResidualBlerRetransAvg_TM8SU_pct
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-tm8-downlink-harq-transmission-
+column: DLResidualBlerRetransAvg_TM8SU_pct

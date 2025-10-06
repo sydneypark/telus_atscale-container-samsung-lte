@@ -1,0 +1,6 @@
+unique_name: NBIOT_PDCPTIMEDL
+object_type: metric
+label: NBIoT_PdcpTimeDl_ms
+calculation_method: sum
+dataset: lte-nb-iot-pdcp-packet
+column: NBIoT_PdcpTimeDl_ms

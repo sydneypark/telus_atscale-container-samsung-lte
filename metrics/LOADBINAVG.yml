@@ -1,0 +1,6 @@
+unique_name: LOADBINAVG
+object_type: metric
+label: LoadBinAvg_pct
+calculation_method: sum
+dataset: lte-load-histogram
+column: LoadBinAvg_pct

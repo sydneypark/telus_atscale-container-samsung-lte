@@ -1,0 +1,6 @@
+unique_name: DLMIMOTXPATHOFFMODETIME_S
+object_type: metric
+label: DLMimoTxPathOffModeTime_s
+calculation_method: sum
+dataset: lte-energy-saving-time-by-dl-mimo-tx-branch-off
+column: DLMimoTxPathOffModeTime_s

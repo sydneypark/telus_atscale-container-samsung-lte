@@ -1,0 +1,6 @@
+unique_name: NBIOT_NPDSCHREPETITION256
+object_type: metric
+label: NBIoT_NPDSCHRepetition256_count
+calculation_method: sum
+dataset: lte-nb-iot-transmission-times-of-phy-channels-per-repetition
+column: NBIoT_NPDSCHRepetition256_count

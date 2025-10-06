@@ -1,0 +1,6 @@
+unique_name: CPUUSAGEAVG
+object_type: metric
+label: CpuUsageAvg_pct
+calculation_method: sum
+dataset: lte-resource
+column: CpuUsageAvg_pct

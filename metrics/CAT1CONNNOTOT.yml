@@ -1,0 +1,6 @@
+unique_name: CAT1CONNNOTOT
+object_type: metric
+label: Cat1ConnNoTot_count
+calculation_method: sum
+dataset: lte-cat-1-ue-connection-number
+column: Cat1ConnNoTot_count

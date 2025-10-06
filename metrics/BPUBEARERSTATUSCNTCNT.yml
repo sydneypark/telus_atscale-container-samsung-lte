@@ -1,0 +1,6 @@
+unique_name: BPUBEARERSTATUSCNTCNT
+object_type: metric
+label: BpuBearerStatusCntCnt_count
+calculation_method: sum
+dataset: lte-lte-served-bearer-status-per-bpu
+column: BpuBearerStatusCntCnt_count

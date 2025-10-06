@@ -1,0 +1,6 @@
+unique_name: INTRAMENBTOMENBNOSGNBCHG_MODPREPFAIL
+object_type: metric
+label: IntraMenbToMenbNoSgnbChg_ModPrepFail_count
+calculation_method: sum
+dataset: lte-sgnb-modification-due-to-mcg-mobility
+column: IntraMenbToMenbNoSgnbChg_ModPrepFail_count

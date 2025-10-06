@@ -1,0 +1,34 @@
+unique_name: DiskType
+object_type: dimension
+label: DiskType
+is_degenerate: true
+hierarchies:
+- unique_name: DiskType Hierarchy
+  label: DiskType Hierarchy
+  levels:
+  - unique_name: DiskType
+level_attributes:
+- unique_name: DiskType
+  label: DiskType Level
+  shared_degenerate_columns:
+  - name_column: DiskType
+    key_columns:
+    - DiskType
+    dataset: lte-disk-usage-in-lte
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DiskType
+    key_columns:
+    - DiskType
+    dataset: nr-disk-usage-in-pnf
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DiskType
+    key_columns:
+    - DiskType
+    dataset: nr-disk-usage-in-vnf
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

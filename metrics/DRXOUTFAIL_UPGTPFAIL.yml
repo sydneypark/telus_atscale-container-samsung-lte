@@ -1,0 +1,6 @@
+unique_name: DRXOUTFAIL_UPGTPFAIL
+object_type: metric
+label: DrxOutFail_UpGtpFail_count
+calculation_method: sum
+dataset: lte-outgoing-handover-with-drx
+column: DrxOutFail_UpGtpFail_count

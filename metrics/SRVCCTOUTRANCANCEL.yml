@@ -1,0 +1,6 @@
+unique_name: SRVCCTOUTRANCANCEL
+object_type: metric
+label: SrvccToUtranCancel_count
+calculation_method: sum
+dataset: lte-inter-rat-handover-cancellation
+column: SrvccToUtranCancel_count

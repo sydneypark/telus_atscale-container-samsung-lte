@@ -1,0 +1,6 @@
+unique_name: NBIOT_INTERENB_CP_CONNREESTABREJECT_CPCAPACACFAIL
+object_type: metric
+label: NBIoT_InterEnb_CP_ConnReEstabReject_CpCapaCacFail_count
+calculation_method: sum
+dataset: lte-nb-iot-rrc-connection-re-establishment-cp
+column: NBIoT_InterEnb_CP_ConnReEstabReject_CpCapaCacFail_count

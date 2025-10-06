@@ -1,0 +1,6 @@
+unique_name: ULCACONFIGUECNT
+object_type: metric
+label: ULCaConfigUECnt_count
+calculation_method: sum
+dataset: lte-ul-carrier-aggregation-information
+column: ULCaConfigUECnt_count

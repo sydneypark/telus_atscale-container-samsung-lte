@@ -1,0 +1,6 @@
+unique_name: DL4THNBACTIVATIONDURATIONCNT
+object_type: metric
+label: DL4thNBActivationDurationCnt_count
+calculation_method: sum
+dataset: lte-emtc-nb-state
+column: DL4thNBActivationDurationCnt_count

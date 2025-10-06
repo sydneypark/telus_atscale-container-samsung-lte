@@ -1,0 +1,6 @@
+unique_name: AVGABSNUMFORTDD
+object_type: metric
+label: AvgABSNumForTdd_count
+calculation_method: sum
+dataset: lte-eicic-abs-pattern-info
+column: AvgABSNumForTdd_count

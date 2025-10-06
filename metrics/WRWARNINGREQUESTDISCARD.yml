@@ -1,0 +1,6 @@
+unique_name: WRWARNINGREQUESTDISCARD
+object_type: metric
+label: WRWarningRequestDiscard_count
+calculation_method: sum
+dataset: lte-commercial-mobile-alert-system
+column: WRWarningRequestDiscard_count

@@ -1,0 +1,6 @@
+unique_name: DENIED_PAGING
+object_type: metric
+label: Denied_Paging_count
+calculation_method: sum
+dataset: lte-denied-call-by-overload-protection
+column: Denied_Paging_count

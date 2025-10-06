@@ -1,0 +1,6 @@
+unique_name: VOLTE_INTRAENBATT
+object_type: metric
+label: VoLTE_IntraEnbAtt_count
+calculation_method: sum
+dataset: lte-volte-handover
+column: VoLTE_IntraEnbAtt_count

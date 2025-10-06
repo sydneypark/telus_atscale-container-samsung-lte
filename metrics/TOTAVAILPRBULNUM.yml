@@ -1,0 +1,6 @@
+unique_name: TOTAVAILPRBULNUM
+object_type: metric
+label: TotAvailPrbULNum_count
+calculation_method: sum
+dataset: lte-total-prb-usage
+column: TotAvailPrbULNum_count

@@ -1,0 +1,6 @@
+unique_name: SCELLREL_ADDSBCHOIN
+object_type: metric
+label: SCellRel_AddSbcHoIn_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-message-count-for-addition-release
+column: SCellRel_AddSbcHoIn_count

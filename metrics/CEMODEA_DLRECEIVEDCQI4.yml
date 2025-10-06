@@ -1,0 +1,6 @@
+unique_name: CEMODEA_DLRECEIVEDCQI4
+object_type: metric
+label: CEModeA_DLReceivedCQI4_count
+calculation_method: sum
+dataset: lte-emtc-dl-wideband-cqi
+column: CEModeA_DLReceivedCQI4_count

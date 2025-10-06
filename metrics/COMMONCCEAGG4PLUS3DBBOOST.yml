@@ -1,0 +1,6 @@
+unique_name: COMMONCCEAGG4PLUS3DBBOOST
+object_type: metric
+label: CommonCceAgg4plus3dBBoost_count
+calculation_method: sum
+dataset: lte-pdcch-usage-information
+column: CommonCceAgg4plus3dBBoost_count

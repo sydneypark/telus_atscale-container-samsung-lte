@@ -1,0 +1,6 @@
+unique_name: CEMODEA_ULTRANSMISSIONRETRANS18
+object_type: metric
+label: CEModeA_ULTransmissionRetrans18_count
+calculation_method: sum
+dataset: lte-emtc-uplink-harq-transmission-bler
+column: CEModeA_ULTransmissionRetrans18_count

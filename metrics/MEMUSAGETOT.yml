@@ -1,0 +1,6 @@
+unique_name: MEMUSAGETOT
+object_type: metric
+label: MemUsageTot_pct
+calculation_method: sum
+dataset: lte-resource
+column: MemUsageTot_pct

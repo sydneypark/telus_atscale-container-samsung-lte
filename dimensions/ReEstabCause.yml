@@ -1,0 +1,52 @@
+unique_name: ReEstabCause
+object_type: dimension
+label: ReEstabCause
+is_degenerate: true
+hierarchies:
+- unique_name: ReEstabCause Hierarchy
+  label: ReEstabCause Hierarchy
+  levels:
+  - unique_name: ReEstabCause
+level_attributes:
+- unique_name: ReEstabCause
+  label: ReEstabCause Level
+  shared_degenerate_columns:
+  - name_column: ReEstabCause
+    key_columns:
+    - ReEstabCause
+    dataset: lte-emtc-rrc-connection-re-establishment
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ReEstabCause
+    key_columns:
+    - ReEstabCause
+    dataset: lte-emtc-rrc-connection-re-establishment-time
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ReEstabCause
+    key_columns:
+    - ReEstabCause
+    dataset: lte-rrc-connection-re-establishment
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ReEstabCause
+    key_columns:
+    - ReEstabCause
+    dataset: lte-rrc-connection-re-establishment-time
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ReEstabCause
+    key_columns:
+    - ReEstabCause
+    dataset: nr-rrc-re-establishment
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ReEstabCause
+    key_columns:
+    - ReEstabCause
+    dataset: nr-rrc-re-establishment-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

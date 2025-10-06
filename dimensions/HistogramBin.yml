@@ -1,0 +1,22 @@
+unique_name: HistogramBin
+object_type: dimension
+label: HistogramBin
+is_degenerate: true
+hierarchies:
+- unique_name: HistogramBin Hierarchy
+  label: HistogramBin Hierarchy
+  levels:
+  - unique_name: HistogramBin
+level_attributes:
+- unique_name: HistogramBin
+  label: HistogramBin Level
+  shared_degenerate_columns:
+  - name_column: HistogramBin
+    key_columns:
+    - HistogramBin
+    dataset: lte-load-histogram
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

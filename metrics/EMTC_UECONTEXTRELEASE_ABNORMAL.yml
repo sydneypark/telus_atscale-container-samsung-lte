@@ -1,0 +1,6 @@
+unique_name: EMTC_UECONTEXTRELEASE_ABNORMAL
+object_type: metric
+label: eMTC_UeContextRelease_abnormal_count
+calculation_method: sum
+dataset: lte-emtc-ue-context-release
+column: eMTC_UeContextRelease_abnormal_count

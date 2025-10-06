@@ -1,0 +1,6 @@
+unique_name: ENDC_SPLIT_ERABRELEASE_ABNORMAL_BYENB
+object_type: metric
+label: EnDc_Split_ErabRelease_abnormal_byEnb_count
+calculation_method: sum
+dataset: lte-en-dc-split-bearer-release-information
+column: EnDc_Split_ErabRelease_abnormal_byEnb_count

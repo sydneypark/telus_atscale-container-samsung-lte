@@ -1,0 +1,6 @@
+unique_name: HOINTRASUCC_PLMN
+object_type: metric
+label: HoIntraSucc_PLMN_count
+calculation_method: sum
+dataset: lte-mobility-data-per-plmn-per-cell
+column: HoIntraSucc_PLMN_count

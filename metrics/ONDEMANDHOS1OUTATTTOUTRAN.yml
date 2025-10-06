@@ -1,0 +1,6 @@
+unique_name: ONDEMANDHOS1OUTATTTOUTRAN
+object_type: metric
+label: OnDemandHoS1OutAttToUTRAN_count
+calculation_method: sum
+dataset: lte-ondemand-handover-s1-out
+column: OnDemandHoS1OutAttToUTRAN_count

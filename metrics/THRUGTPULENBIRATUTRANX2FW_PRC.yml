@@ -1,0 +1,6 @@
+unique_name: THRUGTPULENBIRATUTRANX2FW_PRC
+object_type: metric
+label: ThruGtpULEnbIRatUtranX2Fw_Kbps
+calculation_method: sum
+dataset: lte-gtp-forward-traffic-per-prc
+column: ThruGtpULEnbIRatUtranX2Fw_Kbps

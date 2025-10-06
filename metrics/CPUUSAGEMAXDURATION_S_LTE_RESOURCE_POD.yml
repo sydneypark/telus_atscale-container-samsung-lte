@@ -1,0 +1,6 @@
+unique_name: CPUUSAGEMAXDURATION_S_LTE_RESOURCE_POD
+object_type: metric
+label: CpuUsageMaxDuration_s
+calculation_method: sum
+dataset: lte-resource-per-pod
+column: CpuUsageMaxDuration_s

@@ -1,0 +1,6 @@
+unique_name: ULSPSCONFIGSUCC
+object_type: metric
+label: ULSpsConfigSucc_count
+calculation_method: sum
+dataset: lte-semi-persistent-scheduling
+column: ULSpsConfigSucc_count

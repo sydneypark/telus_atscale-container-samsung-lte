@@ -1,0 +1,6 @@
+unique_name: VOLTE_INTRAFREQINTERENBS1OUTPREPSUCC
+object_type: metric
+label: Volte_IntraFreqInterEnbS1OutPrepSucc_count
+calculation_method: sum
+dataset: lte-volte-outgoing-intra-frequency-handover-per-plmn
+column: Volte_IntraFreqInterEnbS1OutPrepSucc_count

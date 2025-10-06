@@ -1,0 +1,6 @@
+unique_name: ABSBIN21
+object_type: metric
+label: ABSBin21_pct
+calculation_method: sum
+dataset: lte-eicic-abs-pattern-info
+column: ABSBin21_pct

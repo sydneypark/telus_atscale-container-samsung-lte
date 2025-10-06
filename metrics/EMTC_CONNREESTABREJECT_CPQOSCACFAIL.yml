@@ -1,0 +1,6 @@
+unique_name: EMTC_CONNREESTABREJECT_CPQOSCACFAIL
+object_type: metric
+label: eMTC_ConnReEstabReject_CpQosCacFail_count
+calculation_method: sum
+dataset: lte-emtc-rrc-connection-re-establishment
+column: eMTC_ConnReEstabReject_CpQosCacFail_count

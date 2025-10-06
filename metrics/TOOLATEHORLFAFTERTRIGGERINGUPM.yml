@@ -1,0 +1,6 @@
+unique_name: TOOLATEHORLFAFTERTRIGGERINGUPM
+object_type: metric
+label: TooLateHoRlfAfterTriggeringUpm_count
+calculation_method: sum
+dataset: lte-upm-rlf-classification
+column: TooLateHoRlfAfterTriggeringUpm_count

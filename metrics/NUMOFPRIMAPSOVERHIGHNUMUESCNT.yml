@@ -1,0 +1,6 @@
+unique_name: NUMOFPRIMAPSOVERHIGHNUMUESCNT
+object_type: metric
+label: NumOfPrimApsOverHighNumUesCnt_count
+calculation_method: sum
+dataset: lte-laa-channel-status
+column: NumOfPrimApsOverHighNumUesCnt_count

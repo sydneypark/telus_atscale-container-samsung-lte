@@ -1,0 +1,6 @@
+unique_name: IMMEDIATEM1MDTCONFIGURATIONCNT
+object_type: metric
+label: ImmediateM1MDTConfigurationCnt_count
+calculation_method: sum
+dataset: lte-mdt-configuration-and-delivery
+column: ImmediateM1MDTConfigurationCnt_count

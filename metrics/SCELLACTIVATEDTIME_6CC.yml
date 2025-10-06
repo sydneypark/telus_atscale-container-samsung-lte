@@ -1,0 +1,6 @@
+unique_name: SCELLACTIVATEDTIME_6CC
+object_type: metric
+label: SCellActivatedTime_6CC_ms
+calculation_method: sum
+dataset: lte-ca-activation-information-per-cc-type
+column: SCellActivatedTime_6CC_ms

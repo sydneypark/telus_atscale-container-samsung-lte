@@ -1,0 +1,6 @@
+unique_name: DLMUMIMOPAIREDUEPERTTI_LTE_DOWNLINK_MULTI_USER_MIMO_STATISTI
+object_type: metric
+label: DLMuMimoPairedUEperTti_count
+calculation_method: sum
+dataset: lte-downlink-multi-user-mimo-statistics-for-massive-mimo
+column: DLMuMimoPairedUEperTti_count

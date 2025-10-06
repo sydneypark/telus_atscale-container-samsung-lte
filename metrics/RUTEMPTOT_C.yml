@@ -1,0 +1,6 @@
+unique_name: RUTEMPTOT_C
+object_type: metric
+label: RuTempTot_C
+calculation_method: sum
+dataset: lte-ru-temperature
+column: RuTempTot_C

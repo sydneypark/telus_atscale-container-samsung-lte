@@ -1,0 +1,6 @@
+unique_name: DCRANCASCELLUEMAX
+object_type: metric
+label: DCRanCaSCellUEMax_count
+calculation_method: sum
+dataset: lte-d-cran-ca-pcell-and-scell-ue-addition-release-information
+column: DCRanCaSCellUEMax_count

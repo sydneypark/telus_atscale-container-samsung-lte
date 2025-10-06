@@ -1,0 +1,6 @@
+unique_name: IDLEMOBILITYPCCFORCACNTTARGETEARFCNDL_TARGETEARFCNDL
+object_type: metric
+label: IdleMobilityPccForCACntTargetEarfcnDL_TargetEarfcnDl
+calculation_method: sum
+dataset: lte-idle-mobility-information-for-primary-carrier-change-for-ca
+column: IdleMobilityPccForCACntTargetEarfcnDL_TargetEarfcnDl

@@ -1,0 +1,6 @@
+unique_name: USAGENBRPLMN5MAX
+object_type: metric
+label: UsageNbrPLMN5Max_count
+calculation_method: sum
+dataset: lte-active-e-rab-number-per-plmn
+column: UsageNbrPLMN5Max_count

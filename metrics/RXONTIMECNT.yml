@@ -1,0 +1,6 @@
+unique_name: RXONTIMECNT
+object_type: metric
+label: RxOnTimeCnt_count
+calculation_method: sum
+dataset: lte-packet-for-reception-window-in-oru
+column: RxOnTimeCnt_count

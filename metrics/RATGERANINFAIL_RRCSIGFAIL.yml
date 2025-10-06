@@ -1,0 +1,6 @@
+unique_name: RATGERANINFAIL_RRCSIGFAIL
+object_type: metric
+label: RatGeranInFail_RrcSigFail_count
+calculation_method: sum
+dataset: lte-ps-ho-from-geran
+column: RatGeranInFail_RrcSigFail_count

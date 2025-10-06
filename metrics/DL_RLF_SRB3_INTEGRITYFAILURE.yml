@@ -1,0 +1,6 @@
+unique_name: DL_RLF_SRB3_INTEGRITYFAILURE
+object_type: metric
+label: DL_RLF_srb3_IntegrityFailure_count
+calculation_method: sum
+dataset: lte-en-dc-radiolinkfailureinformation
+column: DL_RLF_srb3_IntegrityFailure_count

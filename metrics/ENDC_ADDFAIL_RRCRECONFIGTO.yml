@@ -1,0 +1,6 @@
+unique_name: ENDC_ADDFAIL_RRCRECONFIGTO
+object_type: metric
+label: EnDc_AddFail_RrcReconfigTO_count
+calculation_method: sum
+dataset: lte-en-dc-addition-information
+column: EnDc_AddFail_RrcReconfigTO_count

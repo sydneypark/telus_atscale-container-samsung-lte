@@ -1,0 +1,6 @@
+unique_name: CPUUSAGEMAX_LTE_RESOURCE_POD
+object_type: metric
+label: CpuUsageMax_pct
+calculation_method: sum
+dataset: lte-resource-per-pod
+column: CpuUsageMax_pct

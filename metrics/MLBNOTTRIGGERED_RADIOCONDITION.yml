@@ -1,0 +1,6 @@
+unique_name: MLBNOTTRIGGERED_RADIOCONDITION
+object_type: metric
+label: MlbNotTriggered_RadioCondition_count
+calculation_method: sum
+dataset: lte-load-balancing-handover
+column: MlbNotTriggered_RadioCondition_count

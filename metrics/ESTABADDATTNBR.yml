@@ -1,0 +1,6 @@
+unique_name: ESTABADDATTNBR
+object_type: metric
+label: EstabAddAttNbr_count
+calculation_method: sum
+dataset: lte-e-rab-setup-add
+column: EstabAddAttNbr_count

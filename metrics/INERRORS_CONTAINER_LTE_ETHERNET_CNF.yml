@@ -1,0 +1,6 @@
+unique_name: INERRORS_CONTAINER_LTE_ETHERNET_CNF
+object_type: metric
+label: InErrors_Container_count
+calculation_method: sum
+dataset: lte-ethernet-packet-for-cnf
+column: InErrors_Container_count

@@ -1,0 +1,6 @@
+unique_name: _0X0330_ECCTMOUT_INTERNALRESOURCESETUP
+object_type: metric
+label: _0x0330_EccTmout_InternalResourceSetup_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0330_EccTmout_InternalResourceSetup_count

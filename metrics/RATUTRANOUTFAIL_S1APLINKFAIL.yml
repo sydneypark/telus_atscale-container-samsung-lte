@@ -1,0 +1,6 @@
+unique_name: RATUTRANOUTFAIL_S1APLINKFAIL
+object_type: metric
+label: RatUtranOutFail_S1apLinkFail_count
+calculation_method: sum
+dataset: lte-inter-rat-utran-ps-out-handover
+column: RatUtranOutFail_S1apLinkFail_count

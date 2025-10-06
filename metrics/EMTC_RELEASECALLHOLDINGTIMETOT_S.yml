@@ -1,0 +1,6 @@
+unique_name: EMTC_RELEASECALLHOLDINGTIMETOT_S
+object_type: metric
+label: eMTC_ReleaseCallHoldingTimeTot_s
+calculation_method: sum
+dataset: lte-emtc-rrc-connection-number
+column: eMTC_ReleaseCallHoldingTimeTot_s

@@ -1,0 +1,6 @@
+unique_name: RELABNORMALBYENBPLMNQCI
+object_type: metric
+label: RelAbnormalbyEnbPlmnQci_count
+calculation_method: sum
+dataset: lte-e-rab-release-by-enb-per-plmn-per-cell-per-qci
+column: RelAbnormalbyEnbPlmnQci_count

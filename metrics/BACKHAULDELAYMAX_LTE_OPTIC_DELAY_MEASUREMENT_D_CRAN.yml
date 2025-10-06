@@ -1,0 +1,6 @@
+unique_name: BACKHAULDELAYMAX_LTE_OPTIC_DELAY_MEASUREMENT_D_CRAN
+object_type: metric
+label: BackhaulDelayMax_ms
+calculation_method: sum
+dataset: lte-optic-delay-measurement-for-d-cran
+column: BackhaulDelayMax_ms

@@ -1,0 +1,106 @@
+unique_name: gNbId
+object_type: dimension
+label: gNbId
+is_degenerate: true
+hierarchies:
+- unique_name: gNbId Hierarchy
+  label: gNbId Hierarchy
+  levels:
+  - unique_name: gNbId
+level_attributes:
+- unique_name: gNbId
+  label: gNbId Level
+  shared_degenerate_columns:
+  - name_column: gNbId
+    key_columns:
+    - gNbId
+    dataset: lte-en-dc-addition-information
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: gNbId
+    key_columns:
+    - gNbId
+    dataset: lte-en-dc-addition-information-per-nr-ncr
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: gNbId
+    key_columns:
+    - gNbId
+    dataset: lte-en-dc-connection-information
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: gNbId
+    key_columns:
+    - gNbId
+    dataset: lte-en-dc-radiolinkfailureinformation
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: gNbId
+    key_columns:
+    - gNbId
+    dataset: lte-en-dc-release-information
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: gNbId
+    key_columns:
+    - gNbId
+    dataset: lte-en-dc-x2-link-time
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: gNbId
+    key_columns:
+    - gNbId
+    dataset: lte-ho-per-nr-neighbor-cell-between-the-lte-system-and-the-nr-s
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: gNbId
+    key_columns:
+    - gNbId
+    dataset: lte-load-based-scg-band-selection-for-endc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: gNbId
+    key_columns:
+    - gNbId
+    dataset: lte-mr-rqa-nr
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: gNbId
+    key_columns:
+    - gNbId
+    dataset: lte-sgnb-addition-due-to-mcg-mobility
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: gNbId
+    key_columns:
+    - gNbId
+    dataset: lte-sgnb-addition-due-to-scg-mobility
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: gNbId
+    key_columns:
+    - gNbId
+    dataset: lte-sgnb-modification-due-to-mcg-mobility
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: gNbId
+    key_columns:
+    - gNbId
+    dataset: lte-sgnb-release-due-to-mcg-mobility
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: gNbId
+    key_columns:
+    - gNbId
+    dataset: lte-sgnb-release-due-to-re-establishment
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: gNbId
+    key_columns:
+    - gNbId
+    dataset: lte-sgnb-release-due-to-scg-mobility
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

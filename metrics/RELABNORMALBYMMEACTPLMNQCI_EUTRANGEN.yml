@@ -1,0 +1,6 @@
+unique_name: RELABNORMALBYMMEACTPLMNQCI_EUTRANGEN
+object_type: metric
+label: RelAbnormalbyMmeActPlmnQci_EutranGen_count
+calculation_method: sum
+dataset: lte-e-rab-release-by-mme-per-plmn-per-cell-per-qci
+column: RelAbnormalbyMmeActPlmnQci_EutranGen_count

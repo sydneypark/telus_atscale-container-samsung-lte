@@ -1,0 +1,6 @@
+unique_name: EICICCAPAUECOUNT
+object_type: metric
+label: EICICCapaUECount_count
+calculation_method: sum
+dataset: lte-eicic
+column: EICICCapaUECount_count

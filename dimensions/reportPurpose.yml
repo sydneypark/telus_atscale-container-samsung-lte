@@ -1,0 +1,22 @@
+unique_name: reportPurpose
+object_type: dimension
+label: reportPurpose
+is_degenerate: true
+hierarchies:
+- unique_name: reportPurpose Hierarchy
+  label: reportPurpose Hierarchy
+  levels:
+  - unique_name: reportPurpose
+level_attributes:
+- unique_name: reportPurpose
+  label: reportPurpose Level
+  shared_degenerate_columns:
+  - name_column: reportPurpose
+    key_columns:
+    - reportPurpose
+    dataset: lte-ecgi-report
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

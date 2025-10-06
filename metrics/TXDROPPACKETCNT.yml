@@ -1,0 +1,6 @@
+unique_name: TXDROPPACKETCNT
+object_type: metric
+label: TxDropPacketCnt_count
+calculation_method: sum
+dataset: lte-ethernet-packet-per-vlan
+column: TxDropPacketCnt_count

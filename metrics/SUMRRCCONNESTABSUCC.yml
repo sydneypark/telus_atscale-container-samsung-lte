@@ -1,0 +1,6 @@
+unique_name: SUMRRCCONNESTABSUCC
+object_type: metric
+label: SumRrcConnEstabSucc_count
+calculation_method: sum
+dataset: lte-accessibility
+column: SumRrcConnEstabSucc_count

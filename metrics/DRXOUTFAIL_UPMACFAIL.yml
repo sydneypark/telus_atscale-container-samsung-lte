@@ -1,0 +1,6 @@
+unique_name: DRXOUTFAIL_UPMACFAIL
+object_type: metric
+label: DrxOutFail_UpMacFail_count
+calculation_method: sum
+dataset: lte-outgoing-handover-with-drx
+column: DrxOutFail_UpMacFail_count

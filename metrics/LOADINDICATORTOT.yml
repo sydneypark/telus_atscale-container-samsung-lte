@@ -1,0 +1,6 @@
+unique_name: LOADINDICATORTOT
+object_type: metric
+label: LoadIndicatorTot_pct
+calculation_method: sum
+dataset: lte-load
+column: LoadIndicatorTot_pct

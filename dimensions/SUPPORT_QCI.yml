@@ -1,0 +1,40 @@
+unique_name: SUPPORT_QCI
+object_type: dimension
+label: SUPPORT_QCI
+is_degenerate: true
+hierarchies:
+- unique_name: SUPPORT_QCI Hierarchy
+  label: SUPPORT_QCI Hierarchy
+  levels:
+  - unique_name: SUPPORT_QCI
+level_attributes:
+- unique_name: SUPPORT_QCI
+  label: SUPPORT_QCI Level
+  shared_degenerate_columns:
+  - name_column: SUPPORT_QCI
+    key_columns:
+    - SUPPORT_QCI
+    dataset: lte-e-rab-session-time-per-qci-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SUPPORT_QCI
+    key_columns:
+    - SUPPORT_QCI
+    dataset: lte-e-rab-setup-modification-release-information-per-plmn-and-q
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SUPPORT_QCI
+    key_columns:
+    - SUPPORT_QCI
+    dataset: lte-pdcp-loss-drop-dl-ip-throughput-pdcp-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SUPPORT_QCI
+    key_columns:
+    - SUPPORT_QCI
+    dataset: lte-pdcp-loss-drop-dl-ip-throughput-pdcp-per-plmn-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

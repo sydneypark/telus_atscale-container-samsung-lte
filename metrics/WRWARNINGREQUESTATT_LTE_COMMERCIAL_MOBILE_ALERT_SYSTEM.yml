@@ -1,0 +1,6 @@
+unique_name: WRWARNINGREQUESTATT_LTE_COMMERCIAL_MOBILE_ALERT_SYSTEM
+object_type: metric
+label: WRWarningRequestAtt_count
+calculation_method: sum
+dataset: lte-commercial-mobile-alert-system
+column: WRWarningRequestAtt_count

@@ -1,0 +1,6 @@
+unique_name: TABLEDLSCHEDULERMCS19
+object_type: metric
+label: TableDLSchedulerMcs19_count
+calculation_method: sum
+dataset: lte-prb-usage-for-each-mcs
+column: TableDLSchedulerMcs19_count

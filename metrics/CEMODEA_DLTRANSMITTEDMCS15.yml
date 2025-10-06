@@ -1,0 +1,6 @@
+unique_name: CEMODEA_DLTRANSMITTEDMCS15
+object_type: metric
+label: CEModeA_DLTransmittedMcs15_count
+calculation_method: sum
+dataset: lte-emtc-dl-mcs
+column: CEModeA_DLTransmittedMcs15_count

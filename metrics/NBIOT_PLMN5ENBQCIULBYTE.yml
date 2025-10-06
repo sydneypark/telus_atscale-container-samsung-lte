@@ -1,0 +1,6 @@
+unique_name: NBIOT_PLMN5ENBQCIULBYTE
+object_type: metric
+label: NBIoT_PLMN5EnbQciULByte_Kbytes
+calculation_method: sum
+dataset: lte-nb-iot-pdcp-packet-per-plmn
+column: NBIoT_PLMN5EnbQciULByte_Kbytes

@@ -1,0 +1,6 @@
+unique_name: NBIOT_CELLUNAVAILABLETIMEDOWN_S
+object_type: metric
+label: NBIoT_CellUnavailableTimeDown_s
+calculation_method: sum
+dataset: lte-nb-iot-cell-unavailable-time
+column: NBIoT_CellUnavailableTimeDown_s

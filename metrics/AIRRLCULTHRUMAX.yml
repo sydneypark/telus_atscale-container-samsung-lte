@@ -1,0 +1,6 @@
+unique_name: AIRRLCULTHRUMAX
+object_type: metric
+label: AirRlcULThruMax_Kbps
+calculation_method: sum
+dataset: lte-air-rlc-packet
+column: AirRlcULThruMax_Kbps

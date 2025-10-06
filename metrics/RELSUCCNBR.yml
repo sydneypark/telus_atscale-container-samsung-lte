@@ -1,0 +1,6 @@
+unique_name: RELSUCCNBR
+object_type: metric
+label: RelSuccNbr_count
+calculation_method: sum
+dataset: lte-e-rab-release
+column: RelSuccNbr_count

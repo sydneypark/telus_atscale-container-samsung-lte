@@ -1,0 +1,6 @@
+unique_name: DLRECEIVEDCQIAVG_CQI_LTE_DL_WIDEBAND_CQI_SCELL
+object_type: metric
+label: DLReceivedCQIAvg_CQI
+calculation_method: sum
+dataset: lte-dl-wideband-cqi-scell
+column: DLReceivedCQIAvg_CQI

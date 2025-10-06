@@ -1,0 +1,6 @@
+unique_name: UTRANMROCONNFAILCID_UTRANNBRCELL
+object_type: metric
+label: UtranMroConnFailCid_UtranNbrCell
+calculation_method: sum
+dataset: lte-utran-mro-with-connection-failure
+column: UtranMroConnFailCid_UtranNbrCell

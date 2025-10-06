@@ -1,0 +1,6 @@
+unique_name: RACHCONTENTION
+object_type: metric
+label: RACHContention_pct
+calculation_method: sum
+dataset: lte-rach-usage
+column: RACHContention_pct

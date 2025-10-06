@@ -1,0 +1,6 @@
+unique_name: NBIOT_CONNREESTABTIMETOT
+object_type: metric
+label: NBIoT_ConnReEstabTimeTot_ms
+calculation_method: sum
+dataset: lte-nb-iot-rrc-connection-re-establishment-time
+column: NBIoT_ConnReEstabTimeTot_ms

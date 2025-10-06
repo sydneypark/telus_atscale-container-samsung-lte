@@ -1,0 +1,6 @@
+unique_name: NBRDELBYS1RELOCPREPEXPIRY
+object_type: metric
+label: NbrDelByS1RelocPrepExpiry_count
+calculation_method: sum
+dataset: lte-addition-and-deletion-of-neighbor-relations
+column: NbrDelByS1RelocPrepExpiry_count

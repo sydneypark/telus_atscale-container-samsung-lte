@@ -1,0 +1,6 @@
+unique_name: DRXNOAVG
+object_type: metric
+label: DrxNoAvg_count
+calculation_method: sum
+dataset: lte-active-drx
+column: DrxNoAvg_count

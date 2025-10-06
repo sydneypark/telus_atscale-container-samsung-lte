@@ -1,0 +1,6 @@
+unique_name: INTERFREQOUTWITHOUTGAPTARGETEARFCNDL_TARGETEARFCNDL
+object_type: metric
+label: InterFreqOutWithOutGapTargetEarfcnDL_TargetEarfcnDl
+calculation_method: sum
+dataset: lte-outgoing-inter-frequency-handover-without-measurement-gap
+column: InterFreqOutWithOutGapTargetEarfcnDL_TargetEarfcnDl

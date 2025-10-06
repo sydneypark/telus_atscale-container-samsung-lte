@@ -1,0 +1,6 @@
+unique_name: ENDCCONNNOMAX
+object_type: metric
+label: EnDcConnNoMax_count
+calculation_method: sum
+dataset: lte-5g-capable-rrc-connection-number
+column: EnDcConnNoMax_count

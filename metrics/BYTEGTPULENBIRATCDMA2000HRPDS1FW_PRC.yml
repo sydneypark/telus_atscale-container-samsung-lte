@@ -1,0 +1,6 @@
+unique_name: BYTEGTPULENBIRATCDMA2000HRPDS1FW_PRC
+object_type: metric
+label: ByteGtpULEnbIRatCdma2000HrpdS1Fw_Kbytes
+calculation_method: sum
+dataset: lte-gtp-forward-traffic-per-prc
+column: ByteGtpULEnbIRatCdma2000HrpdS1Fw_Kbytes

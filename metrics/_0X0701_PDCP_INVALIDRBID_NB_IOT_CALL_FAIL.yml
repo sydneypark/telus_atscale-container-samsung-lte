@@ -1,0 +1,6 @@
+unique_name: _0X0701_PDCP_INVALIDRBID_NB_IOT_CALL_FAIL
+object_type: metric
+label: _0x0701_Pdcp_InvalidRbId_count
+calculation_method: sum
+dataset: lte-nb-iot-call-fail
+column: _0x0701_Pdcp_InvalidRbId_count

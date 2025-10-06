@@ -1,0 +1,6 @@
+unique_name: RXTHROUGHPUTAVG
+object_type: metric
+label: RxThroughputAvg_Mbps
+calculation_method: sum
+dataset: lte-ethernet-packet-per-vlan
+column: RxThroughputAvg_Mbps

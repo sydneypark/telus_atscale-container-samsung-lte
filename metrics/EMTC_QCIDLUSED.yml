@@ -1,0 +1,6 @@
+unique_name: EMTC_QCIDLUSED
+object_type: metric
+label: eMTC_QciDLUsed_count
+calculation_method: sum
+dataset: lte-emtc-prb-usage-for-each-qci
+column: eMTC_QciDLUsed_count

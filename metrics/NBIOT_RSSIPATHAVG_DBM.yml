@@ -1,0 +1,6 @@
+unique_name: NBIOT_RSSIPATHAVG_DBM
+object_type: metric
+label: NBIoT_RssiPathAvg_dBm
+calculation_method: sum
+dataset: lte-nb-iot-average-rssi-per-antenna
+column: NBIoT_RssiPathAvg_dBm

@@ -1,0 +1,6 @@
+unique_name: NBIOT_THERMALNOISEPOWERAVG_DBM
+object_type: metric
+label: NBIoT_ThermalNoisePowerAvg_dBm
+calculation_method: sum
+dataset: lte-nb-iot-average-thermal-noise
+column: NBIoT_ThermalNoisePowerAvg_dBm

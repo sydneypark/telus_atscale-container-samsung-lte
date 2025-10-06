@@ -1,0 +1,6 @@
+unique_name: CELLTCDLDROPRATIO
+object_type: metric
+label: CellTcDLDropRatio_pct
+calculation_method: sum
+dataset: lte-gtp-downlink-traffic-control-per-prc
+column: CellTcDLDropRatio_pct

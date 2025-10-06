@@ -1,0 +1,6 @@
+unique_name: EUTRANMOBILITYHOINTERRATHRPD
+object_type: metric
+label: EutranMobilityHoInterRatHrpd_pct
+calculation_method: sum
+dataset: lte-mobility
+column: EutranMobilityHoInterRatHrpd_pct

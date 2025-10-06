@@ -1,0 +1,6 @@
+unique_name: ERABCONNECTIONFAILURERATE
+object_type: metric
+label: ErabConnectionFailureRate_pct
+calculation_method: sum
+dataset: lte-accessibility
+column: ErabConnectionFailureRate_pct

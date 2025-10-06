@@ -1,0 +1,6 @@
+unique_name: AIRRLCULTHRUCNT
+object_type: metric
+label: AirRlcULThruCnt_count
+calculation_method: sum
+dataset: lte-air-rlc-packet
+column: AirRlcULThruCnt_count

@@ -1,0 +1,6 @@
+unique_name: DUVOLTAGECNT_LTE_DU_POWER_CONSUMPTION
+object_type: metric
+label: DuVoltageCnt_count
+calculation_method: sum
+dataset: lte-du-power-consumption
+column: DuVoltageCnt_count

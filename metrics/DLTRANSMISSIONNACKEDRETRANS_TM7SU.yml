@@ -1,0 +1,6 @@
+unique_name: DLTRANSMISSIONNACKEDRETRANS_TM7SU
+object_type: metric
+label: DLTransmissionNackedRetrans_TM7SU_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-downlink-harq-transmission-bler
+column: DLTransmissionNackedRetrans_TM7SU_count

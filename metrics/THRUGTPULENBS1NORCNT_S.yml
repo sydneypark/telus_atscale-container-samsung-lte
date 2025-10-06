@@ -1,0 +1,6 @@
+unique_name: THRUGTPULENBS1NORCNT_S
+object_type: metric
+label: ThruGtpULEnbS1NorCnt_s
+calculation_method: sum
+dataset: lte-gtp-forward-traffic
+column: ThruGtpULEnbS1NorCnt_s

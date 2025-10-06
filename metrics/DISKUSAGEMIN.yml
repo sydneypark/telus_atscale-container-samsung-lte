@@ -1,0 +1,6 @@
+unique_name: DISKUSAGEMIN
+object_type: metric
+label: DiskUsageMin_pct
+calculation_method: sum
+dataset: lte-resource
+column: DiskUsageMin_pct

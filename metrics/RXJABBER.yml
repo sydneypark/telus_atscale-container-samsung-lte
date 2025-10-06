@@ -1,0 +1,6 @@
+unique_name: RXJABBER
+object_type: metric
+label: RxJabber_count
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: RxJabber_count

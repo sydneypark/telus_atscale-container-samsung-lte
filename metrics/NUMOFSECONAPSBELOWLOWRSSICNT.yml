@@ -1,0 +1,6 @@
+unique_name: NUMOFSECONAPSBELOWLOWRSSICNT
+object_type: metric
+label: NumOfSeconApsBelowLowRssiCnt_count
+calculation_method: sum
+dataset: lte-laa-channel-status
+column: NumOfSeconApsBelowLowRssiCnt_count

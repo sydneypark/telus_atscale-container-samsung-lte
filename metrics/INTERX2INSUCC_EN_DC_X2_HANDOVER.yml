@@ -1,0 +1,6 @@
+unique_name: INTERX2INSUCC_EN_DC_X2_HANDOVER
+object_type: metric
+label: InterX2InSucc_count
+calculation_method: sum
+dataset: lte-en-dc-x2-in-handover
+column: InterX2InSucc_count

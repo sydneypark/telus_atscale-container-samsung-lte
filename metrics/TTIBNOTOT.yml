@@ -1,0 +1,6 @@
+unique_name: TTIBNOTOT
+object_type: metric
+label: TtibNoTot_count
+calculation_method: sum
+dataset: lte-tti-bundling
+column: TtibNoTot_count

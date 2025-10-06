@@ -1,0 +1,6 @@
+unique_name: SUMHOX2OUTATT
+object_type: metric
+label: SumHoX2OutAtt_count
+calculation_method: sum
+dataset: lte-mobility
+column: SumHoX2OutAtt_count

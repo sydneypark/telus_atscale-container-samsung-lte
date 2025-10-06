@@ -1,0 +1,6 @@
+unique_name: DL_RLF_OTHERS
+object_type: metric
+label: DL_RLF_others_count
+calculation_method: sum
+dataset: lte-en-dc-radiolinkfailureinformation
+column: DL_RLF_others_count

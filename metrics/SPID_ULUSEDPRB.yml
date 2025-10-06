@@ -1,0 +1,6 @@
+unique_name: SPID_ULUSEDPRB
+object_type: metric
+label: SPID_ULUsedPrb_count
+calculation_method: sum
+dataset: lte-prb-usage-per-spid-category
+column: SPID_ULUsedPrb_count

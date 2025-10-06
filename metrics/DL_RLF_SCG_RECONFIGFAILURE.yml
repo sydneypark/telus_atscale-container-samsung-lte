@@ -1,0 +1,6 @@
+unique_name: DL_RLF_SCG_RECONFIGFAILURE
+object_type: metric
+label: DL_RLF_scg_reconfigFailure_count
+calculation_method: sum
+dataset: lte-en-dc-radiolinkfailureinformation
+column: DL_RLF_scg_reconfigFailure_count

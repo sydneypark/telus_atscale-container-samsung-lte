@@ -1,0 +1,6 @@
+unique_name: SIB12CNT
+object_type: metric
+label: SIB12Cnt_count
+calculation_method: sum
+dataset: lte-commercial-mobile-alert-system-in-mac
+column: SIB12Cnt_count

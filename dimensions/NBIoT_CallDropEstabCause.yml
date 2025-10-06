@@ -1,0 +1,28 @@
+unique_name: NBIoT_CallDropEstabCause
+object_type: dimension
+label: NBIoT_CallDropEstabCause
+is_degenerate: true
+hierarchies:
+- unique_name: NBIoT_CallDropEstabCause Hierarchy
+  label: NBIoT_CallDropEstabCause Hierarchy
+  levels:
+  - unique_name: NBIoT_CallDropEstabCause
+level_attributes:
+- unique_name: NBIoT_CallDropEstabCause
+  label: NBIoT_CallDropEstabCause Level
+  shared_degenerate_columns:
+  - name_column: NBIoT_CallDropEstabCause
+    key_columns:
+    - NBIoT_CallDropEstabCause
+    dataset: lte-nb-iot-call-drop
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: NBIoT_CallDropEstabCause
+    key_columns:
+    - NBIoT_CallDropEstabCause
+    dataset: lte-nb-iot-call-drop-per-ce-level
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

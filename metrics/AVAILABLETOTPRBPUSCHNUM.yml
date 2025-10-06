@@ -1,0 +1,6 @@
+unique_name: AVAILABLETOTPRBPUSCHNUM
+object_type: metric
+label: AvailableTotPrbPUSCHNum_count
+calculation_method: sum
+dataset: lte-numerator-and-denominator-for-total-prb-usage
+column: AvailableTotPrbPUSCHNum_count

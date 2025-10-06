@@ -1,0 +1,142 @@
+unique_name: PRC_ID
+object_type: dimension
+label: PRC_ID
+is_degenerate: true
+hierarchies:
+- unique_name: PRC_ID Hierarchy
+  label: PRC_ID Hierarchy
+  levels:
+  - unique_name: PRC_ID
+level_attributes:
+- unique_name: PRC_ID
+  label: PRC_ID Level
+  shared_degenerate_columns:
+  - name_column: PRC_ID
+    key_columns:
+    - PRC_ID
+    dataset: lte-carrier-aggregation-pdcp-packet-per-plmn-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PRC_ID
+    key_columns:
+    - PRC_ID
+    dataset: lte-carrier-aggregation-pdcp-packet-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PRC_ID
+    key_columns:
+    - PRC_ID
+    dataset: lte-cell-pdcp-sdu-bit-rate-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PRC_ID
+    key_columns:
+    - PRC_ID
+    dataset: lte-emtc-packet-loss-rate-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PRC_ID
+    key_columns:
+    - PRC_ID
+    dataset: lte-emtc-pdcp-drop-rate-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PRC_ID
+    key_columns:
+    - PRC_ID
+    dataset: lte-emtc-pdcp-packet-per-plmn-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PRC_ID
+    key_columns:
+    - PRC_ID
+    dataset: lte-emtc-pdcp-packet-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PRC_ID
+    key_columns:
+    - PRC_ID
+    dataset: lte-gtp-downlink-traffic-control-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PRC_ID
+    key_columns:
+    - PRC_ID
+    dataset: lte-gtp-forward-traffic-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PRC_ID
+    key_columns:
+    - PRC_ID
+    dataset: lte-packet-drop-rate-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PRC_ID
+    key_columns:
+    - PRC_ID
+    dataset: lte-packet-loss-rate-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PRC_ID
+    key_columns:
+    - PRC_ID
+    dataset: lte-pdcp-dl-ip-throughput-distribution-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PRC_ID
+    key_columns:
+    - PRC_ID
+    dataset: lte-pdcp-dl-throughput-distribution-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PRC_ID
+    key_columns:
+    - PRC_ID
+    dataset: lte-pdcp-ip-tp-prc-statistics-for-last-tti
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PRC_ID
+    key_columns:
+    - PRC_ID
+    dataset: lte-pdcp-loss-drop-dl-ip-throughput-pdcp-per-plmn-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PRC_ID
+    key_columns:
+    - PRC_ID
+    dataset: lte-pdcp-packet-per-plmn-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PRC_ID
+    key_columns:
+    - PRC_ID
+    dataset: lte-pdcp-packet-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PRC_ID
+    key_columns:
+    - PRC_ID
+    dataset: lte-pdcp-ul-throughput-distribution-per-prc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PRC_ID
+    key_columns:
+    - PRC_ID
+    dataset: nr-dl-f1-u-xn-u-interface-per-prc-per-5qi-per-s-nssai
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PRC_ID
+    key_columns:
+    - PRC_ID
+    dataset: nr-f1-u-dl-interface-per-prc-per-du
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: PRC_ID
+    key_columns:
+    - PRC_ID
+    dataset: nr-f1-u-dl-interface-per-prc-per-qci
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

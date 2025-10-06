@@ -1,0 +1,6 @@
+unique_name: FPHOOUTCID_TCID
+object_type: metric
+label: FPHOOutCid_tcID
+calculation_method: sum
+dataset: lte-outgoing-frequency-priority-based-handover
+column: FPHOOutCid_tcID

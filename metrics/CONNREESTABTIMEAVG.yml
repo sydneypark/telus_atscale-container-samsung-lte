@@ -1,0 +1,6 @@
+unique_name: CONNREESTABTIMEAVG
+object_type: metric
+label: ConnReEstabTimeAvg_ms
+calculation_method: sum
+dataset: lte-rrc-connection-re-establishment-time
+column: ConnReEstabTimeAvg_ms

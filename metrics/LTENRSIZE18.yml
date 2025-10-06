@@ -1,0 +1,6 @@
+unique_name: LTENRSIZE18
+object_type: metric
+label: LteNRSize18_count
+calculation_method: sum
+dataset: lte-ue-capability-size-distribution
+column: LteNRSize18_count

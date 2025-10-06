@@ -1,0 +1,6 @@
+unique_name: NBIOT_DLTRANSMISSIONRETRANS2
+object_type: metric
+label: NBIoT_DLTransmissionRetrans2_count
+calculation_method: sum
+dataset: lte-nb-iot-npdsch-harq-transmission-times
+column: NBIoT_DLTransmissionRetrans2_count

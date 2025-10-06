@@ -1,0 +1,6 @@
+unique_name: RACHCONTENTIONCNT
+object_type: metric
+label: RACHContentionCnt_count
+calculation_method: sum
+dataset: lte-rach-usage
+column: RACHContentionCnt_count

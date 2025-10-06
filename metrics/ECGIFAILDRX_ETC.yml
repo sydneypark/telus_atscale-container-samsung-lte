@@ -1,0 +1,6 @@
+unique_name: ECGIFAILDRX_ETC
+object_type: metric
+label: EcgiFailDrx_Etc_count
+calculation_method: sum
+dataset: lte-ecgi-report
+column: EcgiFailDrx_Etc_count

@@ -1,0 +1,6 @@
+unique_name: ULROHCCONNNOCNT
+object_type: metric
+label: UlRohcConnNoCnt_count
+calculation_method: sum
+dataset: lte-the-number-of-rrc-connected-ue-configured-with-ulonlyrohc
+column: UlRohcConnNoCnt_count

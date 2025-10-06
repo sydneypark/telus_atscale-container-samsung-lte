@@ -1,0 +1,6 @@
+unique_name: TOTDLPRBNUMWITHTM7TXDIVERSITY
+object_type: metric
+label: TotDLPRBNumWithTM7TxDiversity_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-downlink-prb-usage-per-tti
+column: TotDLPRBNumWithTM7TxDiversity_count

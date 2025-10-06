@@ -1,0 +1,6 @@
+unique_name: ULSHORTSPSCONFIGSUCC
+object_type: metric
+label: ULShortSpsConfigSucc_count
+calculation_method: sum
+dataset: lte-ul-short-semi-persistent-scheduling
+column: ULShortSpsConfigSucc_count

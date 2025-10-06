@@ -1,0 +1,6 @@
+unique_name: INTRAENBINATT
+object_type: metric
+label: IntraEnbInAtt_count
+calculation_method: sum
+dataset: lte-intra-enb-in-handover
+column: IntraEnbInAtt_count

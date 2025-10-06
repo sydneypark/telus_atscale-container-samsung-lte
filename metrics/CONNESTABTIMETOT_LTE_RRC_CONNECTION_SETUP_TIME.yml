@@ -1,0 +1,6 @@
+unique_name: CONNESTABTIMETOT_LTE_RRC_CONNECTION_SETUP_TIME
+object_type: metric
+label: ConnEstabTimeTot_ms
+calculation_method: sum
+dataset: lte-rrc-connection-setup-time
+column: ConnEstabTimeTot_ms

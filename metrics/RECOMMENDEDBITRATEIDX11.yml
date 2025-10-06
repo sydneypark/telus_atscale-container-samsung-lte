@@ -1,0 +1,6 @@
+unique_name: RECOMMENDEDBITRATEIDX11
+object_type: metric
+label: RecommendedBitRateIdx11_count
+calculation_method: sum
+dataset: lte-volte-recommended-bit-rate
+column: RecommendedBitRateIdx11_count

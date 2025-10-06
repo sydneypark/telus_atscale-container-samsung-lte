@@ -1,0 +1,6 @@
+unique_name: CELEVEL0_HIGHBACKOFFINDICATORTRIGGEREDCNT
+object_type: metric
+label: Celevel0_HighBackoffIndicatorTriggeredCnt_count
+calculation_method: sum
+dataset: lte-emtc-random-access-preambles
+column: Celevel0_HighBackoffIndicatorTriggeredCnt_count

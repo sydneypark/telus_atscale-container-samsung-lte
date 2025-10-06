@@ -1,0 +1,22 @@
+unique_name: DSCP
+object_type: dimension
+label: DSCP
+is_degenerate: true
+hierarchies:
+- unique_name: DSCP Hierarchy
+  label: DSCP Hierarchy
+  levels:
+  - unique_name: DSCP
+level_attributes:
+- unique_name: DSCP
+  label: DSCP Level
+  shared_degenerate_columns:
+  - name_column: DSCP
+    key_columns:
+    - DSCP
+    dataset: nr-internal-drop-count-and-delay-of-gtp-packet
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

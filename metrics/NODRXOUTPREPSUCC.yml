@@ -1,0 +1,6 @@
+unique_name: NODRXOUTPREPSUCC
+object_type: metric
+label: NoDrxOutPrepSucc_count
+calculation_method: sum
+dataset: lte-outgoing-handover-without-drx
+column: NoDrxOutPrepSucc_count

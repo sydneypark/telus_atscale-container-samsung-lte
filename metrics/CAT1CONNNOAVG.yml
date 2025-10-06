@@ -1,0 +1,6 @@
+unique_name: CAT1CONNNOAVG
+object_type: metric
+label: Cat1ConnNoAvg_count
+calculation_method: sum
+dataset: lte-cat-1-ue-connection-number
+column: Cat1ConnNoAvg_count

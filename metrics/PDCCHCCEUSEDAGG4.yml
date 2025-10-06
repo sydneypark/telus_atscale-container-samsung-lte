@@ -1,0 +1,6 @@
+unique_name: PDCCHCCEUSEDAGG4
+object_type: metric
+label: PDCCHCceUsedAgg4_count
+calculation_method: sum
+dataset: lte-pdcch-usage-information
+column: PDCCHCceUsedAgg4_count

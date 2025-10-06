@@ -1,0 +1,6 @@
+unique_name: PABIASMODETIME_S_LTE_ENERGY_SAVING_TIME_PA_BIAS_CONTROL
+object_type: metric
+label: PaBiasModeTime_s
+calculation_method: sum
+dataset: lte-energy-saving-time-by-pa-bias-control
+column: PaBiasModeTime_s

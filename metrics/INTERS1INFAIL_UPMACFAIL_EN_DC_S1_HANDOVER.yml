@@ -1,0 +1,6 @@
+unique_name: INTERS1INFAIL_UPMACFAIL_EN_DC_S1_HANDOVER
+object_type: metric
+label: InterS1InFail_UpMacFail_count
+calculation_method: sum
+dataset: lte-en-dc-s1-in-handover
+column: InterS1InFail_UpMacFail_count

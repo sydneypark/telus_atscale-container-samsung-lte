@@ -1,0 +1,6 @@
+unique_name: FEICICCIOCNT
+object_type: metric
+label: FeICICCIOCnt_count
+calculation_method: sum
+dataset: lte-eicic-partnership
+column: FeICICCIOCnt_count

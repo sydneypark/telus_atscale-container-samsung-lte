@@ -1,0 +1,6 @@
+unique_name: HOVOLTEFBOUTFAIL_S1APROTO
+object_type: metric
+label: HOVoLTEFBOutFail_S1apRoTo_count
+calculation_method: sum
+dataset: lte-volte-fallback-handover-statistics
+column: HOVoLTEFBOutFail_S1apRoTo_count

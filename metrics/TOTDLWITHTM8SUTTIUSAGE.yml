@@ -1,0 +1,6 @@
+unique_name: TOTDLWITHTM8SUTTIUSAGE
+object_type: metric
+label: TotDLWithTM8SUTtiUsage_pct
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-tm8-downlink-tti-usage
+column: TotDLWithTM8SUTtiUsage_pct

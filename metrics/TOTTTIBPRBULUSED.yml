@@ -1,0 +1,6 @@
+unique_name: TOTTTIBPRBULUSED
+object_type: metric
+label: TotTtibPrbULUsed_count
+calculation_method: sum
+dataset: lte-tti-bundling-in-mac
+column: TotTtibPrbULUsed_count

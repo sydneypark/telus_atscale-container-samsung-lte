@@ -1,0 +1,46 @@
+unique_name: SIBOwn
+object_type: dimension
+label: SIBOwn
+is_degenerate: true
+hierarchies:
+- unique_name: SIBOwn Hierarchy
+  label: SIBOwn Hierarchy
+  levels:
+  - unique_name: SIBOwn
+level_attributes:
+- unique_name: SIBOwn
+  label: SIBOwn Level
+  shared_degenerate_columns:
+  - name_column: SIBOwn
+    key_columns:
+    - SIBOwn
+    dataset: lte-csfb-geran-cco
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SIBOwn
+    key_columns:
+    - SIBOwn
+    dataset: lte-csfb-geran-redirection
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SIBOwn
+    key_columns:
+    - SIBOwn
+    dataset: lte-csfb-redirection-out
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SIBOwn
+    key_columns:
+    - SIBOwn
+    dataset: lte-geran-cco
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SIBOwn
+    key_columns:
+    - SIBOwn
+    dataset: lte-geran-redirection
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

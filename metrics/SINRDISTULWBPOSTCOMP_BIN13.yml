@@ -1,0 +1,6 @@
+unique_name: SINRDISTULWBPOSTCOMP_BIN13
+object_type: metric
+label: SinrDistULWbPostComp_Bin13_count
+calculation_method: sum
+dataset: lte-sinr-distribution
+column: SinrDistULWbPostComp_Bin13_count

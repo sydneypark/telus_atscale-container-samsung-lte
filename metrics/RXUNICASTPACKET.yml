@@ -1,0 +1,6 @@
+unique_name: RXUNICASTPACKET
+object_type: metric
+label: RxUnicastPacket_count
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: RxUnicastPacket_count

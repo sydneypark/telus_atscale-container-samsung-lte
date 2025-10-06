@@ -1,0 +1,6 @@
+unique_name: DISCARDTHRESHOLDTARGETEARFCNDL_TARGETEARFCNDL
+object_type: metric
+label: DiscardThresholdTargetEarfcnDL_TargetEarfcnDl
+calculation_method: sum
+dataset: lte-discard-mrs-by-handover-threshold
+column: DiscardThresholdTargetEarfcnDL_TargetEarfcnDl

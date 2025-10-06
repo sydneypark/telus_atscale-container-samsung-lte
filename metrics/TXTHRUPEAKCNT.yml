@@ -1,0 +1,6 @@
+unique_name: TXTHRUPEAKCNT
+object_type: metric
+label: TxThruPeakCnt_count
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: TxThruPeakCnt_count

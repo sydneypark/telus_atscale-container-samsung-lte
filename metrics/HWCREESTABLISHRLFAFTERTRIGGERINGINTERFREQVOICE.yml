@@ -1,0 +1,6 @@
+unique_name: HWCREESTABLISHRLFAFTERTRIGGERINGINTERFREQVOICE
+object_type: metric
+label: HwcReestablishRlfAfterTriggeringInterFreqVoice_count
+calculation_method: sum
+dataset: lte-mro-rlf-voice-classification
+column: HwcReestablishRlfAfterTriggeringInterFreqVoice_count

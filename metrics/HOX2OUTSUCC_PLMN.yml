@@ -1,0 +1,6 @@
+unique_name: HOX2OUTSUCC_PLMN
+object_type: metric
+label: HoX2OutSucc_PLMN_count
+calculation_method: sum
+dataset: lte-mobility-data-per-plmn-per-cell
+column: HoX2OutSucc_PLMN_count

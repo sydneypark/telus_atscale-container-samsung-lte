@@ -1,0 +1,6 @@
+unique_name: CALLDROP_ECCBRCVCELLRELEASEINDFROMECMB
+object_type: metric
+label: CallDrop_EccbRcvCellReleaseIndFromEcmb_count
+calculation_method: sum
+dataset: lte-call-drop
+column: CallDrop_EccbRcvCellReleaseIndFromEcmb_count

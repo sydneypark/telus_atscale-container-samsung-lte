@@ -1,0 +1,6 @@
+unique_name: IPTHRUDL
+object_type: metric
+label: IpThruDL_Kbps
+calculation_method: sum
+dataset: lte-air-rlc-packet-per-plmn-per-en-dc-status
+column: IpThruDL_Kbps

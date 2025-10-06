@@ -1,0 +1,6 @@
+unique_name: EICICHOSUCC
+object_type: metric
+label: EICICHOSucc_count
+calculation_method: sum
+dataset: lte-eicic-partnership
+column: EICICHOSucc_count

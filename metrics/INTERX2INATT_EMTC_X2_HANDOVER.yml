@@ -1,0 +1,6 @@
+unique_name: INTERX2INATT_EMTC_X2_HANDOVER
+object_type: metric
+label: InterX2InAtt_count
+calculation_method: sum
+dataset: lte-emtc-x2-in-handover
+column: InterX2InAtt_count

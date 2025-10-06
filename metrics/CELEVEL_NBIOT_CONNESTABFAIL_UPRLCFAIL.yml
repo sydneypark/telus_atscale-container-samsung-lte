@@ -1,0 +1,6 @@
+unique_name: CELEVEL_NBIOT_CONNESTABFAIL_UPRLCFAIL
+object_type: metric
+label: CELevel_NBIoT_ConnEstabFail_UpRlcFail_count
+calculation_method: sum
+dataset: lte-nb-iot-rrc-connection-establishment-per-ce-level
+column: CELevel_NBIoT_ConnEstabFail_UpRlcFail_count

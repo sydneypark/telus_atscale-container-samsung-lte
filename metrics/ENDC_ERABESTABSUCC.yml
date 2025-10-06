@@ -1,0 +1,6 @@
+unique_name: ENDC_ERABESTABSUCC
+object_type: metric
+label: EnDc_ErabEstabSucc_count
+calculation_method: sum
+dataset: lte-en-dc-e-rab-establish-information
+column: EnDc_ErabEstabSucc_count

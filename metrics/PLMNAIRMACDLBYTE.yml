@@ -1,0 +1,6 @@
+unique_name: PLMNAIRMACDLBYTE
+object_type: metric
+label: PLMNAirMacDLByte_Kbytes
+calculation_method: sum
+dataset: lte-air-mac-packet-per-plmn
+column: PLMNAirMacDLByte_Kbytes

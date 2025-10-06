@@ -1,0 +1,6 @@
+unique_name: RELFAILNBR_CPCCFAIL
+object_type: metric
+label: RelFailNbr_CpCcFail_count
+calculation_method: sum
+dataset: lte-e-rab-release
+column: RelFailNbr_CpCcFail_count

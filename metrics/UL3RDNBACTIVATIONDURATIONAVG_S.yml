@@ -1,0 +1,6 @@
+unique_name: UL3RDNBACTIVATIONDURATIONAVG_S
+object_type: metric
+label: UL3rdNBActivationDurationAvg_s
+calculation_method: sum
+dataset: lte-emtc-nb-state
+column: UL3rdNBActivationDurationAvg_s

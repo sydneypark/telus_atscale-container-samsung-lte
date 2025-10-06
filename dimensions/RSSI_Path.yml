@@ -1,0 +1,22 @@
+unique_name: RSSI_Path
+object_type: dimension
+label: RSSI_Path
+is_degenerate: true
+hierarchies:
+- unique_name: RSSI_Path Hierarchy
+  label: RSSI_Path Hierarchy
+  levels:
+  - unique_name: RSSI_Path
+level_attributes:
+- unique_name: RSSI_Path
+  label: RSSI_Path Level
+  shared_degenerate_columns:
+  - name_column: RSSI_Path
+    key_columns:
+    - RSSI_Path
+    dataset: nr-rssi-of-each-path-measured-by-mac
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

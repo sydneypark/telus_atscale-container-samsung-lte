@@ -1,0 +1,6 @@
+unique_name: CELEVEL_NBIOT_CONNESTABREJECT_S1APMMEOVLD
+object_type: metric
+label: CELevel_NBIoT_ConnEstabReject_S1apMmeOvld_count
+calculation_method: sum
+dataset: lte-nb-iot-rrc-connection-establishment-per-ce-level
+column: CELevel_NBIoT_ConnEstabReject_S1apMmeOvld_count

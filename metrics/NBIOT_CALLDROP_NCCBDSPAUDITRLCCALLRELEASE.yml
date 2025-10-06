@@ -1,0 +1,6 @@
+unique_name: NBIOT_CALLDROP_NCCBDSPAUDITRLCCALLRELEASE
+object_type: metric
+label: NBIoT_CallDrop_NccbDspAuditRlcCallRelease_count
+calculation_method: sum
+dataset: lte-nb-iot-call-drop
+column: NBIoT_CallDrop_NccbDspAuditRlcCallRelease_count

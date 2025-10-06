@@ -1,0 +1,6 @@
+unique_name: SUMHOINTRAATT
+object_type: metric
+label: SumHoIntraAtt_count
+calculation_method: sum
+dataset: lte-mobility
+column: SumHoIntraAtt_count

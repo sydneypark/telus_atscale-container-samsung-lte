@@ -1,0 +1,34 @@
+unique_name: LogicalBeamID
+object_type: dimension
+label: LogicalBeamID
+is_degenerate: true
+hierarchies:
+- unique_name: LogicalBeamID Hierarchy
+  label: LogicalBeamID Hierarchy
+  levels:
+  - unique_name: LogicalBeamID
+level_attributes:
+- unique_name: LogicalBeamID
+  label: LogicalBeamID Level
+  shared_degenerate_columns:
+  - name_column: LogicalBeamID
+    key_columns:
+    - LogicalBeamID
+    dataset: nr-physical-random-access-channel-for-scell-ue-in-nr-for-beam
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: LogicalBeamID
+    key_columns:
+    - LogicalBeamID
+    dataset: nr-physical-random-access-channel-in-nr-for-beam
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: LogicalBeamID
+    key_columns:
+    - LogicalBeamID
+    dataset: nr-physical-random-access-channel-of-redcap-in-nr-for-beam
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

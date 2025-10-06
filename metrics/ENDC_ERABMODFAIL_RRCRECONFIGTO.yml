@@ -1,0 +1,6 @@
+unique_name: ENDC_ERABMODFAIL_RRCRECONFIGTO
+object_type: metric
+label: EnDc_ErabModFail_RrcReconfigTO_count
+calculation_method: sum
+dataset: lte-en-dc-e-rab-modification-information
+column: EnDc_ErabModFail_RrcReconfigTO_count

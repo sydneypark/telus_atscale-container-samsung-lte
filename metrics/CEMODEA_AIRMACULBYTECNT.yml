@@ -1,0 +1,6 @@
+unique_name: CEMODEA_AIRMACULBYTECNT
+object_type: metric
+label: CEModeA_AirMacULByteCnt_count
+calculation_method: sum
+dataset: lte-emtc-air-mac-packet
+column: CEModeA_AirMacULByteCnt_count

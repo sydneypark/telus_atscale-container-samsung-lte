@@ -1,0 +1,6 @@
+unique_name: TM9DLRECEIVEDRI4_TM9UE
+object_type: metric
+label: TM9DLReceivedRI4_TM9UE_count
+calculation_method: sum
+dataset: lte-dl-ri-tm8tm9ue
+column: TM9DLReceivedRI4_TM9UE_count

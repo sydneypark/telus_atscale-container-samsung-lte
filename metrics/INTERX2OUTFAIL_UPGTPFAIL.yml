@@ -1,0 +1,6 @@
+unique_name: INTERX2OUTFAIL_UPGTPFAIL
+object_type: metric
+label: InterX2OutFail_UpGtpFail_count
+calculation_method: sum
+dataset: lte-x2-out-handover
+column: InterX2OutFail_UpGtpFail_count

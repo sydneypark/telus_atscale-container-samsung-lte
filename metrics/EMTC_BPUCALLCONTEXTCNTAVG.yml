@@ -1,0 +1,6 @@
+unique_name: EMTC_BPUCALLCONTEXTCNTAVG
+object_type: metric
+label: eMTC_BpuCallContextCntAvg_count
+calculation_method: sum
+dataset: lte-emtc-call-context-per-bpu
+column: eMTC_BpuCallContextCntAvg_count

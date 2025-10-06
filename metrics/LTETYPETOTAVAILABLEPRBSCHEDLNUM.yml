@@ -1,0 +1,6 @@
+unique_name: LTETYPETOTAVAILABLEPRBSCHEDLNUM
+object_type: metric
+label: LteTypeTotAvailablePrbScheDLNum_count
+calculation_method: sum
+dataset: lte-dl-prb-usage-per-lte-type
+column: LteTypeTotAvailablePrbScheDLNum_count

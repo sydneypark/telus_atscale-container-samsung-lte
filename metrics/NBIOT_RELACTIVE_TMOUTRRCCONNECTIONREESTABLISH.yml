@@ -1,0 +1,6 @@
+unique_name: NBIOT_RELACTIVE_TMOUTRRCCONNECTIONREESTABLISH
+object_type: metric
+label: NBIoT_RelActive_TmoutRrcConnectionReestablish_count
+calculation_method: sum
+dataset: lte-nb-iot-e-rab-release
+column: NBIoT_RelActive_TmoutRrcConnectionReestablish_count

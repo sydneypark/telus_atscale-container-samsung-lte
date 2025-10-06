@@ -1,0 +1,6 @@
+unique_name: OUTPKTS_CONTAINER_LTE_ETHERNET_CNF
+object_type: metric
+label: OutPkts_Container_count
+calculation_method: sum
+dataset: lte-ethernet-packet-for-cnf
+column: OutPkts_Container_count

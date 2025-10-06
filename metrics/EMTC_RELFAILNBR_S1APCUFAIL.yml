@@ -1,0 +1,6 @@
+unique_name: EMTC_RELFAILNBR_S1APCUFAIL
+object_type: metric
+label: eMTC_RelFailNbr_S1apCuFail_count
+calculation_method: sum
+dataset: lte-emtc-e-rab-release
+column: eMTC_RelFailNbr_S1apCuFail_count

@@ -1,0 +1,6 @@
+unique_name: NBRRANKLEQ1000
+object_type: metric
+label: NbrRankLeq1000_count
+calculation_method: sum
+dataset: lte-the-number-of-neighbor-relations
+column: NbrRankLeq1000_count

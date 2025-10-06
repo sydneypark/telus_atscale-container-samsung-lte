@@ -1,0 +1,6 @@
+unique_name: UPGRADEATTEMPTSCELL
+object_type: metric
+label: UpgradeAttemptScell_count
+calculation_method: sum
+dataset: lte-ul-256qam-active
+column: UpgradeAttemptScell_count

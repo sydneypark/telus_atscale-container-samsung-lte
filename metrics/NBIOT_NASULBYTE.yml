@@ -1,0 +1,6 @@
+unique_name: NBIOT_NASULBYTE
+object_type: metric
+label: NBIoT_NasULByte_bytes
+calculation_method: sum
+dataset: lte-nb-iot-nas-packet
+column: NBIoT_NasULByte_bytes

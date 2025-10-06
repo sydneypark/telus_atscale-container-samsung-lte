@@ -1,0 +1,6 @@
+unique_name: ECGIFAILDRX_KNOWNPCIHO
+object_type: metric
+label: EcgiFailDrx_KnownPciHo_count
+calculation_method: sum
+dataset: lte-ecgi-report
+column: EcgiFailDrx_KnownPciHo_count

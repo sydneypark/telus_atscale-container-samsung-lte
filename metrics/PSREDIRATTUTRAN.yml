@@ -1,0 +1,6 @@
+unique_name: PSREDIRATTUTRAN
+object_type: metric
+label: PsRedirAttUtran_count
+calculation_method: sum
+dataset: lte-ps-redirection-utran-out
+column: PsRedirAttUtran_count

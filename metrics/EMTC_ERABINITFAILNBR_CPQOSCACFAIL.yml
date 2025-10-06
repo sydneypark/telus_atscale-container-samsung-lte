@@ -1,0 +1,6 @@
+unique_name: EMTC_ERABINITFAILNBR_CPQOSCACFAIL
+object_type: metric
+label: eMTC_ErabInitFailNbr_CpQosCacFail_count
+calculation_method: sum
+dataset: lte-emtc-e-rab-setup
+column: eMTC_ErabInitFailNbr_CpQosCacFail_count

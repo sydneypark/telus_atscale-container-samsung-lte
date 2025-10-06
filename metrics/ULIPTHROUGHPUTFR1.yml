@@ -1,0 +1,6 @@
+unique_name: ULIPTHROUGHPUTFR1
+object_type: metric
+label: ULIpThroughputFr1_Kbps
+calculation_method: sum
+dataset: lte-ul-ip-throughput-per-endc-status
+column: ULIpThroughputFr1_Kbps

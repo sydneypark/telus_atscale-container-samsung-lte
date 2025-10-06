@@ -1,0 +1,6 @@
+unique_name: IPTHRUMIN
+object_type: metric
+label: IpThruMin_Kbps
+calculation_method: sum
+dataset: lte-air-rlc-packet
+column: IpThruMin_Kbps

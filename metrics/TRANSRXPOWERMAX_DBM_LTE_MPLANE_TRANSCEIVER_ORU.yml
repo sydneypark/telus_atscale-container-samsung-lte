@@ -1,0 +1,6 @@
+unique_name: TRANSRXPOWERMAX_DBM_LTE_MPLANE_TRANSCEIVER_ORU
+object_type: metric
+label: TransRxPowerMax_dBm
+calculation_method: sum
+dataset: lte-mplane-transceiver-of-oru
+column: TransRxPowerMax_dBm

@@ -1,0 +1,6 @@
+unique_name: SCELLACTFAILSCELLSETUPTIMEOUT_CARRIER_AGGREGATION_MESSAGE_CO
+object_type: metric
+label: SCellActFailSCellSetupTimeOut_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-message-count-for-activation-deactivati
+column: SCellActFailSCellSetupTimeOut_count

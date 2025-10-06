@@ -1,0 +1,6 @@
+unique_name: BROADCAST_TOTPRBDLNB2AVG
+object_type: metric
+label: Broadcast_TotPrbDLNb2Avg_pct
+calculation_method: sum
+dataset: lte-emtc-total-prb-usage
+column: Broadcast_TotPrbDLNb2Avg_pct

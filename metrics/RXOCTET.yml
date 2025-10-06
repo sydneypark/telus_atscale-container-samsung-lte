@@ -1,0 +1,6 @@
+unique_name: RXOCTET
+object_type: metric
+label: RxOctet_Mbytes
+calculation_method: sum
+dataset: lte-ethernet-packet-per-vlan
+column: RxOctet_Mbytes

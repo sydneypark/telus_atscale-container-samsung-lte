@@ -1,0 +1,28 @@
+unique_name: GridEMF
+object_type: dimension
+label: GridEMF
+is_degenerate: true
+hierarchies:
+- unique_name: GridEMF Hierarchy
+  label: GridEMF Hierarchy
+  levels:
+  - unique_name: GridEMF
+level_attributes:
+- unique_name: GridEMF
+  label: GridEMF Level
+  shared_degenerate_columns:
+  - name_column: GridEMF
+    key_columns:
+    - GridEMF
+    dataset: nr-emf-exposure-per-grid
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: GridEMF
+    key_columns:
+    - GridEMF
+    dataset: nr-emf-time-average-exposure-per-grid
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

@@ -1,0 +1,6 @@
+unique_name: _0X0109_S1AP_TS1RELOCPREPEXPIRY
+object_type: metric
+label: _0x0109_S1ap_TS1RelocPrepExpiry_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0109_S1ap_TS1RelocPrepExpiry_count

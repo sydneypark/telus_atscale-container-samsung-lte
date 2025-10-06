@@ -1,0 +1,6 @@
+unique_name: ULQUALITYHOOUTCID_TCID
+object_type: metric
+label: ULQualityHoOutCid_tcID
+calculation_method: sum
+dataset: lte-outgoing-ul-quality-based-handover
+column: ULQualityHoOutCid_tcID

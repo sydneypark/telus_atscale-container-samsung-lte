@@ -1,0 +1,6 @@
+unique_name: SGNBCHANGE_ADDPREPFAIL
+object_type: metric
+label: SgnbChange_AddPrepFail_count
+calculation_method: sum
+dataset: lte-sgnb-addition-due-to-scg-mobility
+column: SgnbChange_AddPrepFail_count

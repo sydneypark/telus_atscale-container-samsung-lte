@@ -1,0 +1,6 @@
+unique_name: NBIOT_RELACTIVE_RESETRELEASE
+object_type: metric
+label: NBIoT_RelActive_ResetRelease_count
+calculation_method: sum
+dataset: lte-nb-iot-e-rab-release
+column: NBIoT_RelActive_ResetRelease_count

@@ -1,0 +1,58 @@
+unique_name: BPU_ID
+object_type: dimension
+label: BPU_ID
+is_degenerate: true
+hierarchies:
+- unique_name: BPU_ID Hierarchy
+  label: BPU_ID Hierarchy
+  levels:
+  - unique_name: BPU_ID
+level_attributes:
+- unique_name: BPU_ID
+  label: BPU_ID Level
+  shared_degenerate_columns:
+  - name_column: BPU_ID
+    key_columns:
+    - BPU_ID
+    dataset: lte-ca-ue-per-bpu
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: BPU_ID
+    key_columns:
+    - BPU_ID
+    dataset: lte-emtc-call-context-per-bpu
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: BPU_ID
+    key_columns:
+    - BPU_ID
+    dataset: lte-lte-call-context-per-bpu
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: BPU_ID
+    key_columns:
+    - BPU_ID
+    dataset: lte-lte-served-bearer-status-per-bpu
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: BPU_ID
+    key_columns:
+    - BPU_ID
+    dataset: nr-bearer-number-in-bpu-nr
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: BPU_ID
+    key_columns:
+    - BPU_ID
+    dataset: nr-call-number-in-bpu-nr
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: BPU_ID
+    key_columns:
+    - BPU_ID
+    dataset: nr-ue-number-per-bpu
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

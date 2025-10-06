@@ -1,0 +1,6 @@
+unique_name: EPETEMPAVGTOT_C_LTE_ENERGY_POWER_ENVIRONMENTAL_STATISTICS_MP
+object_type: metric
+label: EpeTempAvgTot_C
+calculation_method: sum
+dataset: lte-energy-power-and-environmental-statistics-of-mplane
+column: EpeTempAvgTot_C

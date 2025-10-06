@@ -1,0 +1,6 @@
+unique_name: HISTOGRAMRQACNT
+object_type: metric
+label: HistogramRqaCnt_count
+calculation_method: sum
+dataset: lte-histogram-of-rsrp-and-rsrq-for-rqa
+column: HistogramRqaCnt_count

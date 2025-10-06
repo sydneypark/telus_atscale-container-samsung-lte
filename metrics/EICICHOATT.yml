@@ -1,0 +1,6 @@
+unique_name: EICICHOATT
+object_type: metric
+label: EICICHOAtt_count
+calculation_method: sum
+dataset: lte-eicic-partnership
+column: EICICHOAtt_count

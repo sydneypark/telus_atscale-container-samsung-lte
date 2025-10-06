@@ -1,0 +1,6 @@
+unique_name: CELLCALLCONTEXTCNTCNT
+object_type: metric
+label: CellCallContextCntCnt_count
+calculation_method: sum
+dataset: lte-lte-call-context-per-cell
+column: CellCallContextCntCnt_count

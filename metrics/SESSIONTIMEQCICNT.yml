@@ -1,0 +1,6 @@
+unique_name: SESSIONTIMEQCICNT
+object_type: metric
+label: SessionTimeQciCnt_count
+calculation_method: sum
+dataset: lte-e-rab-session-time-per-qci
+column: SessionTimeQciCnt_count

@@ -1,0 +1,6 @@
+unique_name: RRUCCEALLOCATIONFAILDL
+object_type: metric
+label: RruCceAllocationFailDL_count
+calculation_method: sum
+dataset: lte-rru-measurement-info
+column: RruCceAllocationFailDL_count

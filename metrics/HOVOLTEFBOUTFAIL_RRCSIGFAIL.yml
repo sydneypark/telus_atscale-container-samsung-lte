@@ -1,0 +1,6 @@
+unique_name: HOVOLTEFBOUTFAIL_RRCSIGFAIL
+object_type: metric
+label: HOVoLTEFBOutFail_RrcSigFail_count
+calculation_method: sum
+dataset: lte-volte-fallback-handover-statistics
+column: HOVoLTEFBOutFail_RrcSigFail_count

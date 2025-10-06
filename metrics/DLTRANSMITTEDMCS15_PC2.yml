@@ -1,0 +1,6 @@
+unique_name: DLTRANSMITTEDMCS15_PC2
+object_type: metric
+label: DLTransmittedMcs15_PC2_count
+calculation_method: sum
+dataset: lte-dl-mcs-for-power-class-2-ue
+column: DLTransmittedMcs15_PC2_count

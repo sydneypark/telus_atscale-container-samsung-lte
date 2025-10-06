@@ -1,0 +1,6 @@
+unique_name: IPLATEDLCNT
+object_type: metric
+label: IpLateDLCnt_count
+calculation_method: sum
+dataset: lte-ip-latency
+column: IpLateDLCnt_count

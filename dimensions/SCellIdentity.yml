@@ -1,0 +1,28 @@
+unique_name: SCellIdentity
+object_type: dimension
+label: SCellIdentity
+is_degenerate: true
+hierarchies:
+- unique_name: SCellIdentity Hierarchy
+  label: SCellIdentity Hierarchy
+  levels:
+  - unique_name: SCellIdentity
+level_attributes:
+- unique_name: SCellIdentity
+  label: SCellIdentity Level
+  shared_degenerate_columns:
+  - name_column: SCellIdentity
+    key_columns:
+    - SCellIdentity
+    dataset: nr-ca-action-in-gnb-du
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SCellIdentity
+    key_columns:
+    - SCellIdentity
+    dataset: nr-ul-ca-configuration
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

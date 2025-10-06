@@ -1,0 +1,6 @@
+unique_name: DISCARDBYVOICECONGESTIONAVOIDANCE
+object_type: metric
+label: DiscardbyVoiceCongestionAvoidance_count
+calculation_method: sum
+dataset: lte-discard-mrs-by-handover-threshold
+column: DiscardbyVoiceCongestionAvoidance_count

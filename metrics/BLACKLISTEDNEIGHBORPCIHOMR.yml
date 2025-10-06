@@ -1,0 +1,6 @@
+unique_name: BLACKLISTEDNEIGHBORPCIHOMR
+object_type: metric
+label: BlacklistedNeighborPciHoMr_count
+calculation_method: sum
+dataset: lte-inter-rat-nr-mr-classification
+column: BlacklistedNeighborPciHoMr_count

@@ -1,0 +1,6 @@
+unique_name: PDCPSDUTOTALDLNUM_PRC
+object_type: metric
+label: PdcpSduTotalDLNum_count
+calculation_method: sum
+dataset: lte-packet-loss-rate-per-prc
+column: PdcpSduTotalDLNum_count

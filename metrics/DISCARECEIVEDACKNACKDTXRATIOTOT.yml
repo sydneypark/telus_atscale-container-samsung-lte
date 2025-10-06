@@ -1,0 +1,6 @@
+unique_name: DISCARECEIVEDACKNACKDTXRATIOTOT
+object_type: metric
+label: DISCAReceivedAckNackDtxRatioTot_pct
+calculation_method: sum
+dataset: lte-disca-ack-nack-dtx-ratio
+column: DISCAReceivedAckNackDtxRatioTot_pct

@@ -1,0 +1,6 @@
+unique_name: SUMHOINTERRATHRPDPREPSUCC
+object_type: metric
+label: SumHoInterRatHrpdPrepSucc_count
+calculation_method: sum
+dataset: lte-mobility
+column: SumHoInterRatHrpdPrepSucc_count

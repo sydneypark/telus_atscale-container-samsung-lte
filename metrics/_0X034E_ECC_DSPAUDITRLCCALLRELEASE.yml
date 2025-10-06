@@ -1,0 +1,6 @@
+unique_name: _0X034E_ECC_DSPAUDITRLCCALLRELEASE
+object_type: metric
+label: _0x034E_Ecc_DspAuditRlcCallRelease_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x034E_Ecc_DspAuditRlcCallRelease_count

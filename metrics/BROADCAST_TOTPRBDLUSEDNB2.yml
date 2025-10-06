@@ -1,0 +1,6 @@
+unique_name: BROADCAST_TOTPRBDLUSEDNB2
+object_type: metric
+label: Broadcast_TotPrbDLUsedNb2_count
+calculation_method: sum
+dataset: lte-emtc-total-prb-usage
+column: Broadcast_TotPrbDLUsedNb2_count

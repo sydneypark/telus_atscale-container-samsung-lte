@@ -1,0 +1,6 @@
+unique_name: CEMODEB_DLSCHEDULEDUEPERTTIMAX
+object_type: metric
+label: CEModeB_DLScheduledUEperTTIMax_count
+calculation_method: sum
+dataset: lte-emtc-scheduled-ue-number
+column: CEModeB_DLScheduledUEperTTIMax_count

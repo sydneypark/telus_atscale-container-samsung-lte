@@ -1,0 +1,6 @@
+unique_name: RELABNORMALBYENBQCI_ARQMAXRETRANSMISSION
+object_type: metric
+label: RelAbnormalbyEnbQci_ArqMaxReTransmission_count
+calculation_method: sum
+dataset: lte-e-rab-release-by-enb-per-cell-per-qci
+column: RelAbnormalbyEnbQci_ArqMaxReTransmission_count

@@ -1,0 +1,6 @@
+unique_name: AIRRLCDLTHRUCNT
+object_type: metric
+label: AirRlcDLThruCnt_count
+calculation_method: sum
+dataset: lte-air-rlc-packet
+column: AirRlcDLThruCnt_count

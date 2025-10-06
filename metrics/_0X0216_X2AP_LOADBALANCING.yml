@@ -1,0 +1,6 @@
+unique_name: _0X0216_X2AP_LOADBALANCING
+object_type: metric
+label: _0x0216_X2ap_LoadBalancing_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0216_X2ap_LoadBalancing_count

@@ -1,0 +1,6 @@
+unique_name: CALLDROPQCI_ECCBS1SCTPOUTOFSERVICE
+object_type: metric
+label: CallDropQci_EccbS1SctpOutOfService_count
+calculation_method: sum
+dataset: lte-call-drop-per-qci
+column: CallDropQci_EccbS1SctpOutOfService_count

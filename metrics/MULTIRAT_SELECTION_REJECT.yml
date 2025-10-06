@@ -1,0 +1,6 @@
+unique_name: MULTIRAT_SELECTION_REJECT
+object_type: metric
+label: MultiRat_Selection_Reject_count
+calculation_method: sum
+dataset: lte-multi-rat-selection-information-per-cell
+column: MultiRat_Selection_Reject_count

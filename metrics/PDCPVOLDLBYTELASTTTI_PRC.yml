@@ -1,0 +1,6 @@
+unique_name: PDCPVOLDLBYTELASTTTI_PRC
+object_type: metric
+label: PdcpVolDlByteLastTTI_prc_Kbytes
+calculation_method: sum
+dataset: lte-pdcp-ip-tp-prc-statistics-for-last-tti
+column: PdcpVolDlByteLastTTI_prc_Kbytes

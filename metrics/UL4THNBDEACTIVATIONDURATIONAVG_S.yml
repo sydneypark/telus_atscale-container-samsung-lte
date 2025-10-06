@@ -1,0 +1,6 @@
+unique_name: UL4THNBDEACTIVATIONDURATIONAVG_S
+object_type: metric
+label: UL4thNBDeactivationDurationAvg_s
+calculation_method: sum
+dataset: lte-emtc-nb-state
+column: UL4thNBDeactivationDurationAvg_s

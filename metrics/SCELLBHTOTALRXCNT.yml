@@ -1,0 +1,6 @@
+unique_name: SCELLBHTOTALRXCNT
+object_type: metric
+label: SCellBhTotalRxCnt_count
+calculation_method: sum
+dataset: lte-inter-site-ca-backhaul-user-data
+column: SCellBhTotalRxCnt_count

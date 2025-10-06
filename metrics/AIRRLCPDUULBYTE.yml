@@ -1,0 +1,6 @@
+unique_name: AIRRLCPDUULBYTE
+object_type: metric
+label: AirRlcPduULByte_Kbytes
+calculation_method: sum
+dataset: lte-air-rlc-packet-per-plmn-per-en-dc-status
+column: AirRlcPduULByte_Kbytes

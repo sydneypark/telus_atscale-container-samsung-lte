@@ -1,0 +1,6 @@
+unique_name: _0X034A_ECC_RCVS1RESETFROMMME_EMTC_CALL_FAIL
+object_type: metric
+label: _0x034A_Ecc_RcvS1ResetFromMme_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x034A_Ecc_RcvS1ResetFromMme_count

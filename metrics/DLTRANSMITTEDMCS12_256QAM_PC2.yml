@@ -1,0 +1,6 @@
+unique_name: DLTRANSMITTEDMCS12_256QAM_PC2
+object_type: metric
+label: DLTransmittedMcs12_256QAM_PC2_count
+calculation_method: sum
+dataset: lte-dl-mcs-256qam-for-power-class-2-ue
+column: DLTransmittedMcs12_256QAM_PC2_count

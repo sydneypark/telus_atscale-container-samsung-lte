@@ -1,0 +1,6 @@
+unique_name: DLVOLTECQI10
+object_type: metric
+label: DLVoLTECQI10_count
+calculation_method: sum
+dataset: lte-cqi-for-dl-volte-bearer
+column: DLVoLTECQI10_count

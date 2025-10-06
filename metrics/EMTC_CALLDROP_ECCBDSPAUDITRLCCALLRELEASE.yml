@@ -1,0 +1,6 @@
+unique_name: EMTC_CALLDROP_ECCBDSPAUDITRLCCALLRELEASE
+object_type: metric
+label: eMTC_CallDrop_EccbDspAuditRlcCallRelease_count
+calculation_method: sum
+dataset: lte-emtc-call-drop
+column: eMTC_CallDrop_EccbDspAuditRlcCallRelease_count

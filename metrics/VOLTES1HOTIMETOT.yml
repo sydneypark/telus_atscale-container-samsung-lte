@@ -1,0 +1,6 @@
+unique_name: VOLTES1HOTIMETOT
+object_type: metric
+label: VoLTES1HoTimeTot_ms
+calculation_method: sum
+dataset: lte-volte-handover-time
+column: VoLTES1HoTimeTot_ms

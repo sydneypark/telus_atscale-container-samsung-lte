@@ -1,0 +1,6 @@
+unique_name: CAADDUEWITHVOLTETOT
+object_type: metric
+label: CaAddUewithVolteTot_count
+calculation_method: sum
+dataset: lte-volte-and-carrier-aggregation-addition-information
+column: CaAddUewithVolteTot_count

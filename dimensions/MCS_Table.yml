@@ -1,0 +1,52 @@
+unique_name: MCS_Table
+object_type: dimension
+label: MCS_Table
+is_degenerate: true
+hierarchies:
+- unique_name: MCS_Table Hierarchy
+  label: MCS_Table Hierarchy
+  levels:
+  - unique_name: MCS_Table
+level_attributes:
+- unique_name: MCS_Table
+  label: MCS_Table Level
+  shared_degenerate_columns:
+  - name_column: MCS_Table
+    key_columns:
+    - MCS_Table
+    dataset: nr-downlink-mcs-bler
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: MCS_Table
+    key_columns:
+    - MCS_Table
+    dataset: nr-downlink-mcs-transmission
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: MCS_Table
+    key_columns:
+    - MCS_Table
+    dataset: nr-downlink-prb-number-with-ri
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: MCS_Table
+    key_columns:
+    - MCS_Table
+    dataset: nr-prb-number-with-ri-for-redcap
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: MCS_Table
+    key_columns:
+    - MCS_Table
+    dataset: nr-redcap-downlink-mcs-bler
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: MCS_Table
+    key_columns:
+    - MCS_Table
+    dataset: nr-redcap-downlink-mcs-transmission
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

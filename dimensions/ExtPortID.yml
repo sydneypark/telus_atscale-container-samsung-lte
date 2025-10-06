@@ -1,0 +1,22 @@
+unique_name: ExtPortID
+object_type: dimension
+label: ExtPortID
+is_degenerate: true
+hierarchies:
+- unique_name: ExtPortID Hierarchy
+  label: ExtPortID Hierarchy
+  levels:
+  - unique_name: ExtPortID
+level_attributes:
+- unique_name: ExtPortID
+  label: ExtPortID Level
+  shared_degenerate_columns:
+  - name_column: ExtPortID
+    key_columns:
+    - ExtPortID
+    dataset: nr-ethernet-packet
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

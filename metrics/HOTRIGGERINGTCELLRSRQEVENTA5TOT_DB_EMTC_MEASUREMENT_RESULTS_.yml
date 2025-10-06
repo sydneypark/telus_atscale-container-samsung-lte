@@ -1,0 +1,6 @@
+unique_name: HOTRIGGERINGTCELLRSRQEVENTA5TOT_DB_EMTC_MEASUREMENT_RESULTS_
+object_type: metric
+label: HoTriggeringTcellRsrqEventA5Tot_dB
+calculation_method: sum
+dataset: lte-emtc-measurement-results-of-target-cell
+column: HoTriggeringTcellRsrqEventA5Tot_dB

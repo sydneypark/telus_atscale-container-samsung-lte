@@ -1,0 +1,6 @@
+unique_name: RSSIPATH0AVG_DBM
+object_type: metric
+label: RssiPath0Avg_dBm
+calculation_method: sum
+dataset: lte-power
+column: RssiPath0Avg_dBm

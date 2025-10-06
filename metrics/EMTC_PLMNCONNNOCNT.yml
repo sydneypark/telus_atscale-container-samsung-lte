@@ -1,0 +1,6 @@
+unique_name: EMTC_PLMNCONNNOCNT
+object_type: metric
+label: eMTC_PLMNConnNoCnt_count
+calculation_method: sum
+dataset: lte-emtc-rrc-connection-number-per-plmn
+column: eMTC_PLMNConnNoCnt_count

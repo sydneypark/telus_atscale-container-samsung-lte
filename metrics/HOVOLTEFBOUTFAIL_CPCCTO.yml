@@ -1,0 +1,6 @@
+unique_name: HOVOLTEFBOUTFAIL_CPCCTO
+object_type: metric
+label: HOVoLTEFBOutFail_CpCcTo_count
+calculation_method: sum
+dataset: lte-volte-fallback-handover-statistics
+column: HOVoLTEFBOutFail_CpCcTo_count

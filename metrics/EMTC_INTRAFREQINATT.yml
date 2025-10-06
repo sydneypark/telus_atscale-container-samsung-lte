@@ -1,0 +1,6 @@
+unique_name: EMTC_INTRAFREQINATT
+object_type: metric
+label: eMTC_IntraFreqInAtt_count
+calculation_method: sum
+dataset: lte-emtc-intra-frequency-handover-in
+column: eMTC_IntraFreqInAtt_count

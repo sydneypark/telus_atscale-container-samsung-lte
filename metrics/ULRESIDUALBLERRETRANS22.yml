@@ -1,0 +1,6 @@
+unique_name: ULRESIDUALBLERRETRANS22
+object_type: metric
+label: ULResidualBlerRetrans22_pct
+calculation_method: sum
+dataset: lte-uplink-harq-transmission-bler
+column: ULResidualBlerRetrans22_pct

@@ -1,0 +1,6 @@
+unique_name: DLRESIDUALBLERRETRANS0_TM8SU_256QAM
+object_type: metric
+label: DLResidualBlerRetrans0_TM8SU_256QAM_pct
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-tm8-downlink-256qam-harq-transm
+column: DLResidualBlerRetrans0_TM8SU_256QAM_pct

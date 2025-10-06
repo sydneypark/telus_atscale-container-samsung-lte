@@ -1,0 +1,6 @@
+unique_name: HOTRIGGERINGSCELLRSRQEVENTA3MIN_DB
+object_type: metric
+label: HoTriggeringScellRsrqEventA3Min_dB
+calculation_method: sum
+dataset: lte-measurement-results-of-source-cell
+column: HoTriggeringScellRsrqEventA3Min_dB

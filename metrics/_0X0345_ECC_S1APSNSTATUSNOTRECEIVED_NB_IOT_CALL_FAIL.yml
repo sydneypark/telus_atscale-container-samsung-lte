@@ -1,0 +1,6 @@
+unique_name: _0X0345_ECC_S1APSNSTATUSNOTRECEIVED_NB_IOT_CALL_FAIL
+object_type: metric
+label: _0x0345_Ecc_S1ApSnStatusNotReceived_count
+calculation_method: sum
+dataset: lte-nb-iot-call-fail
+column: _0x0345_Ecc_S1ApSnStatusNotReceived_count

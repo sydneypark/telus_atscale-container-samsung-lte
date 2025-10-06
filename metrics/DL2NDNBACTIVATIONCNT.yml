@@ -1,0 +1,6 @@
+unique_name: DL2NDNBACTIVATIONCNT
+object_type: metric
+label: DL2ndNBActivationCnt_count
+calculation_method: sum
+dataset: lte-emtc-nb-state
+column: DL2ndNBActivationCnt_count

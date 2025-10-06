@@ -1,0 +1,6 @@
+unique_name: UTRANSRVCCOUTSUCC
+object_type: metric
+label: UtranSrvccOutSucc_count
+calculation_method: sum
+dataset: lte-utran-srvcc
+column: UtranSrvccOutSucc_count

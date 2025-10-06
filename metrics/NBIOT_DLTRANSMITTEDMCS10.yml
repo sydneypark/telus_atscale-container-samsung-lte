@@ -1,0 +1,6 @@
+unique_name: NBIOT_DLTRANSMITTEDMCS10
+object_type: metric
+label: NBIoT_DLTransmittedMcs10_count
+calculation_method: sum
+dataset: lte-nb-iot-transmission-times-of-npdsch-and-npusch-per-mcs
+column: NBIoT_DLTransmittedMcs10_count

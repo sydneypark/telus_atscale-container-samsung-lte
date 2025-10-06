@@ -1,0 +1,6 @@
+unique_name: CSFBPSHOUTRANATT
+object_type: metric
+label: CSFBPsHoUtranAtt_count
+calculation_method: sum
+dataset: lte-csfb-ps-out-handover
+column: CSFBPsHoUtranAtt_count

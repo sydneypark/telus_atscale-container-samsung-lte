@@ -1,0 +1,6 @@
+unique_name: CELEVEL_NBIOT_CONTEXT_RELNORMALBYMMEACT
+object_type: metric
+label: CELevel_NBIoT_Context_RelNormalByMmeAct_count
+calculation_method: sum
+dataset: lte-nb-iot-context-release-by-mme-and-enb-per-cell-per-ce-level
+column: CELevel_NBIoT_Context_RelNormalByMmeAct_count

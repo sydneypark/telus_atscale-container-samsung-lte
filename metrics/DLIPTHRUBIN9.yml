@@ -1,0 +1,6 @@
+unique_name: DLIPTHRUBIN9
+object_type: metric
+label: DLIpThruBin9_count
+calculation_method: sum
+dataset: lte-dl-ip-throughput-distribution
+column: DLIpThruBin9_count

@@ -1,0 +1,6 @@
+unique_name: CONNRECONFIGSUCC_LTE_RRC_CONNECTION_RECONFIGURATION
+object_type: metric
+label: ConnReconfigSucc_count
+calculation_method: sum
+dataset: lte-rrc-connection-reconfiguration
+column: ConnReconfigSucc_count

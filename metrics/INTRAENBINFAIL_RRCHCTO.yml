@@ -1,0 +1,6 @@
+unique_name: INTRAENBINFAIL_RRCHCTO
+object_type: metric
+label: IntraEnbInFail_RrcHcTo_count
+calculation_method: sum
+dataset: lte-intra-enb-in-handover
+column: IntraEnbInFail_RrcHcTo_count

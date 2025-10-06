@@ -1,0 +1,6 @@
+unique_name: NUMMSG3HOTRIGGEREDNONCONTENTION
+object_type: metric
+label: NumMsg3HoTriggeredNonContention_count
+calculation_method: sum
+dataset: lte-random-access-preambles
+column: NumMsg3HoTriggeredNonContention_count

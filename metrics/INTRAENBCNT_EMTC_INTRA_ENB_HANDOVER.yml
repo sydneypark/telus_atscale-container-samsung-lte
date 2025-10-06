@@ -1,0 +1,6 @@
+unique_name: INTRAENBCNT_EMTC_INTRA_ENB_HANDOVER
+object_type: metric
+label: IntraEnbCnt_count
+calculation_method: sum
+dataset: lte-emtc-intra-enb-handover
+column: IntraEnbCnt_count

@@ -1,0 +1,6 @@
+unique_name: IPRANCASCELLUEAVG
+object_type: metric
+label: IPRanCaSCellUEAvg_count
+calculation_method: sum
+dataset: lte-ip-ran-ca-pcell-and-scell-ues
+column: IPRanCaSCellUEAvg_count

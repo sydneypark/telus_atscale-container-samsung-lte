@@ -1,0 +1,6 @@
+unique_name: PINGPONGCID_NEIGHBORCELL_ID
+object_type: metric
+label: PingpongCid_NeighborCell_ID
+calculation_method: sum
+dataset: lte-ping-pong-handover-classification
+column: PingpongCid_NeighborCell_ID

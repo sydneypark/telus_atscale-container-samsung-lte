@@ -1,0 +1,6 @@
+unique_name: EPECURRENTMIN_A_LTE_ENERGY_POWER_ENVIRONMENTAL_STATISTICS_MP
+object_type: metric
+label: EpeCurrentMin_A
+calculation_method: sum
+dataset: lte-energy-power-and-environmental-statistics-of-mplane
+column: EpeCurrentMin_A

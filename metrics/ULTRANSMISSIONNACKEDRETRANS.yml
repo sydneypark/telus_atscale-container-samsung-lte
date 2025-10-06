@@ -1,0 +1,6 @@
+unique_name: ULTRANSMISSIONNACKEDRETRANS
+object_type: metric
+label: ULTransmissionNackedRetrans_count
+calculation_method: sum
+dataset: lte-uplink-harq-transmission-bler
+column: ULTransmissionNackedRetrans_count

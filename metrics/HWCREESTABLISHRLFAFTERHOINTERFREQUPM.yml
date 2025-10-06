@@ -1,0 +1,6 @@
+unique_name: HWCREESTABLISHRLFAFTERHOINTERFREQUPM
+object_type: metric
+label: HwcReestablishRlfAfterHoInterFreqUpm_count
+calculation_method: sum
+dataset: lte-upm-rlf-classification
+column: HwcReestablishRlfAfterHoInterFreqUpm_count

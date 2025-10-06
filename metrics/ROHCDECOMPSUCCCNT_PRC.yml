@@ -1,0 +1,6 @@
+unique_name: ROHCDECOMPSUCCCNT_PRC
+object_type: metric
+label: RoHCDecompSuccCnt_count
+calculation_method: sum
+dataset: lte-pdcp-packet-per-prc
+column: RoHCDecompSuccCnt_count

@@ -1,0 +1,6 @@
+unique_name: NBIOT_PACKETDLCNT
+object_type: metric
+label: NBIoT_PacketDLCnt_count
+calculation_method: sum
+dataset: lte-nb-iot-pdcp-packet
+column: NBIoT_PacketDLCnt_count

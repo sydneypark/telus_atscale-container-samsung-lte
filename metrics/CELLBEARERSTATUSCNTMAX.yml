@@ -1,0 +1,6 @@
+unique_name: CELLBEARERSTATUSCNTMAX
+object_type: metric
+label: CellBearerStatusCntMax_count
+calculation_method: sum
+dataset: lte-lte-served-bearer-status-per-cell
+column: CellBearerStatusCntMax_count

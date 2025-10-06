@@ -1,0 +1,6 @@
+unique_name: INTERFREQMEASGAPOUTFAIL_X2APLINKFAIL
+object_type: metric
+label: InterFreqMeasGapOutFail_X2apLinkFail_count
+calculation_method: sum
+dataset: lte-outgoing-inter-frequency-handover-with-measurement-gap
+column: InterFreqMeasGapOutFail_X2apLinkFail_count

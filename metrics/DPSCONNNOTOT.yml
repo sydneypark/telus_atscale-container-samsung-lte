@@ -1,0 +1,6 @@
+unique_name: DPSCONNNOTOT
+object_type: metric
+label: DpsConnNoTot_count
+calculation_method: sum
+dataset: lte-rrc-connection-configured-with-dynamic-power-sharing-number
+column: DpsConnNoTot_count

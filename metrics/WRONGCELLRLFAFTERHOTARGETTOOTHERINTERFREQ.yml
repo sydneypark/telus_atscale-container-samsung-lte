@@ -1,0 +1,6 @@
+unique_name: WRONGCELLRLFAFTERHOTARGETTOOTHERINTERFREQ
+object_type: metric
+label: WrongCellRlfAfterHoTargetToOtherInterFreq_count
+calculation_method: sum
+dataset: lte-mro-rlf-classification
+column: WrongCellRlfAfterHoTargetToOtherInterFreq_count

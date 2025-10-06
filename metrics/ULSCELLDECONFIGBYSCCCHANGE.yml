@@ -1,0 +1,6 @@
+unique_name: ULSCELLDECONFIGBYSCCCHANGE
+object_type: metric
+label: ULSCellDeconfigBySccChange_count
+calculation_method: sum
+dataset: lte-uplink-carrier-aggregation-count-for-configuration-deconfig
+column: ULSCellDeconfigBySccChange_count

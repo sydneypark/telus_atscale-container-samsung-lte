@@ -1,0 +1,6 @@
+unique_name: EMTC_INTERENBCONNREESTABREJECT_RLFHONOTPOSSIBLE
+object_type: metric
+label: eMTC_InterEnbConnReEstabReject_RlfHoNotPossible_count
+calculation_method: sum
+dataset: lte-emtc-rrc-connection-re-establishment
+column: eMTC_InterEnbConnReEstabReject_RlfHoNotPossible_count

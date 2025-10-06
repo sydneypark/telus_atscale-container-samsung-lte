@@ -1,0 +1,6 @@
+unique_name: OUTERRORS_CONTAINER_LTE_ETHERNET_CNF
+object_type: metric
+label: OutErrors_Container_count
+calculation_method: sum
+dataset: lte-ethernet-packet-for-cnf
+column: OutErrors_Container_count

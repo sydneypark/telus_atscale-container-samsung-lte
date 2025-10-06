@@ -1,0 +1,6 @@
+unique_name: EMTC_CONNNO2NDNBTOT
+object_type: metric
+label: eMTC_ConnNo2ndNBTot_count
+calculation_method: sum
+dataset: lte-emtc-rrc-connection-number
+column: eMTC_ConnNo2ndNBTot_count

@@ -1,0 +1,6 @@
+unique_name: DRXDEACTATT
+object_type: metric
+label: DrxDeactAtt_count
+calculation_method: sum
+dataset: lte-active-drx
+column: DrxDeactAtt_count

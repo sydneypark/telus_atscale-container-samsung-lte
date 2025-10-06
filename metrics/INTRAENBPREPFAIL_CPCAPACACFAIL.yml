@@ -1,0 +1,6 @@
+unique_name: INTRAENBPREPFAIL_CPCAPACACFAIL
+object_type: metric
+label: IntraEnbPrepFail_CpCapaCacFail_count
+calculation_method: sum
+dataset: lte-intra-enb-handover
+column: IntraEnbPrepFail_CpCapaCacFail_count

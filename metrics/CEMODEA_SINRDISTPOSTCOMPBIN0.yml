@@ -1,0 +1,6 @@
+unique_name: CEMODEA_SINRDISTPOSTCOMPBIN0
+object_type: metric
+label: CEModeA_SinrDistPostCompBin0_count
+calculation_method: sum
+dataset: lte-emtc-sinr-distribution
+column: CEModeA_SinrDistPostCompBin0_count

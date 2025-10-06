@@ -1,0 +1,6 @@
+unique_name: RATINPREPFAILUTRAN_CPCAPACACFAIL
+object_type: metric
+label: RatInPrepFailUtran_CpCapaCacFail_count
+calculation_method: sum
+dataset: lte-inter-rat-utran-ps-in-handover
+column: RatInPrepFailUtran_CpCapaCacFail_count

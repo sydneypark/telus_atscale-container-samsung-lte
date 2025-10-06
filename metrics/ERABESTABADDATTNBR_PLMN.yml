@@ -1,0 +1,6 @@
+unique_name: ERABESTABADDATTNBR_PLMN
+object_type: metric
+label: ErabEstabAddAttNbr_PLMN_count
+calculation_method: sum
+dataset: lte-accessibility-data-per-plmn-per-cell
+column: ErabEstabAddAttNbr_PLMN_count

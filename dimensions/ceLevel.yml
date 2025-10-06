@@ -1,0 +1,40 @@
+unique_name: ceLevel
+object_type: dimension
+label: ceLevel
+is_degenerate: true
+hierarchies:
+- unique_name: ceLevel Hierarchy
+  label: ceLevel Hierarchy
+  levels:
+  - unique_name: ceLevel
+level_attributes:
+- unique_name: ceLevel
+  label: ceLevel Level
+  shared_degenerate_columns:
+  - name_column: ceLevel
+    key_columns:
+    - ceLevel
+    dataset: lte-emtc-e-rab-setup-add-and-call-drop-qci-per-ce-level
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ceLevel
+    key_columns:
+    - ceLevel
+    dataset: lte-emtc-rach-usage
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ceLevel
+    key_columns:
+    - ceLevel
+    dataset: lte-emtc-rrc-connection-establishment-and-call-drop-per-ce-leve
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ceLevel
+    key_columns:
+    - ceLevel
+    dataset: lte-emtc-ue-associated-logical-s1-connection-establishment-per-
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

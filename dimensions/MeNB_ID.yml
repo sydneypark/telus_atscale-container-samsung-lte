@@ -1,0 +1,22 @@
+unique_name: MeNB_ID
+object_type: dimension
+label: MeNB_ID
+is_degenerate: true
+hierarchies:
+- unique_name: MeNB_ID Hierarchy
+  label: MeNB_ID Hierarchy
+  levels:
+  - unique_name: MeNB_ID
+level_attributes:
+- unique_name: MeNB_ID
+  label: MeNB_ID Level
+  shared_degenerate_columns:
+  - name_column: MeNB_ID
+    key_columns:
+    - MeNB_ID
+    dataset: nr-sgnb-addition-due-to-sgnb-change
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

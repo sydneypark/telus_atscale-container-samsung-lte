@@ -1,0 +1,6 @@
+unique_name: UEACTIVEDLAVG
+object_type: metric
+label: UEActiveDLAvg_count
+calculation_method: sum
+dataset: lte-active-ue-number
+column: UEActiveDLAvg_count

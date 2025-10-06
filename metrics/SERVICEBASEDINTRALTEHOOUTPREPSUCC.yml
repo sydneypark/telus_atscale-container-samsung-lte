@@ -1,0 +1,6 @@
+unique_name: SERVICEBASEDINTRALTEHOOUTPREPSUCC
+object_type: metric
+label: ServiceBasedIntraLteHoOutPrepSucc_count
+calculation_method: sum
+dataset: lte-service-based-handover-out
+column: ServiceBasedIntraLteHoOutPrepSucc_count

@@ -1,0 +1,6 @@
+unique_name: NBIOT_ERABINITFAILNBR_RRCSIGTO
+object_type: metric
+label: NBIoT_ErabInitFailNbr_RrcSigTo_count
+calculation_method: sum
+dataset: lte-nb-iot-e-rab-setup
+column: NBIoT_ErabInitFailNbr_RrcSigTo_count

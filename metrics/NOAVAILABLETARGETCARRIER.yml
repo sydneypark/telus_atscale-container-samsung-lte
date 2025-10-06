@@ -1,0 +1,6 @@
+unique_name: NOAVAILABLETARGETCARRIER
+object_type: metric
+label: NoAvailableTargetCarrier_count
+calculation_method: sum
+dataset: lte-preemption-handover
+column: NoAvailableTargetCarrier_count

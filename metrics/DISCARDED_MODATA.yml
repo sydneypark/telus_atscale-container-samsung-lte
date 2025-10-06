@@ -1,0 +1,6 @@
+unique_name: DISCARDED_MODATA
+object_type: metric
+label: Discarded_moData_count
+calculation_method: sum
+dataset: lte-denied-call-by-overload-protection
+column: Discarded_moData_count

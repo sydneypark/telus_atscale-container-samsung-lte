@@ -1,0 +1,6 @@
+unique_name: NUMOFLAANBRSOVERHIGHRSRPAVG
+object_type: metric
+label: NumOfLaaNbrsOverHighRsrpAvg_count
+calculation_method: sum
+dataset: lte-laa-channel-status
+column: NumOfLaaNbrsOverHighRsrpAvg_count

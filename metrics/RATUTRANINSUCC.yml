@@ -1,0 +1,6 @@
+unique_name: RATUTRANINSUCC
+object_type: metric
+label: RatUtranInSucc_count
+calculation_method: sum
+dataset: lte-inter-rat-utran-ps-in-handover
+column: RatUtranInSucc_count

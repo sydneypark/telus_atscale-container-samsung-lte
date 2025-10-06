@@ -1,0 +1,6 @@
+unique_name: RXTHRUPEAKCNT
+object_type: metric
+label: RxThruPeakCnt_count
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: RxThruPeakCnt_count

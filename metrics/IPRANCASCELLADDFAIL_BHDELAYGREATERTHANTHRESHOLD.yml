@@ -1,0 +1,6 @@
+unique_name: IPRANCASCELLADDFAIL_BHDELAYGREATERTHANTHRESHOLD
+object_type: metric
+label: IPRanCaSCellAddFail_BhDelayGreaterThanThreshold_count
+calculation_method: sum
+dataset: lte-ip-ran-ca-pcell-and-scell-ues
+column: IPRanCaSCellAddFail_BhDelayGreaterThanThreshold_count

@@ -1,0 +1,22 @@
+unique_name: PortID
+object_type: dimension
+label: PortID
+is_degenerate: true
+hierarchies:
+- unique_name: PortID Hierarchy
+  label: PortID Hierarchy
+  levels:
+  - unique_name: PortID
+level_attributes:
+- unique_name: PortID
+  label: PortID Level
+  shared_degenerate_columns:
+  - name_column: PortID
+    key_columns:
+    - PortID
+    dataset: nr-vm-ethernet-packet
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

@@ -1,0 +1,6 @@
+unique_name: PREEMTINTERS1OUTSUCC
+object_type: metric
+label: PreemtInterS1OutSucc_count
+calculation_method: sum
+dataset: lte-preemption-handover
+column: PreemtInterS1OutSucc_count

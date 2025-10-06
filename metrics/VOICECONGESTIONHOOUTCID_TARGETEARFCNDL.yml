@@ -1,0 +1,6 @@
+unique_name: VOICECONGESTIONHOOUTCID_TARGETEARFCNDL
+object_type: metric
+label: VoiceCongestionHoOutCid_TargetEarfcnDl
+calculation_method: sum
+dataset: lte-forced-handover-for-voice-congestion-avoid
+column: VoiceCongestionHoOutCid_TargetEarfcnDl

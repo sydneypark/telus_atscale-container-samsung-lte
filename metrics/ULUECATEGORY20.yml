@@ -1,0 +1,6 @@
+unique_name: ULUECATEGORY20
+object_type: metric
+label: ULUECategory20_count
+calculation_method: sum
+dataset: lte-ue-category-per-cell
+column: ULUECategory20_count

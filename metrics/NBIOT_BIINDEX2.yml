@@ -1,0 +1,6 @@
+unique_name: NBIOT_BIINDEX2
+object_type: metric
+label: NBIoT_BiIndex2_count
+calculation_method: sum
+dataset: lte-nb-iot-backoff-value-report
+column: NBIoT_BiIndex2_count

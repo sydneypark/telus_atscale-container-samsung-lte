@@ -1,0 +1,6 @@
+unique_name: PRBULTOT_RRU_MEASUREMENT_INFO
+object_type: metric
+label: PrbUlTot_count
+calculation_method: sum
+dataset: lte-rru-measurement-info
+column: PrbUlTot_count

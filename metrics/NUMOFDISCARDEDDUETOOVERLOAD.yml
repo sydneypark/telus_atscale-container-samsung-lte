@@ -1,0 +1,6 @@
+unique_name: NUMOFDISCARDEDDUETOOVERLOAD
+object_type: metric
+label: NumOfDiscardedDueToOverload_count
+calculation_method: sum
+dataset: lte-load-based-scg-band-selection-for-endc
+column: NumOfDiscardedDueToOverload_count

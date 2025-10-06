@@ -1,0 +1,6 @@
+unique_name: RELATTBYENBNBR_CPCCTO
+object_type: metric
+label: RelAttbyEnbNbr_CpCcTo_count
+calculation_method: sum
+dataset: lte-e-rab-release-request
+column: RelAttbyEnbNbr_CpCcTo_count

@@ -1,0 +1,6 @@
+unique_name: RXLINKUTILIZATIONMAX
+object_type: metric
+label: RxLinkUtilizationMax_pct
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: RxLinkUtilizationMax_pct

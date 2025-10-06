@@ -1,0 +1,6 @@
+unique_name: HWCREESTABLISHRLFAFTERTRIGGERINGATSETUP
+object_type: metric
+label: HwcReestablishRlfAfterTriggeringAtSetup_count
+calculation_method: sum
+dataset: lte-mro-rlf-at-rrc-connection
+column: HwcReestablishRlfAfterTriggeringAtSetup_count

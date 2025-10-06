@@ -1,0 +1,6 @@
+unique_name: CAT1PRBULNUM
+object_type: metric
+label: Cat1PrbULNum_count
+calculation_method: sum
+dataset: lte-prb-usage-for-category-1-ues
+column: Cat1PrbULNum_count

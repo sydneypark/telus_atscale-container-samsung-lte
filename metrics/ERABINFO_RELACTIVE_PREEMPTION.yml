@@ -1,0 +1,6 @@
+unique_name: ERABINFO_RELACTIVE_PREEMPTION
+object_type: metric
+label: ErabInfo_RelActive_Preemption_count
+calculation_method: sum
+dataset: lte-e-rab-setup-modification-release-information-per-plmn-and-q
+column: ErabInfo_RelActive_Preemption_count

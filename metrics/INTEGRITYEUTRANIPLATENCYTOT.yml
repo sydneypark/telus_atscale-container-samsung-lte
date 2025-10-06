@@ -1,0 +1,6 @@
+unique_name: INTEGRITYEUTRANIPLATENCYTOT
+object_type: metric
+label: IntegrityEutranIpLatencyTot_ms
+calculation_method: sum
+dataset: lte-integrity
+column: IntegrityEutranIpLatencyTot_ms

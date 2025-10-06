@@ -1,0 +1,6 @@
+unique_name: WRONGCELLRLFAFTERTRIGGERINGINTERFREQUPM
+object_type: metric
+label: WrongCellRlfAfterTriggeringInterFreqUpm_count
+calculation_method: sum
+dataset: lte-upm-rlf-classification
+column: WrongCellRlfAfterTriggeringInterFreqUpm_count

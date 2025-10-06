@@ -1,0 +1,6 @@
+unique_name: SUMHOINTERRATHRPDATT
+object_type: metric
+label: SumHoInterRatHrpdAtt_count
+calculation_method: sum
+dataset: lte-mobility
+column: SumHoInterRatHrpdAtt_count

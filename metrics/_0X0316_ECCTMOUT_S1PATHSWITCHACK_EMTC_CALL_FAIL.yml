@@ -1,0 +1,6 @@
+unique_name: _0X0316_ECCTMOUT_S1PATHSWITCHACK_EMTC_CALL_FAIL
+object_type: metric
+label: _0x0316_EccTmout_S1PathSwitchAck_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x0316_EccTmout_S1PathSwitchAck_count

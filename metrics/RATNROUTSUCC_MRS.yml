@@ -1,0 +1,6 @@
+unique_name: RATNROUTSUCC_MRS
+object_type: metric
+label: RatNrOutSucc_MRS_count
+calculation_method: sum
+dataset: lte-inter-rat-nr-outgoing-handover
+column: RatNrOutSucc_MRS_count

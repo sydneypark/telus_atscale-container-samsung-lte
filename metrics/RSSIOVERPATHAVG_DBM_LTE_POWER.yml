@@ -1,0 +1,6 @@
+unique_name: RSSIOVERPATHAVG_DBM_LTE_POWER
+object_type: metric
+label: RssiOverPathAvg_dBm
+calculation_method: sum
+dataset: lte-power
+column: RssiOverPathAvg_dBm

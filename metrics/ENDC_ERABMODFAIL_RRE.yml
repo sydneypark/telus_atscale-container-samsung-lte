@@ -1,0 +1,6 @@
+unique_name: ENDC_ERABMODFAIL_RRE
+object_type: metric
+label: EnDc_ErabModFail_Rre_count
+calculation_method: sum
+dataset: lte-en-dc-e-rab-modification-information
+column: EnDc_ErabModFail_Rre_count

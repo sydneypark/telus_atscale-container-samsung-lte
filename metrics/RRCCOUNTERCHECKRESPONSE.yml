@@ -1,0 +1,6 @@
+unique_name: RRCCOUNTERCHECKRESPONSE
+object_type: metric
+label: RrcCounterCheckResponse_count
+calculation_method: sum
+dataset: lte-rrc-message-per-cell
+column: RrcCounterCheckResponse_count

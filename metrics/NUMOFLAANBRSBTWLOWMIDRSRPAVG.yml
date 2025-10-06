@@ -1,0 +1,6 @@
+unique_name: NUMOFLAANBRSBTWLOWMIDRSRPAVG
+object_type: metric
+label: NumOfLaaNbrsBtwLowMidRsrpAvg_count
+calculation_method: sum
+dataset: lte-laa-channel-status
+column: NumOfLaaNbrsBtwLowMidRsrpAvg_count

@@ -1,0 +1,6 @@
+unique_name: PCCFORCA_HOEXECUTIONSUCC
+object_type: metric
+label: PccForCA_HoExecutionSucc_count
+calculation_method: sum
+dataset: lte-primary-carrier-change-for-ca-information
+column: PccForCA_HoExecutionSucc_count

@@ -1,0 +1,6 @@
+unique_name: NUMOFSECONAPSBTWLOWMIDNUMUESCNT
+object_type: metric
+label: NumOfSeconApsBtwLowMidNumUesCnt_count
+calculation_method: sum
+dataset: lte-laa-channel-status
+column: NumOfSeconApsBtwLowMidNumUesCnt_count

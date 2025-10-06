@@ -1,0 +1,6 @@
+unique_name: MULTIRAT_SELECTIONATT
+object_type: metric
+label: MultiRat_SelectionAtt_count
+calculation_method: sum
+dataset: lte-multi-rat-selection-information-per-cell
+column: MultiRat_SelectionAtt_count

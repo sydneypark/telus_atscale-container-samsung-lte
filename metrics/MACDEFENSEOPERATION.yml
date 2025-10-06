@@ -1,0 +1,6 @@
+unique_name: MACDEFENSEOPERATION
+object_type: metric
+label: macDefenseOperation_count
+calculation_method: sum
+dataset: lte-l1-l2-internal-statistics
+column: macDefenseOperation_count

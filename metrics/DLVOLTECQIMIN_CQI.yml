@@ -1,0 +1,6 @@
+unique_name: DLVOLTECQIMIN_CQI
+object_type: metric
+label: DLVoLTECQIMin_CQI
+calculation_method: sum
+dataset: lte-cqi-for-dl-volte-bearer
+column: DLVoLTECQIMin_CQI

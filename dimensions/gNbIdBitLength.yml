@@ -1,0 +1,40 @@
+unique_name: gNbIdBitLength
+object_type: dimension
+label: gNbIdBitLength
+is_degenerate: true
+hierarchies:
+- unique_name: gNbIdBitLength Hierarchy
+  label: gNbIdBitLength Hierarchy
+  levels:
+  - unique_name: gNbIdBitLength
+level_attributes:
+- unique_name: gNbIdBitLength
+  label: gNbIdBitLength Level
+  shared_degenerate_columns:
+  - name_column: gNbIdBitLength
+    key_columns:
+    - gNbIdBitLength
+    dataset: lte-en-dc-addition-information-per-nr-ncr
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: gNbIdBitLength
+    key_columns:
+    - gNbIdBitLength
+    dataset: lte-ho-per-nr-neighbor-cell-between-the-lte-system-and-the-nr-s
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: gNbIdBitLength
+    key_columns:
+    - gNbIdBitLength
+    dataset: lte-load-based-scg-band-selection-for-endc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: gNbIdBitLength
+    key_columns:
+    - gNbIdBitLength
+    dataset: lte-mr-rqa-nr
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

@@ -1,0 +1,6 @@
+unique_name: CELLCALLCONTEXTCNTAVG
+object_type: metric
+label: CellCallContextCntAvg_count
+calculation_method: sum
+dataset: lte-lte-call-context-per-cell
+column: CellCallContextCntAvg_count

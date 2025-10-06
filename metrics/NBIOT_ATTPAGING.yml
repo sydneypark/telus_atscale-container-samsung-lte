@@ -1,0 +1,6 @@
+unique_name: NBIOT_ATTPAGING
+object_type: metric
+label: NBIoT_AttPaging_count
+calculation_method: sum
+dataset: lte-nb-iot-paging
+column: NBIoT_AttPaging_count

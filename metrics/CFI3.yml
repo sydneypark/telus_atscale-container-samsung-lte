@@ -1,0 +1,6 @@
+unique_name: CFI3
+object_type: metric
+label: Cfi3_count
+calculation_method: sum
+dataset: lte-pdcch-usage-information
+column: Cfi3_count

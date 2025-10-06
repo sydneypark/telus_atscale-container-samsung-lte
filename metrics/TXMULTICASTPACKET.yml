@@ -1,0 +1,6 @@
+unique_name: TXMULTICASTPACKET
+object_type: metric
+label: TxMulticastPacket_count
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: TxMulticastPacket_count

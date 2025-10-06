@@ -1,0 +1,6 @@
+unique_name: SOURCEULSINRCNT
+object_type: metric
+label: SourceULSinrCnt_count
+calculation_method: sum
+dataset: lte-incoming-ul-quality-based-handover
+column: SourceULSinrCnt_count

@@ -1,0 +1,6 @@
+unique_name: _0X0355_ECC_CSFBCONFIGFAILURE
+object_type: metric
+label: _0x0355_Ecc_CSFBConfigFailure_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0355_Ecc_CSFBConfigFailure_count

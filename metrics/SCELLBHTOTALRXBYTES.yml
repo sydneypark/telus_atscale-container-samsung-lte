@@ -1,0 +1,6 @@
+unique_name: SCELLBHTOTALRXBYTES
+object_type: metric
+label: SCellBhTotalRxBytes_Kbytes
+calculation_method: sum
+dataset: lte-inter-site-ca-backhaul-user-data
+column: SCellBhTotalRxBytes_Kbytes

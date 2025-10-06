@@ -1,0 +1,22 @@
+unique_name: BeamID
+object_type: dimension
+label: BeamID
+is_degenerate: true
+hierarchies:
+- unique_name: BeamID Hierarchy
+  label: BeamID Hierarchy
+  levels:
+  - unique_name: BeamID
+level_attributes:
+- unique_name: BeamID
+  label: BeamID Level
+  shared_degenerate_columns:
+  - name_column: BeamID
+    key_columns:
+    - BeamID
+    dataset: nr-beam-usage
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

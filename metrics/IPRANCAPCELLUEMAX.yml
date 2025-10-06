@@ -1,0 +1,6 @@
+unique_name: IPRANCAPCELLUEMAX
+object_type: metric
+label: IPRanCaPCellUEMax_count
+calculation_method: sum
+dataset: lte-ip-ran-ca-pcell-and-scell-ues
+column: IPRanCaPCellUEMax_count

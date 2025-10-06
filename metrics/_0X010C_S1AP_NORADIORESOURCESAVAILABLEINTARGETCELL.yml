@@ -1,0 +1,6 @@
+unique_name: _0X010C_S1AP_NORADIORESOURCESAVAILABLEINTARGETCELL
+object_type: metric
+label: _0x010C_S1ap_NoRadioResourcesAvailableInTargetCell_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x010C_S1ap_NoRadioResourcesAvailableInTargetCell_count

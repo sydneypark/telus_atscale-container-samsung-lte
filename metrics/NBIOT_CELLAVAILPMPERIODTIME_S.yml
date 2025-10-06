@@ -1,0 +1,6 @@
+unique_name: NBIOT_CELLAVAILPMPERIODTIME_S
+object_type: metric
+label: NBIoT_CellAvailPmPeriodTime_s
+calculation_method: sum
+dataset: lte-nb-iot-availability
+column: NBIoT_CellAvailPmPeriodTime_s

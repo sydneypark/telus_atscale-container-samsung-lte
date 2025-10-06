@@ -1,0 +1,6 @@
+unique_name: NBIOT_BPUCALLCONTEXTCNTCNT
+object_type: metric
+label: NBIoT_BpuCallContextCntCnt_count
+calculation_method: sum
+dataset: lte-nb-iot-call-context-per-bpu
+column: NBIoT_BpuCallContextCntCnt_count

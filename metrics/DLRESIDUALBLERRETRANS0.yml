@@ -1,0 +1,6 @@
+unique_name: DLRESIDUALBLERRETRANS0
+object_type: metric
+label: DLResidualBlerRetrans0_pct
+calculation_method: sum
+dataset: lte-downlink-harq-transmission-bler
+column: DLResidualBlerRetrans0_pct

@@ -1,0 +1,6 @@
+unique_name: ACBMOSIGNAL
+object_type: metric
+label: AcbMoSignal_count
+calculation_method: sum
+dataset: lte-access-class-barring-enhanced
+column: AcbMoSignal_count

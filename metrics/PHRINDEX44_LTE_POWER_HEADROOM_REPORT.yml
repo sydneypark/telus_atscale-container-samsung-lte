@@ -1,0 +1,6 @@
+unique_name: PHRINDEX44_LTE_POWER_HEADROOM_REPORT
+object_type: metric
+label: PhrIndex44_count
+calculation_method: sum
+dataset: lte-power-headroom-report
+column: PhrIndex44_count

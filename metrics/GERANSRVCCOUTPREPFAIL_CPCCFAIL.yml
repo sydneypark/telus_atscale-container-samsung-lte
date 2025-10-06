@@ -1,0 +1,6 @@
+unique_name: GERANSRVCCOUTPREPFAIL_CPCCFAIL
+object_type: metric
+label: GeranSrvccOutPrepFail_CpCcFail_count
+calculation_method: sum
+dataset: lte-geran-srvcc-handover
+column: GeranSrvccOutPrepFail_CpCcFail_count

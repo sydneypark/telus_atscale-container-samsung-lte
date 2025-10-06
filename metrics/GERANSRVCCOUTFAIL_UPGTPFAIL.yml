@@ -1,0 +1,6 @@
+unique_name: GERANSRVCCOUTFAIL_UPGTPFAIL
+object_type: metric
+label: GeranSrvccOutFail_UpGtpFail_count
+calculation_method: sum
+dataset: lte-geran-srvcc-handover
+column: GeranSrvccOutFail_UpGtpFail_count

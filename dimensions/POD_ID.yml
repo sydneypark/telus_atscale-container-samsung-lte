@@ -1,0 +1,52 @@
+unique_name: POD_ID
+object_type: dimension
+label: POD_ID
+is_degenerate: true
+hierarchies:
+- unique_name: POD_ID Hierarchy
+  label: POD_ID Hierarchy
+  levels:
+  - unique_name: POD_ID
+level_attributes:
+- unique_name: POD_ID
+  label: POD_ID Level
+  shared_degenerate_columns:
+  - name_column: POD_ID
+    key_columns:
+    - POD_ID
+    dataset: lte-ethernet-packet-for-cnf
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: POD_ID
+    key_columns:
+    - POD_ID
+    dataset: lte-lte-physical-downlink-uplink-shared-channel-capacity-usage
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: POD_ID
+    key_columns:
+    - POD_ID
+    dataset: lte-resource-per-pod
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: POD_ID
+    key_columns:
+    - POD_ID
+    dataset: nr-ethernet-packet-for-cnf
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: POD_ID
+    key_columns:
+    - POD_ID
+    dataset: nr-nr-physical-downlink-uplink-shared-channel-capacity-usage
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: POD_ID
+    key_columns:
+    - POD_ID
+    dataset: nr-resource-per-pod
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

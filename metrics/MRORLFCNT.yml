@@ -1,0 +1,6 @@
+unique_name: MRORLFCNT
+object_type: metric
+label: MroRlfCnt_count
+calculation_method: sum
+dataset: lte-mro-rlf-classification
+column: MroRlfCnt_count

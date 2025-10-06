@@ -1,0 +1,6 @@
+unique_name: UTRANSRVCCOUTATT
+object_type: metric
+label: UtranSrvccOutAtt_count
+calculation_method: sum
+dataset: lte-utran-srvcc
+column: UtranSrvccOutAtt_count

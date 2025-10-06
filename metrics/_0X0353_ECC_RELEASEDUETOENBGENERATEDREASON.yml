@@ -1,0 +1,6 @@
+unique_name: _0X0353_ECC_RELEASEDUETOENBGENERATEDREASON
+object_type: metric
+label: _0x0353_Ecc_ReleaseDueToEnbGeneratedReason_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0353_Ecc_ReleaseDueToEnbGeneratedReason_count

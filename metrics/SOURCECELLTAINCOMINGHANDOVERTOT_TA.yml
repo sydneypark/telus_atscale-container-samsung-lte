@@ -1,0 +1,6 @@
+unique_name: SOURCECELLTAINCOMINGHANDOVERTOT_TA
+object_type: metric
+label: SourceCellTAIncomingHandoverTot_TA
+calculation_method: sum
+dataset: lte-ta-information-of-the-source-cell-when-performing-incoming-
+column: SourceCellTAIncomingHandoverTot_TA

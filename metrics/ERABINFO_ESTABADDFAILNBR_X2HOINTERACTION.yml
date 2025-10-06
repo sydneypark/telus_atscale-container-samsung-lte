@@ -1,0 +1,6 @@
+unique_name: ERABINFO_ESTABADDFAILNBR_X2HOINTERACTION
+object_type: metric
+label: ErabInfo_EstabAddFailNbr_X2HoInteraction_count
+calculation_method: sum
+dataset: lte-e-rab-setup-modification-release-information-per-plmn-and-q
+column: ErabInfo_EstabAddFailNbr_X2HoInteraction_count

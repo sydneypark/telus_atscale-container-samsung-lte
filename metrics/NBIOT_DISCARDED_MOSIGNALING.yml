@@ -1,0 +1,6 @@
+unique_name: NBIOT_DISCARDED_MOSIGNALING
+object_type: metric
+label: NBIoT_Discarded_moSignaling_count
+calculation_method: sum
+dataset: lte-nb-iot-denied-call-by-overload-protection
+column: NBIoT_Discarded_moSignaling_count

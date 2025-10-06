@@ -1,0 +1,6 @@
+unique_name: EPECURRENTAVGTOT_A_LTE_ENERGY_POWER_ENVIRONMENTAL_STATISTICS
+object_type: metric
+label: EpeCurrentAvgTot_A
+calculation_method: sum
+dataset: lte-energy-power-and-environmental-statistics-of-mplane
+column: EpeCurrentAvgTot_A

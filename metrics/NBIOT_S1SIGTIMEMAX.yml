@@ -1,0 +1,6 @@
+unique_name: NBIOT_S1SIGTIMEMAX
+object_type: metric
+label: NBIoT_S1SigTimeMax_ms
+calculation_method: sum
+dataset: lte-nb-iot-s1-connection-time
+column: NBIoT_S1SigTimeMax_ms

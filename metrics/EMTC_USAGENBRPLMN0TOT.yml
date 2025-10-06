@@ -1,0 +1,6 @@
+unique_name: EMTC_USAGENBRPLMN0TOT
+object_type: metric
+label: eMTC_UsageNbrPLMN0Tot_count
+calculation_method: sum
+dataset: lte-emtc-active-e-rab-number-per-plmn
+column: eMTC_UsageNbrPLMN0Tot_count

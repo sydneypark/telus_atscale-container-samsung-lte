@@ -1,0 +1,6 @@
+unique_name: _0X035A_ECC_RCVSERESTART
+object_type: metric
+label: _0x035A_Ecc_RcvSeRestart_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x035A_Ecc_RcvSeRestart_count

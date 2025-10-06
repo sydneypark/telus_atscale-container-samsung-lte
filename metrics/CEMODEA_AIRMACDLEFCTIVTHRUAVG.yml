@@ -1,0 +1,6 @@
+unique_name: CEMODEA_AIRMACDLEFCTIVTHRUAVG
+object_type: metric
+label: CEModeA_AirMacDLEfctivThruAvg_Kbps
+calculation_method: sum
+dataset: lte-emtc-air-mac-packet
+column: CEModeA_AirMacDLEfctivThruAvg_Kbps

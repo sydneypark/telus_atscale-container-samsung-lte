@@ -1,0 +1,6 @@
+unique_name: VOLTEULQUALITYDEFECTRATE
+object_type: metric
+label: VoLTEULQualityDefectRate_pct
+calculation_method: sum
+dataset: lte-volte-quality
+column: VoLTEULQualityDefectRate_pct

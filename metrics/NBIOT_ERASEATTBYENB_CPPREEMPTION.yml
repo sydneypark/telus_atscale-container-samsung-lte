@@ -1,0 +1,6 @@
+unique_name: NBIOT_ERASEATTBYENB_CPPREEMPTION
+object_type: metric
+label: NBIoT_EraseAttbyEnb_CpPreemption_count
+calculation_method: sum
+dataset: lte-nb-iot-e-rab-erase-request
+column: NBIoT_EraseAttbyEnb_CpPreemption_count

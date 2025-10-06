@@ -1,0 +1,6 @@
+unique_name: INTERS1INPREP_FAILCPCAPACACFAIL_EMTC_S1_HANDOVER
+object_type: metric
+label: InterS1InPrep_FailCpCapaCacFail_count
+calculation_method: sum
+dataset: lte-emtc-s1-in-handover
+column: InterS1InPrep_FailCpCapaCacFail_count

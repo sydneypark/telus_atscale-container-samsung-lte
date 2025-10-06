@@ -1,0 +1,6 @@
+unique_name: RANNROUTATT
+object_type: metric
+label: RanNrOutAtt_count
+calculation_method: sum
+dataset: lte-inter-rat-mro-for-nr
+column: RanNrOutAtt_count

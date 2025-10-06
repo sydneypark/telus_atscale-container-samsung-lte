@@ -1,0 +1,6 @@
+unique_name: PDSCHBLERPERLAYERCNT
+object_type: metric
+label: PdschBlerPerLayerCnt_count
+calculation_method: sum
+dataset: lte-mimo
+column: PdschBlerPerLayerCnt_count

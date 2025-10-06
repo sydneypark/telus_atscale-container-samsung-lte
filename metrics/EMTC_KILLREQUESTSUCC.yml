@@ -1,0 +1,6 @@
+unique_name: EMTC_KILLREQUESTSUCC
+object_type: metric
+label: eMTC_KillRequestSucc_count
+calculation_method: sum
+dataset: lte-emtc-commercial-mobile-alert-system
+column: eMTC_KillRequestSucc_count

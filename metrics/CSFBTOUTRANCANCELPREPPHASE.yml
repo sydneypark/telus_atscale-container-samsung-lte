@@ -1,0 +1,6 @@
+unique_name: CSFBTOUTRANCANCELPREPPHASE
+object_type: metric
+label: CsfbToUtranCancelPrepPhase_count
+calculation_method: sum
+dataset: lte-inter-rat-handover-cancellation
+column: CsfbToUtranCancelPrepPhase_count

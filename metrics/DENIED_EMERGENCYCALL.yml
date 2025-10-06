@@ -1,0 +1,6 @@
+unique_name: DENIED_EMERGENCYCALL
+object_type: metric
+label: Denied_EmergencyCall_count
+calculation_method: sum
+dataset: lte-denied-call-by-overload-protection
+column: Denied_EmergencyCall_count

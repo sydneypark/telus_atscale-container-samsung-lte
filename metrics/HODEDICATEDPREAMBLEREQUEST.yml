@@ -1,0 +1,6 @@
+unique_name: HODEDICATEDPREAMBLEREQUEST
+object_type: metric
+label: HoDedicatedPreambleRequest_count
+calculation_method: sum
+dataset: lte-handover-random-access-preambles
+column: HoDedicatedPreambleRequest_count

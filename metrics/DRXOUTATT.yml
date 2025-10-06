@@ -1,0 +1,6 @@
+unique_name: DRXOUTATT
+object_type: metric
+label: DrxOutAtt_count
+calculation_method: sum
+dataset: lte-outgoing-handover-with-drx
+column: DrxOutAtt_count

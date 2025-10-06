@@ -1,0 +1,6 @@
+unique_name: INTEGRITYEUTRANIPTHROUGHPUTCNT
+object_type: metric
+label: IntegrityEutranIpThroughputCnt_ms
+calculation_method: sum
+dataset: lte-integrity
+column: IntegrityEutranIpThroughputCnt_ms

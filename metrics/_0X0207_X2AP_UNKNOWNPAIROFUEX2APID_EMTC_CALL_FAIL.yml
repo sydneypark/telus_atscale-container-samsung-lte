@@ -1,0 +1,6 @@
+unique_name: _0X0207_X2AP_UNKNOWNPAIROFUEX2APID_EMTC_CALL_FAIL
+object_type: metric
+label: _0x0207_X2ap_UnknownPairOfUEX2apId_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x0207_X2ap_UnknownPairOfUEX2apId_count

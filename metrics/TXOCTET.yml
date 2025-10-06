@@ -1,0 +1,6 @@
+unique_name: TXOCTET
+object_type: metric
+label: TxOctet_Mbytes
+calculation_method: sum
+dataset: lte-ethernet-packet-per-vlan
+column: TxOctet_Mbytes

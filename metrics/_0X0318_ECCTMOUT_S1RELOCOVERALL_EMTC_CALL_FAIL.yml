@@ -1,0 +1,6 @@
+unique_name: _0X0318_ECCTMOUT_S1RELOCOVERALL_EMTC_CALL_FAIL
+object_type: metric
+label: _0x0318_EccTmout_S1RelocOverall_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x0318_EccTmout_S1RelocOverall_count

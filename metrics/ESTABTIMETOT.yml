@@ -1,0 +1,6 @@
+unique_name: ESTABTIMETOT
+object_type: metric
+label: EstabTimeTot_ms
+calculation_method: sum
+dataset: lte-e-rab-setup-time
+column: EstabTimeTot_ms

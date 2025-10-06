@@ -1,0 +1,28 @@
+unique_name: Target_gNB_ID
+object_type: dimension
+label: Target_gNB_ID
+is_degenerate: true
+hierarchies:
+- unique_name: Target_gNB_ID Hierarchy
+  label: Target_gNB_ID Hierarchy
+  levels:
+  - unique_name: Target_gNB_ID
+level_attributes:
+- unique_name: Target_gNB_ID
+  label: Target_gNB_ID Level
+  shared_degenerate_columns:
+  - name_column: Target_gNB_ID
+    key_columns:
+    - Target_gNB_ID
+    dataset: nr-inter-sn-pscell-change-per-gnb
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: Target_gNB_ID
+    key_columns:
+    - Target_gNB_ID
+    dataset: nr-inter-sn-pscell-change-per-gnb-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

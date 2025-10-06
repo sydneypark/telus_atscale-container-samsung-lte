@@ -1,0 +1,6 @@
+unique_name: AQMREORDERPDCPSDUCOUNT
+object_type: metric
+label: AqmReorderPdcpSduCount_count
+calculation_method: sum
+dataset: lte-packet-drop-rate
+column: AqmReorderPdcpSduCount_count

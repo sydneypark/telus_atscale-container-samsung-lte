@@ -1,0 +1,6 @@
+unique_name: CSFBPSHOGERANFAIL_S1APROTO
+object_type: metric
+label: CSFBPsHoGeranFail_S1apRoTo_count
+calculation_method: sum
+dataset: lte-csfb-psho-to-geran
+column: CSFBPsHoGeranFail_S1apRoTo_count

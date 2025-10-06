@@ -1,0 +1,6 @@
+unique_name: TXLINKUTILIZATIONMAX
+object_type: metric
+label: TxLinkUtilizationMax_pct
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: TxLinkUtilizationMax_pct

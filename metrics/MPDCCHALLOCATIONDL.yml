@@ -1,0 +1,6 @@
+unique_name: MPDCCHALLOCATIONDL
+object_type: metric
+label: MpdcchAllocationDL_count
+calculation_method: sum
+dataset: lte-emtc-mpdcch-allocation
+column: MpdcchAllocationDL_count

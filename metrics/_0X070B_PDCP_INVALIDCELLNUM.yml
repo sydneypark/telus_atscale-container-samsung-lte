@@ -1,0 +1,6 @@
+unique_name: _0X070B_PDCP_INVALIDCELLNUM
+object_type: metric
+label: _0x070B_Pdcp_InvalidcellNum_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x070B_Pdcp_InvalidcellNum_count

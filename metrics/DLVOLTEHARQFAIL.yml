@@ -1,0 +1,6 @@
+unique_name: DLVOLTEHARQFAIL
+object_type: metric
+label: DLVoLTEHARQFail_count
+calculation_method: sum
+dataset: lte-harq-performance-for-volte-bearer
+column: DLVoLTEHARQFail_count

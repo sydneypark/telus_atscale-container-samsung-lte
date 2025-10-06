@@ -1,0 +1,6 @@
+unique_name: HOVOLTEFBOUTFAIL_X2APSIGFAIL
+object_type: metric
+label: HOVoLTEFBOutFail_X2apSigFail_count
+calculation_method: sum
+dataset: lte-volte-fallback-handover-statistics
+column: HOVoLTEFBOutFail_X2apSigFail_count

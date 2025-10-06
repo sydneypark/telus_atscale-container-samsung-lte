@@ -1,0 +1,6 @@
+unique_name: ENDC_RELREQUIRE_BEARERNOTSUPP
+object_type: metric
+label: EnDc_RelRequire_BearerNotSupp_count
+calculation_method: sum
+dataset: lte-en-dc-release-information
+column: EnDc_RelRequire_BearerNotSupp_count

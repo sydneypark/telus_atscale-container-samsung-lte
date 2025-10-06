@@ -1,0 +1,6 @@
+unique_name: NBIOT_ERABINITFAILNBR_CPCCTO
+object_type: metric
+label: NBIoT_ErabInitFailNbr_CpCcTo_count
+calculation_method: sum
+dataset: lte-nb-iot-e-rab-setup
+column: NBIoT_ErabInitFailNbr_CpCcTo_count

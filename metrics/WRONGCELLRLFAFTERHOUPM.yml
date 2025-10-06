@@ -1,0 +1,6 @@
+unique_name: WRONGCELLRLFAFTERHOUPM
+object_type: metric
+label: WrongCellRlfAfterHoUpm_count
+calculation_method: sum
+dataset: lte-upm-rlf-classification
+column: WrongCellRlfAfterHoUpm_count

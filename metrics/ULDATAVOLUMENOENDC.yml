@@ -1,0 +1,6 @@
+unique_name: ULDATAVOLUMENOENDC
+object_type: metric
+label: ULDataVolumeNoEndc_Kbytes
+calculation_method: sum
+dataset: lte-ul-ip-throughput-per-en-dc-nr-cell-type
+column: ULDataVolumeNoEndc_Kbytes

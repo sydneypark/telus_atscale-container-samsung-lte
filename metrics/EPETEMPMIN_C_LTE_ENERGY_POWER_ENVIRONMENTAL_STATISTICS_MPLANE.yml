@@ -1,0 +1,6 @@
+unique_name: EPETEMPMIN_C_LTE_ENERGY_POWER_ENVIRONMENTAL_STATISTICS_MPLANE
+object_type: metric
+label: EpeTempMin_C
+calculation_method: sum
+dataset: lte-energy-power-and-environmental-statistics-of-mplane
+column: EpeTempMin_C

@@ -1,0 +1,6 @@
+unique_name: NBIOT_AIRMACDLTTI_TTI
+object_type: metric
+label: NBIoT_AirMacDLTti_TTI
+calculation_method: sum
+dataset: lte-nb-iot-air-mac-ul-and-dl-packets
+column: NBIoT_AirMacDLTti_TTI

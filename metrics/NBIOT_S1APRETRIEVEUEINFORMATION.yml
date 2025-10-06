@@ -1,0 +1,6 @@
+unique_name: NBIOT_S1APRETRIEVEUEINFORMATION
+object_type: metric
+label: NBIoT_S1apRetrieveUEInformation_count
+calculation_method: sum
+dataset: lte-nb-iot-s1ap-message
+column: NBIoT_S1apRetrieveUEInformation_count

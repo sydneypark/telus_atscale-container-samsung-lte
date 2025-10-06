@@ -1,0 +1,6 @@
+unique_name: NBIOT_CONNRECONFIGSUCC
+object_type: metric
+label: NBIoT_ConnReconfigSucc_count
+calculation_method: sum
+dataset: lte-nb-iot-rrc-connection-reconfiguration
+column: NBIoT_ConnReconfigSucc_count

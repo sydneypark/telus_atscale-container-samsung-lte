@@ -1,0 +1,6 @@
+unique_name: CONNRELEASE_S1APSIGFAIL
+object_type: metric
+label: ConnRelease_S1apSigFail_count
+calculation_method: sum
+dataset: lte-rrc-connection-release
+column: ConnRelease_S1apSigFail_count

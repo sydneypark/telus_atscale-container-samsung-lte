@@ -1,0 +1,6 @@
+unique_name: X2MSGRCV
+object_type: metric
+label: X2MsgRcv_count
+calculation_method: sum
+dataset: lte-protocol-message
+column: X2MsgRcv_count

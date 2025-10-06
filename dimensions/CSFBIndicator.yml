@@ -1,0 +1,52 @@
+unique_name: CSFBIndicator
+object_type: dimension
+label: CSFBIndicator
+is_degenerate: true
+hierarchies:
+- unique_name: CSFBIndicator Hierarchy
+  label: CSFBIndicator Hierarchy
+  levels:
+  - unique_name: CSFBIndicator
+level_attributes:
+- unique_name: CSFBIndicator
+  label: CSFBIndicator Level
+  shared_degenerate_columns:
+  - name_column: CSFBIndicator
+    key_columns:
+    - CSFBIndicator
+    dataset: lte-csfb-geran-cco
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CSFBIndicator
+    key_columns:
+    - CSFBIndicator
+    dataset: lte-csfb-geran-redirection
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CSFBIndicator
+    key_columns:
+    - CSFBIndicator
+    dataset: lte-csfb-preparation-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CSFBIndicator
+    key_columns:
+    - CSFBIndicator
+    dataset: lte-csfb-ps-out-handover
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CSFBIndicator
+    key_columns:
+    - CSFBIndicator
+    dataset: lte-csfb-psho-to-geran
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CSFBIndicator
+    key_columns:
+    - CSFBIndicator
+    dataset: lte-csfb-redirection-out
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

@@ -1,0 +1,6 @@
+unique_name: DLTRANSMITTEDMCS10
+object_type: metric
+label: DLTransmittedMcs10_count
+calculation_method: sum
+dataset: lte-dl-mcs
+column: DLTransmittedMcs10_count

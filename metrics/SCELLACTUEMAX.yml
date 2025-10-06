@@ -1,0 +1,6 @@
+unique_name: SCELLACTUEMAX
+object_type: metric
+label: SCellActUEMax_count
+calculation_method: sum
+dataset: lte-activation-deactivation-for-inter-site-ca-using-non-ideal-b
+column: SCellActUEMax_count

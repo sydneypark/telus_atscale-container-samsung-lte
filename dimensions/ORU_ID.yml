@@ -1,0 +1,52 @@
+unique_name: ORU_ID
+object_type: dimension
+label: ORU_ID
+is_degenerate: true
+hierarchies:
+- unique_name: ORU_ID Hierarchy
+  label: ORU_ID Hierarchy
+  levels:
+  - unique_name: ORU_ID
+level_attributes:
+- unique_name: ORU_ID
+  label: ORU_ID Level
+  shared_degenerate_columns:
+  - name_column: ORU_ID
+    key_columns:
+    - ORU_ID
+    dataset: lte-energy-power-and-environmental-statistics-of-mplane
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ORU_ID
+    key_columns:
+    - ORU_ID
+    dataset: lte-mplane-transceiver-of-oru
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ORU_ID
+    key_columns:
+    - ORU_ID
+    dataset: lte-outbound-packet-in-oru
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ORU_ID
+    key_columns:
+    - ORU_ID
+    dataset: lte-packet-for-reception-window-in-oru
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ORU_ID
+    key_columns:
+    - ORU_ID
+    dataset: nr-energy-power-and-environmental-statistics-of-mplane
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: ORU_ID
+    key_columns:
+    - ORU_ID
+    dataset: nr-mplane-transceiver-of-oru
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

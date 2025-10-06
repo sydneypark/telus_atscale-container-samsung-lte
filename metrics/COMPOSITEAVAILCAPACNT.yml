@@ -1,0 +1,6 @@
+unique_name: COMPOSITEAVAILCAPACNT
+object_type: metric
+label: CompositeAvailCapaCnt_count
+calculation_method: sum
+dataset: lte-eicic-partnership
+column: CompositeAvailCapaCnt_count

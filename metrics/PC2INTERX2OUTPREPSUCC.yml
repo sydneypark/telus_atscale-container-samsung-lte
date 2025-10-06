@@ -1,0 +1,6 @@
+unique_name: PC2INTERX2OUTPREPSUCC
+object_type: metric
+label: Pc2InterX2OutPrepSucc_count
+calculation_method: sum
+dataset: lte-x2-out-handover-of-power-class-2-ue
+column: Pc2InterX2OutPrepSucc_count

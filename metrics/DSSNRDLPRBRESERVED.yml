@@ -1,0 +1,6 @@
+unique_name: DSSNRDLPRBRESERVED
+object_type: metric
+label: DssNrDLPrbReserved_count
+calculation_method: sum
+dataset: lte-dss-related-information
+column: DssNrDLPrbReserved_count

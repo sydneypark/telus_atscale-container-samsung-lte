@@ -1,0 +1,6 @@
+unique_name: REDIREUTRANOUTTARGETEARFCNDL_TARGETEARFCNDL
+object_type: metric
+label: RedirEutranOutTargetEarfcnDl_TargetEarfcnDl
+calculation_method: sum
+dataset: lte-eutran-redirection-out
+column: RedirEutranOutTargetEarfcnDl_TargetEarfcnDl

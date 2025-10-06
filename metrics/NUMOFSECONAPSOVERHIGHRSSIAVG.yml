@@ -1,0 +1,6 @@
+unique_name: NUMOFSECONAPSOVERHIGHRSSIAVG
+object_type: metric
+label: NumOfSeconApsOverHighRssiAvg_count
+calculation_method: sum
+dataset: lte-laa-channel-status
+column: NumOfSeconApsOverHighRssiAvg_count

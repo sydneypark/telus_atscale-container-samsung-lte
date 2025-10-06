@@ -1,0 +1,6 @@
+unique_name: _0X0109_S1AP_TS1RELOCPREPEXPIRY_NB_IOT_CALL_FAIL
+object_type: metric
+label: _0x0109_S1ap_TS1RelocPrepExpiry_count
+calculation_method: sum
+dataset: lte-nb-iot-call-fail
+column: _0x0109_S1ap_TS1RelocPrepExpiry_count

@@ -1,0 +1,6 @@
+unique_name: RATUTRANOUTATT_UTRAN_OUT_PS_MOBILITY_CSFB_SRVCC_PLMN
+object_type: metric
+label: RatUtranOutAtt_count
+calculation_method: sum
+dataset: lte-utran-out-ps-mobility-csfb-srvcc-per-plmn
+column: RatUtranOutAtt_count

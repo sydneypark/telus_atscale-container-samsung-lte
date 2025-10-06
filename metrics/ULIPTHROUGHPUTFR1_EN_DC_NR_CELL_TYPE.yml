@@ -1,0 +1,6 @@
+unique_name: ULIPTHROUGHPUTFR1_EN_DC_NR_CELL_TYPE
+object_type: metric
+label: ULIpThroughputFr1_Kbps
+calculation_method: sum
+dataset: lte-ul-ip-throughput-per-en-dc-nr-cell-type
+column: ULIpThroughputFr1_Kbps

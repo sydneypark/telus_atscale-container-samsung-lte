@@ -1,0 +1,6 @@
+unique_name: SUMVOLTEINTERS1OUTSUCC
+object_type: metric
+label: SumVoLTEInterS1OutSucc_count
+calculation_method: sum
+dataset: lte-volte-quality
+column: SumVoLTEInterS1OutSucc_count

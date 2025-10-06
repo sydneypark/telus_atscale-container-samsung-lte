@@ -1,0 +1,6 @@
+unique_name: ENDC_ADDPREPSUCC
+object_type: metric
+label: EnDc_AddPrepSucc_count
+calculation_method: sum
+dataset: lte-en-dc-addition-information
+column: EnDc_AddPrepSucc_count

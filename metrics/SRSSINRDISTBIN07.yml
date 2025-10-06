@@ -1,0 +1,6 @@
+unique_name: SRSSINRDISTBIN07
+object_type: metric
+label: SrsSinrDistBin07_count
+calculation_method: sum
+dataset: lte-srs-sinr-distribution
+column: SrsSinrDistBin07_count

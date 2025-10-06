@@ -1,0 +1,6 @@
+unique_name: ERABRETAINABILITY
+object_type: metric
+label: ErabRetainability_pct
+calculation_method: sum
+dataset: lte-retainability
+column: ErabRetainability_pct

@@ -1,0 +1,6 @@
+unique_name: TOTPUCCHPRBULAVG
+object_type: metric
+label: TotPucchPrbULAvg_pct
+calculation_method: sum
+dataset: lte-total-prb-usage
+column: TotPucchPrbULAvg_pct

@@ -1,0 +1,112 @@
+unique_name: codeword
+object_type: dimension
+label: codeword
+is_degenerate: true
+hierarchies:
+- unique_name: codeword Hierarchy
+  label: codeword Hierarchy
+  levels:
+  - unique_name: codeword
+level_attributes:
+- unique_name: codeword
+  label: codeword Level
+  shared_degenerate_columns:
+  - name_column: codeword
+    key_columns:
+    - codeword
+    dataset: lte-cqi-for-dl-volte-bearer
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: codeword
+    key_columns:
+    - codeword
+    dataset: lte-disca-ack-nack-dtx-ratio
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: codeword
+    key_columns:
+    - codeword
+    dataset: lte-dl-ack-nack-dtx-ratio
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: codeword
+    key_columns:
+    - codeword
+    dataset: lte-dl-mcs
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: codeword
+    key_columns:
+    - codeword
+    dataset: lte-dl-mcs-256qam-for-power-class-2-ue
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: codeword
+    key_columns:
+    - codeword
+    dataset: lte-dl-mcs-for-power-class-2-ue
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: codeword
+    key_columns:
+    - codeword
+    dataset: lte-dl-mcs-in-256qam
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: codeword
+    key_columns:
+    - codeword
+    dataset: lte-dl-wideband-cqi
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: codeword
+    key_columns:
+    - codeword
+    dataset: lte-dl-wideband-cqi-for-256qam-supported-power-class-2-ue
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: codeword
+    key_columns:
+    - codeword
+    dataset: lte-dl-wideband-cqi-for-power-class-2-ue
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: codeword
+    key_columns:
+    - codeword
+    dataset: lte-dl-wideband-cqi-in-256qam
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: codeword
+    key_columns:
+    - codeword
+    dataset: lte-dl-wideband-cqi-pcell
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: codeword
+    key_columns:
+    - codeword
+    dataset: lte-dl-wideband-cqi-scell
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: codeword
+    key_columns:
+    - codeword
+    dataset: lte-massive-mimo-statistics-for-tm8-downlink-harq-transmission-
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: codeword
+    key_columns:
+    - codeword
+    dataset: lte-massive-mimo-statistics-for-tm8-downlink-mcs
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: codeword
+    key_columns:
+    - codeword
+    dataset: lte-massive-mimo-statistics-for-tm8-downlink-mcs-256qam
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

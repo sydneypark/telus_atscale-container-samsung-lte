@@ -1,0 +1,6 @@
+unique_name: ENDC_RLFDETECTION_RADIOLINKFAILURE
+object_type: metric
+label: EnDc_RlfDetection_RadioLinkFailure_count
+calculation_method: sum
+dataset: lte-rlf-detection-number-per-cell
+column: EnDc_RlfDetection_RadioLinkFailure_count

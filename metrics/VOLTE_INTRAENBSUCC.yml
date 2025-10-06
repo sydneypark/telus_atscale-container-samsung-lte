@@ -1,0 +1,6 @@
+unique_name: VOLTE_INTRAENBSUCC
+object_type: metric
+label: VoLTE_IntraEnbSucc_count
+calculation_method: sum
+dataset: lte-volte-handover
+column: VoLTE_IntraEnbSucc_count

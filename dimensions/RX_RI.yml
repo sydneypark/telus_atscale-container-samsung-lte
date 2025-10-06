@@ -1,0 +1,46 @@
+unique_name: RX_RI
+object_type: dimension
+label: RX_RI
+is_degenerate: true
+hierarchies:
+- unique_name: RX_RI Hierarchy
+  label: RX_RI Hierarchy
+  levels:
+  - unique_name: RX_RI
+level_attributes:
+- unique_name: RX_RI
+  label: RX_RI Level
+  shared_degenerate_columns:
+  - name_column: RX_RI
+    key_columns:
+    - RX_RI
+    dataset: nr-downlink-prb-number-with-ri
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: RX_RI
+    key_columns:
+    - RX_RI
+    dataset: nr-downlink-wideband-cqi
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: RX_RI
+    key_columns:
+    - RX_RI
+    dataset: nr-downlink-wideband-cqi-as-scell
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: RX_RI
+    key_columns:
+    - RX_RI
+    dataset: nr-prb-number-with-ri-for-redcap
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: RX_RI
+    key_columns:
+    - RX_RI
+    dataset: nr-redcap-downlink-wideband-cqi
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

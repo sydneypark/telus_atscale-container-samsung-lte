@@ -1,0 +1,6 @@
+unique_name: RUTEMPAVG_C
+object_type: metric
+label: RuTempAvg_C
+calculation_method: sum
+dataset: lte-ru-temperature
+column: RuTempAvg_C

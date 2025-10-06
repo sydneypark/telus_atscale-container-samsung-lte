@@ -1,0 +1,6 @@
+unique_name: CELEVEL0_MESSAGE3CNT
+object_type: metric
+label: CElevel0_Message3Cnt_count
+calculation_method: sum
+dataset: lte-emtc-random-access-preambles
+column: CElevel0_Message3Cnt_count

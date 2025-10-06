@@ -1,0 +1,34 @@
+unique_name: scID
+object_type: dimension
+label: scID
+is_degenerate: true
+hierarchies:
+- unique_name: scID Hierarchy
+  label: scID Hierarchy
+  levels:
+  - unique_name: scID
+level_attributes:
+- unique_name: scID
+  label: scID Level
+  shared_degenerate_columns:
+  - name_column: scID
+    key_columns:
+    - scID
+    dataset: lte-emtc-handover-time
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: scID
+    key_columns:
+    - scID
+    dataset: lte-handover-time
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: scID
+    key_columns:
+    - scID
+    dataset: lte-incoming-ul-quality-based-handover
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

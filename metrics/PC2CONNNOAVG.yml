@@ -1,0 +1,6 @@
+unique_name: PC2CONNNOAVG
+object_type: metric
+label: Pc2ConnNoAvg_count
+calculation_method: sum
+dataset: lte-the-number-of-rrc-connected-power-class-2-ue
+column: Pc2ConnNoAvg_count

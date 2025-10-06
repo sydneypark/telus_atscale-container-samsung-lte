@@ -1,0 +1,6 @@
+unique_name: PACKETOOSCNTREORDERING
+object_type: metric
+label: PacketOosCntReordering_count
+calculation_method: sum
+dataset: lte-inter-site-ca-backhaul-user-data
+column: PacketOosCntReordering_count

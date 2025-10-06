@@ -1,0 +1,6 @@
+unique_name: SUMERABESTABINITSUCCNBR
+object_type: metric
+label: SumErabEstabInitSuccNbr_count
+calculation_method: sum
+dataset: lte-accessibility
+column: SumErabEstabInitSuccNbr_count

@@ -1,0 +1,6 @@
+unique_name: SOURCECELLTAINCOMINGHANDOVERCNT
+object_type: metric
+label: SourceCellTAIncomingHandoverCnt_count
+calculation_method: sum
+dataset: lte-ta-information-of-the-source-cell-when-performing-incoming-
+column: SourceCellTAIncomingHandoverCnt_count

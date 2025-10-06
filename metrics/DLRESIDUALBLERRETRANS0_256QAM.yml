@@ -1,0 +1,6 @@
+unique_name: DLRESIDUALBLERRETRANS0_256QAM
+object_type: metric
+label: DLResidualBlerRetrans0_256QAM_pct
+calculation_method: sum
+dataset: lte-downlink-harq-transmission-bler-in-256qam-supported-ue
+column: DLResidualBlerRetrans0_256QAM_pct

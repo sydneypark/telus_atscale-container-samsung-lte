@@ -1,0 +1,6 @@
+unique_name: SOURCECELLTAOUTGOINGHANDOVERMIN_TA
+object_type: metric
+label: SourceCellTAOutgoingHandoverMin_TA
+calculation_method: sum
+dataset: lte-ta-information-of-the-source-cell-when-performing-incoming-
+column: SourceCellTAOutgoingHandoverMin_TA

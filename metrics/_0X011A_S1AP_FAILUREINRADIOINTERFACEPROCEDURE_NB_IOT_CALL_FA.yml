@@ -1,0 +1,6 @@
+unique_name: _0X011A_S1AP_FAILUREINRADIOINTERFACEPROCEDURE_NB_IOT_CALL_FA
+object_type: metric
+label: _0x011A_S1ap_FailureInRadioInterfaceProcedure_count
+calculation_method: sum
+dataset: lte-nb-iot-call-fail-per-ce-level
+column: _0x011A_S1ap_FailureInRadioInterfaceProcedure_count

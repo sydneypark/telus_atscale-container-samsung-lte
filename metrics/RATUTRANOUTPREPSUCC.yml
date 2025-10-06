@@ -1,0 +1,6 @@
+unique_name: RATUTRANOUTPREPSUCC
+object_type: metric
+label: RatUtranOutPrepSucc_count
+calculation_method: sum
+dataset: lte-inter-rat-utran-ps-out-handover
+column: RatUtranOutPrepSucc_count

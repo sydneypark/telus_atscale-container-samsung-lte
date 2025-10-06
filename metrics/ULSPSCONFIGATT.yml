@@ -1,0 +1,6 @@
+unique_name: ULSPSCONFIGATT
+object_type: metric
+label: ULSpsConfigAtt_count
+calculation_method: sum
+dataset: lte-semi-persistent-scheduling
+column: ULSpsConfigAtt_count

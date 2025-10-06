@@ -1,0 +1,6 @@
+unique_name: ISSLTENRTOTALAVAILABLEPUSCH
+object_type: metric
+label: IssLteNrTotalAvailablePusch_count
+calculation_method: sum
+dataset: lte-dss-related-information
+column: IssLteNrTotalAvailablePusch_count

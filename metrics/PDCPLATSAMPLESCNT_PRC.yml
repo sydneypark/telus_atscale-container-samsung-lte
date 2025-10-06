@@ -1,0 +1,6 @@
+unique_name: PDCPLATSAMPLESCNT_PRC
+object_type: metric
+label: PdcpLatSamplesCnt_count
+calculation_method: sum
+dataset: lte-pdcp-packet-per-prc
+column: PdcpLatSamplesCnt_count

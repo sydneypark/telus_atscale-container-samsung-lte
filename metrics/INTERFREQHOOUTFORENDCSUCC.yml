@@ -1,0 +1,6 @@
+unique_name: INTERFREQHOOUTFORENDCSUCC
+object_type: metric
+label: InterFreqHoOutforEnDcSucc_count
+calculation_method: sum
+dataset: lte-inter-frequency-handover-for-en-dc
+column: InterFreqHoOutforEnDcSucc_count

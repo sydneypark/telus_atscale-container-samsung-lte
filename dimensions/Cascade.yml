@@ -1,0 +1,40 @@
+unique_name: Cascade
+object_type: dimension
+label: Cascade
+is_degenerate: true
+hierarchies:
+- unique_name: Cascade Hierarchy
+  label: Cascade Hierarchy
+  levels:
+  - unique_name: Cascade
+level_attributes:
+- unique_name: Cascade
+  label: Cascade Level
+  shared_degenerate_columns:
+  - name_column: Cascade
+    key_columns:
+    - Cascade
+    dataset: lte-laa-channel-status
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: Cascade
+    key_columns:
+    - Cascade
+    dataset: lte-mmu-power-consumption
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: Cascade
+    key_columns:
+    - Cascade
+    dataset: lte-ru-power-consumption
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: Cascade
+    key_columns:
+    - Cascade
+    dataset: lte-ru-temperature
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

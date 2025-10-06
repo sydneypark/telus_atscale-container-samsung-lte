@@ -1,0 +1,6 @@
+unique_name: DLLOADBINTOT
+object_type: metric
+label: DLLoadBinTot_pct
+calculation_method: sum
+dataset: lte-load-histogram
+column: DLLoadBinTot_pct

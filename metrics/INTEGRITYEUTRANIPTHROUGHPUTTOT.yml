@@ -1,0 +1,6 @@
+unique_name: INTEGRITYEUTRANIPTHROUGHPUTTOT
+object_type: metric
+label: IntegrityEutranIpThroughputTot_Kbytes
+calculation_method: sum
+dataset: lte-integrity
+column: IntegrityEutranIpThroughputTot_Kbytes

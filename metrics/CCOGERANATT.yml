@@ -1,0 +1,6 @@
+unique_name: CCOGERANATT
+object_type: metric
+label: CcoGeranAtt_count
+calculation_method: sum
+dataset: lte-geran-cco
+column: CcoGeranAtt_count

@@ -1,0 +1,22 @@
+unique_name: UEResourceType
+object_type: dimension
+label: UEResourceType
+is_degenerate: true
+hierarchies:
+- unique_name: UEResourceType Hierarchy
+  label: UEResourceType Hierarchy
+  levels:
+  - unique_name: UEResourceType
+level_attributes:
+- unique_name: UEResourceType
+  label: UEResourceType Level
+  shared_degenerate_columns:
+  - name_column: UEResourceType
+    key_columns:
+    - UEResourceType
+    dataset: nr-ncgi-report
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

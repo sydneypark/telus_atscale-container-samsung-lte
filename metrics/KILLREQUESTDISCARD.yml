@@ -1,0 +1,6 @@
+unique_name: KILLREQUESTDISCARD
+object_type: metric
+label: KillRequestDiscard_count
+calculation_method: sum
+dataset: lte-commercial-mobile-alert-system
+column: KillRequestDiscard_count

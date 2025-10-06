@@ -1,0 +1,6 @@
+unique_name: IPRANCASCELLRELSUCC
+object_type: metric
+label: IPRanCaSCellRelSucc_count
+calculation_method: sum
+dataset: lte-ip-ran-ca-pcell-and-scell-ues
+column: IPRanCaSCellRelSucc_count

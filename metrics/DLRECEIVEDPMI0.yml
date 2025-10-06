@@ -1,0 +1,6 @@
+unique_name: DLRECEIVEDPMI0
+object_type: metric
+label: DLReceivedPMI0_count
+calculation_method: sum
+dataset: lte-dl-pmi
+column: DLReceivedPMI0_count

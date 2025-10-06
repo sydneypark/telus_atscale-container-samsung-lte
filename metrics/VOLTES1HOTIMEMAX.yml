@@ -1,0 +1,6 @@
+unique_name: VOLTES1HOTIMEMAX
+object_type: metric
+label: VoLTES1HoTimeMax_ms
+calculation_method: sum
+dataset: lte-volte-handover-time
+column: VoLTES1HoTimeMax_ms

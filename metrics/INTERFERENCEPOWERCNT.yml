@@ -1,0 +1,6 @@
+unique_name: INTERFERENCEPOWERCNT
+object_type: metric
+label: InterferencePowerCnt_count
+calculation_method: sum
+dataset: lte-power
+column: InterferencePowerCnt_count

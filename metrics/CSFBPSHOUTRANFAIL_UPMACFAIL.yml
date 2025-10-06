@@ -1,0 +1,6 @@
+unique_name: CSFBPSHOUTRANFAIL_UPMACFAIL
+object_type: metric
+label: CSFBPsHoUtranFail_UpMacFail_count
+calculation_method: sum
+dataset: lte-csfb-ps-out-handover
+column: CSFBPsHoUtranFail_UpMacFail_count

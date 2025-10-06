@@ -1,0 +1,6 @@
+unique_name: ISSLTEULRB10TO19PERCENTTTICNT
+object_type: metric
+label: IssLteULRb10to19PercentTtiCnt_count
+calculation_method: sum
+dataset: lte-iss-pattern-usage-related-information
+column: IssLteULRb10to19PercentTtiCnt_count

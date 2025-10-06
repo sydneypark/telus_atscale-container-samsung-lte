@@ -1,0 +1,6 @@
+unique_name: MODQOSFAILNBR_CPCCTO
+object_type: metric
+label: ModQoSFailNbr_CpCcTo_count
+calculation_method: sum
+dataset: lte-e-rab-modify
+column: ModQoSFailNbr_CpCcTo_count

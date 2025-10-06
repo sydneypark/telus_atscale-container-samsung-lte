@@ -1,0 +1,6 @@
+unique_name: BYTEGTPDLENBIRATCDMA2000HRPDX2FW
+object_type: metric
+label: ByteGtpDLEnbIRatCdma2000HrpdX2Fw_Kbytes
+calculation_method: sum
+dataset: lte-gtp-forward-traffic
+column: ByteGtpDLEnbIRatCdma2000HrpdX2Fw_Kbytes

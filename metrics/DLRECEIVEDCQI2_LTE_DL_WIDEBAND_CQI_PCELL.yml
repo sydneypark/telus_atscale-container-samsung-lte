@@ -1,0 +1,6 @@
+unique_name: DLRECEIVEDCQI2_LTE_DL_WIDEBAND_CQI_PCELL
+object_type: metric
+label: DLReceivedCQI2_count
+calculation_method: sum
+dataset: lte-dl-wideband-cqi-pcell
+column: DLReceivedCQI2_count

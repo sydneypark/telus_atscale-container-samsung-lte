@@ -1,0 +1,6 @@
+unique_name: RUTEMPCNT
+object_type: metric
+label: RuTempCnt_count
+calculation_method: sum
+dataset: lte-ru-temperature
+column: RuTempCnt_count

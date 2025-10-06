@@ -1,0 +1,6 @@
+unique_name: INTERS1INFAIL_S1APSIGFAIL_EN_DC_S1_HANDOVER
+object_type: metric
+label: InterS1InFail_S1apSigFail_count
+calculation_method: sum
+dataset: lte-en-dc-s1-in-handover
+column: InterS1InFail_S1apSigFail_count

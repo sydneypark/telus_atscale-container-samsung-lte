@@ -1,0 +1,28 @@
+unique_name: UL_RANK_UE
+object_type: dimension
+label: UL_RANK_UE
+is_degenerate: true
+hierarchies:
+- unique_name: UL_RANK_UE Hierarchy
+  label: UL_RANK_UE Hierarchy
+  levels:
+  - unique_name: UL_RANK_UE
+level_attributes:
+- unique_name: UL_RANK_UE
+  label: UL_RANK_UE Level
+  shared_degenerate_columns:
+  - name_column: UL_RANK_UE
+    key_columns:
+    - UL_RANK_UE
+    dataset: nr-uplink-mcs-distribution-per-rank
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: UL_RANK_UE
+    key_columns:
+    - UL_RANK_UE
+    dataset: nr-uplink-mcs-prb-per-rank
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

@@ -1,0 +1,6 @@
+unique_name: L1ULCOMPTTIRATIO
+object_type: metric
+label: L1ULCompTtiRatio_pct
+calculation_method: sum
+dataset: lte-lte-l1-ul-comp-usage
+column: L1ULCompTtiRatio_pct

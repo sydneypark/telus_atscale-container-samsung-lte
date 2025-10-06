@@ -1,0 +1,6 @@
+unique_name: SOURCECELLTAOUTGOINGHANDOVERMAX_TA
+object_type: metric
+label: SourceCellTAOutgoingHandoverMax_TA
+calculation_method: sum
+dataset: lte-ta-information-of-the-source-cell-when-performing-incoming-
+column: SourceCellTAOutgoingHandoverMax_TA

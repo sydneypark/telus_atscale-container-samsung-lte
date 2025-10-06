@@ -1,0 +1,6 @@
+unique_name: ENDCCONNUEAVG
+object_type: metric
+label: EnDcConnUeAvg_count
+calculation_method: sum
+dataset: lte-5g-endc-capable-ues
+column: EnDcConnUeAvg_count

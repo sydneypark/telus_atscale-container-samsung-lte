@@ -1,0 +1,6 @@
+unique_name: NBIOT_NUMRESOURCEULCARRIER
+object_type: metric
+label: NBIoT_NumResourceULCarrier_count
+calculation_method: sum
+dataset: lte-nb-iot-ul-and-dl-total-subcarriers-usage-for-multi-carrier
+column: NBIoT_NumResourceULCarrier_count

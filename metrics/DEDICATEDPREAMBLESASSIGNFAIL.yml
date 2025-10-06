@@ -1,0 +1,6 @@
+unique_name: DEDICATEDPREAMBLESASSIGNFAIL
+object_type: metric
+label: DedicatedPreamblesAssignFail_count
+calculation_method: sum
+dataset: lte-random-access-preambles
+column: DedicatedPreamblesAssignFail_count

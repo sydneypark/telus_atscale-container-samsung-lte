@@ -1,0 +1,6 @@
+unique_name: TABLEULSCHEDULERMCS7
+object_type: metric
+label: TableULSchedulerMcs7_count
+calculation_method: sum
+dataset: lte-ul-prb-per-mcs
+column: TableULSchedulerMcs7_count

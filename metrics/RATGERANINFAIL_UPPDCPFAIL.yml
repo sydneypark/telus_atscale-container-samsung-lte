@@ -1,0 +1,6 @@
+unique_name: RATGERANINFAIL_UPPDCPFAIL
+object_type: metric
+label: RatGeranInFail_UpPdcpFail_count
+calculation_method: sum
+dataset: lte-ps-ho-from-geran
+column: RatGeranInFail_UpPdcpFail_count

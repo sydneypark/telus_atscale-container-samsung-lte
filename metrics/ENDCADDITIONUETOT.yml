@@ -1,0 +1,6 @@
+unique_name: ENDCADDITIONUETOT
+object_type: metric
+label: EnDcAdditionUeTot_count
+calculation_method: sum
+dataset: lte-5g-capable-rrc-connection-number
+column: EnDcAdditionUeTot_count

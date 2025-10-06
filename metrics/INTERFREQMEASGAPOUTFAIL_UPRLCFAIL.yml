@@ -1,0 +1,6 @@
+unique_name: INTERFREQMEASGAPOUTFAIL_UPRLCFAIL
+object_type: metric
+label: InterFreqMeasGapOutFail_UpRlcFail_count
+calculation_method: sum
+dataset: lte-outgoing-inter-frequency-handover-with-measurement-gap
+column: InterFreqMeasGapOutFail_UpRlcFail_count

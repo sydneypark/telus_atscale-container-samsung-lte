@@ -1,0 +1,6 @@
+unique_name: SOURCEULSINRMAX_DB
+object_type: metric
+label: SourceULSinrMax_dB
+calculation_method: sum
+dataset: lte-incoming-ul-quality-based-handover
+column: SourceULSinrMax_dB

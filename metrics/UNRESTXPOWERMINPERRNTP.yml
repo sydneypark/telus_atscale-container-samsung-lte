@@ -1,0 +1,6 @@
+unique_name: UNRESTXPOWERMINPERRNTP
+object_type: metric
+label: UnresTxPowerMinPerRNTP_count
+calculation_method: sum
+dataset: lte-dl-icic-rntp-information
+column: UnresTxPowerMinPerRNTP_count

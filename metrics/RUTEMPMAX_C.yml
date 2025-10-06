@@ -1,0 +1,6 @@
+unique_name: RUTEMPMAX_C
+object_type: metric
+label: RuTempMax_C
+calculation_method: sum
+dataset: lte-ru-temperature
+column: RuTempMax_C

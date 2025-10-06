@@ -1,0 +1,6 @@
+unique_name: CALLDROP_ECCBTMOUTRRCCONNECTIONREESTABLISH
+object_type: metric
+label: CallDrop_EccbTmoutRrcConnectionReestablish_count
+calculation_method: sum
+dataset: lte-call-drop
+column: CallDrop_EccbTmoutRrcConnectionReestablish_count

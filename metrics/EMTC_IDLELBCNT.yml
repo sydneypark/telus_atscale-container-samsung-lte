@@ -1,0 +1,6 @@
+unique_name: EMTC_IDLELBCNT
+object_type: metric
+label: eMTC_IdleLbCnt_count
+calculation_method: sum
+dataset: lte-emtc-idle-load-balancing
+column: eMTC_IdleLbCnt_count

@@ -1,0 +1,6 @@
+unique_name: VOLTEULQUALITYDEFECT
+object_type: metric
+label: VoLTEULQualityDefect_count
+calculation_method: sum
+dataset: lte-volte-quality-defect
+column: VoLTEULQualityDefect_count

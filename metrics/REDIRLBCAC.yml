@@ -1,0 +1,6 @@
+unique_name: REDIRLBCAC
+object_type: metric
+label: RedirLbCac_count
+calculation_method: sum
+dataset: lte-redirection-by-cac
+column: RedirLbCac_count

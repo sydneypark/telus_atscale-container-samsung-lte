@@ -1,0 +1,6 @@
+unique_name: REDIRNROUT
+object_type: metric
+label: RedirNrOut_count
+calculation_method: sum
+dataset: lte-redirection-nr-out
+column: RedirNrOut_count

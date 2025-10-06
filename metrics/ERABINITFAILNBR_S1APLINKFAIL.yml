@@ -1,0 +1,6 @@
+unique_name: ERABINITFAILNBR_S1APLINKFAIL
+object_type: metric
+label: ErabInitFailNbr_S1apLinkFail_count
+calculation_method: sum
+dataset: lte-e-rab-setup
+column: ErabInitFailNbr_S1apLinkFail_count

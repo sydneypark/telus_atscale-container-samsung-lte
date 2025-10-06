@@ -1,0 +1,6 @@
+unique_name: PREEMPTHOERABCNT
+object_type: metric
+label: PreemptHoErabCnt_count
+calculation_method: sum
+dataset: lte-preemption-handover-per-e-rab
+column: PreemptHoErabCnt_count

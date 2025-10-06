@@ -1,0 +1,6 @@
+unique_name: RACHUSAGECNT
+object_type: metric
+label: RACHUsageCnt_count
+calculation_method: sum
+dataset: lte-random-access-preambles
+column: RACHUsageCnt_count

@@ -1,0 +1,6 @@
+unique_name: PDCPSDULOSSDLNUM
+object_type: metric
+label: PdcpSduLossDLNum_count
+calculation_method: sum
+dataset: lte-packet-loss-rate
+column: PdcpSduLossDLNum_count

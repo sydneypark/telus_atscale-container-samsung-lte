@@ -1,0 +1,6 @@
+unique_name: EMFTIMEAVGEXPOSURE11_DBM_LTE_LTE_EMF_TIME_AVERAGE_EXPOSURE
+object_type: metric
+label: EMFTimeAvgExposure11_dBm
+calculation_method: sum
+dataset: lte-lte-emf-time-average-exposure
+column: EMFTimeAvgExposure11_dBm

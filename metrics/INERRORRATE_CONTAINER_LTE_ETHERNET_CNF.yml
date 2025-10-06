@@ -1,0 +1,6 @@
+unique_name: INERRORRATE_CONTAINER_LTE_ETHERNET_CNF
+object_type: metric
+label: InErrorRate_Container_pct
+calculation_method: sum
+dataset: lte-ethernet-packet-for-cnf
+column: InErrorRate_Container_pct

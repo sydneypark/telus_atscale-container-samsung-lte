@@ -1,0 +1,6 @@
+unique_name: IFSPEED_LTE_ETHERNET
+object_type: metric
+label: IfSpeed_Mbps
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: IfSpeed_Mbps

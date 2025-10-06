@@ -1,0 +1,6 @@
+unique_name: MRCNTNR
+object_type: metric
+label: MrCntNr_count
+calculation_method: sum
+dataset: lte-mr-rqa-nr
+column: MrCntNr_count

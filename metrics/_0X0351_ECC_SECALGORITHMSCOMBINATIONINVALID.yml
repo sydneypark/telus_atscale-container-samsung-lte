@@ -1,0 +1,6 @@
+unique_name: _0X0351_ECC_SECALGORITHMSCOMBINATIONINVALID
+object_type: metric
+label: _0x0351_Ecc_SecAlgorithmsCombinationInvalid_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0351_Ecc_SecAlgorithmsCombinationInvalid_count

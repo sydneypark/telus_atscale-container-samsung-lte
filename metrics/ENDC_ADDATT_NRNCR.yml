@@ -1,0 +1,6 @@
+unique_name: ENDC_ADDATT_NRNCR
+object_type: metric
+label: EnDc_AddAtt_NrNcr_count
+calculation_method: sum
+dataset: lte-en-dc-addition-information-per-nr-ncr
+column: EnDc_AddAtt_NrNcr_count

@@ -1,0 +1,6 @@
+unique_name: PLMNSESSIONTIMEQCIAVG
+object_type: metric
+label: PLMNSessionTimeQciAvg_ms
+calculation_method: sum
+dataset: lte-e-rab-session-time-per-qci-per-plmn
+column: PLMNSessionTimeQciAvg_ms

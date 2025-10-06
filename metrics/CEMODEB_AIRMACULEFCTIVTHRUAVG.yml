@@ -1,0 +1,6 @@
+unique_name: CEMODEB_AIRMACULEFCTIVTHRUAVG
+object_type: metric
+label: CEModeB_AirMacULEfctivThruAvg_Kbps
+calculation_method: sum
+dataset: lte-emtc-air-mac-packet
+column: CEModeB_AirMacULEfctivThruAvg_Kbps

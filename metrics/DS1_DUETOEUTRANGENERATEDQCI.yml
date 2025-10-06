@@ -1,0 +1,6 @@
+unique_name: DS1_DUETOEUTRANGENERATEDQCI
+object_type: metric
+label: DS1_DueToEutranGeneratedQci_count
+calculation_method: sum
+dataset: lte-erab-release-by-double-s1
+column: DS1_DueToEutranGeneratedQci_count

@@ -1,0 +1,6 @@
+unique_name: ULRECEIVEDMCS26
+object_type: metric
+label: ULReceivedMcs26_count
+calculation_method: sum
+dataset: lte-mcs
+column: ULReceivedMcs26_count

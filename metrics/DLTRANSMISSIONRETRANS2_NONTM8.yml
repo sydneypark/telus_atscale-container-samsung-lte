@@ -1,0 +1,6 @@
+unique_name: DLTRANSMISSIONRETRANS2_NONTM8
+object_type: metric
+label: DLTransmissionRetrans2_NonTM8_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-tm8-downlink-harq-transmission-
+column: DLTransmissionRetrans2_NonTM8_count

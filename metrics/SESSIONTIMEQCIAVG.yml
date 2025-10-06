@@ -1,0 +1,6 @@
+unique_name: SESSIONTIMEQCIAVG
+object_type: metric
+label: SessionTimeQciAvg_ms
+calculation_method: sum
+dataset: lte-e-rab-session-time-per-qci
+column: SessionTimeQciAvg_ms

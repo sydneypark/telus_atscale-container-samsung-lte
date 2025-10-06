@@ -1,0 +1,6 @@
+unique_name: _0X0905_MAC_NOTASSIGNEDRB
+object_type: metric
+label: _0x0905_Mac_NotAssignedRb_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0905_Mac_NotAssignedRb_count

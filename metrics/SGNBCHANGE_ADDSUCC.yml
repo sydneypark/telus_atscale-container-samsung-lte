@@ -1,0 +1,6 @@
+unique_name: SGNBCHANGE_ADDSUCC
+object_type: metric
+label: SgnbChange_AddSucc_count
+calculation_method: sum
+dataset: lte-sgnb-addition-due-to-scg-mobility
+column: SgnbChange_AddSucc_count

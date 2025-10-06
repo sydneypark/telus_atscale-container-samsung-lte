@@ -1,0 +1,6 @@
+unique_name: INTRAENBINPREPFAIL_S1APSIGFAIL
+object_type: metric
+label: IntraEnbInPrepFail_S1apSigFail_count
+calculation_method: sum
+dataset: lte-intra-enb-in-handover
+column: IntraEnbInPrepFail_S1apSigFail_count

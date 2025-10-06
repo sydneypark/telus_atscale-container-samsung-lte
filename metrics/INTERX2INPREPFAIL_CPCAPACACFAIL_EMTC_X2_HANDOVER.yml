@@ -1,0 +1,6 @@
+unique_name: INTERX2INPREPFAIL_CPCAPACACFAIL_EMTC_X2_HANDOVER
+object_type: metric
+label: InterX2InPrepFail_CpCapaCacFail_count
+calculation_method: sum
+dataset: lte-emtc-x2-in-handover
+column: InterX2InPrepFail_CpCapaCacFail_count

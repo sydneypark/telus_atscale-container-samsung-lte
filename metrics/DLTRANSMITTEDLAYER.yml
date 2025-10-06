@@ -1,0 +1,6 @@
+unique_name: DLTRANSMITTEDLAYER
+object_type: metric
+label: DLTransmittedLayer_count
+calculation_method: sum
+dataset: lte-dl-layer
+column: DLTransmittedLayer_count

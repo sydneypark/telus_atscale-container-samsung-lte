@@ -1,0 +1,6 @@
+unique_name: UTRANSRVCCOUTPREPFAIL_S1APLINKFAIL
+object_type: metric
+label: UtranSrvccOutPrepFail_S1apLinkFail_count
+calculation_method: sum
+dataset: lte-utran-srvcc
+column: UtranSrvccOutPrepFail_S1apLinkFail_count

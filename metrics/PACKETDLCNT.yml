@@ -1,0 +1,6 @@
+unique_name: PACKETDLCNT
+object_type: metric
+label: PacketDLCnt_count
+calculation_method: sum
+dataset: lte-pdcp-packet
+column: PacketDLCnt_count

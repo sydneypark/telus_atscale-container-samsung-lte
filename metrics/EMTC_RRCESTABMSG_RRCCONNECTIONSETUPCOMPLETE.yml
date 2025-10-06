@@ -1,0 +1,6 @@
+unique_name: EMTC_RRCESTABMSG_RRCCONNECTIONSETUPCOMPLETE
+object_type: metric
+label: eMTC_RrcEstabMsg_RRCConnectionSetupComplete_count
+calculation_method: sum
+dataset: lte-emtc-rrc-connection-establishment-message
+column: eMTC_RrcEstabMsg_RRCConnectionSetupComplete_count

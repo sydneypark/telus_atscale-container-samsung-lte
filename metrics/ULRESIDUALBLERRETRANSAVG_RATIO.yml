@@ -1,0 +1,6 @@
+unique_name: ULRESIDUALBLERRETRANSAVG_RATIO
+object_type: metric
+label: ULResidualBlerRetransAvg_ratio
+calculation_method: sum
+dataset: lte-uplink-harq-transmission-bler
+column: ULResidualBlerRetransAvg_ratio

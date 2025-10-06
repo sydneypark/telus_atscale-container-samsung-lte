@@ -1,0 +1,6 @@
+unique_name: ECGISUCCDRX
+object_type: metric
+label: EcgiSuccDrx_count
+calculation_method: sum
+dataset: lte-ecgi-report
+column: EcgiSuccDrx_count

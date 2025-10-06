@@ -1,0 +1,6 @@
+unique_name: CELEVEL2_RACHPREAMBLECNT
+object_type: metric
+label: CElevel2_RachPreambleCnt_count
+calculation_method: sum
+dataset: lte-emtc-random-access-preambles
+column: CElevel2_RachPreambleCnt_count

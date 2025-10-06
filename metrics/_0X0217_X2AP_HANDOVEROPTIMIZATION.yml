@@ -1,0 +1,6 @@
+unique_name: _0X0217_X2AP_HANDOVEROPTIMIZATION
+object_type: metric
+label: _0x0217_X2ap_HandoverOptimization_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0217_X2ap_HandoverOptimization_count

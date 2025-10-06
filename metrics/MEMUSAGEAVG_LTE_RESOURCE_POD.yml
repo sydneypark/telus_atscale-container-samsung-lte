@@ -1,0 +1,6 @@
+unique_name: MEMUSAGEAVG_LTE_RESOURCE_POD
+object_type: metric
+label: MemUsageAvg_pct
+calculation_method: sum
+dataset: lte-resource-per-pod
+column: MemUsageAvg_pct

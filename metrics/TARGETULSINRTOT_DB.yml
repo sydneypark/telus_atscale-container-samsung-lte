@@ -1,0 +1,6 @@
+unique_name: TARGETULSINRTOT_DB
+object_type: metric
+label: TargetULSinrTot_dB
+calculation_method: sum
+dataset: lte-incoming-ul-quality-based-handover
+column: TargetULSinrTot_dB

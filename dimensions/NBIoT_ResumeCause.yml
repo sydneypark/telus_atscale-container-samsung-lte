@@ -1,0 +1,22 @@
+unique_name: NBIoT_ResumeCause
+object_type: dimension
+label: NBIoT_ResumeCause
+is_degenerate: true
+hierarchies:
+- unique_name: NBIoT_ResumeCause Hierarchy
+  label: NBIoT_ResumeCause Hierarchy
+  levels:
+  - unique_name: NBIoT_ResumeCause
+level_attributes:
+- unique_name: NBIoT_ResumeCause
+  label: NBIoT_ResumeCause Level
+  shared_degenerate_columns:
+  - name_column: NBIoT_ResumeCause
+    key_columns:
+    - NBIoT_ResumeCause
+    dataset: lte-nb-iot-rrc-connection-resume
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

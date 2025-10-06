@@ -1,0 +1,6 @@
+unique_name: DLTRANSMISSIONNACKEDRETRANS
+object_type: metric
+label: DLTransmissionNackedRetrans_count
+calculation_method: sum
+dataset: lte-downlink-harq-transmission-bler
+column: DLTransmissionNackedRetrans_count

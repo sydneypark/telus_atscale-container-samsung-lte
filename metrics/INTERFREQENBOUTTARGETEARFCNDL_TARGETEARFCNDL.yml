@@ -1,0 +1,6 @@
+unique_name: INTERFREQENBOUTTARGETEARFCNDL_TARGETEARFCNDL
+object_type: metric
+label: InterFreqEnbOutTargetEarfcnDL_TargetEarfcnDl
+calculation_method: sum
+dataset: lte-outgoing-inter-frequency-handover-per-plmn
+column: InterFreqEnbOutTargetEarfcnDL_TargetEarfcnDl

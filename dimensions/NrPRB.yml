@@ -1,0 +1,22 @@
+unique_name: NrPRB
+object_type: dimension
+label: NrPRB
+is_degenerate: true
+hierarchies:
+- unique_name: NrPRB Hierarchy
+  label: NrPRB Hierarchy
+  levels:
+  - unique_name: NrPRB
+level_attributes:
+- unique_name: NrPRB
+  label: NrPRB Level
+  shared_degenerate_columns:
+  - name_column: NrPRB
+    key_columns:
+    - NrPRB
+    dataset: nr-interference-power-per-prb-per-path-nr
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

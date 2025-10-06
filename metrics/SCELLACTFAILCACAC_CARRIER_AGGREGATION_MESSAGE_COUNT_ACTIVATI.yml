@@ -1,0 +1,6 @@
+unique_name: SCELLACTFAILCACAC_CARRIER_AGGREGATION_MESSAGE_COUNT_ACTIVATI
+object_type: metric
+label: SCellActFailCaCac_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-message-count-for-activation-deactivati
+column: SCellActFailCaCac_count

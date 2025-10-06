@@ -1,0 +1,6 @@
+unique_name: THRUGTPDLENBIRATGERANS1FWCNT_S
+object_type: metric
+label: ThruGtpDLEnbIRatGeranS1FwCnt_s
+calculation_method: sum
+dataset: lte-gtp-forward-traffic
+column: ThruGtpDLEnbIRatGeranS1FwCnt_s

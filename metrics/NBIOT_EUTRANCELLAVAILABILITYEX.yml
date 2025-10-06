@@ -1,0 +1,6 @@
+unique_name: NBIOT_EUTRANCELLAVAILABILITYEX
+object_type: metric
+label: NBIoT_EutranCellAvailabilityEx_pct
+calculation_method: sum
+dataset: lte-nb-iot-availability
+column: NBIoT_EutranCellAvailabilityEx_pct

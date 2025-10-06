@@ -1,0 +1,6 @@
+unique_name: HOTRIGGERINGSCELLRSRPEVENTA4TOT_DBM
+object_type: metric
+label: HoTriggeringScellRsrpEventA4Tot_dBm
+calculation_method: sum
+dataset: lte-measurement-results-of-source-cell
+column: HoTriggeringScellRsrpEventA4Tot_dBm

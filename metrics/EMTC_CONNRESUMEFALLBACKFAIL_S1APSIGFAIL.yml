@@ -1,0 +1,6 @@
+unique_name: EMTC_CONNRESUMEFALLBACKFAIL_S1APSIGFAIL
+object_type: metric
+label: eMTC_ConnResumeFallbackFail_S1apSigFail_count
+calculation_method: sum
+dataset: lte-rrc-connection-resume-for-emtc-ue
+column: eMTC_ConnResumeFallbackFail_S1apSigFail_count

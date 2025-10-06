@@ -1,0 +1,28 @@
+unique_name: latencyGroupId
+object_type: dimension
+label: latencyGroupId
+is_degenerate: true
+hierarchies:
+- unique_name: latencyGroupId Hierarchy
+  label: latencyGroupId Hierarchy
+  levels:
+  - unique_name: latencyGroupId
+level_attributes:
+- unique_name: latencyGroupId
+  label: latencyGroupId Level
+  shared_degenerate_columns:
+  - name_column: latencyGroupId
+    key_columns:
+    - latencyGroupId
+    dataset: lte-ul-short-semi-persistent-scheduling
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: latencyGroupId
+    key_columns:
+    - latencyGroupId
+    dataset: lte-ul-short-semi-persistent-scheduling-for-mac
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

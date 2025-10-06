@@ -1,0 +1,6 @@
+unique_name: SESSIONTIMEUECNT
+object_type: metric
+label: SessionTimeUECnt_count
+calculation_method: sum
+dataset: lte-e-rab-session-time-per-cell
+column: SessionTimeUECnt_count

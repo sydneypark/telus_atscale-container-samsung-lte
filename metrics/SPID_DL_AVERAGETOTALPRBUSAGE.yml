@@ -1,0 +1,6 @@
+unique_name: SPID_DL_AVERAGETOTALPRBUSAGE
+object_type: metric
+label: SPID_DL_AverageTotalPrbUsage_pct
+calculation_method: sum
+dataset: lte-prb-usage-per-spid-category
+column: SPID_DL_AverageTotalPrbUsage_pct

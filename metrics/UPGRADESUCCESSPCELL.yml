@@ -1,0 +1,6 @@
+unique_name: UPGRADESUCCESSPCELL
+object_type: metric
+label: UpgradeSuccessPcell_count
+calculation_method: sum
+dataset: lte-ul-256qam-active
+column: UpgradeSuccessPcell_count

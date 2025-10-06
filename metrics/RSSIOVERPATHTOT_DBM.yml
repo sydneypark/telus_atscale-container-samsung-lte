@@ -1,0 +1,6 @@
+unique_name: RSSIOVERPATHTOT_DBM
+object_type: metric
+label: RssiOverPathTot_dBm
+calculation_method: sum
+dataset: lte-power
+column: RssiOverPathTot_dBm

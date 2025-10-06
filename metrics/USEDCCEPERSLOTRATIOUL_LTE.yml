@@ -1,0 +1,6 @@
+unique_name: USEDCCEPERSLOTRATIOUL_LTE
+object_type: metric
+label: UsedCCEperSlotRatioUL_LTE_pct
+calculation_method: sum
+dataset: lte-lte-cce-utilization-per-slot
+column: UsedCCEperSlotRatioUL_LTE_pct

@@ -1,0 +1,6 @@
+unique_name: RXOVERSIZE
+object_type: metric
+label: RxOversize_count
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: RxOversize_count

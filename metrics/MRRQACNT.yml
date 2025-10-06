@@ -1,0 +1,6 @@
+unique_name: MRRQACNT
+object_type: metric
+label: MrRqaCnt_count
+calculation_method: sum
+dataset: lte-measurement-report-for-rqa
+column: MrRqaCnt_count

@@ -1,0 +1,6 @@
+unique_name: INTRAFREQOUTFAIL_S1APCUFAIL
+object_type: metric
+label: IntraFreqOutFail_S1apCuFail_count
+calculation_method: sum
+dataset: lte-outgoing-intra-frequency-handover
+column: IntraFreqOutFail_S1apCuFail_count

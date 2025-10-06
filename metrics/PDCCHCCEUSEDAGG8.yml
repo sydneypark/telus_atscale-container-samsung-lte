@@ -1,0 +1,6 @@
+unique_name: PDCCHCCEUSEDAGG8
+object_type: metric
+label: PDCCHCceUsedAgg8_count
+calculation_method: sum
+dataset: lte-pdcch-usage-information
+column: PDCCHCceUsedAgg8_count

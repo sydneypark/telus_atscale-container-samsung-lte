@@ -1,0 +1,6 @@
+unique_name: RRCMBMSINTERESTINDICATION
+object_type: metric
+label: RrcMBMSInterestIndication_count
+calculation_method: sum
+dataset: lte-rrc-message-per-cell
+column: RrcMBMSInterestIndication_count

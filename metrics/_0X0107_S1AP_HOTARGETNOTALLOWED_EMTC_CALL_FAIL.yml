@@ -1,0 +1,6 @@
+unique_name: _0X0107_S1AP_HOTARGETNOTALLOWED_EMTC_CALL_FAIL
+object_type: metric
+label: _0x0107_S1ap_HoTargetNotAllowed_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x0107_S1ap_HoTargetNotAllowed_count

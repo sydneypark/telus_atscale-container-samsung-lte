@@ -1,0 +1,6 @@
+unique_name: NBIOT_PDCPSDUAIRINTFAVG
+object_type: metric
+label: NBIoT_PdcpSduAirIntfAvg_ppm
+calculation_method: sum
+dataset: lte-nb-iot-packet-loss-rate
+column: NBIoT_PdcpSduAirIntfAvg_ppm

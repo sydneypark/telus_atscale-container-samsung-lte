@@ -1,0 +1,6 @@
+unique_name: HOTRIGGERINGTCELLRSRPEVENTA5AVG_DBM_EMTC_MEASUREMENT_RESULTS
+object_type: metric
+label: HoTriggeringTcellRsrpEventA5Avg_dBm
+calculation_method: sum
+dataset: lte-emtc-measurement-results-of-target-cell
+column: HoTriggeringTcellRsrpEventA5Avg_dBm

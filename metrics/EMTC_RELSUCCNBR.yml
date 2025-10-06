@@ -1,0 +1,6 @@
+unique_name: EMTC_RELSUCCNBR
+object_type: metric
+label: eMTC_RelSuccNbr_count
+calculation_method: sum
+dataset: lte-emtc-e-rab-release
+column: eMTC_RelSuccNbr_count

@@ -1,0 +1,6 @@
+unique_name: COVERAGEHOLERSRPVOICEN
+object_type: metric
+label: CoverageHoleRsrpVoiceN_count
+calculation_method: sum
+dataset: lte-mro-rlf-voice-classification
+column: CoverageHoleRsrpVoiceN_count

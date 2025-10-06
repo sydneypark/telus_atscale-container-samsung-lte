@@ -1,0 +1,6 @@
+unique_name: CEMODEB_PUCCHREPETITION8
+object_type: metric
+label: CEModeB_PUCCHRepetition8_count
+calculation_method: sum
+dataset: lte-emtc-pucch-repetition
+column: CEModeB_PUCCHRepetition8_count

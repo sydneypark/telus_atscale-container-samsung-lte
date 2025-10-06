@@ -1,0 +1,6 @@
+unique_name: RATGERANINATT
+object_type: metric
+label: RatGeranInAtt_count
+calculation_method: sum
+dataset: lte-ps-ho-from-geran
+column: RatGeranInAtt_count

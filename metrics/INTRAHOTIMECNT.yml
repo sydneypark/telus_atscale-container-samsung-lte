@@ -1,0 +1,6 @@
+unique_name: INTRAHOTIMECNT
+object_type: metric
+label: IntraHoTimeCnt_count
+calculation_method: sum
+dataset: lte-handover-time
+column: IntraHoTimeCnt_count

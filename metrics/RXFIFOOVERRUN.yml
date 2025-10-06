@@ -1,0 +1,6 @@
+unique_name: RXFIFOOVERRUN
+object_type: metric
+label: RxFifoOverrun_count
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: RxFifoOverrun_count

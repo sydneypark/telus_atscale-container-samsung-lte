@@ -1,0 +1,6 @@
+unique_name: _0X0706_PDCP_INVALIDPDCPSNTYPE
+object_type: metric
+label: _0x0706_Pdcp_InvalidPdcpSnType_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0706_Pdcp_InvalidPdcpSnType_count

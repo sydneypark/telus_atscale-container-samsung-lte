@@ -1,0 +1,6 @@
+unique_name: _0X020F_X2AP_ENCRYPTIONANDORINTEGRITYPROTECTIONALGORITHMSNOT_1
+object_type: metric
+label: _0x020F_X2ap_EncryptionAndOrIntegrityProtectionAlgorithmsNotSupported_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x020F_X2ap_EncryptionAndOrIntegrityProtectionAlgorithmsNotSupported_count

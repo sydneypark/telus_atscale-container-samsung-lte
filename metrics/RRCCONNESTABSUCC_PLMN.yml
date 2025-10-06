@@ -1,0 +1,6 @@
+unique_name: RRCCONNESTABSUCC_PLMN
+object_type: metric
+label: RrcConnEstabSucc_PLMN_count
+calculation_method: sum
+dataset: lte-accessibility-data-per-plmn-per-cell
+column: RrcConnEstabSucc_PLMN_count

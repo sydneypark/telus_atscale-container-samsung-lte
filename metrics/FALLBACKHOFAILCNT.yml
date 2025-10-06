@@ -1,0 +1,6 @@
+unique_name: FALLBACKHOFAILCNT
+object_type: metric
+label: FallbackHoFailCnt_count
+calculation_method: sum
+dataset: lte-energy-saving-feature-orchestration
+column: FallbackHoFailCnt_count

@@ -1,0 +1,6 @@
+unique_name: RATUTRANINATT
+object_type: metric
+label: RatUtranInAtt_count
+calculation_method: sum
+dataset: lte-inter-rat-utran-ps-in-handover
+column: RatUtranInAtt_count

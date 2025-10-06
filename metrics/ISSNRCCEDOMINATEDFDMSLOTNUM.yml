@@ -1,0 +1,6 @@
+unique_name: ISSNRCCEDOMINATEDFDMSLOTNUM
+object_type: metric
+label: IssNrCceDominatedFdmSlotNum_count
+calculation_method: sum
+dataset: lte-dss-related-information
+column: IssNrCceDominatedFdmSlotNum_count

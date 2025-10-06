@@ -1,0 +1,6 @@
+unique_name: TXERRORRATE
+object_type: metric
+label: TxErrorRate_pct
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: TxErrorRate_pct

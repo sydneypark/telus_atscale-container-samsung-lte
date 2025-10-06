@@ -1,0 +1,6 @@
+unique_name: BPUBEARERSTATUSCNTMAX
+object_type: metric
+label: BpuBearerStatusCntMax_count
+calculation_method: sum
+dataset: lte-lte-served-bearer-status-per-bpu
+column: BpuBearerStatusCntMax_count

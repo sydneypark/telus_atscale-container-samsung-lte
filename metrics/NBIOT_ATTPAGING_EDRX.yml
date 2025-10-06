@@ -1,0 +1,6 @@
+unique_name: NBIOT_ATTPAGING_EDRX
+object_type: metric
+label: NBIoT_AttPaging_eDRX_count
+calculation_method: sum
+dataset: lte-edrx-nb-iot-paging
+column: NBIoT_AttPaging_eDRX_count

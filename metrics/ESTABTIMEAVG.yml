@@ -1,0 +1,6 @@
+unique_name: ESTABTIMEAVG
+object_type: metric
+label: EstabTimeAvg_ms
+calculation_method: sum
+dataset: lte-e-rab-setup-time
+column: EstabTimeAvg_ms

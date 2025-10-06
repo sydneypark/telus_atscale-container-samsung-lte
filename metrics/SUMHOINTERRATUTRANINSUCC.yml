@@ -1,0 +1,6 @@
+unique_name: SUMHOINTERRATUTRANINSUCC
+object_type: metric
+label: SumHoInterRatUtranInSucc_count
+calculation_method: sum
+dataset: lte-mobility
+column: SumHoInterRatUtranInSucc_count

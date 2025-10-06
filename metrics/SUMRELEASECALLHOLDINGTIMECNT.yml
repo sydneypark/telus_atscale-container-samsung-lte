@@ -1,0 +1,6 @@
+unique_name: SUMRELEASECALLHOLDINGTIMECNT
+object_type: metric
+label: SumReleaseCallHoldingTimeCnt_count
+calculation_method: sum
+dataset: lte-tti-bundling-time
+column: SumReleaseCallHoldingTimeCnt_count

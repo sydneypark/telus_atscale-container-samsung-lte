@@ -1,0 +1,22 @@
+unique_name: direction
+object_type: dimension
+label: direction
+is_degenerate: true
+hierarchies:
+- unique_name: direction Hierarchy
+  label: direction Hierarchy
+  levels:
+  - unique_name: direction
+level_attributes:
+- unique_name: direction
+  label: direction Level
+  shared_degenerate_columns:
+  - name_column: direction
+    key_columns:
+    - direction
+    dataset: lte-volte-recommended-bit-rate
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

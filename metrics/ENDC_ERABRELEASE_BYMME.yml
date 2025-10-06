@@ -1,0 +1,6 @@
+unique_name: ENDC_ERABRELEASE_BYMME
+object_type: metric
+label: EnDc_ErabRelease_byMme_count
+calculation_method: sum
+dataset: lte-en-dc-e-rab-release-information
+column: EnDc_ErabRelease_byMme_count

@@ -1,0 +1,6 @@
+unique_name: ULMUMIMOTTIUSAGE_MASSIVE_MIMO_CONFIGURATION
+object_type: metric
+label: ULMuMimoTtiUsage_pct
+calculation_method: sum
+dataset: lte-uplink-multi-user-mimo-in-massive-mimo-configuration
+column: ULMuMimoTtiUsage_pct

@@ -1,0 +1,6 @@
+unique_name: SCELLADDCNT_TOT
+object_type: metric
+label: SCellAddCnt_Tot_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-message-count-for-addition-release
+column: SCellAddCnt_Tot_count

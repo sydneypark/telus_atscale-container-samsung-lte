@@ -1,0 +1,6 @@
+unique_name: DLABSSTATUSCNT
+object_type: metric
+label: DLABSstatusCnt_count
+calculation_method: sum
+dataset: lte-eicic-partnership
+column: DLABSstatusCnt_count

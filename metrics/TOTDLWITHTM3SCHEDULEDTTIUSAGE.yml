@@ -1,0 +1,6 @@
+unique_name: TOTDLWITHTM3SCHEDULEDTTIUSAGE
+object_type: metric
+label: TotDLWithTM3ScheduledTtiUsage_pct
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-downlink-tti-usage
+column: TotDLWithTM3ScheduledTtiUsage_pct

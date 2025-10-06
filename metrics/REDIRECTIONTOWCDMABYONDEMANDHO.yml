@@ -1,0 +1,6 @@
+unique_name: REDIRECTIONTOWCDMABYONDEMANDHO
+object_type: metric
+label: RedirectionToWCDMAByOnDemandHo_count
+calculation_method: sum
+dataset: lte-ondemand-redirection
+column: RedirectionToWCDMAByOnDemandHo_count

@@ -1,0 +1,6 @@
+unique_name: DUBEARERSTATUSCNTCNT
+object_type: metric
+label: DuBearerStatusCntCnt_count
+calculation_method: sum
+dataset: lte-lte-served-bearer-status-per-du
+column: DuBearerStatusCntCnt_count

@@ -1,0 +1,6 @@
+unique_name: CAT1PRBULAVG
+object_type: metric
+label: Cat1PrbULAvg_pct
+calculation_method: sum
+dataset: lte-prb-usage-for-category-1-ues
+column: Cat1PrbULAvg_pct

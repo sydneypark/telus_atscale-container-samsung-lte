@@ -1,0 +1,22 @@
+unique_name: NumSCells
+object_type: dimension
+label: NumSCells
+is_degenerate: true
+hierarchies:
+- unique_name: NumSCells Hierarchy
+  label: NumSCells Hierarchy
+  levels:
+  - unique_name: NumSCells
+level_attributes:
+- unique_name: NumSCells
+  label: NumSCells Level
+  shared_degenerate_columns:
+  - name_column: NumSCells
+    key_columns:
+    - NumSCells
+    dataset: nr-carrier-aggregation-message-count-for-scell-activation--2
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

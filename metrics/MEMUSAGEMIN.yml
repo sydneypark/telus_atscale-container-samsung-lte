@@ -1,0 +1,6 @@
+unique_name: MEMUSAGEMIN
+object_type: metric
+label: MemUsageMin_pct
+calculation_method: sum
+dataset: lte-resource
+column: MemUsageMin_pct

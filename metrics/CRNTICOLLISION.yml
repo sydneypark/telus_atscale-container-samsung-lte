@@ -1,0 +1,6 @@
+unique_name: CRNTICOLLISION
+object_type: metric
+label: CRNTIcollision_count
+calculation_method: sum
+dataset: lte-activation-deactivation-for-inter-site-ca-using-non-ideal-b
+column: CRNTIcollision_count

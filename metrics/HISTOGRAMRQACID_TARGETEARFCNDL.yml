@@ -1,0 +1,6 @@
+unique_name: HISTOGRAMRQACID_TARGETEARFCNDL
+object_type: metric
+label: HistogramRqaCid_TargetEarfcnDl
+calculation_method: sum
+dataset: lte-histogram-of-rsrp-and-rsrq-for-rqa
+column: HistogramRqaCid_TargetEarfcnDl

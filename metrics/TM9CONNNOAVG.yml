@@ -1,0 +1,6 @@
+unique_name: TM9CONNNOAVG
+object_type: metric
+label: Tm9ConnNoAvg_count
+calculation_method: sum
+dataset: lte-tm9-capable-rrc-connection-number
+column: Tm9ConnNoAvg_count

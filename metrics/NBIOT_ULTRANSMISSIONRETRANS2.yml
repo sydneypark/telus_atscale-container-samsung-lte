@@ -1,0 +1,6 @@
+unique_name: NBIOT_ULTRANSMISSIONRETRANS2
+object_type: metric
+label: NBIoT_ULTransmissionRetrans2_count
+calculation_method: sum
+dataset: lte-nb-iot-npusch-harq-transmission-times
+column: NBIoT_ULTransmissionRetrans2_count

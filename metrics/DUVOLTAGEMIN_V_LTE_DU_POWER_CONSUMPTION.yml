@@ -1,0 +1,6 @@
+unique_name: DUVOLTAGEMIN_V_LTE_DU_POWER_CONSUMPTION
+object_type: metric
+label: DuVoltageMin_V
+calculation_method: sum
+dataset: lte-du-power-consumption
+column: DuVoltageMin_V

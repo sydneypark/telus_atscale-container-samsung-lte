@@ -1,0 +1,6 @@
+unique_name: INTERFREQHOOUTFORENDCATT
+object_type: metric
+label: InterFreqHoOutforEnDcAtt_count
+calculation_method: sum
+dataset: lte-inter-frequency-handover-for-en-dc
+column: InterFreqHoOutforEnDcAtt_count

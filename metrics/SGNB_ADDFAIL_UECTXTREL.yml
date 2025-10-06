@@ -1,0 +1,6 @@
+unique_name: SGNB_ADDFAIL_UECTXTREL
+object_type: metric
+label: Sgnb_AddFail_UeCtxtRel_count
+calculation_method: sum
+dataset: lte-sgnb-addition-due-to-mcg-mobility
+column: Sgnb_AddFail_UeCtxtRel_count

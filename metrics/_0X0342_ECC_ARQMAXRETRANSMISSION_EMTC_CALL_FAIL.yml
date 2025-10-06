@@ -1,0 +1,6 @@
+unique_name: _0X0342_ECC_ARQMAXRETRANSMISSION_EMTC_CALL_FAIL
+object_type: metric
+label: _0x0342_Ecc_ArqMaxReTransmission_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x0342_Ecc_ArqMaxReTransmission_count

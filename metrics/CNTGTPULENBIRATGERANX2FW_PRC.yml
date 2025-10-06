@@ -1,0 +1,6 @@
+unique_name: CNTGTPULENBIRATGERANX2FW_PRC
+object_type: metric
+label: CntGtpULEnbIRatGeranX2Fw_count
+calculation_method: sum
+dataset: lte-gtp-forward-traffic-per-prc
+column: CntGtpULEnbIRatGeranX2Fw_count

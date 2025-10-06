@@ -1,0 +1,6 @@
+unique_name: PCCFORCATARGETEARFCNDL_TARGETEARFCNDL
+object_type: metric
+label: PccForCATargetEarfcnDL_TargetEarfcnDl
+calculation_method: sum
+dataset: lte-primary-carrier-change-for-ca-information
+column: PccForCATargetEarfcnDL_TargetEarfcnDl

@@ -1,0 +1,6 @@
+unique_name: DUCALLCONTEXTCNTAVG
+object_type: metric
+label: DuCallContextCntAvg_count
+calculation_method: sum
+dataset: lte-lte-call-context-per-du
+column: DuCallContextCntAvg_count

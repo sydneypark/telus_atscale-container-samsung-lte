@@ -1,0 +1,6 @@
+unique_name: SUMVOLTEINTRAENBATT
+object_type: metric
+label: SumVoLTEIntraEnbAtt_count
+calculation_method: sum
+dataset: lte-volte-quality
+column: SumVoLTEIntraEnbAtt_count

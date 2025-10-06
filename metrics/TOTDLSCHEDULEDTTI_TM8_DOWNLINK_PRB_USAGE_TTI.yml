@@ -1,0 +1,6 @@
+unique_name: TOTDLSCHEDULEDTTI_TM8_DOWNLINK_PRB_USAGE_TTI
+object_type: metric
+label: TotDLScheduledTti_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-tm8-downlink-prb-usage-per-tti
+column: TotDLScheduledTti_count

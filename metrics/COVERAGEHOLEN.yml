@@ -1,0 +1,6 @@
+unique_name: COVERAGEHOLEN
+object_type: metric
+label: CoverageHoleN_count
+calculation_method: sum
+dataset: lte-mro-rlf-classification
+column: CoverageHoleN_count

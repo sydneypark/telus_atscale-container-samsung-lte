@@ -1,0 +1,6 @@
+unique_name: FALLBACKVOLTEDLRESIDUALBLER
+object_type: metric
+label: FallbackVoLTEDlResidualBLER_count
+calculation_method: sum
+dataset: lte-energy-saving-feature-orchestration
+column: FallbackVoLTEDlResidualBLER_count

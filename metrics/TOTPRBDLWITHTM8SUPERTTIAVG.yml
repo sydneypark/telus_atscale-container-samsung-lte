@@ -1,0 +1,6 @@
+unique_name: TOTPRBDLWITHTM8SUPERTTIAVG
+object_type: metric
+label: TotPrbDLWithTM8SUperTTIAvg_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-tm8-downlink-prb-usage-per-tti
+column: TotPrbDLWithTM8SUperTTIAvg_count

@@ -1,0 +1,6 @@
+unique_name: SCHEDULEDANRNBR
+object_type: metric
+label: ScheduledAnrNbr_count
+calculation_method: sum
+dataset: lte-the-number-of-neighbor-relations
+column: ScheduledAnrNbr_count

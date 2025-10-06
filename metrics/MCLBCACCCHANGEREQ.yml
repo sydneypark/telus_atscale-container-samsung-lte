@@ -1,0 +1,6 @@
+unique_name: MCLBCACCCHANGEREQ
+object_type: metric
+label: MclbCaCcChangeReq_count
+calculation_method: sum
+dataset: lte-multi-carrier-load-balancing-by-ca
+column: MclbCaCcChangeReq_count

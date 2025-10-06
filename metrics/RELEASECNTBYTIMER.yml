@@ -1,0 +1,6 @@
+unique_name: RELEASECNTBYTIMER
+object_type: metric
+label: ReleaseCntByTimer_count
+calculation_method: sum
+dataset: lte-released-ue-by-timer
+column: ReleaseCntByTimer_count

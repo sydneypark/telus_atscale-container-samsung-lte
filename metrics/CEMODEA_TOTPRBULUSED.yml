@@ -1,0 +1,6 @@
+unique_name: CEMODEA_TOTPRBULUSED
+object_type: metric
+label: CEModeA_TotPrbULUsed_count
+calculation_method: sum
+dataset: lte-emtc-total-prb-usage
+column: CEModeA_TotPrbULUsed_count

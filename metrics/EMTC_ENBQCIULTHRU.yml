@@ -1,0 +1,6 @@
+unique_name: EMTC_ENBQCIULTHRU
+object_type: metric
+label: eMTC_EnbQciULThru_Kbps
+calculation_method: sum
+dataset: lte-emtc-pdcp-packet
+column: eMTC_EnbQciULThru_Kbps

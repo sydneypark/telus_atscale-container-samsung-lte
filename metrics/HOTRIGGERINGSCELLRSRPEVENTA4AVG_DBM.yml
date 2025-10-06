@@ -1,0 +1,6 @@
+unique_name: HOTRIGGERINGSCELLRSRPEVENTA4AVG_DBM
+object_type: metric
+label: HoTriggeringScellRsrpEventA4Avg_dBm
+calculation_method: sum
+dataset: lte-measurement-results-of-source-cell
+column: HoTriggeringScellRsrpEventA4Avg_dBm

@@ -1,0 +1,6 @@
+unique_name: ECGIFAILAUTOGAP_TIMEOUTECGIMR
+object_type: metric
+label: EcgiFailAutoGap_TimeoutEcgiMr_count
+calculation_method: sum
+dataset: lte-ecgi-report
+column: EcgiFailAutoGap_TimeoutEcgiMr_count

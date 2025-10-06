@@ -1,0 +1,6 @@
+unique_name: RRCRRCCONNECTIONRECONFIGURATIONCOMPLETE
+object_type: metric
+label: RrcRrcConnectionReconfigurationComplete_count
+calculation_method: sum
+dataset: lte-rrc-message-per-cell
+column: RrcRrcConnectionReconfigurationComplete_count

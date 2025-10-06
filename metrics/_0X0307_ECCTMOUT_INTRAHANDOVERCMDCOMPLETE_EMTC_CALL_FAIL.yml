@@ -1,0 +1,6 @@
+unique_name: _0X0307_ECCTMOUT_INTRAHANDOVERCMDCOMPLETE_EMTC_CALL_FAIL
+object_type: metric
+label: _0x0307_EccTmout_IntraHandoverCmdComplete_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x0307_EccTmout_IntraHandoverCmdComplete_count

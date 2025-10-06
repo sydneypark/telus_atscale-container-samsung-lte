@@ -1,0 +1,6 @@
+unique_name: SCELLADDITIONTIME_5CC_S
+object_type: metric
+label: SCellAdditionTime_5CC_s
+calculation_method: sum
+dataset: lte-scell-added-information-pcell
+column: SCellAdditionTime_5CC_s

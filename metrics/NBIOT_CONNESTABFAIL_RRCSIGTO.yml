@@ -1,0 +1,6 @@
+unique_name: NBIOT_CONNESTABFAIL_RRCSIGTO
+object_type: metric
+label: NBIoT_ConnEstabFail_RrcSigTo_count
+calculation_method: sum
+dataset: lte-nb-iot-rrc-connection-establishment
+column: NBIoT_ConnEstabFail_RrcSigTo_count

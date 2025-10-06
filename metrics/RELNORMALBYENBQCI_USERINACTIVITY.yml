@@ -1,0 +1,6 @@
+unique_name: RELNORMALBYENBQCI_USERINACTIVITY
+object_type: metric
+label: RelNormalbyEnbQci_UserInactivity_count
+calculation_method: sum
+dataset: lte-e-rab-release-by-enb-per-cell-per-qci
+column: RelNormalbyEnbQci_UserInactivity_count

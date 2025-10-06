@@ -1,0 +1,6 @@
+unique_name: SUMRELEASECALLHOLDINGTIMETOT_S
+object_type: metric
+label: SumReleaseCallHoldingTimeTot_s
+calculation_method: sum
+dataset: lte-tti-bundling-time
+column: SumReleaseCallHoldingTimeTot_s

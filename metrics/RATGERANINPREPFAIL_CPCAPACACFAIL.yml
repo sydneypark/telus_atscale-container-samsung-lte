@@ -1,0 +1,6 @@
+unique_name: RATGERANINPREPFAIL_CPCAPACACFAIL
+object_type: metric
+label: RatGeranInPrepFail_CpCapaCacFail_count
+calculation_method: sum
+dataset: lte-ps-ho-from-geran
+column: RatGeranInPrepFail_CpCapaCacFail_count

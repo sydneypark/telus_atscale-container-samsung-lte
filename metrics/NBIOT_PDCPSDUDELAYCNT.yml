@@ -1,0 +1,6 @@
+unique_name: NBIOT_PDCPSDUDELAYCNT
+object_type: metric
+label: NBIoT_PdcpSduDelayCnt_count
+calculation_method: sum
+dataset: lte-nb-iot-packet-delay
+column: NBIoT_PdcpSduDelayCnt_count

@@ -1,0 +1,6 @@
+unique_name: _0X020B_X2AP_CELLNOTAVAILABLE_EMTC_CALL_FAIL
+object_type: metric
+label: _0x020B_X2ap_CellNotAvailable_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x020B_X2ap_CellNotAvailable_count

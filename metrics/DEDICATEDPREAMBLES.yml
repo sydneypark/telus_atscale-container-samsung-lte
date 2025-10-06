@@ -1,0 +1,6 @@
+unique_name: DEDICATEDPREAMBLES
+object_type: metric
+label: DedicatedPreambles_count
+calculation_method: sum
+dataset: lte-random-access-preambles
+column: DedicatedPreambles_count

@@ -1,0 +1,6 @@
+unique_name: RXLINKUTILIZATIONAVG
+object_type: metric
+label: RxLinkUtilizationAvg_pct
+calculation_method: sum
+dataset: lte-ethernet-packet
+column: RxLinkUtilizationAvg_pct

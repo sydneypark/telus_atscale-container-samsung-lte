@@ -1,0 +1,6 @@
+unique_name: ERABACCESSIBILITYINIT
+object_type: metric
+label: ErabAccessibilityInit_pct
+calculation_method: sum
+dataset: lte-accessibility
+column: ErabAccessibilityInit_pct

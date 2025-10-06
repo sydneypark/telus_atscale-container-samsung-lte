@@ -1,0 +1,6 @@
+unique_name: LTE_SELECTED
+object_type: metric
+label: Lte_Selected_count
+calculation_method: sum
+dataset: lte-multi-rat-selection-information-per-cell
+column: Lte_Selected_count

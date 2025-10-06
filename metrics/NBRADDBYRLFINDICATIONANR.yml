@@ -1,0 +1,6 @@
+unique_name: NBRADDBYRLFINDICATIONANR
+object_type: metric
+label: NbrAddByRlfIndicationAnr_count
+calculation_method: sum
+dataset: lte-addition-and-deletion-of-neighbor-relations
+column: NbrAddByRlfIndicationAnr_count

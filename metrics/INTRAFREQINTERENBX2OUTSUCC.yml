@@ -1,0 +1,6 @@
+unique_name: INTRAFREQINTERENBX2OUTSUCC
+object_type: metric
+label: IntraFreqInterEnbX2OutSucc_count
+calculation_method: sum
+dataset: lte-outgoing-intra-frequency-handover-per-plmn
+column: IntraFreqInterEnbX2OutSucc_count

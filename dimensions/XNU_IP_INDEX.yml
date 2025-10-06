@@ -1,0 +1,22 @@
+unique_name: XNU_IP_INDEX
+object_type: dimension
+label: XNU_IP_INDEX
+is_degenerate: true
+hierarchies:
+- unique_name: XNU_IP_INDEX Hierarchy
+  label: XNU_IP_INDEX Hierarchy
+  levels:
+  - unique_name: XNU_IP_INDEX
+level_attributes:
+- unique_name: XNU_IP_INDEX
+  label: XNU_IP_INDEX Level
+  shared_degenerate_columns:
+  - name_column: XNU_IP_INDEX
+    key_columns:
+    - XNU_IP_INDEX
+    dataset: nr-xnu-delay-measurement-data-per-upc-id-per-xnu-ip-index-per-5
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

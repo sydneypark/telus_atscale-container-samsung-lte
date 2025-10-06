@@ -1,0 +1,6 @@
+unique_name: READCELLUNAVAILABLETIMEES_S
+object_type: metric
+label: ReadCellUnavailableTimeES_s
+calculation_method: sum
+dataset: lte-availability
+column: ReadCellUnavailableTimeES_s

@@ -1,0 +1,6 @@
+unique_name: RACHUSAGEAVG
+object_type: metric
+label: RACHUsageAvg_count
+calculation_method: sum
+dataset: lte-random-access-preambles
+column: RACHUsageAvg_count

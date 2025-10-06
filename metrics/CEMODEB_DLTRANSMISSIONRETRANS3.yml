@@ -1,0 +1,6 @@
+unique_name: CEMODEB_DLTRANSMISSIONRETRANS3
+object_type: metric
+label: CEModeB_DLTransmissionRetrans3_count
+calculation_method: sum
+dataset: lte-emtc-downlink-harq-transmission-bler
+column: CEModeB_DLTransmissionRetrans3_count

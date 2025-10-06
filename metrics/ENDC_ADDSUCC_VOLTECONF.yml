@@ -1,0 +1,6 @@
+unique_name: ENDC_ADDSUCC_VOLTECONF
+object_type: metric
+label: EnDc_AddSucc_VolteConf_count
+calculation_method: sum
+dataset: lte-en-dc-addition-information
+column: EnDc_AddSucc_VolteConf_count

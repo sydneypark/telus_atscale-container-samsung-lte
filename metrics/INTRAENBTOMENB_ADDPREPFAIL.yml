@@ -1,0 +1,6 @@
+unique_name: INTRAENBTOMENB_ADDPREPFAIL
+object_type: metric
+label: IntraEnbToMenb_AddPrepFail_count
+calculation_method: sum
+dataset: lte-sgnb-addition-due-to-mcg-mobility
+column: IntraEnbToMenb_AddPrepFail_count

@@ -1,0 +1,6 @@
+unique_name: NBIOT_READCELLUNAVAILABLETIME_S
+object_type: metric
+label: NBIoT_ReadCellUnavailableTime_s
+calculation_method: sum
+dataset: lte-nb-iot-availability
+column: NBIoT_ReadCellUnavailableTime_s

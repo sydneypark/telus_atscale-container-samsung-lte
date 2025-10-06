@@ -1,0 +1,28 @@
+unique_name: endc_bearerType
+object_type: dimension
+label: endc_bearerType
+is_degenerate: true
+hierarchies:
+- unique_name: endc_bearerType Hierarchy
+  label: endc_bearerType Hierarchy
+  levels:
+  - unique_name: endc_bearerType
+level_attributes:
+- unique_name: endc_bearerType
+  label: endc_bearerType Level
+  shared_degenerate_columns:
+  - name_column: endc_bearerType
+    key_columns:
+    - endc_bearerType
+    dataset: lte-en-dc-e-rab-establish-information
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: endc_bearerType
+    key_columns:
+    - endc_bearerType
+    dataset: lte-en-dc-e-rab-release-information
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

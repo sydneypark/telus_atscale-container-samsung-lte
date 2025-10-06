@@ -1,0 +1,6 @@
+unique_name: TOTGBRPRBULCNT
+object_type: metric
+label: TotGbrPrbULCnt_count
+calculation_method: sum
+dataset: lte-total-prb-usage
+column: TotGbrPrbULCnt_count

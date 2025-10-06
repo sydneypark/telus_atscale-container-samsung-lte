@@ -1,0 +1,6 @@
+unique_name: MPDCCHALLOCATIONFAILDL
+object_type: metric
+label: MpdcchAllocationFailDL_count
+calculation_method: sum
+dataset: lte-emtc-mpdcch-allocation
+column: MpdcchAllocationFailDL_count

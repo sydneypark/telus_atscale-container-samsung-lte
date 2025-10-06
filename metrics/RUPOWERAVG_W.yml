@@ -1,0 +1,6 @@
+unique_name: RUPOWERAVG_W
+object_type: metric
+label: RuPowerAvg_W
+calculation_method: sum
+dataset: lte-ru-power-consumption
+column: RuPowerAvg_W

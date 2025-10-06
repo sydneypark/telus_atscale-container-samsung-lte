@@ -1,0 +1,6 @@
+unique_name: GERANSRVCCOUTATT
+object_type: metric
+label: GeranSrvccOutAtt_count
+calculation_method: sum
+dataset: lte-geran-srvcc-handover
+column: GeranSrvccOutAtt_count

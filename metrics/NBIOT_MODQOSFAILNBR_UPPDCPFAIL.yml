@@ -1,0 +1,6 @@
+unique_name: NBIOT_MODQOSFAILNBR_UPPDCPFAIL
+object_type: metric
+label: NBIoT_ModQoSFailNbr_UpPdcpFail_count
+calculation_method: sum
+dataset: lte-nb-iot-e-rab-modify
+column: NBIoT_ModQoSFailNbr_UpPdcpFail_count

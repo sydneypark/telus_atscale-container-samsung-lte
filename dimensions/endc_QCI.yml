@@ -1,0 +1,34 @@
+unique_name: endc_QCI
+object_type: dimension
+label: endc_QCI
+is_degenerate: true
+hierarchies:
+- unique_name: endc_QCI Hierarchy
+  label: endc_QCI Hierarchy
+  levels:
+  - unique_name: endc_QCI
+level_attributes:
+- unique_name: endc_QCI
+  label: endc_QCI Level
+  shared_degenerate_columns:
+  - name_column: endc_QCI
+    key_columns:
+    - endc_QCI
+    dataset: lte-en-dc-e-rab-establish-information
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: endc_QCI
+    key_columns:
+    - endc_QCI
+    dataset: lte-en-dc-e-rab-modification-information
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: endc_QCI
+    key_columns:
+    - endc_QCI
+    dataset: lte-en-dc-e-rab-release-information
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

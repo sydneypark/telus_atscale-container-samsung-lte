@@ -1,0 +1,6 @@
+unique_name: INTERS1INPREPSUCC_EMTC_S1_HANDOVER
+object_type: metric
+label: InterS1InPrepSucc_count
+calculation_method: sum
+dataset: lte-emtc-s1-in-handover
+column: InterS1InPrepSucc_count

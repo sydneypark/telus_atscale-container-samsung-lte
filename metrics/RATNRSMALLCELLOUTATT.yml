@@ -1,0 +1,6 @@
+unique_name: RATNRSMALLCELLOUTATT
+object_type: metric
+label: RatNrSmallCellOutAtt_count
+calculation_method: sum
+dataset: lte-inter-rat-nr-outgoing-handover
+column: RatNrSmallCellOutAtt_count

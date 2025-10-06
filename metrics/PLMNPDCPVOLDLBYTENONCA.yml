@@ -1,0 +1,6 @@
+unique_name: PLMNPDCPVOLDLBYTENONCA
+object_type: metric
+label: PLMNPdcpVolDLByteNonCa_Kbytes
+calculation_method: sum
+dataset: lte-carrier-aggregation-pdcp-packet-per-plmn
+column: PLMNPdcpVolDLByteNonCa_Kbytes

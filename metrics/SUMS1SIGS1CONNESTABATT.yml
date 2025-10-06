@@ -1,0 +1,6 @@
+unique_name: SUMS1SIGS1CONNESTABATT
+object_type: metric
+label: SumS1sigS1ConnEstabAtt_count
+calculation_method: sum
+dataset: lte-accessibility
+column: SumS1sigS1ConnEstabAtt_count

@@ -1,0 +1,6 @@
+unique_name: ACBBYRRCREJECTRATIO
+object_type: metric
+label: AcbByRrcRejectRatio_count
+calculation_method: sum
+dataset: lte-access-class-barring-enhanced
+column: AcbByRrcRejectRatio_count

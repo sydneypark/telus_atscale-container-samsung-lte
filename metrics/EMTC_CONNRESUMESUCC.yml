@@ -1,0 +1,6 @@
+unique_name: EMTC_CONNRESUMESUCC
+object_type: metric
+label: eMTC_ConnResumeSucc_count
+calculation_method: sum
+dataset: lte-rrc-connection-resume-for-emtc-ue
+column: eMTC_ConnResumeSucc_count

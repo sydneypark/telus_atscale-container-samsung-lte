@@ -1,0 +1,6 @@
+unique_name: ULHOINPREPFAIL_ULQUALITYCAC
+object_type: metric
+label: ULHoInPrepFail_ULQualityCac_count
+calculation_method: sum
+dataset: lte-incoming-ul-quality-based-handover
+column: ULHoInPrepFail_ULQualityCac_count

@@ -1,0 +1,6 @@
+unique_name: RSRQNRCNTBIN0
+object_type: metric
+label: RsrqNrCntBin0_count
+calculation_method: sum
+dataset: lte-histogram-rqa-nr
+column: RsrqNrCntBin0_count

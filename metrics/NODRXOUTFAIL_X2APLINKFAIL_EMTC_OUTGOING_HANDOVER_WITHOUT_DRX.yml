@@ -1,0 +1,6 @@
+unique_name: NODRXOUTFAIL_X2APLINKFAIL_EMTC_OUTGOING_HANDOVER_WITHOUT_DRX
+object_type: metric
+label: NoDrxOutFail_X2apLinkFail_count
+calculation_method: sum
+dataset: lte-emtc-outgoing-handover-without-drx
+column: NoDrxOutFail_X2apLinkFail_count

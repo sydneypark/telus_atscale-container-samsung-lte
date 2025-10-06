@@ -1,0 +1,6 @@
+unique_name: NBIOT_MODQOSSUCCNBR
+object_type: metric
+label: NBIoT_ModQoSSuccNbr_count
+calculation_method: sum
+dataset: lte-nb-iot-e-rab-modify
+column: NBIoT_ModQoSSuccNbr_count

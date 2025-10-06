@@ -1,0 +1,6 @@
+unique_name: CEMODEA_DLRECEIVEDCQIAVG_CQI
+object_type: metric
+label: CEModeA_DLReceivedCQIAvg_CQI
+calculation_method: sum
+dataset: lte-emtc-dl-wideband-cqi
+column: CEModeA_DLReceivedCQIAvg_CQI

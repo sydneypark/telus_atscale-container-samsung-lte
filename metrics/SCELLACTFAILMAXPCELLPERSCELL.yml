@@ -1,0 +1,6 @@
+unique_name: SCELLACTFAILMAXPCELLPERSCELL
+object_type: metric
+label: SCellActFailMaxPCellperSCell_count
+calculation_method: sum
+dataset: lte-activation-deactivation-for-inter-site-ca-using-non-ideal-b
+column: SCellActFailMaxPCellperSCell_count

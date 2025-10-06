@@ -1,0 +1,6 @@
+unique_name: CPUUSAGEMAXDURATION_S
+object_type: metric
+label: CpuUsageMaxDuration_s
+calculation_method: sum
+dataset: lte-resource
+column: CpuUsageMaxDuration_s

@@ -1,0 +1,6 @@
+unique_name: IPTHRUTHPVODLBYTE
+object_type: metric
+label: IpThruThpVoDLByte_Kbytes
+calculation_method: sum
+dataset: lte-air-rlc-packet
+column: IpThruThpVoDLByte_Kbytes

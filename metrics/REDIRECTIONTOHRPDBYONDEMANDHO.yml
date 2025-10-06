@@ -1,0 +1,6 @@
+unique_name: REDIRECTIONTOHRPDBYONDEMANDHO
+object_type: metric
+label: RedirectionToHRPDByOnDemandHo_count
+calculation_method: sum
+dataset: lte-ondemand-redirection
+column: RedirectionToHRPDByOnDemandHo_count

@@ -1,0 +1,6 @@
+unique_name: FRCHGREFUSE_VOLTECONF
+object_type: metric
+label: FRChgRefuse_VolteConf_count
+calculation_method: sum
+dataset: lte-not-allowed-pscell-change
+column: FRChgRefuse_VolteConf_count

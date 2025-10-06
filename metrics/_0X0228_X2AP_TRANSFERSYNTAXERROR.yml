@@ -1,0 +1,6 @@
+unique_name: _0X0228_X2AP_TRANSFERSYNTAXERROR
+object_type: metric
+label: _0x0228_X2ap_TransferSyntaxError_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0228_X2ap_TransferSyntaxError_count

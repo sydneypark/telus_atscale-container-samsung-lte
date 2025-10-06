@@ -1,0 +1,6 @@
+unique_name: CPUUSAGECNT
+object_type: metric
+label: CpuUsageCnt_count
+calculation_method: sum
+dataset: lte-resource
+column: CpuUsageCnt_count

@@ -1,0 +1,6 @@
+unique_name: CEMODEA_ULIPTHRUTIME_TTI
+object_type: metric
+label: CEModeA_ULIpThruTime_TTI
+calculation_method: sum
+dataset: lte-emtc-ul-ip-throughput
+column: CEModeA_ULIpThruTime_TTI

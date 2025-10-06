@@ -1,0 +1,6 @@
+unique_name: EMTC_DENIED_MOVOICECALL
+object_type: metric
+label: eMTC_Denied_moVoiceCall_count
+calculation_method: sum
+dataset: lte-emtc-denied-call-by-overload-protection
+column: eMTC_Denied_moVoiceCall_count

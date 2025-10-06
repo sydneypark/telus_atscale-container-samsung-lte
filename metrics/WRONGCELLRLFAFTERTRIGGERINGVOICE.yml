@@ -1,0 +1,6 @@
+unique_name: WRONGCELLRLFAFTERTRIGGERINGVOICE
+object_type: metric
+label: WrongCellRlfAfterTriggeringVoice_count
+calculation_method: sum
+dataset: lte-mro-rlf-voice-classification
+column: WrongCellRlfAfterTriggeringVoice_count

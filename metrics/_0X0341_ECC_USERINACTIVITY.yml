@@ -1,0 +1,6 @@
+unique_name: _0X0341_ECC_USERINACTIVITY
+object_type: metric
+label: _0x0341_Ecc_UserInactivity_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0341_Ecc_UserInactivity_count

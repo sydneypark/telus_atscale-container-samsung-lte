@@ -1,0 +1,6 @@
+unique_name: SBCCHANGEATTEMPT
+object_type: metric
+label: SbcChangeAttempt_count
+calculation_method: sum
+dataset: lte-enhanced-sbc-selection-information
+column: SbcChangeAttempt_count

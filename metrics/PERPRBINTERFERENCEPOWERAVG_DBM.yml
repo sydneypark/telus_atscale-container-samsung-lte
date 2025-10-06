@@ -1,0 +1,6 @@
+unique_name: PERPRBINTERFERENCEPOWERAVG_DBM
+object_type: metric
+label: PerPrbInterferencePowerAvg_dBm
+calculation_method: sum
+dataset: lte-per-prb-interference-power
+column: PerPrbInterferencePowerAvg_dBm

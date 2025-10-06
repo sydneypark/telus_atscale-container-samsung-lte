@@ -1,0 +1,6 @@
+unique_name: DENIED_DELAYTOLERANTACCESS
+object_type: metric
+label: Denied_DelayTolerantAccess_count
+calculation_method: sum
+dataset: lte-denied-call-by-overload-protection
+column: Denied_DelayTolerantAccess_count

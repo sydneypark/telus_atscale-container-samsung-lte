@@ -1,0 +1,6 @@
+unique_name: DLTRANSMISSIONRETRANS3_TM8MU
+object_type: metric
+label: DLTransmissionRetrans3_TM8MU_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-tm8-downlink-harq-transmission-
+column: DLTransmissionRetrans3_TM8MU_count

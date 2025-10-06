@@ -1,0 +1,6 @@
+unique_name: PCELLSWITCHINATT
+object_type: metric
+label: PcellSwitchInAtt_count
+calculation_method: sum
+dataset: lte-pcell-frequency-switch-in
+column: PcellSwitchInAtt_count

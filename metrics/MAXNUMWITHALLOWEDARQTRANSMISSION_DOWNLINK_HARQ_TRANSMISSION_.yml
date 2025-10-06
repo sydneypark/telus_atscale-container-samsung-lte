@@ -1,0 +1,6 @@
+unique_name: MAXNUMWITHALLOWEDARQTRANSMISSION_DOWNLINK_HARQ_TRANSMISSION_
+object_type: metric
+label: MaxNumWithallowedARQTransmission_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-downlink-harq-transmission-bler
+column: MaxNumWithallowedARQTransmission_count

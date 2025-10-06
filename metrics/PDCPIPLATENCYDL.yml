@@ -1,0 +1,6 @@
+unique_name: PDCPIPLATENCYDL
+object_type: metric
+label: PdcpIpLatencyDL_ms
+calculation_method: sum
+dataset: lte-pdcp-packet
+column: PdcpIpLatencyDL_ms

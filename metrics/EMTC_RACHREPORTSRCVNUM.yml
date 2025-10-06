@@ -1,0 +1,6 @@
+unique_name: EMTC_RACHREPORTSRCVNUM
+object_type: metric
+label: eMTC_RACHReportsRcvNum_count
+calculation_method: sum
+dataset: lte-emtc-rach-usage
+column: eMTC_RACHReportsRcvNum_count

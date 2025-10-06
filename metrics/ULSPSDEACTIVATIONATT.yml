@@ -1,0 +1,6 @@
+unique_name: ULSPSDEACTIVATIONATT
+object_type: metric
+label: ULSpsDeactivationAtt_count
+calculation_method: sum
+dataset: lte-semi-persistent-scheduling-in-mac
+column: ULSpsDeactivationAtt_count

@@ -1,0 +1,6 @@
+unique_name: SUMVOLTEINTERX2OUTATT
+object_type: metric
+label: SumVoLTEInterX2OutAtt_count
+calculation_method: sum
+dataset: lte-volte-quality
+column: SumVoLTEInterX2OutAtt_count

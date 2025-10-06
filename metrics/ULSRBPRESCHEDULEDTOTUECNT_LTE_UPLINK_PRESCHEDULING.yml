@@ -1,0 +1,6 @@
+unique_name: ULSRBPRESCHEDULEDTOTUECNT_LTE_UPLINK_PRESCHEDULING
+object_type: metric
+label: UlSrbPrescheduledTotUeCnt_count
+calculation_method: sum
+dataset: lte-uplink-prescheduling
+column: UlSrbPrescheduledTotUeCnt_count

@@ -1,0 +1,6 @@
+unique_name: HWCREESTABLISHRLFAFTERHOUPM
+object_type: metric
+label: HwcReestablishRlfAfterHoUpm_count
+calculation_method: sum
+dataset: lte-upm-rlf-classification
+column: HwcReestablishRlfAfterHoUpm_count

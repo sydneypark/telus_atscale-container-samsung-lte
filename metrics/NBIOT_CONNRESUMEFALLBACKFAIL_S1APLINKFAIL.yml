@@ -1,0 +1,6 @@
+unique_name: NBIOT_CONNRESUMEFALLBACKFAIL_S1APLINKFAIL
+object_type: metric
+label: NBIoT_ConnResumeFallbackFail_S1apLinkFail_count
+calculation_method: sum
+dataset: lte-nb-iot-rrc-connection-resume
+column: NBIoT_ConnResumeFallbackFail_S1apLinkFail_count

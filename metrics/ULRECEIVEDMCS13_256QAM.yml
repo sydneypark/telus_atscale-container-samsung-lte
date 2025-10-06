@@ -1,0 +1,6 @@
+unique_name: ULRECEIVEDMCS13_256QAM
+object_type: metric
+label: ULReceivedMcs13_256QAM_count
+calculation_method: sum
+dataset: lte-mcs-in-256qam-supported-ue
+column: ULReceivedMcs13_256QAM_count

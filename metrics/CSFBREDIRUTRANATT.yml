@@ -1,0 +1,6 @@
+unique_name: CSFBREDIRUTRANATT
+object_type: metric
+label: CSFBRedirUtranAtt_count
+calculation_method: sum
+dataset: lte-csfb-redirection-out
+column: CSFBRedirUtranAtt_count

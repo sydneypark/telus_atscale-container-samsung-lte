@@ -1,0 +1,6 @@
+unique_name: EMTC_CONNRELEASE_CPBHCACFAIL
+object_type: metric
+label: eMTC_ConnRelease_CpBhCacFail_count
+calculation_method: sum
+dataset: lte-emtc-rrc-connection-release
+column: eMTC_ConnRelease_CpBhCacFail_count

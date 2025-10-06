@@ -1,0 +1,6 @@
+unique_name: EMTC_CONNRELEASE_S1APLINKFAIL
+object_type: metric
+label: eMTC_ConnRelease_S1apLinkFail_count
+calculation_method: sum
+dataset: lte-emtc-rrc-connection-release
+column: eMTC_ConnRelease_S1apLinkFail_count

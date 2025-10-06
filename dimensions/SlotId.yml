@@ -1,0 +1,46 @@
+unique_name: SlotID
+object_type: dimension
+label: SlotID
+is_degenerate: true
+hierarchies:
+- unique_name: SlotID Hierarchy
+  label: SlotID Hierarchy
+  levels:
+  - unique_name: SlotID
+level_attributes:
+- unique_name: SlotID
+  label: SlotID Level
+  shared_degenerate_columns:
+  - name_column: SlotID
+    key_columns:
+    - SlotID
+    dataset: nr-disk-usage-in-pnf
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SlotID
+    key_columns:
+    - SlotID
+    dataset: nr-du-power-consumption
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SlotID
+    key_columns:
+    - SlotID
+    dataset: nr-du-temperature
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SlotID
+    key_columns:
+    - SlotID
+    dataset: nr-ethernet-packet
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: SlotID
+    key_columns:
+    - SlotID
+    dataset: nr-resource-per-cpu
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

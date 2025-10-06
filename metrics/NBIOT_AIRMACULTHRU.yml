@@ -1,0 +1,6 @@
+unique_name: NBIOT_AIRMACULTHRU
+object_type: metric
+label: NBIoT_AirMacULThru_Kbps
+calculation_method: sum
+dataset: lte-nb-iot-air-mac-ul-and-dl-packets
+column: NBIoT_AirMacULThru_Kbps

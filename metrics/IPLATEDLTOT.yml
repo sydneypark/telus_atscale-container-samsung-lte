@@ -1,0 +1,6 @@
+unique_name: IPLATEDLTOT
+object_type: metric
+label: IpLateDLTot_ms
+calculation_method: sum
+dataset: lte-ip-latency
+column: IpLateDLTot_ms

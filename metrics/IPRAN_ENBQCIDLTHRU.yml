@@ -1,0 +1,6 @@
+unique_name: IPRAN_ENBQCIDLTHRU
+object_type: metric
+label: IPRan_EnbQciDLThru_Kbps
+calculation_method: sum
+dataset: lte-ipran-gtp-packet-statistics
+column: IPRan_EnbQciDLThru_Kbps

@@ -1,0 +1,6 @@
+unique_name: INTRAENBCONNREESTAB_RELATT
+object_type: metric
+label: IntraEnbConnReEstab_RelAtt_count
+calculation_method: sum
+dataset: lte-sgnb-release-due-to-re-establishment
+column: IntraEnbConnReEstab_RelAtt_count

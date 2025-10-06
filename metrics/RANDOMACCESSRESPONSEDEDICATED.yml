@@ -1,0 +1,6 @@
+unique_name: RANDOMACCESSRESPONSEDEDICATED
+object_type: metric
+label: RandomAccessResponseDedicated_count
+calculation_method: sum
+dataset: lte-random-access-preambles
+column: RandomAccessResponseDedicated_count

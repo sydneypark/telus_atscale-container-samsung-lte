@@ -1,0 +1,6 @@
+unique_name: SUMERABESTABINITATTNBR
+object_type: metric
+label: SumErabEstabInitAttNbr_count
+calculation_method: sum
+dataset: lte-accessibility
+column: SumErabEstabInitAttNbr_count

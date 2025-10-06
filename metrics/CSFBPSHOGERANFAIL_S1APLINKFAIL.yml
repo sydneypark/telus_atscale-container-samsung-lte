@@ -1,0 +1,6 @@
+unique_name: CSFBPSHOGERANFAIL_S1APLINKFAIL
+object_type: metric
+label: CSFBPsHoGeranFail_S1apLinkFail_count
+calculation_method: sum
+dataset: lte-csfb-psho-to-geran
+column: CSFBPsHoGeranFail_S1apLinkFail_count

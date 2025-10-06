@@ -1,0 +1,6 @@
+unique_name: NBIOT_AIRRLCULBYTE
+object_type: metric
+label: NBIoT_AirRlcULByte_Kbytes
+calculation_method: sum
+dataset: lte-nb-iot-air-rlc-ul-and-dl-packets
+column: NBIoT_AirRlcULByte_Kbytes

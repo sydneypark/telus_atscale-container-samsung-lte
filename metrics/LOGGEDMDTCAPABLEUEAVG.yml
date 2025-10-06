@@ -1,0 +1,6 @@
+unique_name: LOGGEDMDTCAPABLEUEAVG
+object_type: metric
+label: LoggedMDTCapableUEAvg_count
+calculation_method: sum
+dataset: lte-mdt-configuration-and-delivery
+column: LoggedMDTCapableUEAvg_count

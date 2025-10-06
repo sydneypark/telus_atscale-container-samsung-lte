@@ -1,0 +1,6 @@
+unique_name: NBIOT_AIRMACDLBYTECNT
+object_type: metric
+label: NBIoT_AirMacDLByteCnt_count
+calculation_method: sum
+dataset: lte-nb-iot-air-mac-ul-and-dl-packets
+column: NBIoT_AirMacDLByteCnt_count

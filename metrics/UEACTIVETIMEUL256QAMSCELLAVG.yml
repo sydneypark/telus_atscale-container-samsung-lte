@@ -1,0 +1,6 @@
+unique_name: UEACTIVETIMEUL256QAMSCELLAVG
+object_type: metric
+label: UEActiveTimeUL256QAMScellAvg_ms
+calculation_method: sum
+dataset: lte-ul-256qam-active
+column: UEActiveTimeUL256QAMScellAvg_ms

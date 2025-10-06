@@ -1,0 +1,6 @@
+unique_name: RRUPRBDLSRBAVG
+object_type: metric
+label: RruPrbDLSrbAvg_pct
+calculation_method: sum
+dataset: lte-rru-measurement-info
+column: RruPrbDLSrbAvg_pct

@@ -1,0 +1,22 @@
+unique_name: MmuPort
+object_type: dimension
+label: MmuPort
+is_degenerate: true
+hierarchies:
+- unique_name: MmuPort Hierarchy
+  label: MmuPort Hierarchy
+  levels:
+  - unique_name: MmuPort
+level_attributes:
+- unique_name: MmuPort
+  label: MmuPort Level
+  shared_degenerate_columns:
+  - name_column: MmuPort
+    key_columns:
+    - MmuPort
+    dataset: lte-mmu-power-consumption
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

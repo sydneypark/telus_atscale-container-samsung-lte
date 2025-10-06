@@ -1,0 +1,6 @@
+unique_name: SGNB_ADDFAIL_RRE_SCG_MOBILITY
+object_type: metric
+label: Sgnb_AddFail_Rre_count
+calculation_method: sum
+dataset: lte-sgnb-addition-due-to-scg-mobility
+column: Sgnb_AddFail_Rre_count

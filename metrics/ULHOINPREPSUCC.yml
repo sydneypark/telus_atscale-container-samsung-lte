@@ -1,0 +1,6 @@
+unique_name: ULHOINPREPSUCC
+object_type: metric
+label: ULHoInPrepSucc_count
+calculation_method: sum
+dataset: lte-incoming-ul-quality-based-handover
+column: ULHoInPrepSucc_count

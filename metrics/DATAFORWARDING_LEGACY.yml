@@ -1,0 +1,6 @@
+unique_name: DATAFORWARDING_LEGACY
+object_type: metric
+label: DataForwarding_Legacy_count
+calculation_method: sum
+dataset: lte-ue-context-retrieval-out
+column: DataForwarding_Legacy_count

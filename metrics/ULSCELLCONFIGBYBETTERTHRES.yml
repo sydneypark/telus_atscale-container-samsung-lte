@@ -1,0 +1,6 @@
+unique_name: ULSCELLCONFIGBYBETTERTHRES
+object_type: metric
+label: ULSCellConfigByBetterThres_count
+calculation_method: sum
+dataset: lte-uplink-carrier-aggregation-count-for-configuration-deconfig
+column: ULSCellConfigByBetterThres_count

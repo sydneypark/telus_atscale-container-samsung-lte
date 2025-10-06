@@ -1,0 +1,6 @@
+unique_name: NBRDELBYOTHERREASON
+object_type: metric
+label: NbrDelByOtherReason_count
+calculation_method: sum
+dataset: lte-addition-and-deletion-of-neighbor-relations
+column: NbrDelByOtherReason_count

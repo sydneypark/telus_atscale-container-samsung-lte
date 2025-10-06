@@ -1,0 +1,6 @@
+unique_name: EMTC_WRWARNINGREQUESTFAIL
+object_type: metric
+label: eMTC_WRWarningRequestFail_count
+calculation_method: sum
+dataset: lte-emtc-commercial-mobile-alert-system
+column: eMTC_WRWarningRequestFail_count

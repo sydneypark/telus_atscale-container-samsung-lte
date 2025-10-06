@@ -1,0 +1,6 @@
+unique_name: ULSCHEDULERMCS22
+object_type: metric
+label: ULSchedulerMcs22_count
+calculation_method: sum
+dataset: lte-mcs
+column: ULSchedulerMcs22_count

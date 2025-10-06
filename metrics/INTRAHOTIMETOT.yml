@@ -1,0 +1,6 @@
+unique_name: INTRAHOTIMETOT
+object_type: metric
+label: IntraHoTimeTot_ms
+calculation_method: sum
+dataset: lte-handover-time
+column: IntraHoTimeTot_ms

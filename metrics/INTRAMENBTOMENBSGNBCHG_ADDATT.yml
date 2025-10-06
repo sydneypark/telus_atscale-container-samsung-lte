@@ -1,0 +1,6 @@
+unique_name: INTRAMENBTOMENBSGNBCHG_ADDATT
+object_type: metric
+label: IntraMenbToMenbSgnbChg_AddAtt_count
+calculation_method: sum
+dataset: lte-sgnb-addition-due-to-mcg-mobility
+column: IntraMenbToMenbSgnbChg_AddAtt_count

@@ -1,0 +1,6 @@
+unique_name: CEMODEA_ULTRANSMITTEDMCS12
+object_type: metric
+label: CEModeA_ULTransmittedMcs12_count
+calculation_method: sum
+dataset: lte-emtc-ul-mcs
+column: CEModeA_ULTransmittedMcs12_count

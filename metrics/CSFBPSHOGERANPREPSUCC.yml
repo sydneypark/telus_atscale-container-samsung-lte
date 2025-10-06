@@ -1,0 +1,6 @@
+unique_name: CSFBPSHOGERANPREPSUCC
+object_type: metric
+label: CSFBPsHoGeranPrepSucc_count
+calculation_method: sum
+dataset: lte-csfb-psho-to-geran
+column: CSFBPsHoGeranPrepSucc_count

@@ -1,0 +1,6 @@
+unique_name: ULDATAVOLUMEFR2
+object_type: metric
+label: ULDataVolumeFr2_Kbytes
+calculation_method: sum
+dataset: lte-ul-ip-throughput-per-en-dc-nr-cell-type
+column: ULDataVolumeFr2_Kbytes

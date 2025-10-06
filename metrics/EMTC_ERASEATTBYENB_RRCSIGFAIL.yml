@@ -1,0 +1,6 @@
+unique_name: EMTC_ERASEATTBYENB_RRCSIGFAIL
+object_type: metric
+label: eMTC_EraseAttbyEnb_RrcSigFail_count
+calculation_method: sum
+dataset: lte-emtc-e-rab-erase-request
+column: eMTC_EraseAttbyEnb_RrcSigFail_count

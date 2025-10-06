@@ -1,0 +1,6 @@
+unique_name: AIRRLCDLTHRUMIN
+object_type: metric
+label: AirRlcDLThruMin_Kbps
+calculation_method: sum
+dataset: lte-air-rlc-packet
+column: AirRlcDLThruMin_Kbps

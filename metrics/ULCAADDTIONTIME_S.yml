@@ -1,0 +1,6 @@
+unique_name: ULCAADDTIONTIME_S
+object_type: metric
+label: ULCaAddtionTime_s
+calculation_method: sum
+dataset: lte-ul-carrier-aggregation-information
+column: ULCaAddtionTime_s

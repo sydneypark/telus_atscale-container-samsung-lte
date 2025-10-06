@@ -1,0 +1,28 @@
+unique_name: MCS_table_LTE
+object_type: dimension
+label: MCS_table_LTE
+is_degenerate: true
+hierarchies:
+- unique_name: MCS_table_LTE Hierarchy
+  label: MCS_table_LTE Hierarchy
+  levels:
+  - unique_name: MCS_table_LTE
+level_attributes:
+- unique_name: MCS_table_LTE
+  label: MCS_table_LTE Level
+  shared_degenerate_columns:
+  - name_column: MCS_table_LTE
+    key_columns:
+    - MCS_table_LTE
+    dataset: lte-prb-usage-for-each-mcs
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: MCS_table_LTE
+    key_columns:
+    - MCS_table_LTE
+    dataset: lte-ul-prb-per-mcs
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

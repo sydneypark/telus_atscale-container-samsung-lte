@@ -1,0 +1,6 @@
+unique_name: COVERAGEHOLEATSETUP
+object_type: metric
+label: CoverageHoleAtSetup_count
+calculation_method: sum
+dataset: lte-mro-rlf-at-rrc-connection
+column: CoverageHoleAtSetup_count

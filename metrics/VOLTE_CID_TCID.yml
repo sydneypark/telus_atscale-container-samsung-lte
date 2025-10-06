@@ -1,0 +1,6 @@
+unique_name: VOLTE_CID_TCID
+object_type: metric
+label: VoLTE_Cid_tcID
+calculation_method: sum
+dataset: lte-volte-handover
+column: VoLTE_Cid_tcID

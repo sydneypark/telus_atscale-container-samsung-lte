@@ -1,0 +1,22 @@
+unique_name: SPIDIncludingInvalid
+object_type: dimension
+label: SPIDIncludingInvalid
+is_degenerate: true
+hierarchies:
+- unique_name: SPIDIncludingInvalid Hierarchy
+  label: SPIDIncludingInvalid Hierarchy
+  levels:
+  - unique_name: SPIDIncludingInvalid
+level_attributes:
+- unique_name: SPIDIncludingInvalid
+  label: SPIDIncludingInvalid Level
+  shared_degenerate_columns:
+  - name_column: SPIDIncludingInvalid
+    key_columns:
+    - SPIDIncludingInvalid
+    dataset: nr-upc-bearer-usage-bearer-count-ue-usage-and-ue-count-sta-2
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

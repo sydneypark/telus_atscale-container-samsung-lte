@@ -1,0 +1,6 @@
+unique_name: EMTC_MODQOSFAILNBR_RRCSIGFAIL
+object_type: metric
+label: eMTC_ModQoSFailNbr_RrcSigFail_count
+calculation_method: sum
+dataset: lte-emtc-e-rab-modify
+column: eMTC_ModQoSFailNbr_RrcSigFail_count

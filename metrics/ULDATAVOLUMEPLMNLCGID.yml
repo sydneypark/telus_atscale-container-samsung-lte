@@ -1,0 +1,6 @@
+unique_name: ULDATAVOLUMEPLMNLCGID
+object_type: metric
+label: ULDataVolumePlmnLCGId_Kbytes
+calculation_method: sum
+dataset: lte-ul-ip-throughput-per-plmn-and-lcg-id
+column: ULDataVolumePlmnLCGId_Kbytes

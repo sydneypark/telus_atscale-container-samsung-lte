@@ -1,0 +1,6 @@
+unique_name: RELEASECALLHOLDINGTIMEAVG_S
+object_type: metric
+label: ReleaseCallHoldingTimeAvg_s
+calculation_method: sum
+dataset: lte-rrc-connection-number
+column: ReleaseCallHoldingTimeAvg_s

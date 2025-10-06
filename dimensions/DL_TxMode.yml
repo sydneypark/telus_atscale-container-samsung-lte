@@ -1,0 +1,28 @@
+unique_name: DL_TxMode
+object_type: dimension
+label: DL_TxMode
+is_degenerate: true
+hierarchies:
+- unique_name: DL_TxMode Hierarchy
+  label: DL_TxMode Hierarchy
+  levels:
+  - unique_name: DL_TxMode
+level_attributes:
+- unique_name: DL_TxMode
+  label: DL_TxMode Level
+  shared_degenerate_columns:
+  - name_column: DL_TxMode
+    key_columns:
+    - DL_TxMode
+    dataset: nr-downlink-mcs-transmission
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: DL_TxMode
+    key_columns:
+    - DL_TxMode
+    dataset: nr-redcap-downlink-mcs-transmission
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

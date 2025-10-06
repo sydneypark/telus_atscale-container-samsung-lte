@@ -1,0 +1,6 @@
+unique_name: AIRRLCBYTESPLMNENDCSTATUS_NRARFCNCNT
+object_type: metric
+label: AirRlcBytesPlmnEndcStatus_NrArfcnCnt_count
+calculation_method: sum
+dataset: lte-air-rlc-packet-per-plmn-per-en-dc-status-per-nrarfcn
+column: AirRlcBytesPlmnEndcStatus_NrArfcnCnt_count

@@ -1,0 +1,6 @@
+unique_name: ULSCELLCONFIGBYEVENTA6
+object_type: metric
+label: ULSCellConfigByEventA6_count
+calculation_method: sum
+dataset: lte-uplink-carrier-aggregation-count-for-configuration-deconfig
+column: ULSCellConfigByEventA6_count

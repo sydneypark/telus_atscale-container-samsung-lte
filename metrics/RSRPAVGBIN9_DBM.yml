@@ -1,0 +1,6 @@
+unique_name: RSRPAVGBIN9_DBM
+object_type: metric
+label: RsrpAvgBin9_dBm
+calculation_method: sum
+dataset: lte-histogram-of-rsrp-and-rsrq-for-rqa
+column: RsrpAvgBin9_dBm

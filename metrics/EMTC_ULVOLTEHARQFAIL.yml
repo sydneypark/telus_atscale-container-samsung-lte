@@ -1,0 +1,6 @@
+unique_name: EMTC_ULVOLTEHARQFAIL
+object_type: metric
+label: eMTC_ULVoLTEHARQFail_count
+calculation_method: sum
+dataset: lte-harq-performance-for-emtc-or-catm-volte-ue
+column: eMTC_ULVoLTEHARQFail_count

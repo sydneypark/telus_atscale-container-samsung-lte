@@ -1,0 +1,6 @@
+unique_name: RRCINTERFREQRSTDMEASUREMENTINDICATION
+object_type: metric
+label: RrcInterFreqRSTDMeasurementIndication_count
+calculation_method: sum
+dataset: lte-rrc-message-per-cell
+column: RrcInterFreqRSTDMeasurementIndication_count

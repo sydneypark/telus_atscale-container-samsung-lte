@@ -1,0 +1,6 @@
+unique_name: DLSCHEDULEDUEAVG
+object_type: metric
+label: DLScheduledUEAvg_count
+calculation_method: sum
+dataset: lte-scheduled-ue-number
+column: DLScheduledUEAvg_count

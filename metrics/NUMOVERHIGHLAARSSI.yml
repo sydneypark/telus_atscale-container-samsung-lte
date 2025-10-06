@@ -1,0 +1,6 @@
+unique_name: NUMOVERHIGHLAARSSI
+object_type: metric
+label: NumOverHighLaaRssi_count
+calculation_method: sum
+dataset: lte-laa-channel-status
+column: NumOverHighLaaRssi_count

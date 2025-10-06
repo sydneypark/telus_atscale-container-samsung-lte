@@ -1,0 +1,6 @@
+unique_name: DLCACAPABILITYUE_5CC
+object_type: metric
+label: DLCaCapabilityUE_5CC_count
+calculation_method: sum
+dataset: lte-scell-added-information-pcell
+column: DLCaCapabilityUE_5CC_count

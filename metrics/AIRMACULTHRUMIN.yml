@@ -1,0 +1,6 @@
+unique_name: AIRMACULTHRUMIN
+object_type: metric
+label: AirMacULThruMin_Kbps
+calculation_method: sum
+dataset: lte-air-mac-packet
+column: AirMacULThruMin_Kbps

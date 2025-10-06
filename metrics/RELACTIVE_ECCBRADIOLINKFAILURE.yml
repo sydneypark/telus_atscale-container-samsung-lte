@@ -1,0 +1,6 @@
+unique_name: RELACTIVE_ECCBRADIOLINKFAILURE
+object_type: metric
+label: RelActive_EccbRadioLinkFailure_count
+calculation_method: sum
+dataset: lte-e-rab-release
+column: RelActive_EccbRadioLinkFailure_count

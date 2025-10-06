@@ -1,0 +1,6 @@
+unique_name: S1SIGTIMETOT
+object_type: metric
+label: S1SigTimeTot_ms
+calculation_method: sum
+dataset: lte-s1-connection-time
+column: S1SigTimeTot_ms

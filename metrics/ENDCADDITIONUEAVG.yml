@@ -1,0 +1,6 @@
+unique_name: ENDCADDITIONUEAVG
+object_type: metric
+label: EnDcAdditionUeAvg_count
+calculation_method: sum
+dataset: lte-5g-capable-rrc-connection-number
+column: EnDcAdditionUeAvg_count

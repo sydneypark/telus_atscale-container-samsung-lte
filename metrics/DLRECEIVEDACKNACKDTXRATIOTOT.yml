@@ -1,0 +1,6 @@
+unique_name: DLRECEIVEDACKNACKDTXRATIOTOT
+object_type: metric
+label: DLReceivedAckNackDtxRatioTot_pct
+calculation_method: sum
+dataset: lte-dl-ack-nack-dtx-ratio
+column: DLReceivedAckNackDtxRatioTot_pct

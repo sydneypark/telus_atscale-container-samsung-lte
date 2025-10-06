@@ -1,0 +1,6 @@
+unique_name: HOTRIGGERINGSCELLRSRPEVENTA5CNT_EMTC_MEASUREMENT_RESULTS_SOU
+object_type: metric
+label: HoTriggeringScellRsrpEventA5Cnt_count
+calculation_method: sum
+dataset: lte-emtc-measurement-results-of-source-cell
+column: HoTriggeringScellRsrpEventA5Cnt_count

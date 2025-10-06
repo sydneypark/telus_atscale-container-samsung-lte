@@ -1,0 +1,6 @@
+unique_name: DLRECEIVEDCQIMIN_PC2_CQI
+object_type: metric
+label: DLReceivedCQIMin_PC2_CQI
+calculation_method: sum
+dataset: lte-dl-wideband-cqi-for-power-class-2-ue
+column: DLReceivedCQIMin_PC2_CQI

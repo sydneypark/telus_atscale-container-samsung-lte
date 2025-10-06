@@ -1,0 +1,6 @@
+unique_name: ULIPTHROUGHPUTNOENDC
+object_type: metric
+label: ULIpThroughputNoEndc_Kbps
+calculation_method: sum
+dataset: lte-ul-ip-throughput-per-en-dc-nr-cell-type
+column: ULIpThroughputNoEndc_Kbps

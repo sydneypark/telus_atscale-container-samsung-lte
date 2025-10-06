@@ -1,0 +1,6 @@
+unique_name: REDIREUTRANOUT
+object_type: metric
+label: RedirEutranOut_count
+calculation_method: sum
+dataset: lte-eutran-redirection-out
+column: RedirEutranOut_count

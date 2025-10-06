@@ -1,0 +1,6 @@
+unique_name: RSSIPATH1CNT
+object_type: metric
+label: RssiPath1Cnt_count
+calculation_method: sum
+dataset: lte-power
+column: RssiPath1Cnt_count

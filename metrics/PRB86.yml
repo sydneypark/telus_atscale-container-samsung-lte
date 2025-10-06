@@ -1,0 +1,6 @@
+unique_name: PRB86
+object_type: metric
+label: PRB86_count
+calculation_method: sum
+dataset: lte-uplink-extended-iot-level
+column: PRB86_count

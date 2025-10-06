@@ -1,0 +1,6 @@
+unique_name: RXHISTOGRAM64
+object_type: metric
+label: RxHistogram64_count
+calculation_method: sum
+dataset: lte-histogram
+column: RxHistogram64_count

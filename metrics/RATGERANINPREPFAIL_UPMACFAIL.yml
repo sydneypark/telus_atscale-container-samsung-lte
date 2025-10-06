@@ -1,0 +1,6 @@
+unique_name: RATGERANINPREPFAIL_UPMACFAIL
+object_type: metric
+label: RatGeranInPrepFail_UpMacFail_count
+calculation_method: sum
+dataset: lte-ps-ho-from-geran
+column: RatGeranInPrepFail_UpMacFail_count

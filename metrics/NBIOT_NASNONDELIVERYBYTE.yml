@@ -1,0 +1,6 @@
+unique_name: NBIOT_NASNONDELIVERYBYTE
+object_type: metric
+label: NBIoT_NasNonDeliveryByte_bytes
+calculation_method: sum
+dataset: lte-nb-iot-nas-packet
+column: NBIoT_NasNonDeliveryByte_bytes

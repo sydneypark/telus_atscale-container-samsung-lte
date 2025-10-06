@@ -1,0 +1,6 @@
+unique_name: IPRAN_ENBQCIDLTHRU_PDCP_STATISTICS
+object_type: metric
+label: IPRAN_EnbQciDLThru_Kbps
+calculation_method: sum
+dataset: lte-ipran-pdcp-packet-statistics
+column: IPRAN_EnbQciDLThru_Kbps

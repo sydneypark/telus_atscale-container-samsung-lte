@@ -1,0 +1,6 @@
+unique_name: RRCRRCCONNECTIONREJECT
+object_type: metric
+label: RrcRrcConnectionReject_count
+calculation_method: sum
+dataset: lte-rrc-message-per-cell
+column: RrcRrcConnectionReject_count

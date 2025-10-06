@@ -1,0 +1,6 @@
+unique_name: PDCCHCCEPERUSER_CCE
+object_type: metric
+label: PDCCHCcePerUser_CCE
+calculation_method: sum
+dataset: lte-pdcch-usage-information
+column: PDCCHCcePerUser_CCE

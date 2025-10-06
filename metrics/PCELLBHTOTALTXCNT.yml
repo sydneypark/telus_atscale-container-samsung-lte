@@ -1,0 +1,6 @@
+unique_name: PCELLBHTOTALTXCNT
+object_type: metric
+label: PCellBhTotalTxCnt_count
+calculation_method: sum
+dataset: lte-inter-site-ca-backhaul-user-data
+column: PCellBhTotalTxCnt_count

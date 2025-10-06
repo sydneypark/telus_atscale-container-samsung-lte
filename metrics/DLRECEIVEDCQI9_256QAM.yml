@@ -1,0 +1,6 @@
+unique_name: DLRECEIVEDCQI9_256QAM
+object_type: metric
+label: DLReceivedCQI9_256QAM_count
+calculation_method: sum
+dataset: lte-dl-wideband-cqi-in-256qam
+column: DLReceivedCQI9_256QAM_count

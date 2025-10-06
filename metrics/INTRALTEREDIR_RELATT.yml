@@ -1,0 +1,6 @@
+unique_name: INTRALTEREDIR_RELATT
+object_type: metric
+label: IntraLteRedir_RelAtt_count
+calculation_method: sum
+dataset: lte-sgnb-release-due-to-mcg-mobility
+column: IntraLteRedir_RelAtt_count

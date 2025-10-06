@@ -1,0 +1,6 @@
+unique_name: NBIOT_CONNRELEASE_CPBHCACFAIL_CE_LEVEL
+object_type: metric
+label: NBIoT_ConnRelease_CpBhCacFail_count
+calculation_method: sum
+dataset: lte-nb-iot-rrc-connection-release-per-ce-level
+column: NBIoT_ConnRelease_CpBhCacFail_count

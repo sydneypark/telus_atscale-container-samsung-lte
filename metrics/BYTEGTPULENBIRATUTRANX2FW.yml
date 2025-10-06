@@ -1,0 +1,6 @@
+unique_name: BYTEGTPULENBIRATUTRANX2FW
+object_type: metric
+label: ByteGtpULEnbIRatUtranX2Fw_Kbytes
+calculation_method: sum
+dataset: lte-gtp-forward-traffic
+column: ByteGtpULEnbIRatUtranX2Fw_Kbytes

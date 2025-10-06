@@ -1,0 +1,6 @@
+unique_name: EMTC_DUCALLCONTEXTCNTTOT
+object_type: metric
+label: eMTC_DuCallContextCntTot_count
+calculation_method: sum
+dataset: lte-emtc-call-context-per-du
+column: eMTC_DuCallContextCntTot_count

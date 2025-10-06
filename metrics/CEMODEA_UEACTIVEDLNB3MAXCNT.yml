@@ -1,0 +1,6 @@
+unique_name: CEMODEA_UEACTIVEDLNB3MAXCNT
+object_type: metric
+label: CEModeA_UEActiveDLNb3MaxCnt_count
+calculation_method: sum
+dataset: lte-emtc-active-ue-number
+column: CEModeA_UEActiveDLNb3MaxCnt_count

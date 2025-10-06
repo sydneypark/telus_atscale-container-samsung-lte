@@ -1,0 +1,6 @@
+unique_name: TM9UEACTIVEDLTOT
+object_type: metric
+label: TM9UEActiveDLTot_count
+calculation_method: sum
+dataset: lte-active-tm9-ue-number
+column: TM9UEActiveDLTot_count

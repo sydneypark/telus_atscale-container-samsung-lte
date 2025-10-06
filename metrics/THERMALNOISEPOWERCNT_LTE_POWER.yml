@@ -1,0 +1,6 @@
+unique_name: THERMALNOISEPOWERCNT_LTE_POWER
+object_type: metric
+label: ThermalNoisePowerCnt_count
+calculation_method: sum
+dataset: lte-power
+column: ThermalNoisePowerCnt_count

@@ -1,0 +1,6 @@
+unique_name: DLSCHEDULEDUEPERTTIMAX
+object_type: metric
+label: DLScheduledUEperTTIMax_count
+calculation_method: sum
+dataset: lte-scheduled-ue-number
+column: DLScheduledUEperTTIMax_count

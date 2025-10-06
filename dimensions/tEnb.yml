@@ -1,0 +1,22 @@
+unique_name: tEnb
+object_type: dimension
+label: tEnb
+is_degenerate: true
+hierarchies:
+- unique_name: tEnb Hierarchy
+  label: tEnb Hierarchy
+  levels:
+  - unique_name: tEnb
+level_attributes:
+- unique_name: tEnb
+  label: tEnb Level
+  shared_degenerate_columns:
+  - name_column: tEnb
+    key_columns:
+    - tEnb
+    dataset: lte-ue-context-retrieval-out
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

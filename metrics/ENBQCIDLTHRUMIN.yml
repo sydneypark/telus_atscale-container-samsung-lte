@@ -1,0 +1,6 @@
+unique_name: ENBQCIDLTHRUMIN
+object_type: metric
+label: EnbQciDLThruMin_Kbps
+calculation_method: sum
+dataset: lte-pdcp-packet
+column: EnbQciDLThruMin_Kbps

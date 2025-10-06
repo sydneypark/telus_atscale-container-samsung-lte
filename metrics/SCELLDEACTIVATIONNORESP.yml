@@ -1,0 +1,6 @@
+unique_name: SCELLDEACTIVATIONNORESP
+object_type: metric
+label: SCellDeactivationNoResp_count
+calculation_method: sum
+dataset: lte-activation-deactivation-for-inter-site-ca-using-non-ideal-b
+column: SCellDeactivationNoResp_count

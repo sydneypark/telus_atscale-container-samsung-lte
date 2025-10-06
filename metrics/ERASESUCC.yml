@@ -1,0 +1,6 @@
+unique_name: ERASESUCC
+object_type: metric
+label: EraseSucc_count
+calculation_method: sum
+dataset: lte-e-rab-erase
+column: EraseSucc_count

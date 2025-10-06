@@ -1,0 +1,6 @@
+unique_name: ULCACAPAPCELLUEMAX
+object_type: metric
+label: ULCaCapaPCellUEMax_count
+calculation_method: sum
+dataset: lte-ul-ca-addition-information
+column: ULCaCapaPCellUEMax_count

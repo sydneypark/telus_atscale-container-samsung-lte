@@ -1,0 +1,6 @@
+unique_name: ENDC_UECOUNT
+object_type: metric
+label: EnDc_UECount_count
+calculation_method: sum
+dataset: lte-en-dc-idle-load-balancing
+column: EnDc_UECount_count

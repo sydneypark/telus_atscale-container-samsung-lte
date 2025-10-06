@@ -1,0 +1,6 @@
+unique_name: CONNNOTOT
+object_type: metric
+label: ConnNoTot_count
+calculation_method: sum
+dataset: lte-rrc-connection-number
+column: ConnNoTot_count

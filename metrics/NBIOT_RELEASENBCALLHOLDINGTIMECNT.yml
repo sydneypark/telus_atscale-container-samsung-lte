@@ -1,0 +1,6 @@
+unique_name: NBIOT_RELEASENBCALLHOLDINGTIMECNT
+object_type: metric
+label: NBIoT_ReleaseNbCallHoldingTimeCnt_count
+calculation_method: sum
+dataset: lte-nb-iot-rrc-connection-number
+column: NBIoT_ReleaseNbCallHoldingTimeCnt_count

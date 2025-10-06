@@ -1,0 +1,6 @@
+unique_name: EMTC_INTERFERENCEPOWERTOT_DBM
+object_type: metric
+label: eMTC_InterferencePowerTot_dBm
+calculation_method: sum
+dataset: lte-emtc-power-measurement-info
+column: eMTC_InterferencePowerTot_dBm

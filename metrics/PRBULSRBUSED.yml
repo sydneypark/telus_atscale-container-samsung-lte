@@ -1,0 +1,6 @@
+unique_name: PRBULSRBUSED
+object_type: metric
+label: PrbUlSrbUsed_count
+calculation_method: sum
+dataset: lte-rru-measurement-info
+column: PrbUlSrbUsed_count

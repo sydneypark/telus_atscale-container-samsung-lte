@@ -1,0 +1,6 @@
+unique_name: OUTERRORRATE_CONTAINER_LTE_ETHERNET_CNF
+object_type: metric
+label: OutErrorRate_Container_pct
+calculation_method: sum
+dataset: lte-ethernet-packet-for-cnf
+column: OutErrorRate_Container_pct

@@ -1,0 +1,6 @@
+unique_name: MMUPOWERTOT_W
+object_type: metric
+label: MmuPowerTot_W
+calculation_method: sum
+dataset: lte-mmu-power-consumption
+column: MmuPowerTot_W

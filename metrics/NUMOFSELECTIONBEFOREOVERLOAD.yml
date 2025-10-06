@@ -1,0 +1,6 @@
+unique_name: NUMOFSELECTIONBEFOREOVERLOAD
+object_type: metric
+label: NumOfSelectionBeforeOverload_count
+calculation_method: sum
+dataset: lte-load-based-scg-band-selection-for-endc
+column: NumOfSelectionBeforeOverload_count

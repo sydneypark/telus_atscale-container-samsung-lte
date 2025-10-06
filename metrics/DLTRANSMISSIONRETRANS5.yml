@@ -1,0 +1,6 @@
+unique_name: DLTRANSMISSIONRETRANS5
+object_type: metric
+label: DLTransmissionRetrans5_count
+calculation_method: sum
+dataset: lte-downlink-harq-transmission-bler
+column: DLTransmissionRetrans5_count

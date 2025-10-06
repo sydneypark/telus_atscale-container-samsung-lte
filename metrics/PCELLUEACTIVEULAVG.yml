@@ -1,0 +1,6 @@
+unique_name: PCELLUEACTIVEULAVG
+object_type: metric
+label: PcellUEActiveULAvg_count
+calculation_method: sum
+dataset: lte-active-ue-number-pcell
+column: PcellUEActiveULAvg_count

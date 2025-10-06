@@ -1,0 +1,6 @@
+unique_name: NEIGHBORPCIHOMR
+object_type: metric
+label: NeighborPciHoMr_count
+calculation_method: sum
+dataset: lte-inter-rat-nr-mr-classification
+column: NeighborPciHoMr_count

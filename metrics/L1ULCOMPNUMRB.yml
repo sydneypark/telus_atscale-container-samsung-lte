@@ -1,0 +1,6 @@
+unique_name: L1ULCOMPNUMRB
+object_type: metric
+label: L1ULcompNumRB_count
+calculation_method: sum
+dataset: lte-lte-l1-ul-comp-usage
+column: L1ULcompNumRB_count

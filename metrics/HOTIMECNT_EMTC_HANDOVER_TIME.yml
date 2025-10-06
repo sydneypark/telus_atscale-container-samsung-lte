@@ -1,0 +1,6 @@
+unique_name: HOTIMECNT_EMTC_HANDOVER_TIME
+object_type: metric
+label: HoTimeCnt_count
+calculation_method: sum
+dataset: lte-emtc-handover-time
+column: HoTimeCnt_count

@@ -1,0 +1,6 @@
+unique_name: NBIOT_ULRECEIVEDMCS7
+object_type: metric
+label: NBIoT_ULReceivedMcs7_count
+calculation_method: sum
+dataset: lte-nb-iot-transmission-times-of-npdsch-and-npusch-per-mcs
+column: NBIoT_ULReceivedMcs7_count

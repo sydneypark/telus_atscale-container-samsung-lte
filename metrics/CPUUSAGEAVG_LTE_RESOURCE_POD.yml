@@ -1,0 +1,6 @@
+unique_name: CPUUSAGEAVG_LTE_RESOURCE_POD
+object_type: metric
+label: CpuUsageAvg_pct
+calculation_method: sum
+dataset: lte-resource-per-pod
+column: CpuUsageAvg_pct

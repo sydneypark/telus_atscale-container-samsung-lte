@@ -1,0 +1,6 @@
+unique_name: ERABINITFAILNBR_RRCSIGTO
+object_type: metric
+label: ErabInitFailNbr_RrcSigTo_count
+calculation_method: sum
+dataset: lte-e-rab-setup
+column: ErabInitFailNbr_RrcSigTo_count

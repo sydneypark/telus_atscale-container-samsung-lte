@@ -1,0 +1,6 @@
+unique_name: SCELLACTFAILMAXPCELLPERSCELL_CARRIER_AGGREGATION_MESSAGE_COU
+object_type: metric
+label: SCellActFailMaxPCellperSCell_count
+calculation_method: sum
+dataset: lte-carrier-aggregation-message-count-for-activation-deactivati
+column: SCellActFailMaxPCellperSCell_count

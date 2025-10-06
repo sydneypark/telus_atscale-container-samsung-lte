@@ -1,0 +1,6 @@
+unique_name: PDCPDLIPTHRUBIN10_PRC
+object_type: metric
+label: PdcpDLIpThruBin10_count
+calculation_method: sum
+dataset: lte-pdcp-dl-ip-throughput-distribution-per-prc
+column: PdcpDLIpThruBin10_count

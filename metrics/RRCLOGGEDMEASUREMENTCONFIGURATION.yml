@@ -1,0 +1,6 @@
+unique_name: RRCLOGGEDMEASUREMENTCONFIGURATION
+object_type: metric
+label: RrcLoggedMeasurementConfiguration_count
+calculation_method: sum
+dataset: lte-rrc-message-per-cell
+column: RrcLoggedMeasurementConfiguration_count

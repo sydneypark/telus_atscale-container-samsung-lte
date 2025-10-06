@@ -1,0 +1,6 @@
+unique_name: RATINFAILNR_S1APSIGTO
+object_type: metric
+label: RatInFailNr_S1apSigTo_count
+calculation_method: sum
+dataset: lte-inter-rat-nr-incoming-handover
+column: RatInFailNr_S1apSigTo_count

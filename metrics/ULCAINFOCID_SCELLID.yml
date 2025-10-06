@@ -1,0 +1,6 @@
+unique_name: ULCAINFOCID_SCELLID
+object_type: metric
+label: ULCaInfoCid_ScellID
+calculation_method: sum
+dataset: lte-ul-carrier-aggregation-information
+column: ULCaInfoCid_ScellID

@@ -1,0 +1,6 @@
+unique_name: ECGIFAILAUTOGAP_KNOWNPCIHO
+object_type: metric
+label: EcgiFailAutoGap_KnownPciHo_count
+calculation_method: sum
+dataset: lte-ecgi-report
+column: EcgiFailAutoGap_KnownPciHo_count

@@ -1,0 +1,6 @@
+unique_name: EMFTIMEAVGEXPOSURECNT_LTE_LTE_EMF_TIME_AVERAGE_EXPOSURE
+object_type: metric
+label: EMFTimeAvgExposureCnt_count
+calculation_method: sum
+dataset: lte-lte-emf-time-average-exposure
+column: EMFTimeAvgExposureCnt_count

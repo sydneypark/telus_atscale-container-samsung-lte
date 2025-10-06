@@ -1,0 +1,6 @@
+unique_name: TOTDLWITHTM8MUSCHEDULEDTTIUSAGE
+object_type: metric
+label: TotDLWithTM8MUScheduledTtiUsage_pct
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-tm8-downlink-tti-usage
+column: TotDLWithTM8MUScheduledTtiUsage_pct

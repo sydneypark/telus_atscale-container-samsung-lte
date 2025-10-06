@@ -1,0 +1,6 @@
+unique_name: INTRAHOOUTFORCAATT
+object_type: metric
+label: IntraHoOutforCaAtt_count
+calculation_method: sum
+dataset: lte-inter-frequency-handover-for-ca
+column: IntraHoOutforCaAtt_count

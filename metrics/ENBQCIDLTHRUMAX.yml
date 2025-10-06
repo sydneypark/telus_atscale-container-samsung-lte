@@ -1,0 +1,6 @@
+unique_name: ENBQCIDLTHRUMAX
+object_type: metric
+label: EnbQciDLThruMax_Kbps
+calculation_method: sum
+dataset: lte-pdcp-packet
+column: EnbQciDLThruMax_Kbps

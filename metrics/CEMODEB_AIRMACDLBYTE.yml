@@ -1,0 +1,6 @@
+unique_name: CEMODEB_AIRMACDLBYTE
+object_type: metric
+label: CEModeB_AirMacDLByte_Kbytes
+calculation_method: sum
+dataset: lte-emtc-air-mac-packet
+column: CEModeB_AirMacDLByte_Kbytes

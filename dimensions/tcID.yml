@@ -1,0 +1,160 @@
+unique_name: tcID
+object_type: dimension
+label: tcID
+is_degenerate: true
+hierarchies:
+- unique_name: tcID Hierarchy
+  label: tcID Hierarchy
+  levels:
+  - unique_name: tcID
+level_attributes:
+- unique_name: tcID
+  label: tcID Level
+  shared_degenerate_columns:
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-anchor-selection-for-en-dc
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-emtc-inter-frequency-handover-out
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-emtc-intra-enb-handover
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-emtc-intra-frequency-handover-out
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-emtc-measurement-results-of-target-cell
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-emtc-s1-out-handover
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-emtc-x2-out-handover
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-en-dc-intra-enb-handover
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-en-dc-s1-out-handover
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-en-dc-x2-out-handover
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-intra-enb-handover
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-intra-enb-intra-fa-handover
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-load-balancing-handover
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-lte-inter-frequency-ho-to-the-home-network
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-measurement-report
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-measurement-results-of-target-cell
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-outgoing-frequency-priority-based-handover
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-outgoing-ul-quality-based-handover
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-pcell-frequency-switch-over
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-s1-out-handover
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-volte-fallback-handover-statistics
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-volte-handover
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-x2-out-handover
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: tcID
+    key_columns:
+    - tcID
+    dataset: lte-x2-out-intra-fa-handover
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

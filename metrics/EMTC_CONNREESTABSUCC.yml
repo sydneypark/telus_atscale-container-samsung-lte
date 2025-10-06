@@ -1,0 +1,6 @@
+unique_name: EMTC_CONNREESTABSUCC
+object_type: metric
+label: eMTC_ConnReEstabSucc_count
+calculation_method: sum
+dataset: lte-emtc-rrc-connection-re-establishment
+column: eMTC_ConnReEstabSucc_count

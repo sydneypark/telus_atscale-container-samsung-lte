@@ -1,0 +1,6 @@
+unique_name: WRONGCELLRLFAFTERHOINTERFREQVOICE
+object_type: metric
+label: WrongCellRlfAfterHoInterFreqVoice_count
+calculation_method: sum
+dataset: lte-mro-rlf-voice-classification
+column: WrongCellRlfAfterHoInterFreqVoice_count

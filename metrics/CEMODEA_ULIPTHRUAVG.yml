@@ -1,0 +1,6 @@
+unique_name: CEMODEA_ULIPTHRUAVG
+object_type: metric
+label: CEModeA_ULIpThruAvg_Kbps
+calculation_method: sum
+dataset: lte-emtc-ul-ip-throughput
+column: CEModeA_ULIpThruAvg_Kbps

@@ -1,0 +1,6 @@
+unique_name: CALLDROPQCI_ECCBDSPAUDITMACCALLRELEASE
+object_type: metric
+label: CallDropQci_EccbDspAuditMacCallRelease_count
+calculation_method: sum
+dataset: lte-call-drop-per-qci
+column: CallDropQci_EccbDspAuditMacCallRelease_count

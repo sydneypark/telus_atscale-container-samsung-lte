@@ -1,0 +1,6 @@
+unique_name: NUMOFLAANBRSBTWMIDHIGHRSRPCNT
+object_type: metric
+label: NumOfLaaNbrsBtwMidHighRsrpCnt_count
+calculation_method: sum
+dataset: lte-laa-channel-status
+column: NumOfLaaNbrsBtwMidHighRsrpCnt_count

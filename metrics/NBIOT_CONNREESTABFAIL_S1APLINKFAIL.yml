@@ -1,0 +1,6 @@
+unique_name: NBIOT_CONNREESTABFAIL_S1APLINKFAIL
+object_type: metric
+label: NBIoT_ConnReEstabFail_S1apLinkFail_count
+calculation_method: sum
+dataset: lte-nb-iot-rrc-connection-re-establishment
+column: NBIoT_ConnReEstabFail_S1apLinkFail_count

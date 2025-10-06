@@ -1,0 +1,6 @@
+unique_name: TTIBACTSUCC
+object_type: metric
+label: TtibActSucc_count
+calculation_method: sum
+dataset: lte-tti-bundling
+column: TtibActSucc_count

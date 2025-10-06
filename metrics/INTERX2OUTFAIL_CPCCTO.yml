@@ -1,0 +1,6 @@
+unique_name: INTERX2OUTFAIL_CPCCTO
+object_type: metric
+label: InterX2OutFail_CpCcTo_count
+calculation_method: sum
+dataset: lte-x2-out-handover
+column: InterX2OutFail_CpCcTo_count

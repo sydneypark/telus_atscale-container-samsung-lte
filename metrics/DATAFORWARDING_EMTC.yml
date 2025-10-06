@@ -1,0 +1,6 @@
+unique_name: DATAFORWARDING_EMTC
+object_type: metric
+label: DataForwarding_Emtc_count
+calculation_method: sum
+dataset: lte-ue-context-retrieval-out
+column: DataForwarding_Emtc_count

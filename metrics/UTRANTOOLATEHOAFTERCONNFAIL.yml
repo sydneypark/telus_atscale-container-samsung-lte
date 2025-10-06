@@ -1,0 +1,6 @@
+unique_name: UTRANTOOLATEHOAFTERCONNFAIL
+object_type: metric
+label: UtranTooLateHoAfterConnFail_count
+calculation_method: sum
+dataset: lte-utran-mro-with-connection-failure
+column: UtranTooLateHoAfterConnFail_count

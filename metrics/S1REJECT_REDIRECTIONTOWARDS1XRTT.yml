@@ -1,0 +1,6 @@
+unique_name: S1REJECT_REDIRECTIONTOWARDS1XRTT
+object_type: metric
+label: S1Reject_RedirectionTowards1xRtt_count
+calculation_method: sum
+dataset: lte-s1-reject-cause
+column: S1Reject_RedirectionTowards1xRtt_count

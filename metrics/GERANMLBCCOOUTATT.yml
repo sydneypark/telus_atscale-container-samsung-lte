@@ -1,0 +1,6 @@
+unique_name: GERANMLBCCOOUTATT
+object_type: metric
+label: GeranMlbCcoOutAtt_count
+calculation_method: sum
+dataset: lte-inter-rat-mlb-handover-out
+column: GeranMlbCcoOutAtt_count

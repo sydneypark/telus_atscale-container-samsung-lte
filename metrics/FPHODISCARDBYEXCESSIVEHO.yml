@@ -1,0 +1,6 @@
+unique_name: FPHODISCARDBYEXCESSIVEHO
+object_type: metric
+label: FPHODiscardByExcessiveHo_count
+calculation_method: sum
+dataset: lte-outgoing-frequency-priority-based-handover
+column: FPHODiscardByExcessiveHo_count

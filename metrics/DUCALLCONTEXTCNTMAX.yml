@@ -1,0 +1,6 @@
+unique_name: DUCALLCONTEXTCNTMAX
+object_type: metric
+label: DuCallContextCntMax_count
+calculation_method: sum
+dataset: lte-lte-call-context-per-du
+column: DuCallContextCntMax_count

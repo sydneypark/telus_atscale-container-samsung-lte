@@ -1,0 +1,6 @@
+unique_name: INTRAFA_INTRAENBNBRCID_TCID
+object_type: metric
+label: IntraFa_IntraEnbNbrCid_tcID
+calculation_method: sum
+dataset: lte-intra-enb-intra-fa-handover
+column: IntraFa_IntraEnbNbrCid_tcID

@@ -1,0 +1,6 @@
+unique_name: INTERFERENCEPOWERTOT_DBM
+object_type: metric
+label: InterferencePowerTot_dBm
+calculation_method: sum
+dataset: lte-power
+column: InterferencePowerTot_dBm

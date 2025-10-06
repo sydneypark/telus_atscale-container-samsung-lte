@@ -1,0 +1,6 @@
+unique_name: BLACKCELLRLFAFTERHO
+object_type: metric
+label: BlackCellRlfAfterHo_count
+calculation_method: sum
+dataset: lte-mro-rlf-classification
+column: BlackCellRlfAfterHo_count

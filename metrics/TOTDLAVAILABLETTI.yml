@@ -1,0 +1,6 @@
+unique_name: TOTDLAVAILABLETTI
+object_type: metric
+label: TotDLAvailableTti_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-downlink-tti-usage
+column: TotDLAvailableTti_count

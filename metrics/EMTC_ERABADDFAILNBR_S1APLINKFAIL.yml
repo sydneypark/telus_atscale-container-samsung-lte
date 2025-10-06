@@ -1,0 +1,6 @@
+unique_name: EMTC_ERABADDFAILNBR_S1APLINKFAIL
+object_type: metric
+label: eMTC_ErabAddFailNbr_S1apLinkFail_count
+calculation_method: sum
+dataset: lte-emtc-e-rab-setup-add
+column: eMTC_ErabAddFailNbr_S1apLinkFail_count

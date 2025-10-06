@@ -1,0 +1,6 @@
+unique_name: DLRECEIVEDRI3
+object_type: metric
+label: DLReceivedRI3_count
+calculation_method: sum
+dataset: lte-dl-ri
+column: DLReceivedRI3_count

@@ -1,0 +1,6 @@
+unique_name: IPRAN_ENBQCIDLBYTECNT_S
+object_type: metric
+label: IPRan_EnbQciDLByteCnt_s
+calculation_method: sum
+dataset: lte-ipran-gtp-packet-statistics
+column: IPRan_EnbQciDLByteCnt_s

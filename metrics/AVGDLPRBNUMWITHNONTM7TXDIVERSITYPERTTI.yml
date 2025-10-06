@@ -1,0 +1,6 @@
+unique_name: AVGDLPRBNUMWITHNONTM7TXDIVERSITYPERTTI
+object_type: metric
+label: AvgDLPRBNumWithNonTM7TxDiversityPerTTI_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-downlink-prb-usage-per-tti
+column: AvgDLPRBNumWithNonTM7TxDiversityPerTTI_count

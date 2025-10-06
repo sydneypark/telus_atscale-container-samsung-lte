@@ -1,0 +1,6 @@
+unique_name: EMTC_PDCPIPLATENCYDL
+object_type: metric
+label: eMTC_PdcpIpLatencyDL_ms
+calculation_method: sum
+dataset: lte-emtc-pdcp-packet
+column: eMTC_PdcpIpLatencyDL_ms

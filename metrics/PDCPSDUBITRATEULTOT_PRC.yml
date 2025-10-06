@@ -1,0 +1,6 @@
+unique_name: PDCPSDUBITRATEULTOT_PRC
+object_type: metric
+label: PdcpSduBitrateULTot_bytes
+calculation_method: sum
+dataset: lte-cell-pdcp-sdu-bit-rate-per-prc
+column: PdcpSduBitrateULTot_bytes

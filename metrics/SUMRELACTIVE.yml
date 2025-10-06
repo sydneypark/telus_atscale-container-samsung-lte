@@ -1,0 +1,6 @@
+unique_name: SUMRELACTIVE
+object_type: metric
+label: SumRelActive_count
+calculation_method: sum
+dataset: lte-retainability
+column: SumRelActive_count

@@ -1,0 +1,6 @@
+unique_name: CSFBGERANREDIRSUCC
+object_type: metric
+label: CSFBGeranRedirSucc_count
+calculation_method: sum
+dataset: lte-csfb-geran-redirection
+column: CSFBGeranRedirSucc_count

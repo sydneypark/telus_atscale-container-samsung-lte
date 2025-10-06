@@ -1,0 +1,6 @@
+unique_name: _0X0360_ECC_UECAPABILITYINFORMATIONFAIL
+object_type: metric
+label: _0x0360_Ecc_UeCapabilityInformationFail_count
+calculation_method: sum
+dataset: lte-call-fail
+column: _0x0360_Ecc_UeCapabilityInformationFail_count

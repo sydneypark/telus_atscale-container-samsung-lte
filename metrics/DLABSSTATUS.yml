@@ -1,0 +1,6 @@
+unique_name: DLABSSTATUS
+object_type: metric
+label: DLABSstatus_pct
+calculation_method: sum
+dataset: lte-eicic-partnership
+column: DLABSstatus_pct

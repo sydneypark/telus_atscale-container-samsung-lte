@@ -1,0 +1,6 @@
+unique_name: _0X020C_X2AP_NORADIORESOURCESAVAILABLEINTARGETCELL_EMTC_CALL
+object_type: metric
+label: _0x020C_X2ap_NoRadioResourcesAvailableInTargetCell_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x020C_X2ap_NoRadioResourcesAvailableInTargetCell_count

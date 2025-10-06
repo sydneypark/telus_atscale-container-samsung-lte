@@ -1,0 +1,6 @@
+unique_name: DCRANCAPCELLUETOT
+object_type: metric
+label: DCRanCaPCellUETot_count
+calculation_method: sum
+dataset: lte-d-cran-ca-pcell-and-scell-ue-addition-release-information
+column: DCRanCaPCellUETot_count

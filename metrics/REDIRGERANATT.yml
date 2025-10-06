@@ -1,0 +1,6 @@
+unique_name: REDIRGERANATT
+object_type: metric
+label: RedirGeranAtt_count
+calculation_method: sum
+dataset: lte-geran-redirection
+column: RedirGeranAtt_count

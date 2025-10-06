@@ -1,0 +1,6 @@
+unique_name: ULCOMPACTIVATEDUEPERTTI
+object_type: metric
+label: ULCoMPActivatedUEperTti_count
+calculation_method: sum
+dataset: lte-uplink-comp-joint-reception
+column: ULCoMPActivatedUEperTti_count

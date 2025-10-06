@@ -1,0 +1,6 @@
+unique_name: RSSIPATHCNT_LTE_RSSI_EACH_PATH_MEASURED_MAC
+object_type: metric
+label: RssiPathCnt_count
+calculation_method: sum
+dataset: lte-rssi-of-each-path-measured-by-mac
+column: RssiPathCnt_count

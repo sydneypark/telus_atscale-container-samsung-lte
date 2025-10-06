@@ -1,0 +1,6 @@
+unique_name: DLTRANSMITTEDMCS06_TM7SU
+object_type: metric
+label: DLTransmittedMcs06_TM7SU_count
+calculation_method: sum
+dataset: lte-massive-mimo-statistics-for-downlink-mcs
+column: DLTransmittedMcs06_TM7SU_count

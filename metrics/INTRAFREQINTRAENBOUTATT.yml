@@ -1,0 +1,6 @@
+unique_name: INTRAFREQINTRAENBOUTATT
+object_type: metric
+label: IntraFreqIntraEnbOutAtt_count
+calculation_method: sum
+dataset: lte-outgoing-intra-frequency-handover-per-plmn
+column: IntraFreqIntraEnbOutAtt_count

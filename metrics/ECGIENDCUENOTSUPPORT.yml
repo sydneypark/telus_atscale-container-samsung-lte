@@ -1,0 +1,6 @@
+unique_name: ECGIENDCUENOTSUPPORT
+object_type: metric
+label: EcgiEnDcUeNotSupport_count
+calculation_method: sum
+dataset: lte-ecgi-report
+column: EcgiEnDcUeNotSupport_count

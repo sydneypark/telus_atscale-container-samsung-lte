@@ -1,0 +1,6 @@
+unique_name: CELLTCDLTHRUAVG
+object_type: metric
+label: CellTcDLThruAvg_Kbps
+calculation_method: sum
+dataset: lte-gtp-downlink-traffic-control-per-prc
+column: CellTcDLThruAvg_Kbps

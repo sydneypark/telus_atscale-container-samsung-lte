@@ -1,0 +1,6 @@
+unique_name: MODQOSFAILNBR_S1APLINKFAIL
+object_type: metric
+label: ModQoSFailNbr_S1apLinkFail_count
+calculation_method: sum
+dataset: lte-e-rab-modify
+column: ModQoSFailNbr_S1apLinkFail_count

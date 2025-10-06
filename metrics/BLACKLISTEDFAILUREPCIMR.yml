@@ -1,0 +1,6 @@
+unique_name: BLACKLISTEDFAILUREPCIMR
+object_type: metric
+label: BlacklistedFailurePciMr_count
+calculation_method: sum
+dataset: lte-inter-rat-nr-mr-classification
+column: BlacklistedFailurePciMr_count

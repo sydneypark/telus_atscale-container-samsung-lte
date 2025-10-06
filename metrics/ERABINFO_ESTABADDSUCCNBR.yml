@@ -1,0 +1,6 @@
+unique_name: ERABINFO_ESTABADDSUCCNBR
+object_type: metric
+label: ErabInfo_EstabAddSuccNbr_count
+calculation_method: sum
+dataset: lte-e-rab-setup-modification-release-information-per-plmn-and-q
+column: ErabInfo_EstabAddSuccNbr_count

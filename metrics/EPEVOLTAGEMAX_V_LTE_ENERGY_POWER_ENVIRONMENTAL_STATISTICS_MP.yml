@@ -1,0 +1,6 @@
+unique_name: EPEVOLTAGEMAX_V_LTE_ENERGY_POWER_ENVIRONMENTAL_STATISTICS_MP
+object_type: metric
+label: EpeVoltageMax_V
+calculation_method: sum
+dataset: lte-energy-power-and-environmental-statistics-of-mplane
+column: EpeVoltageMax_V

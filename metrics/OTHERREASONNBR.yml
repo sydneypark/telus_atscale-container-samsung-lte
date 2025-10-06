@@ -1,0 +1,6 @@
+unique_name: OTHERREASONNBR
+object_type: metric
+label: OtherReasonNbr_count
+calculation_method: sum
+dataset: lte-the-number-of-neighbor-relations
+column: OtherReasonNbr_count

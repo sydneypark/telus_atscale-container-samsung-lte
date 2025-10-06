@@ -1,0 +1,6 @@
+unique_name: SGNBINIT_RELATT
+object_type: metric
+label: SgnbInit_RelAtt_count
+calculation_method: sum
+dataset: lte-sgnb-release-due-to-scg-mobility
+column: SgnbInit_RelAtt_count

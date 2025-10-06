@@ -1,0 +1,6 @@
+unique_name: RRUCCEUSAGEDISTUL2
+object_type: metric
+label: RruCceUsageDistUL2_count
+calculation_method: sum
+dataset: lte-rru-measurement-info
+column: RruCceUsageDistUL2_count

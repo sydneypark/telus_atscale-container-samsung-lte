@@ -1,0 +1,6 @@
+unique_name: RATOUTPREPFAILNR_S1APRPTO
+object_type: metric
+label: RatOutPrepFailNr_S1apRpTo_count
+calculation_method: sum
+dataset: lte-inter-rat-nr-outgoing-handover
+column: RatOutPrepFailNr_S1apRpTo_count

@@ -1,0 +1,6 @@
+unique_name: INTERX2OUTPREPFAIL_CPCCFAIL_EN_DC_X2_OUT_HANDOVER
+object_type: metric
+label: InterX2OutPrepFail_CpCcFail_count
+calculation_method: sum
+dataset: lte-en-dc-x2-out-handover
+column: InterX2OutPrepFail_CpCcFail_count

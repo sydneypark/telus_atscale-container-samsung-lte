@@ -1,0 +1,6 @@
+unique_name: ENDC_ADDATT_VOLTECONF_IMD
+object_type: metric
+label: EnDc_AddAtt_VolteConf_imd_count
+calculation_method: sum
+dataset: lte-en-dc-addition-information
+column: EnDc_AddAtt_VolteConf_imd_count

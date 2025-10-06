@@ -1,0 +1,6 @@
+unique_name: FEICICCIOTOT_DB
+object_type: metric
+label: FeICICCIOTot_dB
+calculation_method: sum
+dataset: lte-eicic-partnership
+column: FeICICCIOTot_dB

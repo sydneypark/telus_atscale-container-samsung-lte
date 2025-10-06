@@ -1,0 +1,6 @@
+unique_name: USAGENBRPLMN1TOT
+object_type: metric
+label: UsageNbrPLMN1Tot_count
+calculation_method: sum
+dataset: lte-active-e-rab-number-per-plmn
+column: UsageNbrPLMN1Tot_count

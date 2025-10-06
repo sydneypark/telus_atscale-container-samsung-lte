@@ -1,0 +1,6 @@
+unique_name: GERANMLBHOOUTSUCC
+object_type: metric
+label: GeranMlbHoOutSucc_count
+calculation_method: sum
+dataset: lte-inter-rat-mlb-handover-out
+column: GeranMlbHoOutSucc_count

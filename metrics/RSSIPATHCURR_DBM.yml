@@ -1,0 +1,6 @@
+unique_name: RSSIPATHCURR_DBM
+object_type: metric
+label: RssiPathCurr_dBm
+calculation_method: sum
+dataset: lte-rssi-of-each-path-measured-by-mac
+column: RssiPathCurr_dBm

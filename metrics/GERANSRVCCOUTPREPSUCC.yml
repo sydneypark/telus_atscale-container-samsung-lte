@@ -1,0 +1,6 @@
+unique_name: GERANSRVCCOUTPREPSUCC
+object_type: metric
+label: GeranSrvccOutPrepSucc_count
+calculation_method: sum
+dataset: lte-geran-srvcc-handover
+column: GeranSrvccOutPrepSucc_count

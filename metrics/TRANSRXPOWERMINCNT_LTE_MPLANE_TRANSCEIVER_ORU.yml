@@ -1,0 +1,6 @@
+unique_name: TRANSRXPOWERMINCNT_LTE_MPLANE_TRANSCEIVER_ORU
+object_type: metric
+label: TransRxPowerMinCnt_count
+calculation_method: sum
+dataset: lte-mplane-transceiver-of-oru
+column: TransRxPowerMinCnt_count

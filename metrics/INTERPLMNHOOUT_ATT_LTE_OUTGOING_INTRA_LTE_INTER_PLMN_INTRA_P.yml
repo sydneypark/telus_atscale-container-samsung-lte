@@ -1,0 +1,6 @@
+unique_name: INTERPLMNHOOUT_ATT_LTE_OUTGOING_INTRA_LTE_INTER_PLMN_INTRA_P
+object_type: metric
+label: InterPlmnHoOut_Att_count
+calculation_method: sum
+dataset: lte-outgoing-intra-lte-inter-plmn-and-intra-plmn-outgoing-hando
+column: InterPlmnHoOut_Att_count

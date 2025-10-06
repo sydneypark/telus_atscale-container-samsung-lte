@@ -1,0 +1,6 @@
+unique_name: EMTC_PDCPSDULOSSRATEUL
+object_type: metric
+label: eMTC_PdcpSduLossRateUL_ppm
+calculation_method: sum
+dataset: lte-emtc-packet-loss-rate
+column: eMTC_PdcpSduLossRateUL_ppm

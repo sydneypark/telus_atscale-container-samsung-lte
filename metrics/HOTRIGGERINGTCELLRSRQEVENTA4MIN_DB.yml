@@ -1,0 +1,6 @@
+unique_name: HOTRIGGERINGTCELLRSRQEVENTA4MIN_DB
+object_type: metric
+label: HoTriggeringTcellRsrqEventA4Min_dB
+calculation_method: sum
+dataset: lte-measurement-results-of-target-cell
+column: HoTriggeringTcellRsrqEventA4Min_dB

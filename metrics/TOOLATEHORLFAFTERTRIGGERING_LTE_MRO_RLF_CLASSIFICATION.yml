@@ -1,0 +1,6 @@
+unique_name: TOOLATEHORLFAFTERTRIGGERING_LTE_MRO_RLF_CLASSIFICATION
+object_type: metric
+label: TooLateHoRlfAfterTriggering_count
+calculation_method: sum
+dataset: lte-mro-rlf-classification
+column: TooLateHoRlfAfterTriggering_count

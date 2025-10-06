@@ -1,0 +1,6 @@
+unique_name: CONNREESTABSUCC
+object_type: metric
+label: ConnReEstabSucc_count
+calculation_method: sum
+dataset: lte-rrc-connection-re-establishment
+column: ConnReEstabSucc_count

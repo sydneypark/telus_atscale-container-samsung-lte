@@ -1,0 +1,6 @@
+unique_name: EMTC_USAGENBRCNT
+object_type: metric
+label: eMTC_UsageNbrCnt_count
+calculation_method: sum
+dataset: lte-emtc-active-e-rab-number
+column: eMTC_UsageNbrCnt_count

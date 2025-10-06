@@ -1,0 +1,6 @@
+unique_name: UECATEGORYNB1
+object_type: metric
+label: UECategoryNB1_count
+calculation_method: sum
+dataset: lte-nb-iot-ue-category-per-cell
+column: UECategoryNB1_count

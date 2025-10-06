@@ -1,0 +1,6 @@
+unique_name: EMTC_PDCPLATSAMPLESCNT
+object_type: metric
+label: eMTC_PdcpLatSamplesCnt_count
+calculation_method: sum
+dataset: lte-emtc-pdcp-packet
+column: eMTC_PdcpLatSamplesCnt_count

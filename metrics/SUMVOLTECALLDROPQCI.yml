@@ -1,0 +1,6 @@
+unique_name: SUMVOLTECALLDROPQCI
+object_type: metric
+label: SumVoLTECallDropQci_count
+calculation_method: sum
+dataset: lte-volte-quality
+column: SumVoLTECallDropQci_count

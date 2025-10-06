@@ -1,0 +1,6 @@
+unique_name: PLMNPDCPIPTHROUGHPUTDLCA_PRC
+object_type: metric
+label: PLMNPdcpIpThroughputDLCa_Kbps
+calculation_method: sum
+dataset: lte-carrier-aggregation-pdcp-packet-per-plmn-per-prc
+column: PLMNPdcpIpThroughputDLCa_Kbps

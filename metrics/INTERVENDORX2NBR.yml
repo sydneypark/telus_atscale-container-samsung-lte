@@ -1,0 +1,6 @@
+unique_name: INTERVENDORX2NBR
+object_type: metric
+label: InterVendorX2Nbr_count
+calculation_method: sum
+dataset: lte-the-number-of-x2-neighbor-relations
+column: InterVendorX2Nbr_count

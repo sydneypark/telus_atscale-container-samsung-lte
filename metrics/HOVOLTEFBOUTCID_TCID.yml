@@ -1,0 +1,6 @@
+unique_name: HOVOLTEFBOUTCID_TCID
+object_type: metric
+label: HOVoLTEFBOutCid_tcID
+calculation_method: sum
+dataset: lte-volte-fallback-handover-statistics
+column: HOVoLTEFBOutCid_tcID

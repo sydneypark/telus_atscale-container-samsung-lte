@@ -1,0 +1,6 @@
+unique_name: TOTULMUMIMOONELAYERUTILIZEDTTI_TTI
+object_type: metric
+label: TotULMuMimoOneLayerUtilizedTti_TTI
+calculation_method: sum
+dataset: lte-ul-massive-mimo-statistics-for-tti-usage
+column: TotULMuMimoOneLayerUtilizedTti_TTI

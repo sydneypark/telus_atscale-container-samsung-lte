@@ -1,0 +1,6 @@
+unique_name: _0X0146_S1AP_CONTROLPROCESSINGOVERLOAD_EMTC_CALL_FAIL
+object_type: metric
+label: _0x0146_S1ap_ControlProcessingOverload_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x0146_S1ap_ControlProcessingOverload_count

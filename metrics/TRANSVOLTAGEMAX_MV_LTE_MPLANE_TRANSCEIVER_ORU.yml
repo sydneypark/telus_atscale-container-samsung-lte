@@ -1,0 +1,6 @@
+unique_name: TRANSVOLTAGEMAX_MV_LTE_MPLANE_TRANSCEIVER_ORU
+object_type: metric
+label: TransVoltageMax_mV
+calculation_method: sum
+dataset: lte-mplane-transceiver-of-oru
+column: TransVoltageMax_mV

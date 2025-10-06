@@ -1,0 +1,6 @@
+unique_name: EMTC_WRWARNINGREQUESTSUCC
+object_type: metric
+label: eMTC_WRWarningRequestSucc_count
+calculation_method: sum
+dataset: lte-emtc-commercial-mobile-alert-system
+column: eMTC_WRWarningRequestSucc_count

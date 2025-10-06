@@ -1,0 +1,6 @@
+unique_name: LOADINDICATORMIN
+object_type: metric
+label: LoadIndicatorMin_pct
+calculation_method: sum
+dataset: lte-load
+column: LoadIndicatorMin_pct

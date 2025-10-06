@@ -1,0 +1,226 @@
+unique_name: CPC_ID
+object_type: dimension
+label: CPC_ID
+is_degenerate: true
+hierarchies:
+- unique_name: CPC_ID Hierarchy
+  label: CPC_ID Hierarchy
+  levels:
+  - unique_name: CPC_ID
+level_attributes:
+- unique_name: CPC_ID
+  label: CPC_ID Level
+  shared_degenerate_columns:
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-connected-drb-number-configured-with-uplink-only-rohc-f-1
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-connected-drb-number-configured-with-uplink-only-rohc-f-2
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-connected-e-rab-number-configured-with-uplink-only-rohc--1
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-connected-e-rab-number-configured-with-uplink-only-rohc--2
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-connected-ue-number-configured-with-uplink-only-rohc-fo-1
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-connected-ue-number-configured-with-uplink-only-rohc-fo-2
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-connected-ue-number-configured-with-uplink-only-rohc-fo-3
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-connected-ue-number-configured-with-uplink-only-rohc-fo-4
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-cpc-call-count-rate
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-drb-connection-information
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-drb-connection-information-of-redcap-ue-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-drb-connection-information-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-drb-connection-information-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-drb-connection-information-with-du-identifier-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-drb-connection-number-per-gnb
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-drb-connection-number-per-gnb-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-drb-connection-number-per-gnb-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-drb-connection-number-per-gnb-with-du-identifier-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-handover-time
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-handover-time-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-mdt-configuration-and-delivery-nr
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-mdt-configuration-and-delivery-with-du-identifier-nr
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-ng-connection-setup-time
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-ng-connection-setup-time-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-rrc-connection-information
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-rrc-connection-information-of-redcap-ue-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-rrc-connection-information-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-rrc-connection-information-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-rrc-connection-information-with-du-identifier-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-rrc-connection-setup-time
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-rrc-connection-setup-time-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-ue-connection-number-per-gnb-per-du-id-per-cell
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-ue-connection-number-per-gnb-per-plmn
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-ue-connection-number-per-gnb-per-plmn-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: CPC_ID
+    key_columns:
+    - CPC_ID
+    dataset: nr-ue-connection-number-per-gnb-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

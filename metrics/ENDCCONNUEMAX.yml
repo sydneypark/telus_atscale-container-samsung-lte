@@ -1,0 +1,6 @@
+unique_name: ENDCCONNUEMAX
+object_type: metric
+label: EnDcConnUeMax_count
+calculation_method: sum
+dataset: lte-5g-endc-capable-ues
+column: EnDcConnUeMax_count

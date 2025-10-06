@@ -1,0 +1,6 @@
+unique_name: DLVOLTECQIAVG_CQI
+object_type: metric
+label: DLVoLTECQIAvg_CQI
+calculation_method: sum
+dataset: lte-cqi-for-dl-volte-bearer
+column: DLVoLTECQIAvg_CQI

@@ -1,0 +1,40 @@
+unique_name: TgtEarfcnDl
+object_type: dimension
+label: TgtEarfcnDl
+is_degenerate: true
+hierarchies:
+- unique_name: TgtEarfcnDl Hierarchy
+  label: TgtEarfcnDl Hierarchy
+  levels:
+  - unique_name: TgtEarfcnDl
+level_attributes:
+- unique_name: TgtEarfcnDl
+  label: TgtEarfcnDl Level
+  shared_degenerate_columns:
+  - name_column: TgtEarfcnDl
+    key_columns:
+    - TgtEarfcnDl
+    dataset: nr-eutra-measurement-pcis
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TgtEarfcnDl
+    key_columns:
+    - TgtEarfcnDl
+    dataset: nr-eutran-redirection-out
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TgtEarfcnDl
+    key_columns:
+    - TgtEarfcnDl
+    dataset: nr-eutran-redirection-out-with-du-identifier
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: TgtEarfcnDl
+    key_columns:
+    - TgtEarfcnDl
+    dataset: nr-nr-handover-outgoing-to-e-utran-per-earfcn
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

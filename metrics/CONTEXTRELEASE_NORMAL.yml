@@ -1,0 +1,6 @@
+unique_name: CONTEXTRELEASE_NORMAL
+object_type: metric
+label: ContextRelease_Normal_count
+calculation_method: sum
+dataset: lte-call-context-release-number-per-cell
+column: ContextRelease_Normal_count

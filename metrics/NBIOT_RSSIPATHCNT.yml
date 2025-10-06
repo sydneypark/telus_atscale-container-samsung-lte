@@ -1,0 +1,6 @@
+unique_name: NBIOT_RSSIPATHCNT
+object_type: metric
+label: NBIoT_RssiPathCnt_count
+calculation_method: sum
+dataset: lte-nb-iot-average-rssi-per-antenna
+column: NBIoT_RssiPathCnt_count

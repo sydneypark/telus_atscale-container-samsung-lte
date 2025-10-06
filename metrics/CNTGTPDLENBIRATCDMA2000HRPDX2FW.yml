@@ -1,0 +1,6 @@
+unique_name: CNTGTPDLENBIRATCDMA2000HRPDX2FW
+object_type: metric
+label: CntGtpDLEnbIRatCdma2000HrpdX2Fw_count
+calculation_method: sum
+dataset: lte-gtp-forward-traffic
+column: CntGtpDLEnbIRatCdma2000HrpdX2Fw_count

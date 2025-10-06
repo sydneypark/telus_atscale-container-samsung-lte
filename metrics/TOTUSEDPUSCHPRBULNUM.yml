@@ -1,0 +1,6 @@
+unique_name: TOTUSEDPUSCHPRBULNUM
+object_type: metric
+label: TotUsedPuschPrbULNum_count
+calculation_method: sum
+dataset: lte-total-prb-usage
+column: TotUsedPuschPrbULNum_count

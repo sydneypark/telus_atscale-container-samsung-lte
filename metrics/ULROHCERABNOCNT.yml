@@ -1,0 +1,6 @@
+unique_name: ULROHCERABNOCNT
+object_type: metric
+label: UlRohcErabNoCnt_count
+calculation_method: sum
+dataset: lte-the-number-of-active-e-rab-configured-with-ulonlyrohc
+column: UlRohcErabNoCnt_count

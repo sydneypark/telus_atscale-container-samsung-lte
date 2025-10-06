@@ -1,0 +1,6 @@
+unique_name: LBHOCID_TCID
+object_type: metric
+label: LbhoCid_tcID
+calculation_method: sum
+dataset: lte-load-balancing-handover
+column: LbhoCid_tcID

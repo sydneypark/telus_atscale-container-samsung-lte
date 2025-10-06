@@ -1,0 +1,6 @@
+unique_name: ULMUMIMOONELAYERTTIUSAGE
+object_type: metric
+label: ULMuMimoOneLayerTtiUsage_pct
+calculation_method: sum
+dataset: lte-ul-massive-mimo-statistics-for-tti-usage
+column: ULMuMimoOneLayerTtiUsage_pct

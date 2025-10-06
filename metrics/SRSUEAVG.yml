@@ -1,0 +1,6 @@
+unique_name: SRSUEAVG
+object_type: metric
+label: SrsUEAvg_count
+calculation_method: sum
+dataset: lte-srs-allocation-ue-number
+column: SrsUEAvg_count

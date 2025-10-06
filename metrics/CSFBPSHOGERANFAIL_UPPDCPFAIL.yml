@@ -1,0 +1,6 @@
+unique_name: CSFBPSHOGERANFAIL_UPPDCPFAIL
+object_type: metric
+label: CSFBPsHoGeranFail_UpPdcpFail_count
+calculation_method: sum
+dataset: lte-csfb-psho-to-geran
+column: CSFBPsHoGeranFail_UpPdcpFail_count

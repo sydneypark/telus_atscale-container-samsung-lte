@@ -1,0 +1,6 @@
+unique_name: PLMNPDCPVOLDLBYTE_PRC
+object_type: metric
+label: PLMNPdcpVolDlByte_Kbytes
+calculation_method: sum
+dataset: lte-pdcp-loss-drop-dl-ip-throughput-pdcp-per-plmn-per-prc
+column: PLMNPdcpVolDlByte_Kbytes

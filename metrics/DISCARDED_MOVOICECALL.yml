@@ -1,0 +1,6 @@
+unique_name: DISCARDED_MOVOICECALL
+object_type: metric
+label: Discarded_moVoiceCall_count
+calculation_method: sum
+dataset: lte-denied-call-by-overload-protection
+column: Discarded_moVoiceCall_count

@@ -1,0 +1,28 @@
+unique_name: HWComponent
+object_type: dimension
+label: HWComponent
+is_degenerate: true
+hierarchies:
+- unique_name: HWComponent Hierarchy
+  label: HWComponent Hierarchy
+  levels:
+  - unique_name: HWComponent
+level_attributes:
+- unique_name: HWComponent
+  label: HWComponent Level
+  shared_degenerate_columns:
+  - name_column: HWComponent
+    key_columns:
+    - HWComponent
+    dataset: lte-energy-power-and-environmental-statistics-of-mplane
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: HWComponent
+    key_columns:
+    - HWComponent
+    dataset: nr-energy-power-and-environmental-statistics-of-mplane
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

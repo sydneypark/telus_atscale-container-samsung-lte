@@ -1,0 +1,6 @@
+unique_name: CCOGERANSUCC
+object_type: metric
+label: CcoGeranSucc_count
+calculation_method: sum
+dataset: lte-geran-cco
+column: CcoGeranSucc_count

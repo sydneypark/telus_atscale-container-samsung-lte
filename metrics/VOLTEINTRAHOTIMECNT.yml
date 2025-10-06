@@ -1,0 +1,6 @@
+unique_name: VOLTEINTRAHOTIMECNT
+object_type: metric
+label: VoLTEIntraHoTimeCnt_count
+calculation_method: sum
+dataset: lte-volte-handover-time
+column: VoLTEIntraHoTimeCnt_count

@@ -1,0 +1,6 @@
+unique_name: SCELLACTUECNT
+object_type: metric
+label: SCellActUECnt_count
+calculation_method: sum
+dataset: lte-activation-deactivation-for-inter-site-ca-using-non-ideal-b
+column: SCellActUECnt_count

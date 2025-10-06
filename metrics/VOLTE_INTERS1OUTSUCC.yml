@@ -1,0 +1,6 @@
+unique_name: VOLTE_INTERS1OUTSUCC
+object_type: metric
+label: VoLTE_InterS1OutSucc_count
+calculation_method: sum
+dataset: lte-volte-handover
+column: VoLTE_InterS1OutSucc_count

@@ -1,0 +1,6 @@
+unique_name: EMTC_INTERFREQOUTPREPSUCC
+object_type: metric
+label: eMTC_InterFreqOutPrepSucc_count
+calculation_method: sum
+dataset: lte-emtc-inter-frequency-handover-out
+column: eMTC_InterFreqOutPrepSucc_count

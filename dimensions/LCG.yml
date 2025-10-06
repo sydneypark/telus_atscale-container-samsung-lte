@@ -1,0 +1,70 @@
+unique_name: LCG
+object_type: dimension
+label: LCG
+is_degenerate: true
+hierarchies:
+- unique_name: LCG Hierarchy
+  label: LCG Hierarchy
+  levels:
+  - unique_name: LCG
+level_attributes:
+- unique_name: LCG
+  label: LCG Level
+  shared_degenerate_columns:
+  - name_column: LCG
+    key_columns:
+    - LCG
+    dataset: nr-uplink-active-ue-number
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: LCG
+    key_columns:
+    - LCG
+    dataset: nr-uplink-active-ue-number-for-redcap
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: LCG
+    key_columns:
+    - LCG
+    dataset: nr-uplink-last-tti-transmission-for-nsa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: LCG
+    key_columns:
+    - LCG
+    dataset: nr-uplink-last-tti-transmission-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: LCG
+    key_columns:
+    - LCG
+    dataset: nr-uplink-ue-throughput
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: LCG
+    key_columns:
+    - LCG
+    dataset: nr-uplink-ue-throughput-distribution-per-bin
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: LCG
+    key_columns:
+    - LCG
+    dataset: nr-uplink-ue-throughput-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: LCG
+    key_columns:
+    - LCG
+    dataset: nr-uplink-ue-throughput-per-plmn-for-nsa
+    is_unique_key: false
+    folder: SamsungLocation
+  - name_column: LCG
+    key_columns:
+    - LCG
+    dataset: nr-uplink-ue-throughput-per-plmn-for-sa
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

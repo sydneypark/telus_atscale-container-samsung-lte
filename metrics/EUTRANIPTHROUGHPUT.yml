@@ -1,0 +1,6 @@
+unique_name: EUTRANIPTHROUGHPUT
+object_type: metric
+label: EutranIpThroughput_Kbps
+calculation_method: sum
+dataset: lte-integrity
+column: EutranIpThroughput_Kbps

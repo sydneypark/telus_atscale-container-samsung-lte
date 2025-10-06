@@ -1,0 +1,6 @@
+unique_name: NODRXOUTFAIL_UPMACFAIL
+object_type: metric
+label: NoDrxOutFail_UpMacFail_count
+calculation_method: sum
+dataset: lte-outgoing-handover-without-drx
+column: NoDrxOutFail_UpMacFail_count

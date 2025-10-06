@@ -1,0 +1,6 @@
+unique_name: EMTC_CONNRESUMEFALLBACKSUCC
+object_type: metric
+label: eMTC_ConnResumeFallbackSucc_count
+calculation_method: sum
+dataset: lte-rrc-connection-resume-for-emtc-ue
+column: eMTC_ConnResumeFallbackSucc_count

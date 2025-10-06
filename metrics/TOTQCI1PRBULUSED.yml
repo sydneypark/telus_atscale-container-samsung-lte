@@ -1,0 +1,6 @@
+unique_name: TOTQCI1PRBULUSED
+object_type: metric
+label: TotQCI1PrbULUsed_count
+calculation_method: sum
+dataset: lte-prb-used-for-volte
+column: TotQCI1PrbULUsed_count

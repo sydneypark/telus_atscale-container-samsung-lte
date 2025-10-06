@@ -1,0 +1,6 @@
+unique_name: _0X0211_X2AP_NOREPORTPERIODICITY_EMTC_CALL_FAIL
+object_type: metric
+label: _0x0211_X2ap_NoReportPeriodicity_count
+calculation_method: sum
+dataset: lte-emtc-call-fail
+column: _0x0211_X2ap_NoReportPeriodicity_count

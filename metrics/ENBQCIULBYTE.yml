@@ -1,0 +1,6 @@
+unique_name: ENBQCIULBYTE
+object_type: metric
+label: EnbQciULByte_Kbytes
+calculation_method: sum
+dataset: lte-pdcp-packet
+column: EnbQciULByte_Kbytes

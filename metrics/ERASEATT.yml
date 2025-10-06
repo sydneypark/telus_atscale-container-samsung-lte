@@ -1,0 +1,6 @@
+unique_name: ERASEATT
+object_type: metric
+label: EraseAtt_count
+calculation_method: sum
+dataset: lte-e-rab-erase
+column: EraseAtt_count

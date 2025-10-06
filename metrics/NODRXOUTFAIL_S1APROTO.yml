@@ -1,0 +1,6 @@
+unique_name: NODRXOUTFAIL_S1APROTO
+object_type: metric
+label: NoDrxOutFail_S1apRoTo_count
+calculation_method: sum
+dataset: lte-outgoing-handover-without-drx
+column: NoDrxOutFail_S1apRoTo_count

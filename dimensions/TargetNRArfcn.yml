@@ -1,0 +1,22 @@
+unique_name: TargetNRArfcn
+object_type: dimension
+label: TargetNRArfcn
+is_degenerate: true
+hierarchies:
+- unique_name: TargetNRArfcn Hierarchy
+  label: TargetNRArfcn Hierarchy
+  levels:
+  - unique_name: TargetNRArfcn
+level_attributes:
+- unique_name: TargetNRArfcn
+  label: TargetNRArfcn Level
+  shared_degenerate_columns:
+  - name_column: TargetNRArfcn
+    key_columns:
+    - TargetNRArfcn
+    dataset: lte-load-based-scg-band-selection-for-endc
+    is_unique_key: false
+    folder: SamsungLocation
+modeler_metadata:
+  version: '0'
+  modified: 'false'

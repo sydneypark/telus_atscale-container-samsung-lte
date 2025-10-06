@@ -1,0 +1,6 @@
+unique_name: NBIOT_DISCARDEDNBR
+object_type: metric
+label: NBIoT_DiscardedNbr_count
+calculation_method: sum
+dataset: lte-nb-iot-paging
+column: NBIoT_DiscardedNbr_count
