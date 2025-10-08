@@ -1,6 +1,6 @@
 version: 1
 packages:
-  - version: commit:417d65df68dad4d2e6bbb1896c8b18400ca3e035
+  - version: commit:632498acec4ec097825c9a247e8471ec54257bce
     name: dimension_package
     url: https://github.com/sydneypark/telus_atscale-container-dimension-package
     branch: main
